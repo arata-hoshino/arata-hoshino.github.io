@@ -7,7 +7,7 @@ layout: default
 {% assign minutes = words | divided_by: 220 | plus: 1 %}
 
 <article class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
+  <h1 class="page-title">{% if page.number %}{{ page.number }}. {% endif %}{{ page.title }}</h1>
   {% if page.summary %}<p class="page-deck">{{ page.summary }}</p>{% endif %}
 
   <table class="meta">

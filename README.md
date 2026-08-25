@@ -80,8 +80,9 @@ footer are one shape: small, uppercase, muted or navy.
 `font-feature-settings` or `text-rendering`. Every line is set at the metrics the face itself
 specifies.
 
-**Hairlines, never boxes.** Sections are separated by 1px rules and whitespace. The only
-filled surfaces are code blocks, in `--tint`.
+**It should read as a paper.** Rules go only where a paper sets one — under the running head,
+around a table, above the footnotes — never between sections, and never between the items of a
+list. Space does that work. The only filled surfaces are code blocks, in `--tint`.
 
 **One centred column, a wider frame.** The text sits in a 700px column centred on the page; the
 running head, nav and footer span the wider `--frame`.
@@ -93,9 +94,12 @@ is marked as you scroll. It is 10rem wide, set small, and sits out toward the gu
 it in, and only when a page has two or more headings. The links use the ids kramdown already generates
 (`auto_ids`), so nothing needs to be written by hand.
 
-Markdown maps onto the deck's components: `h2` is a section statement announced by a rule,
-`h3` is a navy column label, ordered lists become the deck's `01 / 02 / 03` rows with a
-hairline between items, and figure captions sit right-aligned under the image.
+Markdown maps onto the page: `h2` is a section head, `h3` is a small navy label, lists are
+plain, and figure captions sit right-aligned under the image.
+
+**Assets carry the build time.** `style.css` and `section-rail.js` are linked with
+`?v={{ site.time }}`, so every deploy changes their URL and no browser — a phone especially —
+can serve a stale copy.
 
 To retune the scale, edit `--body-size` and `--measure` at the top of `assets/css/style.css`
 — everything else is in `em` and follows.

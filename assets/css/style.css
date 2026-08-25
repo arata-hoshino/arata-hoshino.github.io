@@ -13,7 +13,8 @@
    · titles are large and LIGHT; emphasis comes from size, not weight
    · labels are uppercase, letterspaced, and either muted or navy
    · navy is the only colour; it marks labels, numbers, and links
-   · rules are hairlines, never boxes, and space does the separating
+   · it should read as a paper: rules only where a paper would set one
+     (tables, the running head), and space everywhere else
    ------------------------------------------------------------------ */
 
 /* --------------------------------------------------------- the face
@@ -303,12 +304,10 @@ main {
   margin: 0 0 1.25em;
 }
 
-/* h2 is the deck's section statement: dark, one step up in size, and
-   announced by a hairline rather than by weight. */
+/* Section heads, the way a paper sets them: space above, none of the
+   decoration a slide deck would use. */
 .prose h2 {
-  margin: 2.8em 0 0.7em;
-  padding-top: 2.2em;
-  border-top: 1px solid var(--rule);
+  margin: 2.4em 0 0.6em;
   color: var(--ink);
   font-size: 1.45em;
   font-weight: 600;
@@ -353,23 +352,17 @@ main {
 
 .prose ol > li {
   position: relative;
-  padding: 0.9em 0 0.9em 3.25em;
-  border-bottom: 1px solid var(--rule);
+  margin: 0 0 0.6em;
+  padding-left: 2.2em;
   counter-increment: item;
 }
 
-.prose ol > li:first-child {
-  border-top: 1px solid var(--rule);
-}
-
 .prose ol > li::before {
-  content: counter(item, decimal-leading-zero);
+  content: counter(item) ".";
   position: absolute;
   left: 0;
-  top: 0.9em;
-  color: var(--navy);
-  font-size: 0.82em;
-  line-height: inherit;
+  top: 0;
+  color: var(--muted);
 }
 
 .prose ul {
@@ -381,16 +374,15 @@ main {
 .prose ul > li {
   position: relative;
   margin: 0 0 0.6em;
-  padding-left: 1.6em;
+  padding-left: 2.2em;
 }
 
 .prose ul > li::before {
-  content: "";
+  content: "\2022";
   position: absolute;
-  left: 0;
-  top: 0.85em;
-  width: 0.7em;
-  border-top: 1px solid var(--muted);
+  left: 0.35em;
+  top: 0;
+  color: var(--muted);
 }
 
 .prose li > ul,
