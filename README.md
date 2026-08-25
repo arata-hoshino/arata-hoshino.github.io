@@ -1,4 +1,4 @@
-# Situational Notes
+# Medbewstorstok Notes
 
 A minimal, essay-first Jekyll site in the style of a printed series: a serif masthead, a
 table of contents shared by every page, and one narrow reading column for the text.
