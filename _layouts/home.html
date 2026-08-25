@@ -19,7 +19,6 @@ layout: default
         <li class="contents-item">
           <span class="contents-number" aria-hidden="true">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
           <a class="contents-link" href="{{ essay.url | relative_url }}">{{ essay.title }}</a>
-          {% if essay.date %}<span class="contents-date">{{ essay.date | date: "%b %Y" }}</span>{% endif %}
           {% if essay.summary %}<p class="contents-summary">{{ essay.summary }}</p>{% endif %}
         </li>
       {% else %}

@@ -508,7 +508,7 @@ main {
 
 .contents-item {
   display: grid;
-  grid-template-columns: 3.25em minmax(0, 1fr) 7.5em;
+  grid-template-columns: 3.25em minmax(0, 1fr);
   align-items: baseline;
   gap: 0 1.5em;
   padding: 1.5em 0;
@@ -539,14 +539,6 @@ main {
   line-height: 1.55;
 }
 
-.contents-date {
-  grid-column: 3;
-  grid-row: 1;
-  color: var(--muted);
-  font-size: 0.85em;
-  text-align: right;
-}
-
 .signature {
   margin: 3.5em 0 0;
   color: var(--muted);
@@ -565,14 +557,13 @@ main {
   .rail {
     display: block;
     position: fixed;
-    /* centred vertically, which keeps it clear of the running head at the
-       top of the page and of the footer at the bottom */
-    top: 50%;
-    transform: translateY(-50%);
+    /* a fixed height, not a centred one: centring made the top edge move
+       with the number of entries, so a long list started higher up */
+    top: 18rem;
     left: max(var(--gutter), calc(50% - (var(--measure) / 2) - 12rem - var(--rail)));
     z-index: 1;
     width: var(--rail);
-    max-height: 72vh;
+    max-height: calc(100vh - 21rem);
     overflow-y: auto;
     overscroll-behavior: contain;
   }
@@ -671,13 +662,6 @@ main {
 @media (max-width: 34rem) {
   .contents-item {
     grid-template-columns: 2.75em minmax(0, 1fr);
-  }
-
-  .contents-date {
-    grid-column: 2;
-    grid-row: auto;
-    margin-top: 0.6em;
-    text-align: left;
   }
 
   .meta th { width: 7.5em; }

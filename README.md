@@ -89,8 +89,9 @@ running head, nav and footer span the wider `--frame`.
 
 **The section rail.** `assets/js/section-rail.js` reads the `h2`/`h3` headings out of `.prose`
 and builds a list of them in the left margin — click to jump, and the section you are reading
-is marked as you scroll. It is 10rem wide, set small, and sits out toward the gutter: on a
-1440px window it rests against it. It appears only above 78rem, where there is a margin to put
+is marked as you scroll. It is 10rem wide, set small, sits out toward the gutter — on a 1440px
+window it rests against it — and starts at a fixed 18rem from the top, so its top edge lands in
+the same place whether a page has three sections or ten. It appears only above 78rem, where there is a margin to put
 it in, and only when a page has two or more headings. The links use the ids kramdown already generates
 (`auto_ids`), so nothing needs to be written by hand.
 
