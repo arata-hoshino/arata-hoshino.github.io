@@ -60,9 +60,9 @@ loaded from Google Fonts in `_layouts/default.html`. Jost comes ahead of the loc
 **Futura** on purpose: macOS ships Futura in Medium and Bold only, which reads too heavy for
 body copy, while Jost has a genuine Light. Code uses **IBM Plex Mono**.
 
-**Hierarchy by size, not weight.** Body copy is 12pt at weight 300; titles are up to 2.9rem at
-the same weight 300. Nothing on the page is bolder than 500. Contrast comes from scale, colour
-and space instead.
+**Hierarchy by size, not weight.** Body copy is 12pt at weight 400; titles are up to 2.9rem at
+weight 300 — lighter than the text they head, and winning on size alone. Only `**bold**` goes
+to 600. Contrast comes from scale, colour and space instead.
 
 **Three greys and one navy.** `--ink` for titles, `--body` for running text, `--muted` for
 every label and caption, and `--navy` (`#1b3a5c`) as the only colour — it marks labels, list
@@ -78,5 +78,9 @@ Markdown maps onto the deck's components: `h2` is a section statement announced 
 `h3` is a navy column label, ordered lists become the deck's `01 / 02 / 03` rows with a
 hairline between items, and figure captions sit right-aligned under the image.
 
-To retune the scale, edit `--body-size`, `--measure` and `--frame` at the top of
-`assets/css/style.css` — everything else is in `em` and follows.
+**One centred column.** The running head, the rules, the text and the footer all share a
+72ch column centred on the page, so every edge lines up. Lines of text stay left-aligned
+inside it.
+
+To retune the scale, edit `--body-size` and `--measure` at the top of `assets/css/style.css`
+— `--frame` follows the measure, and everything else is in `em`.
