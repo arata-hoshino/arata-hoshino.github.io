@@ -57,7 +57,7 @@
   --frame: 64rem;     /* the running head, nav and footer span this */
   --gutter: clamp(1.25rem, 5vw, 3.5rem);
 
-  --rail: 13rem;      /* the section rail in the left margin */
+  --rail: 10rem;      /* the section rail in the left margin */
 
   /* Always render light, regardless of the device's dark-mode setting. */
   color-scheme: light;
@@ -577,7 +577,7 @@ main {
        top of the page and of the footer at the bottom */
     top: 50%;
     transform: translateY(-50%);
-    left: max(1.5rem, calc(50% - (var(--measure) / 2) - 3.5rem - var(--rail)));
+    left: max(var(--gutter), calc(50% - (var(--measure) / 2) - 12rem - var(--rail)));
     z-index: 1;
     width: var(--rail);
     max-height: 72vh;
@@ -587,9 +587,9 @@ main {
 }
 
 .rail-label {
-  margin: 0 0 0.9em;
+  margin: 0 0 0.8em;
   color: var(--muted);
-  font-size: 0.68em;
+  font-size: 0.6em;
   font-weight: 400;
   text-transform: uppercase;
 }
@@ -606,17 +606,17 @@ main {
 }
 
 .rail-item.is-sub .rail-link {
-  padding-left: 2em;
+  padding-left: 1.7em;
 }
 
 .rail-link {
   display: block;
-  padding: 0.45em 0 0.45em 1.1em;
+  padding: 0.5em 0 0.5em 0.9em;
   margin-left: -1px;
   border-left: 1px solid transparent;
   color: var(--muted);
-  font-size: 0.82em;
-  line-height: 1.4;
+  font-size: 0.72em;
+  line-height: 1.35;
 }
 
 .rail-link:hover,
