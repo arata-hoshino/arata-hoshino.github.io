@@ -52,22 +52,23 @@ Then open <http://localhost:4000>. Pushing to `main` publishes via GitHub Pages.
 
 ## Design
 
-The layout is a translation of the portfolio deck; the type is Lora, with the body metrics
+The layout is a translation of the portfolio deck; the type is ET Book, with the body metrics
 taken from situational-awareness.ai. The rules it follows, in the order they matter:
 
-**One typeface, header included.** Body, headings and labels are all **Lora** (Cyreal, SIL
-Open Font License), self-hosted as woff2 in `assets/fonts/` — see the README there. Code is
-**IBM Plex Mono**, the one thing still loaded from Google Fonts.
+**One typeface, header included.** Body, headings and labels are all **ET Book**, the ETBembo
+digitisation from Edward Tufte's books, MIT licensed and self-hosted as woff2 in
+`assets/fonts/` — see the README there. Code is **IBM Plex Mono**, the one thing still loaded
+from Google Fonts.
 
-**Two files, every weight.** Both Lora files are variable along one `wght` axis from 400 to
-700, upright and italic, so 78KB covers the whole site. Body and labels are 400, `h2` is 600,
-`**bold**` and `h4` are 700, and the 800 on the title and the deck resolves to 700 — the top
-of the axis.
+**Four faces, 173KB.** 400 roman, 400 italic, 600 semi-bold, 700 bold. Body and labels are
+400, `h2` is 600, `**bold**` and `h4` are 700, and the 800 on the title and the deck resolves
+to 700, the heaviest cut the family has. The roman, italic and semi-bold carry **old-style
+figures** — numerals set to x-height with ascenders and descenders, as a book sets them.
 
 **The text settings**, after [situational-awareness.ai](https://situational-awareness.ai/) —
 that page measures 18px, line-height 1.5, a 740px column, ~95 characters a line. This site
-takes it a step down: **17px, line-height 1.5, a 700px column**, ~80 characters a line. Titles
-run to 2.95rem and `h2` to 1.45em.
+takes it a step down: **17px, line-height 1.5, a 700px column**. ET Book runs narrow, so that
+column takes about 88 characters a line. Titles run to 2.95rem and `h2` to 1.45em.
 
 **Three greys and one navy.** `--ink` for titles, `--body` for running text, `--muted` for
 every label and caption, and `--navy` (`#1b3a5c`) as the only colour — labels, list numbers,

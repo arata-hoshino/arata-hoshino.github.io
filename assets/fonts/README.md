@@ -1,11 +1,22 @@
 # Fonts
 
-**Lora** by Cyreal, from [Google Fonts](https://fonts.google.com/specimen/Lora), under the SIL
-Open Font License. The woff2 files are served from here rather than from Google's CDN so the
-site has no runtime dependency on it.
+**ET Book** — the ETBembo digitisation used in Edward Tufte's books, released by Dmitry Krasny,
+Bonnie Scranton and Edward Tufte under the MIT licence
+([edwardtufte/et-book](https://github.com/edwardtufte/et-book)). A copy of the licence sits
+beside the files.
 
-Two files, and they are **variable**: one axis, `wght`, from 400 to 700, upright and italic.
-That covers every weight the site asks for in 78KB total — the CSS declares each face with a
-`font-weight: 400 700` range rather than one file per weight.
+Four faces, 173KB, served from here rather than from a CDN:
 
-Lora tops out at 700, so the 800 set on the title and the deck resolves to 700.
+| File | Weight | Style | Figures |
+| --- | --- | --- | --- |
+| `etbook-roman.woff2` | 400 | roman | old-style |
+| `etbook-italic.woff2` | 400 | italic | old-style |
+| `etbook-semibold.woff2` | 600 | roman | old-style |
+| `etbook-bold.woff2` | 700 | roman | lining |
+
+The roman, italic and bold are the ligature-enabled OpenType cuts; the semi-bold is the TTF
+from the same repository, converted to woff2 here.
+
+ET Book carries **old-style figures** — numerals that sit on the baseline at x-height with
+ascenders and descenders, the way a book sets them. Only the bold cut uses lining figures;
+the family ships no old-style bold.
