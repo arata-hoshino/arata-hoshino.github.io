@@ -57,15 +57,20 @@ metrics taken from situational-awareness.ai. The rules it follows, in the order 
 
 **One typeface, header included.** Body, headings and labels are all **Latin Modern Roman**,
 the Computer Modern of a LaTeX page. It is self-hosted: the OTFs come from CTAN, converted to
-woff2, in `assets/fonts/` under the GUST Font License (a copy sits beside them). Latin Modern
-ships Regular and Bold and nothing in between, so the type uses only 400 and 700. Code is
+woff2, in `assets/fonts/` under the GUST Font License (a copy sits beside them). Code is
 **IBM Plex Mono**, the one thing still loaded from Google Fonts.
 
-**The text settings**, measured off [situational-awareness.ai](https://situational-awareness.ai/):
-18px body, line-height 1.5, no added tracking, in a 740px column. That page runs about 95
-characters to the line; Latin Modern is a little wider than the face it uses, so the same 740px
-gives about 88. Titles run to 2.95rem at weight 400 with line-height 1.15 — large and calm
-rather than heavy. `h2` is 1.45em at 700, and `**bold**` is 700.
+**Three weights, and a trap in one of them.** 400 Regular, 600 Demi, 700 Bold. Latin Modern's
+Bold descends from Computer Modern Bold *Extended*: its letters are **15% wider** than Regular
+(0.563em average advance against 0.489em), which reads as loose letterspacing even though the
+tracking is zero. Demi is the same width as Regular (0.491em) and heavier, so section heads
+take **600**, not 700. The title and the deck are set at 800, which resolves to the Bold face —
+the heaviest the family has.
+
+**The text settings**, after [situational-awareness.ai](https://situational-awareness.ai/) —
+that page measures 18px, line-height 1.5, a 740px column, ~95 characters a line. This site
+takes it a step down: **17px, line-height 1.5, a 700px column**, ~80 characters a line. Titles
+run to 2.95rem, `h2` is 1.45em, and `**bold**` is 700.
 
 **Three greys and one navy.** `--ink` for titles, `--body` for running text, `--muted` for
 every label and caption, and `--navy` (`#1b3a5c`) as the only colour — labels, list numbers,
@@ -77,7 +82,7 @@ footer are one shape: small, uppercase, letterspaced 0.08–0.09em, muted or nav
 **Hairlines, never boxes.** Sections are separated by 1px rules and whitespace. The only
 filled surfaces are code blocks, in `--tint`.
 
-**One centred column, a wider frame.** The text sits in a 740px column centred on the page; the
+**One centred column, a wider frame.** The text sits in a 700px column centred on the page; the
 running head, nav and footer span the wider `--frame`.
 
 **The section rail.** `assets/js/section-rail.js` reads the `h2`/`h3` headings out of `.prose`
