@@ -52,25 +52,24 @@ Then open <http://localhost:4000>. Pushing to `main` publishes via GitHub Pages.
 
 ## Design
 
-The layout is a translation of the portfolio deck; the type is Latin Modern, with the body
-metrics taken from situational-awareness.ai. The rules it follows, in the order they matter:
+The layout is a translation of the portfolio deck; the type is Satoshi, with the body metrics
+taken from situational-awareness.ai. The rules it follows, in the order they matter:
 
-**One typeface, header included.** Body, headings and labels are all **Latin Modern Roman**,
-the Computer Modern of a LaTeX page. It is self-hosted: the OTFs come from CTAN, converted to
-woff2, in `assets/fonts/` under the GUST Font License (a copy sits beside them). Code is
-**IBM Plex Mono**, the one thing still loaded from Google Fonts.
+**One typeface, header included.** Body, headings and labels are all **Satoshi** (Indian Type
+Foundry, ITF Free Font Licence), self-hosted as woff2 in `assets/fonts/` — see the README
+there. It stands in for **Styrene**, which is a licensed commercial face from Commercial Type
+and cannot be self-hosted without buying a webfont licence; if that licence is bought, the
+swap is four `@font-face` blocks. Code is **IBM Plex Mono**, the one thing still loaded from
+Google Fonts.
 
-**Three weights, and a trap in one of them.** 400 Regular, 600 Demi, 700 Bold. Latin Modern's
-Bold descends from Computer Modern Bold *Extended*: its letters are **15% wider** than Regular
-(0.563em average advance against 0.489em), which reads as loose letterspacing even though the
-tracking is zero. Demi is the same width as Regular (0.491em) and heavier, so section heads
-take **600**, not 700. The title and the deck are set at 800, which resolves to the Bold face —
-the heaviest the family has.
+**Four weights.** 400 Regular (body and every label), 700 Bold (`h2`, `h4`, `**bold**`), and
+900 Black, which is what the 800 on the title and the deck resolves to. 400 Italic is there
+for `_em_` and pull quotes.
 
 **The text settings**, after [situational-awareness.ai](https://situational-awareness.ai/) —
 that page measures 18px, line-height 1.5, a 740px column, ~95 characters a line. This site
 takes it a step down: **17px, line-height 1.5, a 700px column**, ~80 characters a line. Titles
-run to 2.95rem, `h2` is 1.45em, and `**bold**` is 700.
+run to 2.95rem and `h2` to 1.45em.
 
 **Three greys and one navy.** `--ink` for titles, `--body` for running text, `--muted` for
 every label and caption, and `--navy` (`#1b3a5c`) as the only colour — labels, list numbers,
