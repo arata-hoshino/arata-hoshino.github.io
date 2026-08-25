@@ -51,7 +51,10 @@ Then open <http://localhost:4000>. Pushing to `main` publishes via GitHub Pages.
 
 ## Fonts
 
-Body and headings use **Futura**, falling back to **Jost** (a near-identical geometric sans
-loaded from Google Fonts) on machines without Futura installed. Code uses **IBM Plex Mono**.
-Both web fonts are loaded in `_layouts/default.html`. To change the typeface, edit that
-`<link>` and the `--sans` / `--mono` variables at the top of `assets/css/style.css`.
+Body and headings use **Jost**, a geometric sans in the Futura tradition, loaded from Google
+Fonts in `_layouts/default.html`. Jost comes ahead of the locally installed **Futura** in the
+stack on purpose: macOS ships Futura in Medium and Bold only, which reads too heavy for body
+copy, while Jost has a genuine Light. Code uses **IBM Plex Mono**.
+
+Body copy is 10pt at weight 300. To retune it, edit `--body-size` (and `--sans` / `--mono`)
+at the top of `assets/css/style.css` — the rest of the type scale is in `em`, so it follows.
