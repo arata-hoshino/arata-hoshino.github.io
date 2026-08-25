@@ -4,8 +4,8 @@
    The type system is lifted from the Arata Hoshino portfolio deck and
    rebuilt for continuous reading:
 
-   · one geometric sans (Jost/Futura) carries everything
-   · body copy is Regular; titles stay Light and win on size alone
+   · one neutral grotesque (Inter) carries everything, header included
+   · body copy is Regular; titles are Regular too, and win on size alone
    · a running head over a hairline rule opens every page
    · titles are large and LIGHT; emphasis comes from size, not weight
    · labels are uppercase, letterspaced, and either muted or navy
@@ -23,20 +23,24 @@
   --tint: #eef1f5;     /* pale panels */
   --mark: #fdf3c8;
 
-  /* Jost first: macOS ships Futura in Medium only, which reads too heavy
-     for body copy. Jost Light gives the same geometry at a lighter weight. */
-  --sans: Jost, Futura, "Futura PT", "Century Gothic", "Avenir Next", Avenir,
-          "Trebuchet MS", sans-serif;
+  /* A neutral grotesque, after the OpenAI article pages. OpenAI Sans itself
+     is proprietary and undistributable, so Inter stands in for it, with the
+     platform grotesques behind it. */
+  --sans: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          "Helvetica Neue", Helvetica, Arial, sans-serif;
   --mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
 
-  --body-size: 12pt;  /* body copy; everything else scales off it in em */
-  --measure: 72ch;    /* reading column, centred on the page */
+  --body-size: 1.125rem;  /* 18px body copy; the rest scales off it in em */
+  --measure: 64ch;        /* reading column, centred on the page */
   --frame: 64rem;     /* the running head, nav and footer span this */
   --gutter: clamp(1.25rem, 5vw, 3.5rem);
 
-  /* Deck-standard letterspacing for the uppercase labels. */
-  --track-head: 0.18em;
-  --track-label: 0.14em;
+  /* Letterspacing for the uppercase labels — tightened to sit with a
+     grotesque rather than a geometric sans. */
+  --track-head: 0.09em;
+  --track-label: 0.08em;
+
+  --rail: 13rem;      /* the section rail in the left margin */
 
   /* Always render light, regardless of the device's dark-mode setting. */
   color-scheme: light;
@@ -57,8 +61,8 @@ body {
   font-family: var(--sans);
   font-size: var(--body-size);
   font-weight: 400;
-  line-height: 1.75;
-  font-feature-settings: "kern" 1, "liga" 1;
+  line-height: 1.6;
+  font-feature-settings: "kern" 1, "liga" 1, "cv11" 1;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
 }
@@ -210,12 +214,12 @@ main {
 
 .page-title {
   margin: 0;
-  max-width: 22ch;
+  max-width: 24ch;
   color: var(--ink);
-  font-size: clamp(1.9rem, 4.4vw, 2.9rem);
-  font-weight: 300;
-  line-height: 1.14;
-  letter-spacing: -0.012em;
+  font-size: clamp(2rem, 4.4vw, 3rem);
+  font-weight: 400;
+  line-height: 1.12;
+  letter-spacing: -0.022em;
 }
 
 /* The short rule that sits under every case title in the deck. */
@@ -228,9 +232,11 @@ main {
 }
 
 .page-deck {
-  margin: 1.6em 0 0;
-  max-width: 58ch;
+  margin: 1.5em 0 0;
+  max-width: 54ch;
   color: var(--body);
+  font-size: 1.05em;
+  line-height: 1.55;
 }
 
 /* ---------------------------------------------------- metadata table
@@ -282,34 +288,39 @@ main {
 .prose > *:last-child { margin-bottom: 0; }
 
 .prose p {
-  margin: 0 0 1.4em;
+  margin: 0 0 1.25em;
 }
 
 /* h2 is the deck's section statement: dark, one step up in size, and
    announced by a hairline rather than by weight. */
 .prose h2 {
-  margin: 3.2em 0 0.9em;
-  padding-top: 2.4em;
+  margin: 2.8em 0 0.7em;
+  padding-top: 2.2em;
   border-top: 1px solid var(--rule);
   color: var(--ink);
-  font-size: 1.4em;
-  font-weight: 400;
-  line-height: 1.3;
-  letter-spacing: -0.004em;
+  font-size: 1.45em;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
 }
 
 /* h3 is the deck's column label: navy, uppercase, letterspaced. */
 .prose h3 {
-  margin: 2.6em 0 0.9em;
+  margin: 2.4em 0 0.8em;
   color: var(--navy);
-  font-size: 0.78em;
+  font-size: 0.8em;
+}
+
+.prose h2,
+.prose h3 {
+  scroll-margin-top: 2.5rem;
 }
 
 .prose h4 {
-  margin: 2.2em 0 0.7em;
+  margin: 2em 0 0.6em;
   color: var(--ink);
   font-size: 1em;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .prose strong,
@@ -538,6 +549,77 @@ main {
 .signature {
   margin: 3.5em 0 0;
   color: var(--muted);
+}
+
+/* ------------------------------------------------------- section rail
+
+   Built by assets/js/section-rail.js. It lives in the left margin, so it
+   appears only when there is a margin to live in.                       */
+
+.rail {
+  display: none;
+}
+
+@media (min-width: 78rem) {
+  .rail {
+    display: block;
+    position: fixed;
+    /* centred vertically, which keeps it clear of the running head at the
+       top of the page and of the footer at the bottom */
+    top: 50%;
+    transform: translateY(-50%);
+    left: max(1.5rem, calc(50% - (var(--measure) / 2) - 3.5rem - var(--rail)));
+    z-index: 1;
+    width: var(--rail);
+    max-height: 72vh;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+}
+
+.rail-label {
+  margin: 0 0 0.9em;
+  color: var(--muted);
+  font-size: 0.68em;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: var(--track-label);
+}
+
+.rail-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-left: 1px solid var(--rule);
+}
+
+.rail-item {
+  margin: 0;
+}
+
+.rail-item.is-sub .rail-link {
+  padding-left: 2em;
+}
+
+.rail-link {
+  display: block;
+  padding: 0.45em 0 0.45em 1.1em;
+  margin-left: -1px;
+  border-left: 1px solid transparent;
+  color: var(--muted);
+  font-size: 0.82em;
+  line-height: 1.4;
+}
+
+.rail-link:hover,
+.rail-link:focus-visible {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.rail-link.is-current {
+  border-left-color: var(--navy);
+  color: var(--ink);
 }
 
 /* ------------------------------------------------------------ pager */
