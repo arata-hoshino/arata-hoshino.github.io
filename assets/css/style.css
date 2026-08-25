@@ -18,17 +18,9 @@
   --measure: 42rem;   /* reading column */
   --masthead: 62rem;  /* table of contents can run wider */
   --gutter: clamp(1.25rem, 5vw, 2.5rem);
-}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --paper: #12120f;
-    --ink: #ece9e2;
-    --muted: #9d9a92;
-    --line: #33322d;
-    --link: #9dc0ee;
-    --mark: #3d3a1f;
-  }
+  /* Always render light, regardless of the device's dark-mode setting. */
+  color-scheme: light;
 }
 
 * { box-sizing: border-box; }
