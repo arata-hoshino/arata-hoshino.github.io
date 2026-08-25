@@ -13,57 +13,39 @@ meta:
     value: "Whiteshield — Associate Product Manager, Sovereign Product &amp; Service Design"
   - label: Before
     value: "PwC Singapore · Keio Media Design · Scrum Ventures · Takizme"
-  - label: Contact
-    value: '<a href="mailto:arata.h.hoshino@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/arata-hoshino/" target="_blank" rel="noopener">LinkedIn</a> · <a href="/assets/arata-hoshino-portfolio.pdf" target="_blank" rel="noopener">Portfolio (PDF)</a>'
 ---
 
-Four years across strategy consulting, venture, and sovereign product work in Singapore, San
-Francisco, Tokyo, and Dubai. At Whiteshield in Dubai I orchestrate cross-functional delivery of
-AI products and policy platforms with UAE federal ministries and a national bank.
+I am a strategic and venture designer with an engineering background. At Whiteshield in Dubai I
+work as an associate product manager on AI products built at sovereign scale: a national
+platform matching skills to labour-market demand for two UAE federal ministries, an AI siting
+simulator a national bank's C-suite decides branch and ATM locations on, a procurement platform
+routing corporate and government spend to local SMEs. On each I carry the work from interviews
+and workshops through personas, journeys and user stories to lo-fi prototypes, design direction
+and QA, alongside engineers and data scientists. What that work is in service of is a longer
+argument: that by achieving energy abundance and the radical automation of production and
+transportation, we can liberate humanity from drudgery and fundamentally transform people's
+lifestyles, economic structures, and social contracts. I am co-authoring working papers on
+removing energy supply constraints and designing a physically automated society; their claim is
+that macro indicators such as stagnant growth and declining birth rates are **symptoms, not
+causes**, and that they will resolve endogenously once the physical constraints are removed. My
+goal is to realise that transition at the frontier — through venture investment and venture
+development.
 
-These essays are the other half of that work. Sovereign platforms fail for the same reasons
-small services do — coordination costs, half-finished migrations, budgets nobody wrote down —
-and writing is how I keep those lessons portable.
+I came to it through engineering first. I studied Mechanical & Energy Engineering at Waseda
+University — thermodynamics, energy R&D, robotics, urban mobility, satellite design, nuclear
+engineering, close to what is now called Physical AI — and then took two master's degrees: at
+Keio Media Design, Japan's equivalent of the MIT Media Lab, where I researched and practised
+Service Design methodology and received the Dean's Award, and a CEMS Master's at HEC Paris and
+the National University of Singapore, which bridged concept and commercialisation. I chose the
+side of execution at the Singapore headquarters of a global strategy consultancy, working on
+physical mega-projects such as EV gigafactory siting for a global auto-OEM, and then moved to
+the UAE to work at sovereign scale, advancing projects alongside ministry stakeholders at an
+OECD-rooted economic advisory firm. Four years, across strategy consulting, venture, and
+sovereign product work, in Singapore, San Francisco, Tokyo, and Dubai.
 
-## Vision
-
-I have always wanted to change the world through technology. I am convinced that by achieving
-energy abundance and the radical automation of production and transportation, we can liberate
-humanity from drudgery and fundamentally transform people's lifestyles, economic structures,
-and social contracts.
-
-As its intellectual foundation, I am co-authoring working papers on removing energy supply
-constraints and designing a physically automated society. Their central argument: macro
-indicators such as stagnant growth and declining birth rates are **symptoms, not causes**; just
-as easing the food constraint once liberated population growth, they will resolve endogenously
-once physical supply constraints are removed. My goal is to realise this transition at the
-frontier — through venture investment and venture development.
-
-## Background
-
-### 2016 – 2020 · Understand technology itself
-
-Mechanical & Energy Engineering at Waseda University: thermodynamics, energy R&D, robotics,
-urban mobility, satellite design, and nuclear engineering — close to the realm of Physical AI
-today.
-
-### 2020 – 2023 · Translate technology into societal change
-
-Two master's degrees. At Keio Media Design, Japan's equivalent of the MIT Media Lab, I
-researched and practised Service Design methodology and received the Dean's Award. A CEMS
-Master's at HEC Paris and the National University of Singapore bridged concept and
-commercialisation.
-
-### 2023 – · Choose the side of execution
-
-I joined the Singapore headquarters of a global strategy consultancy, working on physical
-mega-projects such as EV gigafactory siting for a global auto-OEM. Seeking work at sovereign
-scale, I then moved to the UAE, advancing projects alongside ministry stakeholders at an
-OECD-rooted economic advisory firm.
-
-## Elsewhere
-
-- [Email](mailto:arata.h.hoshino@gmail.com) — arata.h.hoshino@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/arata-hoshino/){:target="_blank" rel="noopener"} — the short version of all of the above
-- [Portfolio (PDF)](/assets/arata-hoshino-portfolio.pdf){:target="_blank" rel="noopener"} — selected works in strategic and venture design
-- [GitHub](https://github.com/arata-hoshino){:target="_blank" rel="noopener"} — this site's source
+I am based in Dubai, and glad to hear from anyone working on any of this. Write to me by
+[Email](mailto:arata.h.hoshino@gmail.com); the short version of everything above is on
+[LinkedIn](https://www.linkedin.com/in/arata-hoshino/){:target="_blank" rel="noopener"}; and the
+projects are written up in full — context, research, prototype, impact — in the
+[Portfolio (PDF)](/assets/arata-hoshino-portfolio.pdf){:target="_blank" rel="noopener"}. The
+source of this site is on [GitHub](https://github.com/arata-hoshino){:target="_blank" rel="noopener"}.

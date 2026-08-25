@@ -243,7 +243,6 @@ main {
 
 .page-title {
   margin: 0;
-  max-width: 24ch;
   color: var(--ink);
   font-size: clamp(2rem, 4.4vw, 2.95rem);
   /* 800: Lora's axis stops at 700, so this resolves to 700 */
