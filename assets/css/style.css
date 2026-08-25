@@ -7,6 +7,8 @@
    · Latin Modern, self-hosted, carries everything, header included
    · 400 Regular, 600 Demi, 700 Bold. Bold is Bold EXTENDED, 15% wider
      per letter than Regular, so section heads take Demi instead
+   · NO letterspacing anywhere, and no rendering overrides: every line
+     is set at the metrics the face itself specifies
    · body metrics follow situational-awareness.ai, a step down: 17px / 1.5
    · a running head over a hairline rule opens every page
    · titles are large and LIGHT; emphasis comes from size, not weight
@@ -81,11 +83,6 @@
   --frame: 64rem;     /* the running head, nav and footer span this */
   --gutter: clamp(1.25rem, 5vw, 3.5rem);
 
-  /* Letterspacing for the uppercase labels — tightened to sit with a
-     grotesque rather than a geometric sans. */
-  --track-head: 0.09em;
-  --track-label: 0.08em;
-
   --rail: 13rem;      /* the section rail in the left margin */
 
   /* Always render light, regardless of the device's dark-mode setting. */
@@ -108,9 +105,6 @@ body {
   font-size: var(--body-size);
   font-weight: 400;
   line-height: 1.5;
-  font-feature-settings: "kern" 1, "liga" 1;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
 }
 
 a {
@@ -165,7 +159,6 @@ a:focus-visible {
 .pager a,
 .site-footer {
   text-transform: uppercase;
-  letter-spacing: var(--track-label);
   font-weight: 400;
 }
 
@@ -198,7 +191,6 @@ main {
 .runhead-brand {
   color: var(--muted);
   font-size: 0.72em;
-  letter-spacing: var(--track-head);
 }
 
 .runhead-brand:hover,
@@ -211,7 +203,6 @@ main {
   flex: none;
   color: var(--muted);
   font-size: 0.72em;
-  letter-spacing: var(--track-head);
 }
 
 /* -------------------------------------------------------------- nav */
@@ -266,7 +257,6 @@ main {
   /* 800: Latin Modern stops at Bold, so this resolves to the 700 face */
   font-weight: 800;
   line-height: 1.15;
-  letter-spacing: 0;
 }
 
 /* The short rule that sits under every case title in the deck. */
@@ -349,7 +339,6 @@ main {
   font-size: 1.45em;
   font-weight: 600;
   line-height: 1.25;
-  letter-spacing: 0;
 }
 
 /* h3 is the deck's column label: navy, uppercase, letterspaced. */
@@ -406,7 +395,6 @@ main {
   top: 0.9em;
   color: var(--navy);
   font-size: 0.82em;
-  letter-spacing: var(--track-label);
   line-height: inherit;
 }
 
@@ -564,7 +552,6 @@ main {
 .contents-number {
   color: var(--navy);
   font-size: 0.82em;
-  letter-spacing: var(--track-label);
 }
 
 .contents-link {
@@ -631,7 +618,6 @@ main {
   font-size: 0.68em;
   font-weight: 400;
   text-transform: uppercase;
-  letter-spacing: var(--track-label);
 }
 
 .rail-list {

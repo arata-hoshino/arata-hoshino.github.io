@@ -77,7 +77,11 @@ every label and caption, and `--navy` (`#1b3a5c`) as the only colour — labels,
 links and the section rail's current marker.
 
 **The uppercase label.** Running head, `h3`, table headers, metadata keys, the pager and the
-footer are one shape: small, uppercase, letterspaced 0.08–0.09em, muted or navy.
+footer are one shape: small, uppercase, muted or navy.
+
+**No letterspacing, no rendering overrides.** Nothing on the site sets `letter-spacing`,
+`font-feature-settings` or `text-rendering`. Every line is set at the metrics the face itself
+specifies.
 
 **Hairlines, never boxes.** Sections are separated by 1px rules and whitespace. The only
 filled surfaces are code blocks, in `--tint`.
