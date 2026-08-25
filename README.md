@@ -1,7 +1,8 @@
 # Medbewstorstok Notes
 
-A minimal, essay-first Jekyll site in the style of a printed series: a geometric-sans masthead, a
-table of contents shared by every page, and one narrow reading column for the text.
+A minimal, essay-first Jekyll site set in the type system of the Arata Hoshino portfolio deck:
+a running head over a hairline rule, large light titles, uppercase letterspaced labels, and one
+navy accent. See [Design](#design).
 
 ## Writing a new essay
 
@@ -34,9 +35,9 @@ page, and in the previous/next pager at the foot of neighbouring essays.
 | `_essays/` | One Markdown file per essay |
 | `index.md` | The introduction and the series index |
 | `about.md` | About page |
-| `_includes/masthead.html` | Title, subtitle and table of contents |
+| `_includes/runhead.html` | Running head and navigation |
 | `_layouts/` | `default`, `home`, `essay`, `page` |
-| `assets/css/style.css` | All styling (light and dark) |
+| `assets/css/style.css` | All styling |
 
 Site title, subtitle and author live in `_config.yml`.
 
@@ -49,12 +50,33 @@ bundle exec jekyll serve --livereload
 
 Then open <http://localhost:4000>. Pushing to `main` publishes via GitHub Pages.
 
-## Fonts
+## Design
 
-Body and headings use **Jost**, a geometric sans in the Futura tradition, loaded from Google
-Fonts in `_layouts/default.html`. Jost comes ahead of the locally installed **Futura** in the
-stack on purpose: macOS ships Futura in Medium and Bold only, which reads too heavy for body
-copy, while Jost has a genuine Light. Code uses **IBM Plex Mono**.
+The stylesheet is a translation of the portfolio deck into continuous reading. The rules it
+follows, in the order they matter:
 
-Body copy is 12pt at weight 300. To retune it, edit `--body-size` (and `--sans` / `--mono`)
-at the top of `assets/css/style.css` — the rest of the type scale is in `em`, so it follows.
+**One typeface.** Body and headings use **Jost**, a geometric sans in the Futura tradition,
+loaded from Google Fonts in `_layouts/default.html`. Jost comes ahead of the locally installed
+**Futura** on purpose: macOS ships Futura in Medium and Bold only, which reads too heavy for
+body copy, while Jost has a genuine Light. Code uses **IBM Plex Mono**.
+
+**Hierarchy by size, not weight.** Body copy is 12pt at weight 300; titles are up to 2.9rem at
+the same weight 300. Nothing on the page is bolder than 500. Contrast comes from scale, colour
+and space instead.
+
+**Three greys and one navy.** `--ink` for titles, `--body` for running text, `--muted` for
+every label and caption, and `--navy` (`#1b3a5c`) as the only colour — it marks labels, list
+numbers and links, and nothing else.
+
+**The uppercase label.** Running head, `h3`, table headers, metadata keys, the pager and the
+footer are all one shape: small, uppercase, letterspaced 0.14–0.18em, muted or navy.
+
+**Hairlines, never boxes.** Sections are separated by 1px rules and whitespace. The only
+filled surfaces are code blocks, in `--tint`.
+
+Markdown maps onto the deck's components: `h2` is a section statement announced by a rule,
+`h3` is a navy column label, ordered lists become the deck's `01 / 02 / 03` rows with a
+hairline between items, and figure captions sit right-aligned under the image.
+
+To retune the scale, edit `--body-size`, `--measure` and `--frame` at the top of
+`assets/css/style.css` — everything else is in `em` and follows.

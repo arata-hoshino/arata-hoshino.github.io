@@ -2,16 +2,28 @@
 layout: default
 ---
 
+{% assign essays = site.essays | sort: "order" %}
+{% assign words = content | number_of_words %}
+{% assign minutes = words | divided_by: 220 | plus: 1 %}
+
 <article class="page">
-  <h1 class="page-title">{% if page.number %}{{ page.number }}. {% endif %}{{ page.title }}</h1>
+  <h1 class="page-title">{{ page.title }}</h1>
   {% if page.summary %}<p class="page-deck">{{ page.summary }}</p>{% endif %}
-  {% if page.date %}<p class="page-date">{{ page.date | date: "%B %-d, %Y" }}</p>{% endif %}
+
+  <table class="meta">
+    {% if page.date %}
+      <tr><th scope="row">Date</th><td>{{ page.date | date: "%B %-d, %Y" }}</td></tr>
+    {% endif %}
+    {% if page.number %}
+      <tr><th scope="row">Series</th><td>Essay {{ page.number }} of {{ essays | size }}</td></tr>
+    {% endif %}
+    <tr><th scope="row">Reading</th><td>{{ minutes }} min · {{ words }} words</td></tr>
+  </table>
 
   <div class="prose">
     {{ content }}
   </div>
 
-  {% assign essays = site.essays | sort: "order" %}
   {% assign prev = nil %}
   {% assign next = nil %}
   {% for essay in essays %}

@@ -3,6 +3,7 @@ layout: default
 ---
 
 <article class="page">
+  {% if site.subtitle %}<p class="eyebrow">{{ site.subtitle }}</p>{% endif %}
   {% if page.heading %}<h1 class="page-title">{{ page.heading }}</h1>{% endif %}
   {% if page.deck %}<p class="page-deck">{{ page.deck }}</p>{% endif %}
 
@@ -10,17 +11,19 @@ layout: default
     {{ content }}
   </div>
 
-  <section class="series" aria-labelledby="series-title">
-    <h2 id="series-title" class="series-title">The Series</h2>
-    <ol class="series-list">
+  <section class="contents" aria-labelledby="contents-head">
+    <h2 id="contents-head" class="contents-head">The Series</h2>
+    <ol class="contents-list">
       {% assign essays = site.essays | sort: "order" %}
       {% for essay in essays %}
-        <li class="series-item">
-          <a class="series-link" href="{{ essay.url | relative_url }}">{% if essay.number %}{{ essay.number }}. {% endif %}{{ essay.title }}</a>
-          {% if essay.summary %}<p class="series-summary">{{ essay.summary }}</p>{% endif %}
+        <li class="contents-item">
+          <span class="contents-number" aria-hidden="true">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
+          <a class="contents-link" href="{{ essay.url | relative_url }}">{{ essay.title }}</a>
+          {% if essay.date %}<span class="contents-date">{{ essay.date | date: "%b %Y" }}</span>{% endif %}
+          {% if essay.summary %}<p class="contents-summary">{{ essay.summary }}</p>{% endif %}
         </li>
       {% else %}
-        <li class="series-item">Add a Markdown file to <code>_essays/</code> and it will appear here.</li>
+        <li class="contents-item">Add a Markdown file to <code>_essays/</code> and it will appear here.</li>
       {% endfor %}
     </ol>
   </section>

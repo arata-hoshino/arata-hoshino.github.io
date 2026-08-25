@@ -1,0 +1,28 @@
+{% comment %}
+  Running head: the site on the left, where you are on the right,
+  over a hairline. The navigation sits under it, quietly.
+{% endcomment %}
+{% if page.number %}
+  {% assign runhead_label = "Essay " | append: page.number %}
+{% elsif page.url == '/' %}
+  {% assign runhead_label = "Introduction" %}
+{% else %}
+  {% assign runhead_label = page.title %}
+{% endif %}
+
+<header class="runhead">
+  <a class="runhead-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  <span class="runhead-label">{{ runhead_label }}</span>
+</header>
+
+<nav class="nav" aria-label="Essays">
+  <a href="{{ '/' | relative_url }}"
+     class="nav-link{% if page.url == '/' %} is-current{% endif %}">Introduction</a>
+  {% assign essays = site.essays | sort: "order" %}
+  {% for essay in essays %}
+    <a href="{{ essay.url | relative_url }}"
+       class="nav-link{% if page.url == essay.url %} is-current{% endif %}">{% if essay.number %}{{ essay.number }}. {% endif %}{{ essay.title }}</a>
+  {% endfor %}
+  <a href="{{ '/about/' | relative_url }}"
+     class="nav-link{% if page.url == '/about/' %} is-current{% endif %}">About</a>
+</nav>

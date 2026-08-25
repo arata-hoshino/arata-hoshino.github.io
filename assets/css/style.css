@@ -1,15 +1,25 @@
 /* ------------------------------------------------------------------
-   Medbewstorstok Notes — a quiet, geometric-sans, essay-first stylesheet.
-   Layout: centered masthead + table of contents, then a single
-   narrow reading column for the article itself.
+   Medbewstorstok Notes
+
+   The type system is lifted from the Arata Hoshino portfolio deck and
+   rebuilt for continuous reading:
+
+   · one geometric sans (Jost/Futura) carries everything
+   · a running head over a hairline rule opens every page
+   · titles are large and LIGHT; emphasis comes from size, not weight
+   · labels are uppercase, letterspaced, and either muted or navy
+   · navy is the only colour; it marks labels, numbers, and links
+   · rules are hairlines, never boxes, and space does the separating
    ------------------------------------------------------------------ */
 
 :root {
   --paper: #ffffff;
-  --ink: #111111;
-  --muted: #6b6b6b;
-  --line: #dcdcdc;
-  --link: #1a4a8a;
+  --ink: #1a1d21;      /* titles and statements */
+  --body: #3c4147;     /* running text */
+  --muted: #8b9098;    /* labels, captions, metadata */
+  --navy: #1b3a5c;     /* the single accent: labels, numbers, links */
+  --rule: #dfe3e8;     /* hairlines */
+  --tint: #eef1f5;     /* pale panels */
   --mark: #fdf3c8;
 
   /* Jost first: macOS ships Futura in Medium only, which reads too heavy
@@ -20,8 +30,12 @@
 
   --body-size: 12pt;  /* body copy; everything else scales off it in em */
   --measure: 72ch;    /* reading column */
-  --masthead: 62rem;  /* table of contents can run wider */
-  --gutter: clamp(1.25rem, 5vw, 2.5rem);
+  --frame: 64rem;     /* running head, rules, and footer span this */
+  --gutter: clamp(1.25rem, 5vw, 3.5rem);
+
+  /* Deck-standard letterspacing for the uppercase labels. */
+  --track-head: 0.18em;
+  --track-label: 0.14em;
 
   /* Always render light, regardless of the device's dark-mode setting. */
   color-scheme: light;
@@ -37,31 +51,31 @@ html {
 body {
   margin: 0;
   padding: 0 var(--gutter);
-  color: var(--ink);
+  color: var(--body);
   background: var(--paper);
   font-family: var(--sans);
   font-size: var(--body-size);
   font-weight: 300;
-  line-height: 1.7;
+  line-height: 1.75;
   font-feature-settings: "kern" 1, "liga" 1;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
 }
 
 a {
-  color: var(--link);
+  color: var(--navy);
   text-decoration: none;
 }
 
 a:hover,
 a:focus-visible {
   text-decoration: underline;
-  text-underline-offset: 0.18em;
+  text-underline-offset: 0.22em;
   text-decoration-thickness: 1px;
 }
 
 :focus-visible {
-  outline: 2px solid var(--link);
+  outline: 1px solid var(--navy);
   outline-offset: 3px;
 }
 
@@ -76,180 +90,352 @@ a:focus-visible {
 }
 
 .skip-link:focus {
-  position: static;
-  display: inline-block;
-  padding: 0.5rem 0;
+  left: var(--gutter);
+  top: 0.5rem;
+  z-index: 10;
+  padding: 0.4em 0.8em;
+  background: var(--paper);
+  border: 1px solid var(--navy);
 }
 
-/* ---------------------------------------------------- masthead + TOC */
+/* ------------------------------------------------- the uppercase label
 
-.masthead {
-  max-width: var(--masthead);
-  margin: clamp(2.5rem, 7vw, 5rem) auto clamp(2rem, 6vw, 4rem);
-  text-align: center;
-}
+   One rule, three sizes. Every uppercase label on the site is this
+   shape: small, letterspaced, and either muted (metadata) or navy
+   (something the reader is meant to act on).                          */
 
-.masthead-title {
-  display: block;
-  color: var(--ink);
-  font-size: clamp(1.75rem, 4.5vw, 2.75rem);
-  font-weight: 500;
-  line-height: 1.05;
-  letter-spacing: 0.01em;
+.runhead-brand,
+.runhead-label,
+.eyebrow,
+.meta th,
+.prose h3,
+.prose thead th,
+.contents-head,
+.pager a,
+.site-footer {
   text-transform: uppercase;
+  letter-spacing: var(--track-label);
+  font-weight: 400;
 }
 
-.masthead-title:hover {
+/* ------------------------------------------------------- running head */
+
+.runhead,
+.nav,
+main,
+.site-footer {
+  max-width: var(--frame);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.runhead {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1.5em;
+  padding: clamp(1.75rem, 4vw, 2.75rem) 0 0.75em;
+  border-bottom: 1px solid var(--rule);
+}
+
+.runhead-brand {
+  color: var(--muted);
+  font-size: 0.72em;
+  letter-spacing: var(--track-head);
+}
+
+.runhead-brand:hover,
+.runhead-brand:focus-visible {
+  color: var(--ink);
   text-decoration: none;
 }
 
-.masthead-subtitle {
-  margin: 0.35em 0 0;
+.runhead-label {
+  flex: none;
   color: var(--muted);
-  font-size: clamp(1rem, 2vw, 1.35rem);
-  font-weight: 400;
-  line-height: 1.2;
+  font-size: 0.72em;
+  letter-spacing: var(--track-head);
 }
 
-.toc {
+/* -------------------------------------------------------------- nav */
+
+.nav {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.4em 1.6em;
-  margin-top: clamp(1.75rem, 4vw, 2.75rem);
-  font-size: 1em;
-  line-height: 1.5;
+  gap: 0.5em 1.75em;
+  padding: 1.1em 0 0;
+  font-size: 0.86em;
 }
 
-.toc-link {
-  color: var(--ink);
-}
-
-.toc-link.is-current {
+.nav-link {
   color: var(--muted);
+}
+
+.nav-link:hover,
+.nav-link:focus-visible {
+  color: var(--navy);
+}
+
+.nav-link.is-current {
+  color: var(--ink);
 }
 
 /* ------------------------------------------------------- page shell */
 
 main {
-  max-width: var(--measure);
-  margin: 0 auto;
+  padding-top: clamp(3.5rem, 9vw, 6.5rem);
 }
 
 .page {
-  padding-bottom: clamp(3rem, 8vw, 5rem);
+  padding-bottom: clamp(4rem, 10vw, 7rem);
+}
+
+.page-deck,
+.prose,
+.signature {
+  max-width: var(--measure);
+}
+
+/* --------------------------------------------------- the page header
+
+   Portfolio case opener, set vertically: label, title, short rule,
+   description, then the metadata table.                              */
+
+.eyebrow {
+  margin: 0 0 1.4em;
+  color: var(--navy);
+  font-size: 0.74em;
 }
 
 .page-title {
-  margin: 0 0 0.25em;
-  font-size: clamp(1.4rem, 3.2vw, 1.95rem);
-  font-weight: 500;
-  line-height: 1.15;
+  margin: 0;
+  max-width: 22ch;
+  color: var(--ink);
+  font-size: clamp(1.9rem, 4.4vw, 2.9rem);
+  font-weight: 300;
+  line-height: 1.14;
+  letter-spacing: -0.012em;
+}
+
+/* The short rule that sits under every case title in the deck. */
+.page-title::after {
+  content: "";
+  display: block;
+  width: 6.5rem;
+  margin: 1.15em 0 0;
+  border-top: 1px solid var(--rule);
 }
 
 .page-deck {
-  margin: 0 0 0.5em;
-  color: var(--muted);
-  font-size: 1.15em;
-  font-style: italic;
-  line-height: 1.4;
+  margin: 1.6em 0 0;
+  max-width: 58ch;
+  color: var(--body);
 }
 
-.page-date {
-  margin: 0 0 2em;
-  color: var(--muted);
-  font-family: var(--sans);
-  font-size: 0.78em;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+/* ---------------------------------------------------- metadata table
+
+   CLIENT / ROLE / SCOPE / PERIOD / OUTCOME, rebuilt as
+   DATE / SERIES / READING.                                            */
+
+.meta {
+  width: 100%;
+  max-width: 34rem;
+  margin: 2.75em 0 0;
+  border-collapse: collapse;
+  font-size: 0.92em;
 }
 
-/* ------------------------------------------------------------ prose */
+.meta tr {
+  border-bottom: 1px solid var(--rule);
+}
+
+.meta tr:first-child {
+  border-top: 1px solid var(--rule);
+}
+
+.meta th,
+.meta td {
+  padding: 0.85em 0;
+  text-align: left;
+  vertical-align: baseline;
+}
+
+.meta th {
+  width: 9.5em;
+  color: var(--muted);
+  font-size: 0.82em;
+}
+
+.meta td {
+  color: var(--ink);
+}
+
+/* ----------------------------------------------------------- prose */
+
+.prose {
+  margin-top: clamp(3rem, 7vw, 4.5rem);
+  overflow-wrap: break-word;
+}
+
+.prose > * {
+  max-width: var(--measure);
+}
 
 .prose > *:first-child { margin-top: 0; }
+.prose > *:last-child { margin-bottom: 0; }
 
 .prose p {
-  margin: 0 0 1.15em;
+  margin: 0 0 1.4em;
 }
 
-.prose h2,
-.prose h3,
+/* h2 is the deck's section statement: dark, one step up in size, and
+   announced by a hairline rather than by weight. */
+.prose h2 {
+  margin: 3.2em 0 0.9em;
+  padding-top: 2.4em;
+  border-top: 1px solid var(--rule);
+  color: var(--ink);
+  font-size: 1.4em;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: -0.004em;
+}
+
+/* h3 is the deck's column label: navy, uppercase, letterspaced. */
+.prose h3 {
+  margin: 2.6em 0 0.9em;
+  color: var(--navy);
+  font-size: 0.78em;
+}
+
 .prose h4 {
-  margin: 1.9em 0 0.5em;
+  margin: 2.2em 0 0.7em;
+  color: var(--ink);
+  font-size: 1em;
   font-weight: 500;
-  line-height: 1.25;
 }
-
-.prose h2 { font-size: 1.45em; }
-.prose h3 { font-size: 1.2em; }
-.prose h4 { font-size: 1.05em; font-style: italic; font-weight: 500; }
 
 .prose strong,
 .prose b {
-  font-weight: 600;
+  color: var(--ink);
+  font-weight: 500;
 }
 
-.prose ul,
+.prose em { font-style: italic; }
+
+/* Numbered lists become the deck's 01 / 02 / 03 rows: navy counter in
+   the margin, hairline between items. */
 .prose ol {
-  margin: 0 0 1.15em;
-  padding-left: 1.4em;
+  margin: 1.8em 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: item;
 }
 
-.prose li { margin-bottom: 0.35em; }
+.prose ol > li {
+  position: relative;
+  padding: 0.9em 0 0.9em 3.25em;
+  border-bottom: 1px solid var(--rule);
+  counter-increment: item;
+}
 
-.prose blockquote {
+.prose ol > li:first-child {
+  border-top: 1px solid var(--rule);
+}
+
+.prose ol > li::before {
+  content: counter(item, decimal-leading-zero);
+  position: absolute;
+  left: 0;
+  top: 0.9em;
+  color: var(--navy);
+  font-size: 0.82em;
+  letter-spacing: var(--track-label);
+  line-height: inherit;
+}
+
+.prose ul {
   margin: 1.6em 0;
-  padding-left: 1.1em;
-  border-left: 2px solid var(--line);
+  padding: 0;
+  list-style: none;
+}
+
+.prose ul > li {
+  position: relative;
+  margin: 0 0 0.6em;
+  padding-left: 1.6em;
+}
+
+.prose ul > li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.85em;
+  width: 0.7em;
+  border-top: 1px solid var(--muted);
+}
+
+.prose li > ul,
+.prose li > ol {
+  margin: 0.6em 0 0;
+}
+
+.prose li > ul > li:last-child,
+.prose ol > li > ol > li {
+  border: 0;
+}
+
+/* The pull quote from the research pages: hairline, italic, muted. */
+.prose blockquote {
+  margin: 2.4em 0;
+  padding: 0.2em 0 0.2em 1.75em;
+  border-left: 1px solid var(--rule);
   color: var(--muted);
   font-style: italic;
 }
 
 .prose blockquote p:last-child { margin-bottom: 0; }
 
-.prose hr {
-  height: 0;
-  margin: 2.5em auto;
-  border: 0;
-  border-top: 1px solid var(--line);
-  width: 40%;
+.prose table {
+  width: 100%;
+  margin: 2.2em 0;
+  border-collapse: collapse;
+  font-size: 0.92em;
 }
 
-.prose img,
-.prose video {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: 1.8em auto;
-}
-
-.prose figure {
-  margin: 1.8em 0;
-}
-
-.prose figcaption {
+.prose thead th {
+  padding: 0 0 0.9em;
+  border-bottom: 1px solid var(--rule);
   color: var(--muted);
-  font-size: 0.85em;
-  text-align: center;
+  font-size: 0.82em;
+  text-align: left;
 }
+
+.prose tbody td {
+  padding: 0.85em 1.5em 0.85em 0;
+  border-bottom: 1px solid var(--rule);
+  vertical-align: baseline;
+}
+
+.prose tbody tr:last-child td { border-bottom: 1px solid var(--rule); }
+.prose td:last-child, .prose th:last-child { padding-right: 0; }
 
 .prose code {
-  padding: 0.1em 0.3em;
+  padding: 0.15em 0.4em;
   border-radius: 3px;
-  background: color-mix(in srgb, var(--ink) 7%, transparent);
+  background: var(--tint);
   font-family: var(--mono);
   font-size: 0.82em;
 }
 
 .prose pre {
   overflow-x: auto;
-  margin: 1.6em 0;
-  padding: 1em 1.1em;
-  border: 1px solid var(--line);
-  border-radius: 4px;
-  background: color-mix(in srgb, var(--ink) 4%, transparent);
-  font-size: 0.82em;
-  line-height: 1.5;
+  margin: 2em 0;
+  padding: 1.5em;
+  border-radius: 6px;
+  background: var(--tint);
+  font-size: 0.88em;
+  line-height: 1.6;
 }
 
 .prose pre code {
@@ -258,114 +444,178 @@ main {
   font-size: 1em;
 }
 
-.prose table {
+.prose img {
   display: block;
-  overflow-x: auto;
-  width: 100%;
-  margin: 1.8em 0;
-  border-collapse: collapse;
-  font-size: 0.92em;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
 }
 
-.prose th,
-.prose td {
-  padding: 0.45em 0.8em 0.45em 0;
-  border-bottom: 1px solid var(--line);
-  text-align: left;
-  vertical-align: top;
-}
+/* Deck captions sit right-aligned under the figure. */
+.prose figure { margin: 2.4em 0; }
 
-.prose th {
-  font-weight: 600;
-  white-space: nowrap;
-}
-
-/* footnotes (kramdown) */
-.prose .footnotes {
-  margin-top: 3em;
-  padding-top: 1em;
-  border-top: 1px solid var(--line);
+.prose figcaption {
+  margin-top: 0.9em;
   color: var(--muted);
-  font-size: 0.88em;
-}
-
-.prose sup a { text-decoration: none; }
-
-/* ------------------------------------------------- series index list */
-
-.series {
-  margin-top: 3.5em;
-  padding-top: 1.5em;
-  border-top: 1px solid var(--line);
-}
-
-.series-title {
-  margin: 0 0 1em;
-  font-family: var(--sans);
   font-size: 0.85em;
-  font-weight: 500;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--muted);
+  text-align: right;
 }
 
-.series-list {
+.prose hr {
+  height: 0;
+  margin: 3.2em 0;
+  border: 0;
+  border-top: 1px solid var(--rule);
+}
+
+.prose mark {
+  background: var(--mark);
+  color: var(--ink);
+}
+
+/* ------------------------------------------------------- home page
+
+   The deck's table of contents: number, title, summary, and the date
+   held out in its own right-hand column, one hairline per row.        */
+
+.contents {
+  margin: clamp(4rem, 9vw, 6rem) 0 0;
+}
+
+.contents-head {
+  display: block;
+  margin: 0 0 1em;
+  color: var(--muted);
+  font-size: 0.74em;
+}
+
+.contents-list {
   margin: 0;
   padding: 0;
   list-style: none;
+  border-top: 1px solid var(--rule);
 }
 
-.series-item {
-  margin-bottom: 1.35em;
+.contents-item {
+  display: grid;
+  grid-template-columns: 3.25em minmax(0, 46rem) 1fr;
+  align-items: baseline;
+  gap: 0 1.5em;
+  padding: 1.5em 0;
+  border-bottom: 1px solid var(--rule);
 }
 
-.series-link {
+.contents-number {
+  color: var(--navy);
+  font-size: 0.82em;
+  letter-spacing: var(--track-label);
+}
+
+.contents-link {
   color: var(--ink);
-  font-size: 1.1em;
+  font-size: 1.15em;
+  line-height: 1.3;
 }
 
-.series-summary {
-  margin: 0.15em 0 0;
+.contents-link:hover,
+.contents-link:focus-visible {
+  color: var(--navy);
+}
+
+.contents-summary {
+  grid-column: 2;
+  margin: 0.5em 0 0;
   color: var(--muted);
-  font-size: 0.9em;
-  line-height: 1.45;
+  font-size: 0.92em;
+  line-height: 1.55;
+}
+
+.contents-date {
+  grid-column: 3;
+  grid-row: 1;
+  color: var(--muted);
+  font-size: 0.85em;
+  text-align: right;
 }
 
 .signature {
-  margin-top: 2.5em;
-  font-style: italic;
+  margin: 3.5em 0 0;
+  color: var(--muted);
 }
 
 /* ------------------------------------------------------------ pager */
 
 .pager {
   display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: space-between;
-  margin-top: 3.5em;
-  padding-top: 1.25em;
-  border-top: 1px solid var(--line);
-  font-size: 0.9em;
+  gap: 1.5em;
+  margin: clamp(4rem, 9vw, 6rem) 0 0;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--rule);
+  font-size: 0.78em;
 }
 
+.pager a { color: var(--muted); }
+.pager a:hover, .pager a:focus-visible { color: var(--navy); }
 .pager-next { margin-left: auto; text-align: right; }
+
+/* --------------------------------------------------------- footnotes */
+
+.footnotes {
+  margin-top: 3.5em;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 0.88em;
+}
+
+.footnotes ol > li {
+  padding-left: 2.5em;
+  border: 0;
+}
+
+.footnotes ol > li::before { color: var(--muted); }
 
 /* ----------------------------------------------------------- footer */
 
 .site-footer {
-  max-width: var(--masthead);
-  margin: 0 auto;
-  padding: 1.5rem 0 3rem;
-  border-top: 1px solid var(--line);
+  margin-top: clamp(5rem, 12vw, 8rem);
+  padding: 1.5em 0 clamp(3rem, 8vw, 5rem);
+  border-top: 1px solid var(--rule);
   color: var(--muted);
-  font-size: 0.85em;
-  text-align: center;
+  font-size: 0.7em;
 }
 
 .site-footer p { margin: 0; }
 
+/* -------------------------------------------------------- responsive */
+
+@media (max-width: 34rem) {
+  .contents-item {
+    grid-template-columns: 2.75em minmax(0, 1fr);
+  }
+
+  .contents-date {
+    grid-column: 2;
+    grid-row: auto;
+    margin-top: 0.6em;
+    text-align: left;
+  }
+
+  .meta th { width: 7.5em; }
+
+  .prose table {
+    display: block;
+    overflow-x: auto;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
 @media print {
-  .toc, .pager, .site-footer { display: none; }
-  body { font-size: 11pt; }
+  .nav, .pager, .site-footer { display: none; }
+  body { font-size: 10pt; color: #000; }
+  .runhead { border-color: #000; }
+  a { color: #000; }
 }
