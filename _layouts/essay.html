@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<article class="page">
+  <h1 class="page-title">{% if page.number %}{{ page.number }}. {% endif %}{{ page.title }}</h1>
+  {% if page.summary %}<p class="page-deck">{{ page.summary }}</p>{% endif %}
+  {% if page.date %}<p class="page-date">{{ page.date | date: "%B %-d, %Y" }}</p>{% endif %}
+
+  <div class="prose">
+    {{ content }}
+  </div>
+
+  {% assign essays = site.essays | sort: "order" %}
+  {% assign prev = nil %}
+  {% assign next = nil %}
+  {% for essay in essays %}
+    {% if essay.url == page.url %}
+      {% assign prev_index = forloop.index0 | minus: 1 %}
+      {% if prev_index >= 0 %}{% assign prev = essays[prev_index] %}{% endif %}
+      {% assign next = essays[forloop.index] %}
+    {% endif %}
+  {% endfor %}
+
+  <nav class="pager" aria-label="Essay navigation">
+    <div class="pager-prev">
+      {% if prev %}<a href="{{ prev.url | relative_url }}">← {% if prev.number %}{{ prev.number }}. {% endif %}{{ prev.title }}</a>{% endif %}
+    </div>
+    <div class="pager-next">
+      {% if next %}<a href="{{ next.url | relative_url }}">{% if next.number %}{{ next.number }}. {% endif %}{{ next.title }} →</a>{% endif %}
+    </div>
+  </nav>
+</article>

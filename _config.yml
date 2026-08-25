@@ -1,0 +1,35 @@
+title: "Situational Notes"
+subtitle: "Essays on Systems and Software"
+author: "Arata Hoshino"
+tagline: "Essays on systems and software"
+description: "A series of long-form essays by Arata Hoshino."
+url: "https://arata-hoshino.github.io"
+baseurl: ""
+lang: "en"
+
+markdown: kramdown
+permalink: pretty
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_backlink: "↩"
+  syntax_highlighter: rouge
+
+collections:
+  essays:
+    output: true
+    permalink: /essays/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: essays
+    values:
+      layout: essay
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article class="page">
+  {% if page.heading %}<h1 class="page-title">{{ page.heading }}</h1>{% endif %}
+  {% if page.deck %}<p class="page-deck">{{ page.deck }}</p>{% endif %}
+
+  <div class="prose">
+    {{ content }}
+  </div>
+
+  <section class="series" aria-labelledby="series-title">
+    <h2 id="series-title" class="series-title">The Series</h2>
+    <ol class="series-list">
+      {% assign essays = site.essays | sort: "order" %}
+      {% for essay in essays %}
+        <li class="series-item">
+          <a class="series-link" href="{{ essay.url | relative_url }}">{% if essay.number %}{{ essay.number }}. {% endif %}{{ essay.title }}</a>
+          {% if essay.summary %}<p class="series-summary">{{ essay.summary }}</p>{% endif %}
+        </li>
+      {% else %}
+        <li class="series-item">Add a Markdown file to <code>_essays/</code> and it will appear here.</li>
+      {% endfor %}
+    </ol>
+  </section>
+
+  {% if page.signature %}<p class="signature">{{ page.signature }}</p>{% endif %}
+</article>
