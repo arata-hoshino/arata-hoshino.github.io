@@ -18,8 +18,8 @@
           "Trebuchet MS", sans-serif;
   --mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
 
-  --body-size: 10pt;  /* body copy; everything else scales off it in em */
-  --measure: 62ch;    /* reading column, ~62 characters wide */
+  --body-size: 12pt;  /* body copy; everything else scales off it in em */
+  --measure: 68ch;    /* reading column */
   --masthead: 62rem;  /* table of contents can run wider */
   --gutter: clamp(1.25rem, 5vw, 2.5rem);
 

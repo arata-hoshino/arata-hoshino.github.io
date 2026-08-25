@@ -56,5 +56,5 @@ Fonts in `_layouts/default.html`. Jost comes ahead of the locally installed **Fu
 stack on purpose: macOS ships Futura in Medium and Bold only, which reads too heavy for body
 copy, while Jost has a genuine Light. Code uses **IBM Plex Mono**.
 
-Body copy is 10pt at weight 300. To retune it, edit `--body-size` (and `--sans` / `--mono`)
+Body copy is 12pt at weight 300. To retune it, edit `--body-size` (and `--sans` / `--mono`)
 at the top of `assets/css/style.css` — the rest of the type scale is in `em`, so it follows.
