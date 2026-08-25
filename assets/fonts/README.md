@@ -1,12 +1,11 @@
 # Fonts
 
-**Satoshi** by Indian Type Foundry, from [Fontshare](https://www.fontshare.com/fonts/satoshi),
-free for personal and commercial use under the ITF Free Font Licence. The woff2 files are
-served from here rather than from Fontshare's CDN so the site has no runtime dependency on it.
+**Lora** by Cyreal, from [Google Fonts](https://fonts.google.com/specimen/Lora), under the SIL
+Open Font License. The woff2 files are served from here rather than from Google's CDN so the
+site has no runtime dependency on it.
 
-Weights: 400 Regular, 400 Italic, 500 Medium, 700 Bold, 900 Black.
+Two files, and they are **variable**: one axis, `wght`, from 400 to 700, upright and italic.
+That covers every weight the site asks for in 78KB total — the CSS declares each face with a
+`font-weight: 400 700` range rather than one file per weight.
 
-Satoshi stands in for **Styrene** (Commercial Type), which is a licensed commercial typeface
-and cannot be self-hosted without buying a webfont licence. If that licence is bought, drop the
-Styrene woff2 files in this directory and point the `@font-face` blocks in
-`assets/css/style.css` at them.
+Lora tops out at 700, so the 800 set on the title and the deck resolves to 700.

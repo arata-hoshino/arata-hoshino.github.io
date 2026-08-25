@@ -52,19 +52,17 @@ Then open <http://localhost:4000>. Pushing to `main` publishes via GitHub Pages.
 
 ## Design
 
-The layout is a translation of the portfolio deck; the type is Satoshi, with the body metrics
+The layout is a translation of the portfolio deck; the type is Lora, with the body metrics
 taken from situational-awareness.ai. The rules it follows, in the order they matter:
 
-**One typeface, header included.** Body, headings and labels are all **Satoshi** (Indian Type
-Foundry, ITF Free Font Licence), self-hosted as woff2 in `assets/fonts/` — see the README
-there. It stands in for **Styrene**, which is a licensed commercial face from Commercial Type
-and cannot be self-hosted without buying a webfont licence; if that licence is bought, the
-swap is four `@font-face` blocks. Code is **IBM Plex Mono**, the one thing still loaded from
-Google Fonts.
+**One typeface, header included.** Body, headings and labels are all **Lora** (Cyreal, SIL
+Open Font License), self-hosted as woff2 in `assets/fonts/` — see the README there. Code is
+**IBM Plex Mono**, the one thing still loaded from Google Fonts.
 
-**Four weights.** 400 Regular (body and every label), 700 Bold (`h2`, `h4`, `**bold**`), and
-900 Black, which is what the 800 on the title and the deck resolves to. 400 Italic is there
-for `_em_` and pull quotes.
+**Two files, every weight.** Both Lora files are variable along one `wght` axis from 400 to
+700, upright and italic, so 78KB covers the whole site. Body and labels are 400, `h2` is 600,
+`**bold**` and `h4` are 700, and the 800 on the title and the deck resolves to 700 — the top
+of the axis.
 
 **The text settings**, after [situational-awareness.ai](https://situational-awareness.ai/) —
 that page measures 18px, line-height 1.5, a 740px column, ~95 characters a line. This site
