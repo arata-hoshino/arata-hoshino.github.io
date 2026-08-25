@@ -1,6 +1,6 @@
 # Medbewstorstok Notes
 
-A minimal, essay-first Jekyll site in the style of a printed series: a serif masthead, a
+A minimal, essay-first Jekyll site in the style of a printed series: a geometric-sans masthead, a
 table of contents shared by every page, and one narrow reading column for the text.
 
 ## Writing a new essay
@@ -51,6 +51,7 @@ Then open <http://localhost:4000>. Pushing to `main` publishes via GitHub Pages.
 
 ## Fonts
 
-Body and headings use **EB Garamond**, code uses **IBM Plex Mono**, both loaded from Google
-Fonts in `_layouts/default.html`. To change the typeface, edit that `<link>` and the
-`--serif` / `--mono` variables at the top of `assets/css/style.css`.
+Body and headings use **Futura**, falling back to **Jost** (a near-identical geometric sans
+loaded from Google Fonts) on machines without Futura installed. Code uses **IBM Plex Mono**.
+Both web fonts are loaded in `_layouts/default.html`. To change the typeface, edit that
+`<link>` and the `--sans` / `--mono` variables at the top of `assets/css/style.css`.
