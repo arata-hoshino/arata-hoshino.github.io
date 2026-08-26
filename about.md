@@ -2,13 +2,12 @@
 layout: page
 title: About
 permalink: /about/
-heading: "About me"
 description: "Arata Hoshino — from Tokyo, based in Dubai. Energy, physical automation, and what they do to how people live."
 ---
 
-Hi, I'm Arata Hoshino. I spent my teens reading about Silicon Valley technology, longtermism,
-techno-libertarianism, and Buckminster Fuller. I'm originally from Tokyo, Japan, and I currently
-live in Dubai, United Arab Emirates.
+Hi, I'm Arata Hoshino, a strategic designer / venture designer based in Dubai, United Arab
+Emirates. I'm originally from Tokyo, Japan, and I spent my teens reading about Silicon Valley
+technology, longtermism, techno-libertarianism, and Buckminster Fuller.
 
 I've always been interested in what abundant energy and physical automation would do to the way
 people live, to macroeconomics, to geopolitics, and to the social contract.
