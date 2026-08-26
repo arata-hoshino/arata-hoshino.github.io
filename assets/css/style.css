@@ -144,7 +144,6 @@ a:focus-visible {
    (something the reader is meant to act on).                          */
 
 .runhead-brand,
-.runhead-label,
 .eyebrow,
 .prose h3,
 .prose thead th,
@@ -173,18 +172,17 @@ main {
 }
 
 .runhead {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 1.5em;
-  padding: clamp(1.75rem, 4vw, 2.75rem) 0 0.6em;
+  padding: clamp(1.75rem, 4vw, 2.75rem) 0 0.9em;
   border-bottom: 1px solid var(--rule);
+  text-align: center;
 }
 
 .runhead-brand {
+  display: block;
   color: var(--ink);
   font-size: clamp(1.4rem, 3.2vw, 2.1rem);
   line-height: 1.1;
+  text-decoration: none;
 }
 
 .runhead-brand:hover,
@@ -192,10 +190,10 @@ main {
   color: var(--ink);
 }
 
-.runhead-label {
-  flex: none;
+.runhead-subtitle {
+  margin: 0.5em 0 0;
   color: var(--muted);
-  font-size: 0.72em;
+  font-size: 0.78em;
 }
 
 /* -------------------------------------------------------------- nav */
@@ -210,6 +208,7 @@ main {
 
 .nav-link {
   color: var(--muted);
+  text-decoration: none;
 }
 
 .nav-link:hover,

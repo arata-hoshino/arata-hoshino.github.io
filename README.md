@@ -36,7 +36,7 @@ previous/next pager at the foot of neighbouring essays.
 | `_essays/` | One Markdown file per essay |
 | `index.md` | The introduction and the series index |
 | `about.md` | About page |
-| `_includes/runhead.html` | Running head and navigation |
+| `_includes/runhead.html` | Masthead and navigation |
 | `_layouts/` | `default`, `home`, `essay`, `page` |
 | `assets/css/style.css` | All styling |
 

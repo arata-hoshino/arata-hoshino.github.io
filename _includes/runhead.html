@@ -1,18 +1,11 @@
 {% comment %}
-  Running head: the site on the left, where you are on the right,
-  over a hairline. The navigation sits under it, quietly.
+  The masthead: the site's name and what it is, centred, over a hairline.
+  The navigation sits under it.
 {% endcomment %}
-{% if page.number %}
-  {% assign runhead_label = "Essay " | append: page.number %}
-{% elsif page.url == '/' %}
-  {% assign runhead_label = "Introduction" %}
-{% else %}
-  {% assign runhead_label = page.title %}
-{% endif %}
 
 <header class="runhead">
   <a class="runhead-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-  <span class="runhead-label">{{ runhead_label }}</span>
+  {% if site.subtitle %}<p class="runhead-subtitle">{{ site.subtitle }}</p>{% endif %}
 </header>
 
 <nav class="nav" aria-label="Essays">
