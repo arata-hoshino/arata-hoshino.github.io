@@ -7,7 +7,7 @@ description: "Arata Hoshino — from Tokyo, based in Dubai. Energy, physical aut
 
 Hi, I'm **Arata Hoshino**, a strategic and venture designer based in Dubai, United Arab
 Emirates. I'm originally from Tokyo, Japan, and I spent my teens reading about Silicon Valley
-technology, longtermism, techno-libertarianism, and Buckminster Fuller.
+technology, longtermism, techno-libertarianism, and the ideas of Buckminster Fuller.
 
 In a previous life, I did BEng Mechanical and Energy Engineering at Waseda University; MSc Media
 Design at Keio University, with research work in service design and venture design; CEMS MIM
