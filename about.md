@@ -11,8 +11,8 @@ technology, longtermism, techno-libertarianism, and Buckminster Fuller.
 
 In a previous life, I did BEng Mechanical and Energy Engineering at Waseda University; MSc Media
 Design at Keio University, with research work in service design and venture design; CEMS MIM
-(MSc International Management) at HEC Paris and the National University of Singapore. After that
-I worked in VC and strategy consulting in San Francisco and Singapore. From 2024 to 2026, I
+(MSc International Management) at HEC Paris and the National University of Singapore. After
+that, I worked in VC and strategy consulting in San Francisco and Singapore. From 2024 to 2026, I
 advised UAE ministries on economic strategy at a policy advisory firm spun out of the OECD and
 Harvard.
 
