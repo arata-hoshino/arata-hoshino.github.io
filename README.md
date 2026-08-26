@@ -25,8 +25,9 @@ code blocks, images and footnotes[^1] are all styled.
 ```
 
 `order` is the only field that matters mechanically — everything else is presentation.
-The essay appears automatically in the top table of contents, in the index on the front
-page, and in the previous/next pager at the foot of neighbouring essays.
+`date` is used to sort nothing and is shown nowhere; it is kept as a record. The essay appears
+automatically in the top table of contents, in the index on the front page, and in the
+previous/next pager at the foot of neighbouring essays.
 
 ## Structure
 
