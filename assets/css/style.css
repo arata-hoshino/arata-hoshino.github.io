@@ -101,14 +101,16 @@ body {
 
 a {
   color: var(--navy);
-  text-decoration: none;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+  text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
 }
 
 a:hover,
 a:focus-visible {
-  text-decoration: underline;
-  text-underline-offset: 0.22em;
-  text-decoration-thickness: 1px;
+  text-decoration-color: currentColor;
+  text-decoration-thickness: 2px;
 }
 
 :focus-visible {
@@ -188,7 +190,6 @@ main {
 .runhead-brand:hover,
 .runhead-brand:focus-visible {
   color: var(--ink);
-  text-decoration: none;
 }
 
 .runhead-label {
@@ -621,7 +622,6 @@ main {
 .rail-link:hover,
 .rail-link:focus-visible {
   color: var(--ink);
-  text-decoration: none;
 }
 
 .rail-link.is-current {

@@ -74,6 +74,9 @@ column takes about 88 characters a line. Titles run to 2.95rem and `h2` to 1.45e
 every label and caption, and `--navy` (`#1b3a5c`) as the only colour — labels, list numbers,
 links and the section rail's current marker.
 
+**Links are underlined.** Every one of them, navigation included, at 45% of the text colour so
+the rule reads as a link without shouting. Hover takes it to full colour and 2px.
+
 **The uppercase label.** Running head, `h3`, table headers, metadata keys, the pager and the
 footer are one shape: small, uppercase, muted or navy.
 
