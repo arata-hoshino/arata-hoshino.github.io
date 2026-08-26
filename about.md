@@ -5,7 +5,7 @@ permalink: /about/
 description: "Arata Hoshino — from Tokyo, based in Dubai. Energy, physical automation, and what they do to how people live."
 ---
 
-Hi, I'm **Arata Hoshino**, a strategic designer / venture designer based in Dubai, United Arab
+Hi, I'm **Arata Hoshino**, a strategic and venture designer based in Dubai, United Arab
 Emirates. I'm originally from Tokyo, Japan, and I spent my teens reading about Silicon Valley
 technology, longtermism, techno-libertarianism, and Buckminster Fuller.
 
@@ -22,5 +22,5 @@ a classmate since junior high.
 
 You can reach me by [email](mailto:arata.h.hoshino@gmail.com). A summary is on
 [LinkedIn](https://www.linkedin.com/in/arata-hoshino/){:target="_blank" rel="noopener"}, the
-scope of each project is in my [portfolio (PDF)](/assets/arata-hoshino-portfolio.pdf), and where I
-stand is on [vision paper (PDF)](/assets/arata-hoshino-vision-paper.pdf).
+scope of each project is in my [portfolio (PDF)](/assets/arata-hoshino-portfolio.pdf){:target="_blank" rel="noopener"}, and where I
+stand is on [vision paper (PDF)](/assets/arata-hoshino-vision-paper.pdf){:target="_blank" rel="noopener"}.
