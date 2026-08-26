@@ -23,4 +23,4 @@ a classmate since junior high.
 You can reach me by [email](mailto:arata.h.hoshino@gmail.com). A summary is on
 [LinkedIn](https://www.linkedin.com/in/arata-hoshino/){:target="_blank" rel="noopener"}, the
 scope of each project is in my [portfolio (PDF)](/assets/arata-hoshino-portfolio.pdf), and my
-statement is on [vision paper](/assets/arata-hoshino-vision-paper.pdf).
+statement is on [vision paper (PDF)](/assets/arata-hoshino-vision-paper.pdf).
