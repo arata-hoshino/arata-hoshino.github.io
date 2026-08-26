@@ -20,3 +20,10 @@ from the same repository, converted to woff2 here.
 ET Book carries **old-style figures** — numerals that sit on the baseline at x-height with
 ascenders and descenders, the way a book sets them. Only the bold cut uses lining figures;
 the family ships no old-style bold.
+
+---
+
+**Jost** by Owen Earl, from [Google Fonts](https://fonts.google.com/specimen/Jost), under the
+SIL Open Font License — a Futura, used for the text of the About page only. Two variable files,
+`wght` 100–900, upright and italic, 57KB together. The page's font stack puts locally installed
+Futura ahead of it.

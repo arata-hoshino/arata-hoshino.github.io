@@ -60,6 +60,10 @@ digitisation from Edward Tufte's books, MIT licensed and self-hosted as woff2 in
 `assets/fonts/` — see the README there. Code is **IBM Plex Mono**, the one thing still loaded
 from Google Fonts.
 
+**One exception.** The About page sets its text in **Jost**, a Futura, behind locally installed
+Futura where there is one. It is self-hosted and variable, and the page asks for it by setting
+`body_class: about` in its front matter.
+
 **Four faces, 173KB.** 400 roman, 400 italic, 600 semi-bold, 700 bold. Body and labels are
 400, `h2` is 600, `**bold**` and `h4` are 700, and the 800 on the title and the deck resolves
 to 700, the heaviest cut the family has. The roman, italic and semi-bold carry **old-style

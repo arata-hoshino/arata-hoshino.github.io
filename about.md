@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+body_class: about
 description: "Arata Hoshino — from Tokyo, based in Dubai. Energy, physical automation, and what they do to how people live."
 ---
 
@@ -23,7 +24,10 @@ I'm currently working on this paper with
 [Kei Irizawa](https://www.linkedin.com/in/kei-irizawa-211800121/){:target="_blank" rel="noopener"},
 a classmate since junior high.
 
-You can reach me by [email](mailto:arata.h.hoshino@gmail.com) here. A summary is on
-[LinkedIn](https://www.linkedin.com/in/arata-hoshino/){:target="_blank" rel="noopener"}, the scope
-of each project is in my [portfolio (PDF)](/assets/arata-hoshino-portfolio.pdf), and where I
-stand is in my [Vision Paper (PDF)](/assets/arata-hoshino-vision-paper.pdf).
+You can reach me by:
+
+- [Email](mailto:arata.h.hoshino@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/arata-hoshino/){:target="_blank" rel="noopener"}
+- [Portfolio (PDF)](/assets/arata-hoshino-portfolio.pdf)
+- [Vision Paper (PDF)](/assets/arata-hoshino-vision-paper.pdf)
+{:.contact}
