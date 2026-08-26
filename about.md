@@ -9,9 +9,6 @@ Hi, I'm **Arata Hoshino**, a strategic designer / venture designer based in Duba
 Emirates. I'm originally from Tokyo, Japan, and I spent my teens reading about Silicon Valley
 technology, longtermism, techno-libertarianism, and Buckminster Fuller.
 
-I've always been interested in what abundant energy and physical automation would do to the way
-people live, to macroeconomics, to geopolitics, and to the social contract.
-
 In a previous life, I did BEng Mechanical and Energy Engineering at Waseda University; MSc Media
 Design at Keio University, with research work in service design and venture design; CEMS MIM
 (MSc International Management) at HEC Paris and the National University of Singapore. After that
