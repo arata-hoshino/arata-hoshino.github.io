@@ -47,5 +47,4 @@ I am based in Dubai, and glad to hear from anyone working on any of this. Write 
 [Email](mailto:arata.h.hoshino@gmail.com); the short version of everything above is on
 [LinkedIn](https://www.linkedin.com/in/arata-hoshino/){:target="_blank" rel="noopener"}; and the
 projects are written up in full — context, research, prototype, impact — in the
-[Portfolio (PDF)](/assets/arata-hoshino-portfolio.pdf){:target="_blank" rel="noopener"}. The
-source of this site is on [GitHub](https://github.com/arata-hoshino){:target="_blank" rel="noopener"}.
+[Portfolio (PDF)](/assets/arata-hoshino-portfolio.pdf){:target="_blank" rel="noopener"}.
