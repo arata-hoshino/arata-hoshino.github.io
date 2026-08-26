@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-body_class: about
 description: "Arata Hoshino — from Tokyo, based in Dubai. Energy, physical automation, and what they do to how people live."
 ---
 

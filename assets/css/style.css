@@ -55,25 +55,6 @@
   font-display: swap;
 }
 
-/* Jost — a Futura, variable along one weight axis. The About page sets its
-   text in it; nothing else on the site uses it. */
-
-@font-face {
-  font-family: "Jost";
-  src: url("/assets/fonts/jost-variable.woff2") format("woff2");
-  font-weight: 100 900;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Jost";
-  src: url("/assets/fonts/jost-italic-variable.woff2") format("woff2");
-  font-weight: 100 900;
-  font-style: italic;
-  font-display: swap;
-}
-
 :root {
   --paper: #ffffff;
   --ink: #1a1d21;      /* titles and statements */
@@ -87,9 +68,6 @@
   /* ET Book, self-hosted. See assets/fonts/. */
   --face: "ET Book", Palatino, "Palatino Linotype", Georgia,
           "Times New Roman", Times, serif;
-
-  /* Futura where it is installed, Jost — which is a Futura — everywhere else */
-  --geometric: Futura, "Jost", "Futura PT", "Century Gothic", sans-serif;
   --mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
 
   --body-size: 1.0625rem; /* 17px body copy; the rest scales off it in em */
@@ -574,26 +552,20 @@ main {
   color: var(--muted);
 }
 
-/* ---------------------------------------------------- the About page
+/* ------------------------------------------------------ contact list
 
-   Its text is set in the geometric sans rather than in ET Book. Jost runs
-   smaller on the body for its x-height, and the contact list drops its
-   markers so it reads as the plain column of links it is.              */
+   A plain column of links: no markers, no indent.                      */
 
-.about .prose {
-  font-family: var(--geometric);
-}
-
-.about .prose ul.contact {
+.prose ul.contact {
   margin: 0.6em 0 0;
 }
 
-.about .prose ul.contact > li {
+.prose ul.contact > li {
   margin: 0 0 0.25em;
   padding-left: 0;
 }
 
-.about .prose ul.contact > li::before {
+.prose ul.contact > li::before {
   content: none;
 }
 
