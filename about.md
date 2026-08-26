@@ -2,10 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-eyebrow: "Arata Hoshino"
-heading: "Removing the physical constraints on human progress."
-deck: "Strategic and venture designer with an engineering background, applying service design methods to AI products at sovereign scale — and, here, writing about the systems underneath them."
-description: "Arata Hoshino — strategic and venture designer working on AI products at sovereign scale in Dubai."
+heading: "About me"
+description: "Arata Hoshino — from Tokyo, based in Dubai. Energy, physical automation, and what they do to how people live."
 ---
 
 Hi, I'm Arata Hoshino. I spent my teens reading about Silicon Valley technology, longtermism,
