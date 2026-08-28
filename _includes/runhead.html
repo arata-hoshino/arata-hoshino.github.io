@@ -6,6 +6,7 @@
 <header class="runhead">
   <a class="runhead-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
   {% if site.subtitle %}<p class="runhead-subtitle">{{ site.subtitle }}</p>{% endif %}
+  {% if site.author %}<p class="runhead-byline">{{ site.author }}</p>{% endif %}
 </header>
 
 <nav class="nav" aria-label="Essays">

@@ -6,9 +6,12 @@ layout: default
   {% if page.heading %}<h1 class="page-title">{{ page.heading }}</h1>{% endif %}
   {% if page.deck %}<p class="page-deck">{{ page.deck }}</p>{% endif %}
 
-  <div class="prose">
-    {{ content }}
-  </div>
+  <section class="abstract" aria-labelledby="abstract-head">
+    <h2 id="abstract-head" class="section-label">Abstract</h2>
+    <div class="prose">
+      {{ content }}
+    </div>
+  </section>
 
   <section class="contents" aria-labelledby="contents-head">
     <h2 id="contents-head" class="contents-head">The Series</h2>

@@ -148,6 +148,7 @@ a:focus-visible {
 .prose h3,
 .prose thead th,
 .contents-head,
+.section-label,
 .pager a,
 .site-footer {
   text-transform: uppercase;
@@ -172,7 +173,7 @@ main {
 }
 
 .runhead {
-  padding: clamp(1.75rem, 4vw, 2.75rem) 0 0.9em;
+  padding: clamp(1.75rem, 4vw, 2.75rem) 0 1.5em;
   border-bottom: 1px solid var(--rule);
   text-align: center;
 }
@@ -196,13 +197,19 @@ main {
   font-size: 1em;   /* the size the body is set at */
 }
 
+.runhead-byline {
+  margin: 0.9em 0 0;
+  color: var(--ink);
+  font-size: 1.15em;
+}
+
 /* -------------------------------------------------------------- nav */
 
 .nav {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5em 1.75em;
-  padding: 1.1em 0 0;
+  padding: 1.8em 0 0;
   font-size: 0.86em;
 }
 
@@ -461,11 +468,24 @@ main {
   margin: clamp(4rem, 9vw, 6rem) 0 0;
 }
 
-.contents-head {
+.contents-head,
+.section-label {
   display: block;
   margin: 0 0 1em;
   color: var(--muted);
   font-size: 0.74em;
+}
+
+.section-label {
+  margin-bottom: 1.4em;
+}
+
+.abstract {
+  margin-top: clamp(3rem, 7vw, 4.5rem);
+}
+
+.abstract .prose {
+  margin-top: 0;
 }
 
 .contents-list {
