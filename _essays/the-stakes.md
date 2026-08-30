@@ -6,4 +6,4 @@ part: "Part IV. The map"
 summary: "A list of falsifiable predictions."
 ---
 
-*This chapter is in draft.*
+Work in progress

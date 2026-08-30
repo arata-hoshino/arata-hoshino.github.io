@@ -195,7 +195,7 @@ main {
 }
 
 .runhead-subtitle {
-  max-width: 38rem; /* the subtitle is a sentence: keep it to a measure */
+  max-width: 46rem; /* wide enough for the second line to set unbroken */
   margin: 0.6em auto 0;
   color: var(--ink);
   font-size: 1em;   /* the size the body is set at */
@@ -466,11 +466,11 @@ main {
 .page-byline {
   margin: 0;
   color: var(--ink);
-  font-size: 0.8em;
+  font-size: 1.45em;  /* the size a section head is set at */
 }
 
 .page-dateline {
-  margin: 0.5em 0 0;
+  margin: 1em 0 0;
   color: var(--muted);
   font-size: 0.74em;
 }
