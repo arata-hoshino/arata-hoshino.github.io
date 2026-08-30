@@ -7,6 +7,9 @@
    Built from the DOM rather than from Liquid, so it stays correct for
    whatever headings an essay happens to have. Kramdown gives every
    heading an id (auto_ids), which is what the links point at.
+
+   Only the top level: the numbered sections of a chapter and the Notes
+   and Objections that close it. Sub-headings are left off.
    ------------------------------------------------------------------ */
 
 (function () {
@@ -15,7 +18,7 @@
   var prose = document.querySelector('.prose');
   if (!prose) return;
 
-  var headings = prose.querySelectorAll('h2[id], h3[id]');
+  var headings = prose.querySelectorAll('h2[id]');
   if (headings.length < 2) return;
 
   var rail = document.createElement('nav');
@@ -34,7 +37,7 @@
 
   Array.prototype.forEach.call(headings, function (heading) {
     var item = document.createElement('li');
-    item.className = 'rail-item' + (heading.tagName === 'H3' ? ' is-sub' : '');
+    item.className = 'rail-item';
 
     var link = document.createElement('a');
     link.className = 'rail-link';

@@ -453,6 +453,22 @@ main {
   border-top: 1px solid var(--rule);
 }
 
+/* The apparatus of a chapter: the notes and the objections, set a step
+   down from the body they belong to. */
+.prose .apparatus {
+  font-size: 0.9em;
+}
+
+/* The rule that closes the body of a chapter and opens its apparatus:
+   the notes and the objections. It is meant to be felt as a break. */
+.prose .rule-major {
+  margin: clamp(5rem, 11vw, 8rem) 0 clamp(3rem, 6vw, 4.5rem);
+}
+
+.prose .rule-major + h2 {
+  margin-top: 0;
+}
+
 .prose mark {
   background: var(--mark);
   color: var(--ink);
@@ -709,10 +725,6 @@ main {
 
 .rail-item {
   margin: 0;
-}
-
-.rail-item.is-sub .rail-link {
-  padding-left: 1.7em;
 }
 
 .rail-link {

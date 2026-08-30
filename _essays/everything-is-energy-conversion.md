@@ -275,7 +275,9 @@ the process by which conversion was throttled, the path by which its cost descen
 household, the explosion of demand after the jam clears, the redesign of institutions, the
 inversion in what human time is spent on, and where the three terms actually mesh.
 
----
+<div class="apparatus" markdown="1">
+
+<hr class="rule-major">
 
 ## Notes and Sources
 
@@ -336,7 +338,7 @@ Parliamentary Papers 1845 (620) and 1846 (723-II)). The Lands Clauses Consolidat
 **[8] The scale of the railway mania.** Actual investment in railway construction was 13 million
 pounds in 1845, 30 million in 1846, and peaked at 44 million in 1847, which is just under 8
 percent of GDP that year and twice the military budget (Andrew Odlyzko, "The collapse of the
-Railway Mania...", revised June 25, 2011). **Odlyzko does not state the source of his GDP series
+Railway Mania…", revised June 25, 2011). **Odlyzko does not state the source of his GDP series
 in the text and is likely relying on an unpublished draft.** Route mileage was 1,498 in 1840 and
 6,621 in 1850 (B. R. Mitchell, *British Historical Statistics*, Cambridge University Press,
 1988). **That series appears to be on a United Kingdom basis including Ireland.**
@@ -379,10 +381,10 @@ July 2026). **That is the size of the fund, not assets under management, and the
 circulated "100 billion dollar AUM target" is not a figure MGX has published.**
 
 **[14] Japan.** Real growth averaged 9.1 percent from fiscal 1956 to 1973 and 4.2 percent from
-fiscal 1974 to 1990, **on a fiscal-year basis** (Cabinet Office, Long-Term Economic Statistics,
-National Accounts). **The series is spliced across the 68SNA and 93SNA.** The trade balance was
+fiscal 1974 to 1990, **on a fiscal-year basis** (Cabinet Office, *Long-Term Economic Statistics*,
+*National Accounts*). **The series is spliced across the 68SNA and 93SNA.** The trade balance was
 a surplus of 6.6347 trillion yen in 2010 and a deficit of 11.4684 trillion yen in 2013, **on a
-customs-clearance basis** (Ministry of Finance Trade Statistics). **On a balance-of-payments
+customs-clearance basis** (Ministry of Finance, *Trade Statistics*). **On a balance-of-payments
 basis the same two years are +9.5 trillion and −8.8 trillion yen; the endpoints do not
 coincide.**
 
@@ -414,7 +416,7 @@ verified.** The all-resident figure for the same year of 2017 is 1.35, and the m
 figure for 2024 is 1.21 (World Bank). The all-resident figure is lower because it is diluted by
 a migrant population that does not have children there.
 
----
+<hr class="rule-major">
 
 ## Objections and Limits
 
@@ -535,3 +537,5 @@ Stern & Astrid Kander, "The Role of Energy in the Industrial Revolution and Mode
 Growth," *The Energy Journal* 33(3), 2012, 125–152). What this thesis treats is a regime in
 which scarcity returns, and econometric results from a non-scarce period cannot be extrapolated
 into it directly. This corresponds to one line of the falsification table in the final chapter.
+
+</div>
