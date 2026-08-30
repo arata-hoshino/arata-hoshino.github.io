@@ -2,7 +2,7 @@
 layout: home
 title: "The Far Side of the Constraint"
 heading: "The Far Side of the Constraint"
-subtitle: "A Civilizational Thesis on<br>Energy Abundance, Physical Automation, and the Distribution of Ownership"
+subtitle: "A Civilizational Thesis on<br>Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
 authors:
   - name: "Arata Hoshino"
     role: "Strategic and Venture Designer, United Arab Emirates"
