@@ -147,7 +147,6 @@ a:focus-visible {
 .eyebrow,
 .prose h3,
 .prose thead th,
-.page-date,
 .toc-note,
 .pager a,
 .site-footer {
@@ -491,11 +490,6 @@ main {
   margin-top: 0;
 }
 
-.titleblock .page-title {
-  margin-bottom: 0;
-  font-size: clamp(2.2rem, 5.4vw, 3.4rem);
-  font-weight: 700;
-}
 
 .page-subtitle {
   margin: 0.7em 0 0;
