@@ -187,7 +187,7 @@ main {
 .runhead-brand {
   display: block;
   color: var(--ink);
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: none;
 }
 
@@ -466,13 +466,13 @@ main {
 .author-name {
   margin: 0;
   color: var(--ink);
-  font-size: 1.05em;
+  font-size: 1em;   /* the size the body is set at */
 }
 
 .author-role {
   margin: 0.1em 0 0;
   color: var(--muted);
-  font-size: 0.74em;
+  font-size: 1em;
 }
 
 .author + .author {
@@ -482,7 +482,7 @@ main {
 .page-date {
   margin: 2em 0 0;
   color: var(--muted);
-  font-size: 0.74em;
+  font-size: 1em;
 }
 
 /* the title page sets the title at full size, over an italic subtitle */
