@@ -1,4 +1,4 @@
-# AI New Deal
+# The Far Side of the Constraint
 
 A minimal, essay-first Jekyll site set in the type system of the Arata Hoshino portfolio deck:
 a running head over a hairline rule, large light titles, uppercase letterspaced labels, and one

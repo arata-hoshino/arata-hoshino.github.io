@@ -1,5 +1,5 @@
 /* ------------------------------------------------------------------
-   AI New Deal
+   The Far Side of the Constraint
 
    The type system is lifted from the Arata Hoshino portfolio deck and
    rebuilt for continuous reading:
@@ -180,8 +180,10 @@ main {
 
 .runhead-brand {
   display: block;
+  max-width: 22em;      /* the title runs long: hold it to a few lines */
+  margin: 0 auto;
   color: var(--ink);
-  font-size: clamp(2rem, 5vw, 3.4rem);
+  font-size: clamp(1.7rem, 4.2vw, 2.9rem);
   line-height: 1.1;
   text-decoration: none;
 }
@@ -192,7 +194,8 @@ main {
 }
 
 .runhead-subtitle {
-  margin: 0.3em 0 0;
+  max-width: 38rem; /* the subtitle is a sentence: keep it to a measure */
+  margin: 0.6em auto 0;
   color: var(--ink);
   font-size: 1em;   /* the size the body is set at */
 }
@@ -475,6 +478,11 @@ main {
   margin: 0.5em 0 0;
   color: var(--muted);
   font-size: 0.74em;
+}
+
+/* with the title and byline in the masthead, the dateline opens the page */
+.titleblock > .page-dateline:first-child {
+  margin-top: 0;
 }
 
 /* The epigraph sits between the masthead and the body, held in from the
