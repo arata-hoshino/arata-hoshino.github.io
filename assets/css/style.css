@@ -143,7 +143,6 @@ a:focus-visible {
    shape: small, letterspaced, and either muted (metadata) or navy
    (something the reader is meant to act on).                          */
 
-.runhead-brand,
 .eyebrow,
 .prose h3,
 .prose thead th,
@@ -175,31 +174,31 @@ main {
 }
 
 .runhead {
-  padding: clamp(1.75rem, 4vw, 2.75rem) 0 1.5em;
-  border-bottom: 1px solid var(--rule);
-  text-align: center;
+  padding: clamp(1.75rem, 4vw, 2.75rem) 0 0;
+  border-top: 1px solid var(--rule);
+}
+
+/* the running head is set at the size of the navigation below it */
+.runhead-brand,
+.runhead-subtitle {
+  font-size: 0.86em;
+  line-height: 1.45;
 }
 
 .runhead-brand {
   display: block;
-  max-width: 22em;      /* the title runs long: hold it to a few lines */
-  margin: 0 auto;
   color: var(--ink);
-  font-size: clamp(1.7rem, 4.2vw, 2.9rem);
-  line-height: 1.1;
   text-decoration: none;
 }
 
 .runhead-brand:hover,
 .runhead-brand:focus-visible {
-  color: var(--ink);
+  color: var(--navy);
 }
 
 .runhead-subtitle {
-  max-width: 46rem; /* wide enough for the second line to set unbroken */
-  margin: 0.6em auto 0;
-  color: var(--ink);
-  font-size: 1em;   /* the size the body is set at */
+  margin: 0;
+  color: var(--muted);
 }
 
 /* -------------------------------------------------------------- nav */
@@ -208,7 +207,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5em 1.75em;
-  padding: 1.8em 0 0;
+  padding: 1.6em 0 0;
   font-size: 0.86em;
 }
 
@@ -471,8 +470,8 @@ main {
 }
 
 .author-role {
-  margin: 0.3em 0 0;
-  color: var(--ink);
+  margin: 0.1em 0 0;
+  color: var(--muted);
   font-size: 0.74em;
 }
 
@@ -486,9 +485,28 @@ main {
   font-size: 0.74em;
 }
 
-/* the title is in the masthead, so the first author opens the page */
+/* the title page sets the title at full size, over an italic subtitle */
 .titleblock > *:first-child {
   margin-top: 0;
+}
+
+.titleblock .page-title {
+  margin-bottom: 0;
+  font-size: clamp(2.2rem, 5.4vw, 3.4rem);
+  font-weight: 400;   /* large and light: emphasis comes from size */
+}
+
+.page-subtitle {
+  margin: 0.7em 0 0;
+  color: var(--ink);
+  font-size: 1.15em;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+/* the authors stand clear of the title above them */
+.titleblock .author:first-of-type {
+  margin-top: clamp(2.5rem, 6vw, 3.75rem);
 }
 
 /* The epigraph sits between the masthead and the body, held in from the

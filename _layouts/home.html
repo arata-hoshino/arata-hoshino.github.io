@@ -3,15 +3,16 @@ layout: default
 ---
 
 {% comment %}
-  The title page of the thesis: masthead block, epigraph, then the front
-  matter itself — executive summary, abstract, and the table of contents,
-  all of which are written in index.md.
+  The title page of the thesis: the title and its subtitle, the authors,
+  the date, the epigraph, then the front matter itself — the abstract and
+  the table of contents, both written in index.md.
 {% endcomment %}
 
 <article class="page">
   <header class="titleblock">
     {% if page.heading %}<h1 class="page-title">{{ page.heading }}</h1>{% endif %}
-    {% if page.deck %}<p class="page-deck">{{ page.deck }}</p>{% endif %}
+    {% if page.subtitle %}<p class="page-subtitle">{{ page.subtitle }}</p>{% endif %}
+
     {% for author in page.authors %}
       <div class="author">
         <p class="author-name">{{ author.name }}</p>
