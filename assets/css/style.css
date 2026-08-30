@@ -147,6 +147,7 @@ a:focus-visible {
 .eyebrow,
 .prose h3,
 .prose thead th,
+.author-name,
 .author-role,
 .page-date,
 .toc-note,
@@ -466,12 +467,12 @@ main {
 .author-name {
   margin: 0;
   color: var(--ink);
-  font-size: 1.45em;  /* the size a section head is set at */
+  font-size: 1.15em;
 }
 
 .author-role {
-  margin: 0.5em 0 0;
-  color: var(--muted);
+  margin: 0.3em 0 0;
+  color: var(--ink);
   font-size: 0.74em;
 }
 
