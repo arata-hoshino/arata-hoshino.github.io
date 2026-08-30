@@ -147,8 +147,8 @@ a:focus-visible {
 .eyebrow,
 .prose h3,
 .prose thead th,
-.page-byline,
-.page-dateline,
+.author-role,
+.page-date,
 .toc-note,
 .pager a,
 .site-footer {
@@ -463,19 +463,29 @@ main {
    annotated table of contents — number in the margin, title, then the
    chapter's own description, one hairline per row.                    */
 
-.page-byline {
+.author-name {
   margin: 0;
   color: var(--ink);
   font-size: 1.45em;  /* the size a section head is set at */
 }
 
-.page-dateline {
-  margin: 1em 0 0;
+.author-role {
+  margin: 0.5em 0 0;
   color: var(--muted);
   font-size: 0.74em;
 }
 
-/* the title is in the masthead, so the byline opens the page */
+.author + .author {
+  margin-top: 1.6em;
+}
+
+.page-date {
+  margin: 2em 0 0;
+  color: var(--muted);
+  font-size: 0.74em;
+}
+
+/* the title is in the masthead, so the first author opens the page */
 .titleblock > *:first-child {
   margin-top: 0;
 }

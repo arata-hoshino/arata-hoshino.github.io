@@ -12,8 +12,13 @@ layout: default
   <header class="titleblock">
     {% if page.heading %}<h1 class="page-title">{{ page.heading }}</h1>{% endif %}
     {% if page.deck %}<p class="page-deck">{{ page.deck }}</p>{% endif %}
-    {% if page.byline %}<p class="page-byline">{{ page.byline }}</p>{% endif %}
-    {% if page.dateline %}<p class="page-dateline">{{ page.dateline }}</p>{% endif %}
+    {% for author in page.authors %}
+      <div class="author">
+        <p class="author-name">{{ author.name }}</p>
+        {% if author.role %}<p class="author-role">{{ author.role }}</p>{% endif %}
+      </div>
+    {% endfor %}
+    {% if page.dateline %}<p class="page-date">{{ page.dateline }}</p>{% endif %}
   </header>
 
   {% if page.epigraph %}

@@ -1,8 +1,12 @@
 ---
 layout: home
 title: "The Far Side of the Constraint"
-byline: "Arata Hoshino"
-dateline: "United Arab Emirates · September 2026"
+authors:
+  - name: "Arata Hoshino"
+    role: "Strategic and Venture Designer, United Arab Emirates"
+  - name: "Kei Irizawa"
+    role: "Economics PhD, Yale University"
+dateline: "September 2026"
 epigraph: "Wealth consists of physical energy (as matter or radiation) combined with metaphysical know-what and know-how."
 epigraph_source: "R. Buckminster Fuller, <cite>Critical Path</cite> (1981), p.198"
 description: "A thesis on the one structural constraint behind stagnation, falling births, and artificial intelligence running into a wall of electricity — and on the civilization that lies on the far side of it."
