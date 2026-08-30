@@ -5,7 +5,7 @@ heading: "The Far Side of the Constraint"
 subtitle: "A Civilizational Thesis on Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
 authors:
   - name: "Arata Hoshino"
-    role: "Strategic and Venture Designer, United Arab Emirates"
+    role: "Strategic &amp; Venture Designer, United Arab Emirates"
   - name: "Kei Irizawa"
     role: "Economics PhD, Yale University"
 dateline: "September 2026"
