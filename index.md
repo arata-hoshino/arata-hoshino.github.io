@@ -1,28 +1,12 @@
 ---
 layout: home
 title: "The Far Side of the Constraint"
-dateline: "United Arab Emirates · August 2026 · Draft v0.6"
+byline: "Arata Hoshino"
+dateline: "United Arab Emirates · September 2026"
 epigraph: "Wealth consists of physical energy (as matter or radiation) combined with metaphysical know-what and know-how."
 epigraph_source: "R. Buckminster Fuller, <cite>Critical Path</cite> (1981), p.198"
 description: "A thesis on the one structural constraint behind stagnation, falling births, and artificial intelligence running into a wall of electricity — and on the civilization that lies on the far side of it."
 ---
-
-## Executive Summary
-
-This thesis is about a single structural constraint. Economic stagnation, collapsing birth
-rates, the failure of distribution, and artificial intelligence running into a wall of
-electricity are not four separate problems. They are four symptoms of that constraint.
-
-What a civilization can build is set by the product of three terms: institutions, the effective
-abundance of its energy, and its labour input. What it can build determines what it can make
-cheap; prices then determine the household; the household determines population. The order does
-not run backwards. That is why policies aimed downstream do not work.
-
-The constraint was not imposed. It was chosen, which means it can be lifted, and the reversal
-has already begun. This thesis describes the civilization on the far side of that constraint and
-asks where capital should sit within it. It is a hypothesis, offered with the conditions that
-would falsify it. The scarcest thing is neither generation technology nor capital. It is a site
-that is already connected.
 
 ## Abstract
 
@@ -79,7 +63,7 @@ companies whose fortunes turn over in a matter of months.
 <ol class="toc-list">
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">—</span>
-    <span class="toc-title">Prologue</span>
+    <span class="toc-title"><a href="/essays/prologue/">Prologue</a></span>
     <p class="toc-summary">The place where the given and the chosen change places. Two puzzles: the horse and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved.</p>
   </li>
 </ol>
@@ -89,12 +73,12 @@ companies whose fortunes turn over in a matter of months.
 <ol class="toc-list">
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">01</span>
-    <span class="toc-title">Everything is energy conversion</span>
+    <span class="toc-title"><a href="/essays/everything-is-energy-conversion/">Everything is energy conversion</a></span>
     <p class="toc-summary">A civilization's competitiveness is the product of institutions, the effective abundance of energy, and labour input. What that product settles is not wealth but what can be built from nothing, and what can be conceived at all. Britain in the 1840s and the UAE today. Windows open, and they also close. Stagnation, prices, distribution, and births are symptoms of one constraint.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">02</span>
-    <span class="toc-title">Two endgoals, twelve thousand years</span>
+    <span class="toc-title"><a href="/essays/two-endgoals-twelve-thousand-years/">Two endgoals, twelve thousand years</a></span>
     <p class="toc-summary">The efficiency of civilization is a double asymptotic process in which the convergence cost of matter configuration and the convergence cost of predictive models each fall toward zero. The two compete over the same problem, and the side with the lower convergence cost wins. Capital flowed to the virtual side for thirty years because that side needed less energy, and in the 2020s the virtual side hit the wall of electricity. The industrial revolution never ended. The measure of human worth has changed twice. And the equation of national power is rewritten from “population times productivity” into the product of three terms.</p>
   </li>
 </ol>
@@ -104,12 +88,12 @@ companies whose fortunes turn over in a matter of months.
 <ol class="toc-list">
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">03</span>
-    <span class="toc-title">A scarcity of our own tying</span>
+    <span class="toc-title"><a href="/essays/a-scarcity-of-our-own-tying/">A scarcity of our own tying</a></span>
     <p class="toc-summary">The transitional period since the 1970s. The system cost of renewables. Self-binding under information asymmetry. A swelling virtual world and a stalled physical one. Why the science of the 1910s is still not implemented.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">04</span>
-    <span class="toc-title">The household Malthus</span>
+    <span class="toc-title"><a href="/essays/the-household-malthus/">The household Malthus</a></span>
     <p class="toc-summary">Falling fertility is a price phenomenon, not a cultural one. The Malthusian trap did not disappear; it moved from food to the household budget. China as the largest case. Population is not the objective but the slowest-moving symptom. And a record of a hypothesis raised and discarded.</p>
   </li>
 </ol>
@@ -119,17 +103,17 @@ companies whose fortunes turn over in a matter of months.
 <ol class="toc-list">
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">05</span>
-    <span class="toc-title">The abundance cascade</span>
+    <span class="toc-title"><a href="/essays/the-abundance-cascade/">The abundance cascade</a></span>
     <p class="toc-summary">What follows the lifting of a constraint is not a discount but an explosion of demand. Three centuries of light. The ordering of energy sources and the timeline for fusion. Honesty about the speed of release. The decades-long trough in demand created by population moving last. Automation can bypass only one of the four head-counts. The rate limiter is not generation but connection.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">06</span>
-    <span class="toc-title">The crisis of distribution</span>
+    <span class="toc-title"><a href="/essays/the-crisis-of-distribution/">The crisis of distribution</a></span>
     <p class="toc-summary">Task-based distribution breaks in the 2030s. The wave of democratic socialism, and capital flight as its mechanism of failure. An update to capitalism that makes every citizen an investor. The cost of becoming a capitalist falls. The AI commonwealth. And the four head-counts return.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">07</span>
-    <span class="toc-title">Beyond price</span>
+    <span class="toc-title"><a href="/essays/beyond-price/">Beyond price</a></span>
     <p class="toc-summary">Adam Smith's proxy. Service-dominant logic. The retirement of money as an accounting system. When use value becomes measurable for the first time, currency becomes data. The release of the axis of expenditure, and the second gate on births.</p>
   </li>
 </ol>
@@ -139,12 +123,12 @@ companies whose fortunes turn over in a matter of months.
 <ol class="toc-list">
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">08</span>
-    <span class="toc-title">A map of clusters</span>
+    <span class="toc-title"><a href="/essays/a-map-of-clusters/">A map of clusters</a></span>
     <p class="toc-summary">The unit is the stack. The five-layer cake and two techno-blocs. Scoring the regions against the equation. Inside China's vertical integration, and a country too well built to turn. The Gulf's weakness. The end of the twentieth-century development model. What to do with orbit. What comes after victory. The upper right of the map is still empty.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">—</span>
-    <span class="toc-title">Final chapter. The stakes</span>
+    <span class="toc-title"><a href="/essays/the-stakes/">Final chapter. The stakes</a></span>
     <p class="toc-summary">A list of falsifiable predictions.</p>
   </li>
 </ol>
