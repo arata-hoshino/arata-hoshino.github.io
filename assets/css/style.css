@@ -147,8 +147,8 @@ a:focus-visible {
 .eyebrow,
 .prose h3,
 .prose thead th,
-.contents-head,
-.section-label,
+.page-dateline,
+.toc-note,
 .pager a,
 .site-footer {
   text-transform: uppercase;
@@ -459,68 +459,95 @@ main {
   color: var(--ink);
 }
 
-/* ------------------------------------------------------- home page
+/* -------------------------------------------------------- title page
 
-   The deck's table of contents: number, title, summary, and the date
-   held out in its own right-hand column, one hairline per row.        */
+   The front matter of the thesis: masthead block, epigraph, and an
+   annotated table of contents — number in the margin, title, then the
+   chapter's own description, one hairline per row.                    */
 
-.contents {
-  margin: clamp(4rem, 9vw, 6rem) 0 0;
+.page-byline {
+  margin: 2.2em 0 0;
+  color: var(--ink);
+  font-size: 1.05em;
 }
 
-.contents-head,
-.section-label {
-  display: block;
-  margin: 0 0 1em;
+.page-dateline {
+  margin: 0.5em 0 0;
   color: var(--muted);
   font-size: 0.74em;
 }
 
-.section-label {
-  margin-bottom: 1.4em;
+/* The epigraph sits between the masthead and the body, held in from the
+   measure on both sides, with its source set flush right. */
+.epigraph {
+  margin: clamp(3rem, 7vw, 4.5rem) 0 0;
+  padding: 0 clamp(0rem, 4vw, 2.5rem);
 }
 
-.abstract {
-  margin-top: clamp(3rem, 7vw, 4.5rem);
+.epigraph blockquote {
+  margin: 0;
+  color: var(--ink);
+  font-style: italic;
 }
 
-.abstract .prose {
-  margin-top: 0;
+.epigraph p { margin: 0; }
+
+.epigraph figcaption {
+  margin-top: 0.9em;
+  color: var(--muted);
+  font-size: 0.85em;
+  text-align: right;
 }
 
-.contents-list {
+.epigraph cite { font-style: italic; }
+
+/* ------------------------------------------------ table of contents */
+
+.toc-note {
+  margin: 0 0 1.8em;
+  color: var(--muted);
+  font-size: 0.74em;
+}
+
+.toc-part {
+  /* an h3, so it inherits the navy uppercase label from .prose h3 */
+  margin: 2.6em 0 1em;
+}
+
+.prose .toc-list {
   margin: 0;
   padding: 0;
   list-style: none;
   border-top: 1px solid var(--rule);
 }
 
-.contents-item {
+.prose .toc-item {
   display: grid;
   grid-template-columns: 3.25em minmax(0, 1fr);
   align-items: baseline;
   gap: 0 1.5em;
+  margin: 0;
   padding: 1.5em 0;
   border-bottom: 1px solid var(--rule);
 }
 
-.contents-number {
+/* the prose list rules do not apply here: this list carries its own
+   numbers, in their own column */
+.prose .toc-item { padding-left: 0; }
+.prose .toc-item::before { content: none; }
+
+.toc-number {
   color: var(--navy);
   font-size: 0.82em;
 }
 
-.contents-link {
+.toc-title {
   color: var(--ink);
   font-size: 1.15em;
   line-height: 1.3;
 }
 
-.contents-link:hover,
-.contents-link:focus-visible {
-  color: var(--navy);
-}
-
-.contents-summary {
+.toc-summary {
   grid-column: 2;
   margin: 0.5em 0 0;
   color: var(--muted);
@@ -528,10 +555,22 @@ main {
   line-height: 1.55;
 }
 
-.signature {
-  margin: 3.5em 0 0;
+/* --------------------------------------------------------- endnote
+
+   The two standing notes that close the front matter: how each chapter
+   is sourced, and what the thesis leaves alone.                       */
+
+.endnote {
+  margin: clamp(3.5rem, 8vw, 5rem) 0 0;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--rule);
   color: var(--muted);
+  font-size: 0.88em;
+  font-style: italic;
 }
+
+.endnote p { margin: 0 0 1em; }
+.endnote p:last-child { margin-bottom: 0; }
 
 /* ------------------------------------------------------- section rail
 
@@ -649,7 +688,7 @@ main {
 /* -------------------------------------------------------- responsive */
 
 @media (max-width: 34rem) {
-  .contents-item {
+  .prose .toc-item {
     grid-template-columns: 2.75em minmax(0, 1fr);
   }
 

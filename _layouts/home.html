@@ -2,32 +2,28 @@
 layout: default
 ---
 
+{% comment %}
+  The title page of the thesis: masthead block, epigraph, then the front
+  matter itself — executive summary, abstract, and the table of contents,
+  all of which are written in index.md.
+{% endcomment %}
+
 <article class="page">
-  {% if page.heading %}<h1 class="page-title">{{ page.heading }}</h1>{% endif %}
-  {% if page.deck %}<p class="page-deck">{{ page.deck }}</p>{% endif %}
+  <header class="titleblock">
+    {% if page.heading %}<h1 class="page-title">{{ page.heading }}</h1>{% endif %}
+    {% if page.deck %}<p class="page-deck">{{ page.deck }}</p>{% endif %}
+    {% if page.byline %}<p class="page-byline">{{ page.byline }}</p>{% endif %}
+    {% if page.dateline %}<p class="page-dateline">{{ page.dateline }}</p>{% endif %}
+  </header>
 
-  <section class="abstract" aria-labelledby="abstract-head">
-    <h2 id="abstract-head" class="section-label">Abstract</h2>
-    <div class="prose">
-      {{ content }}
-    </div>
-  </section>
+  {% if page.epigraph %}
+    <figure class="epigraph">
+      <blockquote><p>{{ page.epigraph }}</p></blockquote>
+      {% if page.epigraph_source %}<figcaption>— {{ page.epigraph_source }}</figcaption>{% endif %}
+    </figure>
+  {% endif %}
 
-  <section class="contents" aria-labelledby="contents-head">
-    <h2 id="contents-head" class="contents-head">The Series</h2>
-    <ol class="contents-list">
-      {% assign essays = site.essays | sort: "order" %}
-      {% for essay in essays %}
-        <li class="contents-item">
-          <span class="contents-number" aria-hidden="true">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
-          <a class="contents-link" href="{{ essay.url | relative_url }}">{{ essay.title }}</a>
-          {% if essay.summary %}<p class="contents-summary">{{ essay.summary }}</p>{% endif %}
-        </li>
-      {% else %}
-        <li class="contents-item">Add a Markdown file to <code>_essays/</code> and it will appear here.</li>
-      {% endfor %}
-    </ol>
-  </section>
-
-  {% if page.signature %}<p class="signature">{{ page.signature }}</p>{% endif %}
+  <div class="prose">
+    {{ content }}
+  </div>
 </article>
