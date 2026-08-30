@@ -189,6 +189,8 @@ main {
   display: block;
   color: var(--ink);
   font-weight: 700;
+  /* the face stops at 700, so the last bit of weight is painted on */
+  -webkit-text-stroke: 0.35px currentColor;
   text-decoration: none;
 }
 
@@ -483,7 +485,7 @@ main {
 .author-name {
   margin: 0;
   color: var(--ink);
-  font-size: 1.25em;
+  font-size: 1.45em;
 }
 
 .author-role {
@@ -495,7 +497,7 @@ main {
 /* name, place and date are one block: a fixed leading keeps the three
    lines evenly spaced even though the name is set larger */
 .author {
-  line-height: 1.9rem;
+  line-height: 2.2rem;
 }
 
 .author + .author {
@@ -506,7 +508,7 @@ main {
   margin: 0;
   color: var(--muted);
   font-size: 1em;
-  line-height: 1.9rem;   /* the third line of the block above it */
+  line-height: 2.2rem;   /* the third line of the block above it */
 }
 
 /* the title page sets the title at full size, over an italic subtitle */
