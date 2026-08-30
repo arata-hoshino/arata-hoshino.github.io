@@ -5,7 +5,7 @@ heading: "The Far Side of the Constraint"
 subtitle: "A Civilizational Thesis on Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
 authors:
   - name: "Arata Hoshino"
-    role: "Strategic &amp; Venture Designer, United Arab Emirates"
+    role: "United Arab Emirates"
 dateline: "September 2026"
 epigraph: "“Wealth consists of physical energy (as matter or radiation) combined with metaphysical know-what and know-how.”"
 epigraph_source: "R. Buckminster Fuller, <cite>Critical Path</cite> (1981), p.198"

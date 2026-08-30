@@ -485,9 +485,10 @@ main {
 }
 
 .page-date {
-  margin: 0.85em 0 0;
+  margin: 0;
   color: var(--muted);
   font-size: 1em;
+  line-height: 1.25;   /* the third line of the block above it */
 }
 
 /* the title page sets the title at full size, over an italic subtitle */
