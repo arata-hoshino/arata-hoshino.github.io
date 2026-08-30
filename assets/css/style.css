@@ -177,11 +177,12 @@ main {
   text-align: center;
 }
 
-/* the running head is set at the size of the navigation below it */
+/* the running head keeps the size of the navigation below it, in capitals */
 .runhead-brand,
 .runhead-subtitle {
   font-size: 0.86em;
   line-height: 1.45;
+  text-transform: uppercase;
 }
 
 .runhead-brand {
@@ -466,7 +467,7 @@ main {
 .author-name {
   margin: 0;
   color: var(--ink);
-  font-size: 1em;   /* the size the body is set at */
+  font-size: 1.25em;
 }
 
 .author-role {
@@ -475,9 +476,10 @@ main {
   font-size: 1em;
 }
 
-/* the name and its role are one unit: set them tight */
+/* name, place and date are one block: a fixed leading keeps the three
+   lines evenly spaced even though the name is set larger */
 .author {
-  line-height: 1.25;
+  line-height: 1.6rem;
 }
 
 .author + .author {
@@ -488,7 +490,7 @@ main {
   margin: 0;
   color: var(--muted);
   font-size: 1em;
-  line-height: 1.25;   /* the third line of the block above it */
+  line-height: 1.6rem;   /* the third line of the block above it */
 }
 
 /* the title page sets the title at full size, over an italic subtitle */
@@ -616,6 +618,54 @@ main {
 
 .endnote p { margin: 0 0 1em; }
 .endnote p:last-child { margin-bottom: 0; }
+
+/* -------------------------------------------------- figures in a chapter
+
+   A figure carries its own title and lede above the plot and its caption
+   below, all set at the sizes the labels use.                          */
+
+.prose .figure {
+  margin: 2.8em 0;
+}
+
+.figure-title {
+  margin: 0 0 0.4em;
+  color: var(--ink);
+  font-size: 0.92em;
+  font-weight: 600;
+}
+
+.figure-lede {
+  margin: 0 0 1.2em;
+  color: var(--muted);
+  font-size: 0.85em;
+}
+
+.prose .figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+}
+
+.prose .figure figcaption {
+  margin-top: 1em;
+  color: var(--muted);
+  font-size: 0.85em;
+  line-height: 1.5;
+  text-align: left;
+}
+
+/* The equations of 1.2: set apart from the running text, on the tint. */
+.equation {
+  margin: 1.8em 0;
+  padding: 1em 1.25em;
+  border-radius: 6px;
+  background: var(--tint-soft);
+  color: var(--ink);
+  line-height: 1.5;
+  text-align: center;
+}
 
 /* ------------------------------------------------------- section rail
 
