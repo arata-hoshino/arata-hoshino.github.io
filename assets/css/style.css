@@ -479,7 +479,7 @@ main {
 /* name, place and date are one block: a fixed leading keeps the three
    lines evenly spaced even though the name is set larger */
 .author {
-  line-height: 1.6rem;
+  line-height: 1.9rem;
 }
 
 .author + .author {
@@ -490,7 +490,7 @@ main {
   margin: 0;
   color: var(--muted);
   font-size: 1em;
-  line-height: 1.6rem;   /* the third line of the block above it */
+  line-height: 1.9rem;   /* the third line of the block above it */
 }
 
 /* the title page sets the title at full size, over an italic subtitle */
@@ -507,15 +507,15 @@ main {
   line-height: 1.4;
 }
 
-/* the authors follow the subtitle closely */
+/* the same gap above the name as below the block, and a little wider */
 .titleblock .author:first-of-type {
-  margin-top: clamp(1.5rem, 3.5vw, 2.25rem);
+  margin-top: clamp(2.75rem, 6vw, 3.75rem);
 }
 
 /* The epigraph sits between the title block and the body, in a pale panel
    the width of the column, with its source set flush right. */
 .epigraph {
-  margin: clamp(2.5rem, 5.5vw, 3.5rem) 0 0;
+  margin: clamp(2.75rem, 6vw, 3.75rem) 0 0;
   padding: clamp(1.5rem, 4vw, 2.25rem);
   border-radius: 6px;
   background: var(--tint-soft);

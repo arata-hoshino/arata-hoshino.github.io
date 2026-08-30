@@ -60,10 +60,7 @@ But a machine without electricity does not run, and energy without machines stil
 so the next section multiplies the two as separate terms.
 
 <figure class="figure">
-  <p class="figure-title">Figure 1-1 · Energy commanded per person, in human-body equivalents</p>
-  <p class="figure-lede">one mark = 100 watts of continuous power, roughly one human body at rest; each row is 24 marks</p>
   <img src="/assets/figures/figure-1-1.png" alt="An isotype chart. Each mark is 100 watts of continuous power. A hunter-gatherer commands one mark at 120 watts; the world in 1500, two marks at 180 watts; the world in 1800, three marks at 300 watts; the world in 1900, nine marks at 890 watts; the world in 2024, twenty-four marks at 2,430 watts; and the United States in 2024, eighty-eight marks at 8,767 watts.">
-  <figcaption>Twelve thousand years separate the top row from the bottom, and almost all of the difference arrives after 1800. Values before that date are order-of-magnitude estimates. Source: Our World in Data (CC BY 4.0); Smil, <cite>Energy and Civilization</cite> (2017).</figcaption>
 </figure>
 
 ## 1.2 What determines a civilization's competitiveness
@@ -209,9 +206,7 @@ to two or three times the American level [15]. The word *Deindustrialisierung* b
 to its economic debate after that.
 
 <figure class="figure">
-  <p class="figure-title">Figure 1-2 · Japan: the trade balance after the nuclear shutdown</p>
   <img src="/assets/figures/figure-1-2.png" alt="A combination chart, 2008 to 2015. Bars give Japan's trade balance in trillions of yen, in surplus through 2010 and in deficit from 2011, deepest in 2013 and 2014. A line gives the LNG import price in dollars per million Btu, rising from about 9 in 2009 to about 17 in 2012 before falling back in 2015.">
-  <figcaption>A swing of roughly 20 trillion yen in three years, paid to foreign energy suppliers. Source: Ministry of Finance trade statistics; IEEJ.</figcaption>
 </figure>
 
 **The United States, where it was reopened.** Shale pinned natural gas at a third of European
