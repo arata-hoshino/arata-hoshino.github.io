@@ -147,8 +147,6 @@ a:focus-visible {
 .eyebrow,
 .prose h3,
 .prose thead th,
-.author-name,
-.author-role,
 .page-date,
 .toc-note,
 .pager a,
@@ -469,7 +467,7 @@ main {
 .author-name {
   margin: 0;
   color: var(--ink);
-  font-size: 1.15em;
+  font-size: 1.05em;
 }
 
 .author-role {
@@ -507,9 +505,9 @@ main {
   line-height: 1.4;
 }
 
-/* the authors stand clear of the title above them */
+/* the authors follow the subtitle closely */
 .titleblock .author:first-of-type {
-  margin-top: clamp(2.5rem, 6vw, 3.75rem);
+  margin-top: clamp(1.5rem, 3.5vw, 2.25rem);
 }
 
 /* The epigraph sits between the title block and the body, in a pale panel
