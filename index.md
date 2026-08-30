@@ -26,8 +26,8 @@ constraints being lifted, energy and labour input, together with the distributio
 They do not wait on symptomatic treatment.
 
 The argument of this thesis is that contemporary civilization faces one structural constraint,
-a stalled capacity to build, defined by three deficits: A) the absence of energy abundance,
-B) a lag in automation, and C) the absence of institutions. The macroeconomic and social
+a stalled capacity to build, defined by three deficits: I) the absence of energy abundance,
+II) a lag in automation, and III) the absence of institutions. The macroeconomic and social
 stagnation we observe, including economic stagnation and population collapse, is not the cause.
 It is the set of symptoms the constraint produced.
 

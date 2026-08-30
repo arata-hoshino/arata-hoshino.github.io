@@ -470,17 +470,22 @@ main {
 }
 
 .author-role {
-  margin: 0.1em 0 0;
+  margin: 0;
   color: var(--muted);
   font-size: 1em;
 }
 
+/* the name and its role are one unit: set them tight */
+.author {
+  line-height: 1.25;
+}
+
 .author + .author {
-  margin-top: 1.6em;
+  margin-top: 0.85em;
 }
 
 .page-date {
-  margin: 2em 0 0;
+  margin: 0.85em 0 0;
   color: var(--muted);
   font-size: 1em;
 }
@@ -507,10 +512,15 @@ main {
 /* The epigraph sits between the title block and the body, in a pale panel
    the width of the column, with its source set flush right. */
 .epigraph {
-  margin: clamp(3rem, 7vw, 4.5rem) 0 0;
+  margin: clamp(1.75rem, 4vw, 2.5rem) 0 0;
   padding: clamp(1.5rem, 4vw, 2.25rem);
   border-radius: 6px;
   background: var(--tint-soft);
+}
+
+/* the abstract follows the epigraph closely */
+.epigraph + .prose {
+  margin-top: clamp(1.75rem, 4vw, 2.5rem);
 }
 
 .epigraph blockquote {
