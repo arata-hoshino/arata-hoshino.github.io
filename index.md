@@ -6,8 +6,6 @@ subtitle: "A Civilizational Thesis on Energy Abundance, Physical Automation,<br>
 authors:
   - name: "Arata Hoshino"
     role: "Strategic &amp; Venture Designer, United Arab Emirates"
-  - name: "Kei Irizawa"
-    role: "Economics PhD, Yale University"
 dateline: "September 2026"
 epigraph: "“Wealth consists of physical energy (as matter or radiation) combined with metaphysical know-what and know-how.”"
 epigraph_source: "R. Buckminster Fuller, <cite>Critical Path</cite> (1981), p.198"
@@ -26,8 +24,8 @@ constraints being lifted, energy and labour input, together with the distributio
 They do not wait on symptomatic treatment.
 
 The argument of this thesis is that contemporary civilization faces one structural constraint,
-a stalled capacity to build, defined by three deficits: I) the absence of energy abundance,
-II) a lag in automation, and III) the absence of institutions. The macroeconomic and social
+a stalled capacity to build, defined by three deficits: i) the absence of energy abundance,
+ii) a lag in automation, and iii) the absence of institutions. The macroeconomic and social
 stagnation we observe, including economic stagnation and population collapse, is not the cause.
 It is the set of symptoms the constraint produced.
 

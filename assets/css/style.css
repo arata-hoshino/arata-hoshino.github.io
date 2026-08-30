@@ -512,7 +512,7 @@ main {
 /* The epigraph sits between the title block and the body, in a pale panel
    the width of the column, with its source set flush right. */
 .epigraph {
-  margin: clamp(1.75rem, 4vw, 2.5rem) 0 0;
+  margin: clamp(2.5rem, 5.5vw, 3.5rem) 0 0;
   padding: clamp(1.5rem, 4vw, 2.25rem);
   border-radius: 6px;
   background: var(--tint-soft);

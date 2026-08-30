@@ -16,9 +16,10 @@ that, I worked in VC and strategy consulting in San Francisco and Singapore. Fro
 advised UAE ministries on economic strategy at a policy advisory firm spun out of the OECD and
 Harvard.
 
-I'm currently working on this paper with
-[Kei Irizawa](https://www.linkedin.com/in/kei-irizawa-211800121/){:target="_blank" rel="noopener"},
-a classmate since junior high.
+I am grateful to
+[Kei Irizawa](https://www.linkedin.com/in/kei-irizawa-211800121/){:target="_blank" rel="noopener"}
+(a classmate since junior high) for reviewing the data and the structure of the argument. The
+errors that remain are mine.
 
 You can reach me by [email](mailto:arata.h.hoshino@gmail.com). A summary is on
 [LinkedIn](https://www.linkedin.com/in/arata-hoshino/){:target="_blank" rel="noopener"}, the
