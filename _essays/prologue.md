@@ -9,7 +9,7 @@ of that. The future of computation can indeed be seen from San Francisco. But th
 civilization, which is to say the future of energy, population, and distribution, is visible
 first from the United Arab Emirates, where I live. This thesis is that report.
 
-## Here, the given and the chosen change places
+## Where the given and the chosen change places
 
 The first thing that goes wrong when you live in the Gulf is your sense of what can be moved and
 what cannot. What the advanced economies treat as fixed is inverted here.
