@@ -486,7 +486,7 @@ main {
 /* The rule that closes the body of a chapter and opens its apparatus:
    the notes and the objections. It is meant to be felt as a break. */
 .prose .rule-major {
-  margin: clamp(5rem, 11vw, 8rem) 0 clamp(3rem, 6vw, 4.5rem);
+  margin: clamp(8rem, 17vw, 13rem) 0 clamp(3.5rem, 7vw, 5rem);
 }
 
 .prose .rule-major + h2 {
