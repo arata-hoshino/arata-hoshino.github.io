@@ -17,8 +17,8 @@ advised UAE ministries on economic strategy at a policy advisory firm spun out o
 Harvard.
 
 I am grateful to
-[Kei Irizawa](https://www.linkedin.com/in/kei-irizawa-211800121/){:target="_blank" rel="noopener"}
-(a classmate since junior high) for reviewing the data and the structure of the argument. The
+[Kei Irizawa](https://www.linkedin.com/in/kei-irizawa-211800121/){:target="_blank" rel="noopener"},
+a classmate since junior high, for reviewing the data and the structure of the argument. The
 errors that remain are mine.
 
 You can reach me by [email](mailto:arata.h.hoshino@gmail.com). A summary is on
