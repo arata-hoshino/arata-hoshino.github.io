@@ -653,8 +653,8 @@ main {
 
 /* --------------------------------------------------------- endnote
 
-   The two standing notes that close the front matter: how each chapter
-   is sourced, and what the thesis leaves alone.                       */
+   The line that closes the contents page: the terms on which the thesis
+   may be quoted.                                                       */
 
 .endnote {
   margin: clamp(3.5rem, 8vw, 5rem) 0 0;
@@ -662,7 +662,6 @@ main {
   border-top: 1px solid var(--rule);
   color: var(--muted);
   font-size: 0.88em;
-  font-style: italic;
 }
 
 .endnote p { margin: 0 0 1em; }

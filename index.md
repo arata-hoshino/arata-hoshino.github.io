@@ -140,14 +140,6 @@ companies whose fortunes turn over in a matter of months.
 </div>
 
 <div class="endnote">
-  <p>This thesis places “Notes and Sources” and “Objections and Limits” at the end of each
-  chapter. The body carries only the bones of the argument; figures, sources, and the handling of
-  anticipated objections are gathered below. For the final chapter the list of falsifiable
-  predictions serves that role itself.</p>
-
-  <p>This thesis does not treat geopolitics. Rivalry between states, alliances, deterrence, and
-  the succession of hegemony each require a book of their own. Chapter 8 is about where the
-  variables have gathered, not about power. It gives China and the United States the most space
-  because they are the largest concentrations of those variables, not in order to discuss their
-  contest.</p>
+  <p>© 2026 Arata Hoshino. Quotation is welcome, but always cite the source. Using the material
+  of this thesis without attribution is plagiarism and an infringement of copyright.</p>
 </div>
