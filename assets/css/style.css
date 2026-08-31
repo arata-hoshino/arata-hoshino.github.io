@@ -60,6 +60,7 @@
   --ink: #1a1d21;      /* titles and statements */
   --body: #3c4147;     /* running text */
   --muted: #8b9098;    /* labels, captions, metadata */
+  --quiet: #5f666e;    /* the apparatus: a step back from the body */
   --navy: #1b3a5c;     /* the single accent: labels, numbers, links */
   --rule: #dfe3e8;     /* hairlines */
   --tint: #eef1f5;     /* pale panels */
@@ -480,6 +481,7 @@ main {
 /* The apparatus of a chapter: the notes and the objections, set a step
    down from the body they belong to. */
 .prose .apparatus {
+  color: var(--quiet);
   font-size: 0.9em;
 }
 
