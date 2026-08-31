@@ -696,7 +696,27 @@ main {
   text-align: left;
 }
 
-/* The equations of 1.2: set apart from the running text, on the tint. */
+/* A figure whose plot is still to come: the slot, named, with the caption
+   it will carry. */
+.figure-callout {
+  margin: 2.8em 0;
+  padding: 1.25em 1.5em;
+  border-radius: 6px;
+  background: var(--tint-soft);
+}
+
+.figure-callout .figure-title {
+  margin: 0;
+}
+
+.figure-caption {
+  margin: 0.5em 0 0;
+  color: var(--muted);
+  font-size: 0.85em;
+  line-height: 1.5;
+}
+
+/* The equations: set apart from the running text, on the tint. */
 .equation {
   margin: 1.8em 0;
   padding: 1em 1.25em;

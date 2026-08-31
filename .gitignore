@@ -5,3 +5,6 @@ _site/
 .bundle/
 vendor/
 .DS_Store
+
+# the working drafts of the thesis, imported by tools/import_chapter.py
+drafts/
