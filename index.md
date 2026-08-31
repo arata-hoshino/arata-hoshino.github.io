@@ -68,7 +68,7 @@ companies whose fortunes turn over in a matter of months.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">—</span>
     <span class="toc-title"><a href="/essays/prologue/">Prologue</a></span>
-    <p class="toc-summary">The place where the given and the chosen change places. Two puzzles: the horse and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved.</p>
+    <p class="toc-summary">Where the given and the chosen change places. Two puzzles: the horse and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved.</p>
   </li>
 </ol>
 

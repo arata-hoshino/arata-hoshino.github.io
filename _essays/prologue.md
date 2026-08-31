@@ -1,10 +1,10 @@
 ---
 title: "Prologue"
 order: 1
-summary: "The place where the given and the chosen change places. Two puzzles: the horse and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved."
+summary: "Where the given and the chosen change places. Two puzzles: the horse and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved."
 ---
 
-You can see the future first in San Francisco, wrote Leopold Aschenbrenner [1]. I agree with half
+You can see the future first in San Francisco, wrote Leopold Aschenbrenner.<sup class="noteref"><a href="#note-1">1</a></sup> I agree with half
 of that. The future of computation can indeed be seen from San Francisco. But the future of
 civilization, which is to say the future of energy, population, and distribution, is visible
 first from the United Arab Emirates, where I live. This thesis is that report.
@@ -16,13 +16,13 @@ what cannot. What the advanced economies treat as fixed is inverted here.
 
 First, energy. In the advanced economies energy is a cost, and supply is planned against demand.
 Here the order runs the other way. Neither Barakah's 5.6 gigawatts of nuclear nor Al Dhafra's 2
-gigawatts of solar was built by waiting for demand to accumulate [2]. You lay the power down
+gigawatts of solar was built by waiting for demand to accumulate.<sup class="noteref"><a href="#note-2">2</a></sup> You lay the power down
 first and decide what to build on it afterwards. The question that is visible here is different
 too. Not what a kilowatt-hour costs, but how many gigawatts you can use, for how many years,
 without counting them. These are two questions wearing similar faces.
 
 Second, fertility. In the same city, under the same climate and the same prices, fertility among
-UAE nationals and among all residents differs by nearly a factor of three [3]. The only
+UAE nationals and among all residents differs by nearly a factor of three.<sup class="noteref"><a href="#note-3">3</a></sup> The only
 difference is whether the population settles or rotates. People who come to earn and go home in
 a few years do not have children there. A difference in culture cannot explain the scene. A
 difference in settlement and in the design of distribution can.
@@ -42,7 +42,7 @@ Beyond that, let me set down the two questions that made me write.
 
 At the start of the industrial revolution, if you had asked people what they wanted, they would
 have said a faster carriage. What arrived was the railway, and then the automobile. Something
-nobody ordered delivered what everybody wanted [4]. What is the nature of that substitution?
+nobody ordered delivered what everybody wanted.<sup class="noteref"><a href="#note-4">4</a></sup> What is the nature of that substitution?
 
 And there is the humanoid robot that appeared in almost every account of the future written in
 the 1980s. The value that the shopping robot was supposed to deliver was taken instead by
@@ -64,7 +64,7 @@ Let me say one thing in advance. In the discourse of 2026 the phrase "energy abu
 circulates almost entirely within the context of AI. How to supply data centres with power; how
 to thicken the bottom layer of what Jensen Huang calls the five-layer cake. His five layers
 stack in the order of energy, chips, infrastructure, models, and applications. That the bottom
-layer is energy is the same claim this thesis makes [5].
+layer is energy is the same claim this thesis makes.<sup class="noteref"><a href="#note-5">5</a></sup>
 
 This thesis does not belong to that context. The power problem of data centres is merely the
 newest instance of its subject. What this thesis treats is a far larger and far older structure:
@@ -82,7 +82,7 @@ half a century afterward Britain fought over that ceiling. The Corn Laws, the Po
 and wages. The argument reached a political settlement in 1846, but what moved the height of the
 ceiling itself was not the argument. It was coal. To obtain by the sustainable harvest of
 woodland the heat that England was digging out of the ground in 1850 would have required 48.1
-million acres, which is one and a half times the surface of the country [6].
+million acres, which is one and a half times the surface of the country.<sup class="noteref"><a href="#note-6">6</a></sup>
 
 Malthus's logic was correct about the world he was describing. In an economy running on that
 year's sunlight alone, output is bound to land. What broke was not the logic. It was the
@@ -163,27 +163,30 @@ So we begin with the analysis of civilization.
 
 ## Notes and Sources
 
-**[1] San Francisco.** Leopold Aschenbrenner, "Introduction," *Situational Awareness: The Decade
+**1. San Francisco.** Leopold Aschenbrenner, "Introduction," *Situational Awareness: The Decade
 Ahead*, June 2024,
 [situational-awareness.ai](https://situational-awareness.ai/){:target="_blank" rel="noopener"}.
 The opening sentence reads "You can see the future first in San Francisco."
+{: #note-1 .note}
 
-**[2] Energy in the UAE.** The Barakah nuclear plant comprises four APR1400 units for a combined
+**2. Energy in the UAE.** The Barakah nuclear plant comprises four APR1400 units for a combined
 5.6 GW, covering up to 25 percent of national electricity demand at full output (Emirates
 Nuclear Energy Corporation). Al Dhafra solar is 2 GW, and its 2020 award price of 1.35 US cents
 per kilowatt-hour was the lowest in the world at the time (Emirates Water and Electricity
 Company, 2020). **What the auction settled was the developer and the price; the procured
 capacity itself was fixed in advance.** The fuller picture, including historically subsidised
 domestic gas, is in the notes to Chapter 1.
+{: #note-2 .note}
 
-**[3] The UAE's two fertility rates.** The total fertility rate of Emirati women fell from 6.7 in
+**3. The UAE's two fertility rates.** The total fertility rate of Emirati women fell from 6.7 in
 the 1970s to 3.7 in 2017 (Shukla, Karabchuk & Al Neyadi, *Reproductive Health* 20:138, 2023;
 underlying figures from the UAE Federal Competitiveness and Statistics Centre). **The source
 says "the 1970s," not a single year of 1970.** For the same year of 2017 the all-resident figure
 is 1.35, and the most recent figure for 2024 is 1.21 (World Bank). Detail in the notes to
 Chapter 1.
+{: #note-3 .note}
 
-**[4] From carriage to railway and automobile.** The question in the body is a thought
+**4. From carriage to railway and automobile.** The question in the body is a thought
 experiment, not a quotation. **The well-known line "if I had asked customers what they wanted,
 they would have said a faster horse" is attributed to Henry Ford, but has no source.** Ford died
 in 1947; the first record linking the phrasing to his name is from 1999, and the first
@@ -198,11 +201,13 @@ registrations rose from 468,500 in 1910 to 26,749,853 in 1930 (Federal Highway A
 *Highway Statistics Summary to 1995*, Table MV-200, 1997). A New York traffic count first
 recorded automobiles outnumbering horses in 1912 (Eric Morris, "From Horse Power to Horsepower,"
 *ACCESS* No.30, 2007, 2–9).
+{: #note-4 .note}
 
-**[5] The five-layer cake.** Jensen Huang, "AI Is a 5-Layer Cake," NVIDIA Blog, March 10, 2026,
+**5. The five-layer cake.** Jensen Huang, "AI Is a 5-Layer Cake," NVIDIA Blog, March 10, 2026,
 [blogs.nvidia.com](https://blogs.nvidia.com/blog/ai-5-layer-cake/){:target="_blank" rel="noopener"}.
+{: #note-5 .note}
 
-**[6] Malthus and Britain's ceiling.** T. R. Malthus, *An Essay on the Principle of Population,
+**6. Malthus and Britain's ceiling.** T. R. Malthus, *An Essay on the Principle of Population,
 as it affects the Future Improvement of Society*, London: J. Johnson, 1798, ch.1. That chapter
 takes "this island" as its named example and argues that subsistence can increase only
 arithmetically. **Malthus did not predict a future collision; he argued that the constraint was
@@ -217,5 +222,6 @@ How much weight to give coal remains contested; Clark & Jacks (*European Review 
 History* 11(1), 2007) and Tepper & Borowiecki (FRBNY Staff Report 639, 2013) estimate coal's
 contribution as smaller. **And the escape was not uniform. In Ireland, within the same United
 Kingdom, the Malthusian outcome arrived on schedule in the 1840s.**
+{: #note-6 .note}
 
 </div>

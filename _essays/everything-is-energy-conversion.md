@@ -19,7 +19,7 @@ civilization that keeps funding its daily voyage out of that savings account. Su
 wind that arises from the heat differentials sunlight creates, are the mains supply, generated
 continuously outside the ship. What I want from Fuller is not the warning but a second
 implication of the metaphor: that the whole activity of a civilization sits on the ship's energy
-balance sheet [1].
+balance sheet.<sup class="noteref"><a href="#note-1">1</a></sup>
 
 Nor is this only about appliances. The desk in front of you, the chair, everything, is
 accumulated energy input. The sum of what went into felling, milling, transporting, drying, and
@@ -27,7 +27,7 @@ assembling is fixed there now in the shape of a desk. Industrial ecology calls t
 energy, the total energy invested across a good's entire supply chain. Where a human made it by
 hand, the muscle and the running of the brain were energy all the same. An adult uses about
 2,000 kilocalories a day, which averaged out is a heat engine of roughly 100 watts, and the
-brain is a computer drawing about 20 watts [2]. Twenty watts is one phone charger. Whether or
+brain is a computer drawing about 20 watts.<sup class="noteref"><a href="#note-2">2</a></sup> Twenty watts is one phone charger. Whether or
 not there is a computer inside, energy conversion is energy conversion.
 
 This reduction is not rhetoric but a plain acknowledgment that thermodynamics is the higher law
@@ -36,14 +36,14 @@ takes in low-entropy energy and matter, converts it into ordered structure (good
 information), and expels high-entropy waste heat. As Nicholas Georgescu-Roegen formalised in
 *The Entropy Law and the Economic Process* (1971), the economic process is an irreversible
 conversion of low-entropy resources into high-entropy waste, and no economic activity is free of
-that constraint [3]. Mainstream economics has long treated the point as a philosophical
+that constraint.<sup class="noteref"><a href="#note-3">3</a></sup> Mainstream economics has long treated the point as a philosophical
 footnote. This thesis puts it in Chapter 1 instead.
 
 Widen the conversion to the level of society. A Palaeolithic hunter-gatherer moved roughly 300
 watts continuously, fire included. In the twentieth century alone, world average primary energy
 consumption per capita more than doubled, from 28 to 65 gigajoules. Sixty-five gigajoules a
 year, divided by the seconds in a year, is a continuous output of about 2,060 watts. Divide the
-United States the same way and you get roughly 8,800 watts [4].
+United States the same way and you get roughly 8,800 watts.<sup class="noteref"><a href="#note-4">4</a></sup>
 
 For the United States, that is eighty-eight people at 100 watts each. Against the Palaeolithic
 300 watts it is thirty times. A wealthy industrial civilization is one in which everybody
@@ -145,13 +145,13 @@ Cheap energy with no realistic prospect of exhaustion. Cheap labour input. And i
 preserve returns and call in people and capital.
 
 **Britain in the 1840s.** British coal output rose twentyfold over the nineteenth century, and
-one country was digging roughly two thirds of the world's coal [5]. As an eighteenth-century
+one country was digging roughly two thirds of the world's coal.<sup class="noteref"><a href="#note-5">5</a></sup> As an eighteenth-century
 French inspector wrote, coal was "the soul of English manufacture"; at the pithead it was a
-resource with no prospect of running out [5].
+resource with no prospect of running out.<sup class="noteref"><a href="#note-5">5</a></sup>
 
 Labour was abnormally cheap as well. In 1841 roughly 216,000 people worked in the mines, and
 among them were children who from the age of five or six opened and closed ventilation doors
-underground [6]. Part of the cost of extraction was covered, literally, by the labour of
+underground.<sup class="noteref"><a href="#note-6">6</a></sup> Part of the cost of extraction was covered, literally, by the labour of
 children. I have no wish to defend it. But structurally this was a society in which the marginal
 cost of energy and the marginal cost of labour had both hit bottom.
 
@@ -159,30 +159,30 @@ The institutional side was exceptional for its time as well. The Joint Stock Com
 1844 permitted incorporation by registration alone. The Continent did not arrive at the same
 principle for more than twenty years. Railways were excluded from that act and required a
 private Act of Parliament for each line, but during the mania Parliament processed more than
-seven hundred railway bills across two sessions [7]. And the Lands Clauses Consolidation Act of
+seven hundred railway bills across two sessions.<sup class="noteref"><a href="#note-7">7</a></sup> And the Lands Clauses Consolidation Act of
 1845 standardised the assessment and payment of compensation for the compulsory purchase those
-private acts conferred [7]. The machinery for assembling capital and the machinery for
+private acts conferred.<sup class="noteref"><a href="#note-7">7</a></sup> The machinery for assembling capital and the machinery for
 assembling land were in place at the same time.
 
 The consequence was the railway mania. Actual investment in railway construction reached 44
 million pounds in 1847, just under 8 percent of British GDP that year and twice that year's
-military budget. The network more than quadrupled in a decade [8]. This was not a state plan.
+military budget. The network more than quadrupled in a decade.<sup class="noteref"><a href="#note-8">8</a></sup> This was not a state plan.
 It was private capital. One new industry, on private judgment alone, remade the country.
 
 **Britain in the 2020s.** Now the same country in the present. The 134 miles of HS2's first
 phase, from London to Birmingham, run to roughly 396 million pounds per mile, the highest price
 for a completed surface railway anywhere in the world, more than eight times a comparable French
-high-speed line [9]. In nuclear, Hinkley Point C has swollen to more than double its original
-estimate, with completion pushed back to 2030 [10]. Industrial electricity prices are the
-highest among 28 compared countries, roughly four times those of the United States [11]. The
+high-speed line.<sup class="noteref"><a href="#note-9">9</a></sup> In nuclear, Hinkley Point C has swollen to more than double its original
+estimate, with completion pushed back to 2030.<sup class="noteref"><a href="#note-10">10</a></sup> Industrial electricity prices are the
+highest among 28 compared countries, roughly four times those of the United States.<sup class="noteref"><a href="#note-11">11</a></sup> The
 country that laid thousands of miles in a decade on private capital alone has now spent
-seventeen years and 46.8 billion pounds without opening a single mile of high-speed line [9].
+seventeen years and 46.8 billion pounds without opening a single mile of high-speed line.<sup class="noteref"><a href="#note-9">9</a></sup>
 Raising a future city out of open country is out of the question. What changed? Not vision, and
 not national character. The structure of abundance disappeared.
 
 **The UAE today.** And the same three conditions are now assembled somewhere else. Energy is
 cheap three times over: historically subsidised domestic gas, the 5.6 gigawatts of the Barakah
-nuclear plant, and Al Dhafra solar, which set what was then a world record price in 2020 [12].
+nuclear plant, and Al Dhafra solar, which set what was then a world record price in 2020.<sup class="noteref"><a href="#note-12">12</a></sup>
 Labour is carried by migrants who make up more than eighty percent of the resident population.
 Land was infinite, as desert. And the institutional side is moving as well. As a place where
 returns are preserved, tax burdens are light, and the barrier to starting a business is low,
@@ -190,7 +190,7 @@ frontier researchers and founders are beginning, slowly, to gather. The conseque
 future cities raised from desert in thirty years, and now a turn of capital expenditure from
 concrete to computation. Abu Dhabi's 5-gigawatt AI campus, and a fund that gathered 49 billion
 dollars in a single vehicle, are new investments at a scale that would not even be conceived
-except on a structure of abundance [13]. What nineteenth-century Britain poured into railways,
+except on a structure of abundance.<sup class="noteref"><a href="#note-13">13</a></sup> What nineteenth-century Britain poured into railways,
 the twenty-first-century UAE is pouring into computing substrate.
 
 Windows do not only open. They close.
@@ -200,9 +200,9 @@ Eastern crude and on cheap labour coming out of the countryside. The window clos
 growth halved over that period, from an annual 9.1 percent to 4.2, though the standard account
 attributes the main cause to the end of catch-up, with energy a contributing factor layered on
 top. The nuclear shutdown of 2011 was a second shock on top of that, and the trade balance swung
-from surplus to deficit [14]. Germany closed its own. In 2023 it stopped its last three
+from surplus to deficit.<sup class="noteref"><a href="#note-14">14</a></sup> Germany closed its own. In 2023 it stopped its last three
 reactors, lost Russian pipeline gas at almost the same moment, and industrial electricity moved
-to two or three times the American level [15]. The word *Deindustrialisierung* became central
+to two or three times the American level.<sup class="noteref"><a href="#note-15">15</a></sup> The word *Deindustrialisierung* became central
 to its economic debate after that.
 
 <figure class="figure">
@@ -210,7 +210,7 @@ to its economic debate after that.
 </figure>
 
 **The United States, where it was reopened.** Shale pinned natural gas at a third of European
-and Asian levels, and cheap gas became cheap electricity and cheap feedstock directly [16]. The
+and Asian levels, and cheap gas became cheap electricity and cheap feedstock directly.<sup class="noteref"><a href="#note-16">16</a></sup> The
 return of manufacturing is narrated as the achievement of policy, but the policy only became
 possible on top of that physics. Policy can only choose from within the set of options the
 energy structure permits.
@@ -236,9 +236,8 @@ One thread, laid last. A society of abundance also reproduces its population. Wh
 surge in English population after 1750 was not falling mortality but rising fertility, and what
 pushed fertility up was earlier marriage brought on by rising real incomes. The postwar American
 baby boom, in the golden age of cheap energy, and the high fertility of the Gulf during the oil
-boom, stand on the same structure [17]. And in the UAE, the fertility rate of nationals and the
-fertility rate of all residents differ by nearly a factor of three within the same country
-[18]. In the same city, the same climate, the same prices, a factor of three has opened between
+boom, stand on the same structure.<sup class="noteref"><a href="#note-17">17</a></sup> And in the UAE, the fertility rate of nationals and the
+fertility rate of all residents differ by nearly a factor of three within the same country.<sup class="noteref"><a href="#note-18">18</a></sup> In the same city, the same climate, the same prices, a factor of three has opened between
 a population that settles and one that returns home in a few years. That is not a gap culture
 can explain. Where distribution works inside abundance, people have children without worrying
 about their careers. And the mechanism runs in reverse as well. The structure by which scarcity
@@ -281,22 +280,25 @@ inversion in what human time is spent on, and where the three terms actually mes
 
 ## Notes and Sources
 
-**[1] Spaceship Earth.** R. Buckminster Fuller, *Operating Manual for Spaceship Earth*, Southern
+**1. Spaceship Earth.** R. Buckminster Fuller, *Operating Manual for Spaceship Earth*, Southern
 Illinois University Press, 1969. The passage in question treats fossil fuels as a store loaded
 aboard the ship and argues the danger of funding the daily voyage out of that savings.
+{: #note-1 .note}
 
-**[2] The wattage of a human body.** Two thousand kilocalories a day is about 97 watts per
+**2. The wattage of a human body.** Two thousand kilocalories a day is about 97 watts per
 second. This is total energy expenditure, not basal metabolic rate. BMR is roughly 1,700 kcal
 (about 81 W) for a 70 kg man and roughly 1,300 kcal (about 63 W) for a 57 kg woman (FAO/WHO/UNU,
 *Human Energy Requirements*, 2004). The brain is about 2 percent of body mass and accounts for
 20 percent of whole-body oxygen consumption at rest, giving a metabolic rate of roughly 20 watts
 (Clarke & Sokoloff, "Circulation and Energy Metabolism of the Brain," in *Basic Neurochemistry*,
 6th ed., 1999).
+{: #note-2 .note}
 
-**[3] The entropy law and the economic process.** Nicholas Georgescu-Roegen, *The Entropy Law
+**3. The entropy law and the economic process.** Nicholas Georgescu-Roegen, *The Entropy Law
 and the Economic Process*, Harvard University Press, 1971.
+{: #note-3 .note}
 
-**[4] Energy moved per person.** Palaeolithic food intake of roughly 10 megajoules per day is
+**4. Energy moved per person.** Palaeolithic food intake of roughly 10 megajoules per day is
 from Vaclav Smil, *Energy and Civilization: A History*, MIT Press, 2017. The twentieth-century
 rise in the world average from 28 to 65 gigajoules is Smil's own series on a total primary
 energy supply basis, in "Science, Energy, Ethics, and Civilization." **The same author's "World
@@ -307,23 +309,26 @@ is not Smil's number. The 8,767 watts for the United States (2024) and the serie
 are from Our World in Data (CC BY 4.0). **US Energy Information Administration figures give
 roughly 9,300 watts. The difference is one of accounting scope rather than conversion method,
 and this thesis keeps figure and text on the same series.**
+{: #note-4 .note}
 
-**[5] British coal.** Output rose from roughly 8.5 to 10.5 million tons in 1800 to roughly 224
+**5. British coal.** Output rose from roughly 8.5 to 10.5 million tons in 1800 to roughly 224
 million tons in 1900 (B. R. Mitchell, *Economic Development of the British Coal Industry
 1800–1914*, Cambridge University Press, 1984). **"Roughly two thirds of the world" is a
 generalisation about the nineteenth century as a whole; by 1913 the British share had fallen to
 about 24 percent.** The quotation is from Ticquet (1738), but by way of Robert C. Allen, *The
 British Industrial Revolution in Global Perspective* (Cambridge University Press, 2009), p.80;
 the original has not been consulted.
+{: #note-5 .note}
 
-**[6] Labour in the mines.** For the roughly 216,000 mine workers in 1841 and the children of
+**6. Labour in the mines.** For the roughly 216,000 mine workers in 1841 and the children of
 five and six operating ventilation doors, see Children's Employment Commission, *First Report of
 the Commissioners (Mines)*, 1842 (British Parliamentary Papers). **Whether the primary source
 for the 216,000 figure is that report or the 1841 census is unresolved.** The Mines Act of 1842
 (5 & 6 Vict. c. 99, royal assent 10 August) prohibited underground work by women of any age in
 section 1 and by boys under ten in section 2.
+{: #note-6 .note}
 
-**[7] The Companies Act and the railway bills.** The Joint Stock Companies Act of 1844 (7 & 8
+**7. The Companies Act and the railway bills.** The Joint Stock Companies Act of 1844 (7 & 8
 Vict. c. 110) permitted incorporation by registration alone, but **undertakings requiring
 parliamentary authorisation, meaning bridges, roads, canals, and railways, were excluded, and
 limited liability did not exist until separate acts of 1855 and 1856.** France arrived at full
@@ -334,16 +339,18 @@ and 508 in 1846, roughly 720 in total, of which 121 and 272 passed, 393 in all (
 Geisler Mesevage, *Journal of Economic History* 81(4), 2021; primary sources British
 Parliamentary Papers 1845 (620) and 1846 (723-II)). The Lands Clauses Consolidation Act 1845 is
 8 & 9 Vict. c. 18.
+{: #note-7 .note}
 
-**[8] The scale of the railway mania.** Actual investment in railway construction was 13 million
+**8. The scale of the railway mania.** Actual investment in railway construction was 13 million
 pounds in 1845, 30 million in 1846, and peaked at 44 million in 1847, which is just under 8
 percent of GDP that year and twice the military budget (Andrew Odlyzko, "The collapse of the
 Railway Mania…", revised June 25, 2011). **Odlyzko does not state the source of his GDP series
 in the text and is likely relying on an unpublished draft.** Route mileage was 1,498 in 1840 and
 6,621 in 1850 (B. R. Mitchell, *British Historical Statistics*, Cambridge University Press,
 1988). **That series appears to be on a United Kingdom basis including Ireland.**
+{: #note-8 .note}
 
-**[9] HS2.** Phase one, 134 miles, at a total of 53.1 billion pounds, is roughly 396 million
+**9. HS2.** Phase one, 134 miles, at a total of 53.1 billion pounds, is roughly 396 million
 pounds per mile. The French line from Tours to Bordeaux is roughly 46 million pounds per mile
 (Britain Remade, 2023). **What is included in that unit cost, in terms of land acquisition,
 rolling stock, signalling, and contingency, has not been verified, and the UK Department for
@@ -352,69 +359,79 @@ pounds at the end of March 2026, in nominal terms, **including spend on the canc
 two** (National Audit Office, *High Speed Two reset*, HC 52, 2026). The same report gives an
 opening range for Old Oak Common to Birmingham of May 2036 to October 2039. HS2 Ltd began
 operating in January 2009.
+{: #note-9 .note}
 
-**[10] Hinkley Point C.** The original construction estimate was 18 billion pounds, **in 2016
+**10. Hinkley Point C.** The original construction estimate was 18 billion pounds, **in 2016
 prices** (National Audit Office, *Hinkley Point C*, HC 40, 2017). EDF's estimate as of February
 2026 is 35 billion pounds in 2015 prices, 48 to 49 billion in today's prices, with completion
 pushed back to 2030 (*The Guardian*, 20 February 2026, reporting on EDF's announcement). **The
 original and updated figures are not on the same deflator basis, so the multiple must be read as
 a range.**
+{: #note-10 .note}
 
-**[11] UK industrial electricity prices.** 25.85 pence per kilowatt-hour in 2023, the highest of
+**11. UK industrial electricity prices.** 25.85 pence per kilowatt-hour in 2023, the highest of
 28 compared countries and roughly four times the United States (UK Department for Energy
 Security and Net Zero, *International non-domestic energy prices*). This is a tax-inclusive
 price.
+{: #note-11 .note}
 
-**[12] Energy in the UAE.** Energy subsidies were 5.7 percent of GDP in 2011 and 4.6 percent in
+**12. Energy in the UAE.** Energy subsidies were 5.7 percent of GDP in 2011 and 4.6 percent in
 2015 on the IMF's pre-tax estimate (IMF Country Report No. 15/220, 2015). The Barakah nuclear
 plant comprises four APR1400 units for a combined 5.6 gigawatts, covering up to 25 percent of
 national electricity demand at full output (Emirates Nuclear Energy Corporation). The 2-gigawatt
 Al Dhafra solar project was awarded at 1.35 US cents per kilowatt-hour, the lowest price in the
 world at the time (Emirates Water and Electricity Company, 2020).
+{: #note-12 .note}
 
-**[13] Labour and capital in the UAE.** Migrant workers number roughly 8.7 million, more than 80
+**13. Labour and capital in the UAE.** Migrant workers number roughly 8.7 million, more than 80
 percent of the resident population (International Labour Organization). The Abu Dhabi plan is a
 5-gigawatt UAE-US AI campus, **inside which Stargate UAE is a 1-gigawatt cluster. The two are
 easily confused and the distinction is noted here.** The 200-megawatt first phase targets
 operation in 2026 (G42, 22 May 2025). MGX closed its first fund at 49 billion dollars (MGX, 1
 July 2026). **That is the size of the fund, not assets under management, and the widely
 circulated "100 billion dollar AUM target" is not a figure MGX has published.**
+{: #note-13 .note}
 
-**[14] Japan.** Real growth averaged 9.1 percent from fiscal 1956 to 1973 and 4.2 percent from
+**14. Japan.** Real growth averaged 9.1 percent from fiscal 1956 to 1973 and 4.2 percent from
 fiscal 1974 to 1990, **on a fiscal-year basis** (Cabinet Office, *Long-Term Economic Statistics*,
 *National Accounts*). **The series is spliced across the 68SNA and 93SNA.** The trade balance was
 a surplus of 6.6347 trillion yen in 2010 and a deficit of 11.4684 trillion yen in 2013, **on a
 customs-clearance basis** (Ministry of Finance, *Trade Statistics*). **On a balance-of-payments
 basis the same two years are +9.5 trillion and −8.8 trillion yen; the endpoints do not
 coincide.**
+{: #note-14 .note}
 
-**[15] Germany.** Isar 2, Emsland, and Neckarwestheim 2 were shut down on 15 April 2023 (Federal
+**15. Germany.** Isar 2, Emsland, and Neckarwestheim 2 were shut down on 15 April 2023 (Federal
 Office for the Safety of Nuclear Waste Management). EU electricity prices for energy-intensive
 industry in 2025 were more than double those of the United States (IEA, *Electricity 2026*).
 **For Germany alone the figure varies by consumption band: roughly three times the US industrial
 average in the 500 to 2,000 megawatt-hour band, and roughly 1.9 times for the largest consumers
 above 70,000 megawatt-hours.**
+{: #note-15 .note}
 
-**[16] American gas.** The 2025 average was 3.6 dollars per million Btu at Henry Hub, just under
+**16. American gas.** The 2025 average was 3.6 dollars per million Btu at Henry Hub, just under
 12 dollars for European TTF, and just over 12 for Asian JKM (IEA, *Gas Market Report, Q1-2026*).
 **Henry Hub was 2.53 and 2.19 dollars in 2023 and 2024, when the ratio was wider still. 2025 is
 used because it is the conservative choice.**
+{: #note-16 .note}
 
-**[17] Abundance and births.** For the period 1757 to 1871, the effect of variation in fertility
+**17. Abundance and births.** For the period 1757 to 1871, the effect of variation in fertility
 on population growth was roughly twice that of mortality, and about half of the rise in the
 gross reproduction rate came from a fall in women's age at first marriage, from 26.5 in the
 1650s to 23.4 in the early 1800s (Wrigley & Schofield, *The Population History of England
 1541–1871*, Cambridge University Press, 1981). The American total fertility rate peaked at 3.77
 in 1957 (National Center for Health Statistics). In the 1960 Gulf, Saudi Arabia was 7.63, Oman
 7.28, and Kuwait 7.22. **Oman rose further, to 7.89 in 1980** (World Bank SP.DYN.TFRT.IN).
+{: #note-17 .note}
 
-**[18] The UAE's two fertility rates.** The total fertility rate of Emirati women fell from 6.7
+**18. The UAE's two fertility rates.** The total fertility rate of Emirati women fell from 6.7
 in the 1970s to 3.7 in 2017 (Shukla, Karabchuk & Al Neyadi, *Reproductive Health* 20:138, 2023;
 underlying figures from the UAE Federal Competitiveness and Statistics Centre). **The source
 says "the 1970s," not a single year of 1970, and the primary table for that year has not been
 verified.** The all-resident figure for the same year of 2017 is 1.35, and the most recent
 figure for 2024 is 1.21 (World Bank). The all-resident figure is lower because it is diluted by
 a migrant population that does not have children there.
+{: #note-18 .note}
 
 <hr class="rule-major">
 

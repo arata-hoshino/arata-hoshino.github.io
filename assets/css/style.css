@@ -450,6 +450,32 @@ main {
   border-top: 1px solid var(--rule);
 }
 
+/* Chicago's note reference: a small figure on the shoulder of the word,
+   after the punctuation, carrying the reader to the note itself. */
+.prose sup.noteref {
+  font-size: 0.66em;
+  line-height: 0;
+  vertical-align: super;
+}
+
+.prose sup.noteref a {
+  color: var(--navy);
+  text-decoration: none;
+}
+
+.prose sup.noteref a:hover,
+.prose sup.noteref a:focus-visible {
+  text-decoration: underline;
+}
+
+.prose .note {
+  scroll-margin-top: 2.5rem;
+}
+
+.prose .note:target {
+  background: var(--mark);
+}
+
 /* The apparatus of a chapter: the notes and the objections, set a step
    down from the body they belong to. */
 .prose .apparatus {
