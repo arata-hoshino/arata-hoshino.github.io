@@ -45,9 +45,12 @@ have said a faster carriage. What arrived was the railway, and then the automobi
 nobody ordered delivered what everybody wanted.<sup class="noteref"><a href="#note-4">4</a></sup> What is the nature of that substitution?
 
 And there is the humanoid robot that appeared in almost every account of the future written in
-the 1980s. The value that the shopping robot was supposed to deliver was taken instead by
-Amazon, a solution nobody at the time had in view. The robot never came. The value arrived
-anyway. What is the nature of that substitution?
+the 1980s. Humanoids are in fact arriving now, but not for the shopping errand. The value the
+shopping robot was supposed to deliver, which is having what you want appear at your door, came
+instead from Amazon, from rearranging warehousing, logistics, and the act of ordering. Small
+robots may take part at the last metre of a delivery, but none of them is a machine that walks
+to the store. The imagined form never arrived. The value did. What is the nature of that
+substitution?
 
 The two puzzles are one puzzle. In both, the value stayed and the thing that had been delivering
 it was swapped out. What people wanted was not a carriage but to go farther, faster. Not a
