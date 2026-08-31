@@ -1,7 +1,7 @@
 ---
 title: "Prologue"
 order: 1
-summary: "Where the given and the chosen change places. Two puzzles: the horse and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved."
+summary: "Where the given and the chosen change places. Two puzzles, the carriage and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved."
 ---
 
 You can see the future first in San Francisco, wrote Leopold Aschenbrenner.<sup class="noteref"><a href="#note-1">1</a></sup> I agree with half

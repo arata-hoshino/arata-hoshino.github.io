@@ -24,8 +24,8 @@ constraints being lifted, energy and labour input, together with the distributio
 They do not wait on symptomatic treatment.
 
 The argument of this thesis is that contemporary civilization faces one structural constraint,
-a stalled capacity to build, defined by three deficits: i) the absence of energy abundance,
-ii) a lag in automation, and iii) the absence of institutions. The macroeconomic and social
+a stalled capacity to build, defined by three deficits: (i) the absence of energy
+abundance, (ii) a lag in automation, and (iii) the absence of institutions. The macroeconomic and social
 stagnation we observe, including economic stagnation and population collapse, is not the cause.
 It is the set of symptoms the constraint produced.
 
@@ -68,7 +68,7 @@ companies whose fortunes turn over in a matter of months.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">—</span>
     <span class="toc-title"><a href="/essays/prologue/">Prologue</a></span>
-    <p class="toc-summary">Where the given and the chosen change places. Two puzzles: the horse and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved.</p>
+    <p class="toc-summary">Where the given and the chosen change places. Two puzzles, the carriage and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved.</p>
   </li>
 </ol>
 
@@ -78,12 +78,12 @@ companies whose fortunes turn over in a matter of months.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">01</span>
     <span class="toc-title"><a href="/essays/everything-is-energy-conversion/">Everything is energy conversion</a></span>
-    <p class="toc-summary">A civilization's competitiveness is the product of institutions, the effective abundance of energy, and labour input. What that product settles is not wealth but what can be built from nothing, and what can be conceived at all. Britain in the 1840s and the UAE today. Windows open, and they also close. Stagnation, prices, distribution, and births are symptoms of one constraint.</p>
+    <p class="toc-summary">A civilization's competitiveness is the product of institutions, the effective abundance of energy, and labour input. What it settles is not wealth but what can be built. Britain in the 1840s, the UAE today.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">02</span>
     <span class="toc-title"><a href="/essays/two-endgoals-twelve-thousand-years/">Two endgoals, twelve thousand years</a></span>
-    <p class="toc-summary">The efficiency of civilization is a double asymptotic process in which the convergence cost of matter configuration and the convergence cost of predictive models each fall toward zero. The two compete over the same problem, and the side with the lower convergence cost wins. Capital flowed to the virtual side for thirty years because that side needed less energy, and in the 2020s the virtual side hit the wall of electricity. The industrial revolution never ended. The measure of human worth has changed twice. And the equation of national power is rewritten from “population times productivity” into the product of three terms.</p>
+    <p class="toc-summary">The efficiency of civilization is two convergence costs, matter configuration and predictive models, both falling toward zero. They compete over the same problem, and the cheaper side wins. The equation of national power is rewritten.</p>
   </li>
 </ol>
 
@@ -93,12 +93,12 @@ companies whose fortunes turn over in a matter of months.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">03</span>
     <span class="toc-title"><a href="/essays/a-scarcity-of-our-own-tying/">A scarcity of our own tying</a></span>
-    <p class="toc-summary">The transitional period since the 1970s. The system cost of renewables. Self-binding under information asymmetry. A swelling virtual world and a stalled physical one. Why the science of the 1910s is still not implemented.</p>
+    <p class="toc-summary">For fifty years capital and talent flowed from the physical to the virtual. The system cost of renewables, self-binding under information asymmetry, and why the science of the 1910s is still unbuilt.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">04</span>
     <span class="toc-title"><a href="/essays/the-household-malthus/">The household Malthus</a></span>
-    <p class="toc-summary">Falling fertility is a price phenomenon, not a cultural one. The Malthusian trap did not disappear; it moved from food to the household budget. China as the largest case. Population is not the objective but the slowest-moving symptom. And a record of a hypothesis raised and discarded.</p>
+    <p class="toc-summary">Falling fertility is a price phenomenon, not a cultural one. The Malthusian trap did not disappear; it moved from food to the household budget. China as the largest case.</p>
   </li>
 </ol>
 
@@ -108,17 +108,17 @@ companies whose fortunes turn over in a matter of months.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">05</span>
     <span class="toc-title"><a href="/essays/the-abundance-cascade/">The abundance cascade</a></span>
-    <p class="toc-summary">What follows the lifting of a constraint is not a discount but an explosion of demand. Three centuries of light. The ordering of energy sources and the timeline for fusion. Honesty about the speed of release. The decades-long trough in demand created by population moving last. Automation can bypass only one of the four head-counts. The rate limiter is not generation but connection.</p>
+    <p class="toc-summary">What follows the lifting of a constraint is not a discount but an explosion of demand. Three centuries of light, the timeline for fusion, and why the rate limiter is connection rather than generation.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">06</span>
     <span class="toc-title"><a href="/essays/the-crisis-of-distribution/">The crisis of distribution</a></span>
-    <p class="toc-summary">Task-based distribution breaks in the 2030s. The wave of democratic socialism, and capital flight as its mechanism of failure. An update to capitalism that makes every citizen an investor. The cost of becoming a capitalist falls. The AI commonwealth. And the four head-counts return.</p>
+    <p class="toc-summary">Allocating income by contribution to tasks breaks in the 2030s. Capital flight as the mechanism of failure, and an update to capitalism that makes every citizen an investor.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">07</span>
     <span class="toc-title"><a href="/essays/beyond-price/">Beyond price</a></span>
-    <p class="toc-summary">Adam Smith's proxy. Service-dominant logic. The retirement of money as an accounting system. When use value becomes measurable for the first time, currency becomes data. The release of the axis of expenditure, and the second gate on births.</p>
+    <p class="toc-summary">Price is only a proxy for use value. When use value becomes measurable, currency becomes data. The release of the axis of expenditure, and the second gate on births.</p>
   </li>
 </ol>
 
@@ -128,12 +128,12 @@ companies whose fortunes turn over in a matter of months.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">08</span>
     <span class="toc-title"><a href="/essays/a-map-of-clusters/">A map of clusters</a></span>
-    <p class="toc-summary">The unit is the stack. The five-layer cake and two techno-blocs. Scoring the regions against the equation. Inside China's vertical integration, and a country too well built to turn. The Gulf's weakness. The end of the twentieth-century development model. What to do with orbit. What comes after victory. The upper right of the map is still empty.</p>
+    <p class="toc-summary">The unit is not the country but the stack. The five-layer cake, two techno-blocs, and the regions scored against the equation. The upper right of the map is still empty.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">—</span>
     <span class="toc-title"><a href="/essays/the-stakes/">Final chapter. The stakes</a></span>
-    <p class="toc-summary">A list of falsifiable predictions.</p>
+    <p class="toc-summary">Five bets, set out as a table, each with the condition under which it would be shown wrong.</p>
   </li>
 </ol>
 
