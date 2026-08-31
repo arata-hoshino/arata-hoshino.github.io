@@ -204,6 +204,7 @@ main {
 .nav {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;   /* centred, as the running head above it is */
   gap: 0.5em 1.75em;
   padding: 1.6em 0 0;
   font-size: 0.86em;
