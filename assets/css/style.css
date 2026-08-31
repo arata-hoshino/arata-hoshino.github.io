@@ -178,8 +178,7 @@ main {
 }
 
 /* the running head keeps the size of the navigation below it, in capitals */
-.runhead-brand,
-.runhead-subtitle {
+.runhead-brand {
   font-size: 0.86em;
   line-height: 1.45;
   text-transform: uppercase;
@@ -199,10 +198,6 @@ main {
   color: var(--navy);
 }
 
-.runhead-subtitle {
-  margin: 0;
-  color: var(--ink);
-}
 
 /* -------------------------------------------------------------- nav */
 
@@ -508,7 +503,7 @@ main {
   margin: 0;
   color: var(--muted);
   font-size: 1em;
-  line-height: 2.2rem;   /* the third line of the block above it */
+  line-height: 1.9rem;   /* the third line, set a shade closer */
 }
 
 /* the title page sets the title at full size, over an italic subtitle */
@@ -520,7 +515,7 @@ main {
 .page-subtitle {
   margin: 0.7em 0 0;
   color: var(--ink);
-  font-size: 1.15em;
+  font-size: 1.28em;
   font-style: italic;
   line-height: 1.4;
 }

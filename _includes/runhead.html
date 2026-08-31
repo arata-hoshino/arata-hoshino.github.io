@@ -1,12 +1,11 @@
 {% comment %}
   The running head: under a rule at the top of the page, the title of the
-  thesis and its subtitle, set at the size of the navigation that follows
-  them. The title page sets the title again, at its full size.
+  thesis, set at the size of the navigation that follows it. The title
+  page sets the title again, at its full size, over its subtitle.
 {% endcomment %}
 
 <header class="runhead">
   <a class="runhead-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-  {% if site.subtitle %}<p class="runhead-subtitle">{{ site.subtitle }}</p>{% endif %}
 </header>
 
 <nav class="nav" aria-label="Chapters">
