@@ -1,5 +1,5 @@
 ---
-title: "Two endgoals, twelve thousand years"
+title: "Two endgoals"
 number: "2"
 order: 3
 part: "Part I. The physics of civilization"

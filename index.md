@@ -82,7 +82,7 @@ companies whose fortunes turn over in a matter of months.
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">02</span>
-    <span class="toc-title"><a href="/essays/two-endgoals-twelve-thousand-years/">Two endgoals, twelve thousand years</a></span>
+    <span class="toc-title"><a href="/essays/two-endgoals-twelve-thousand-years/">Two endgoals</a></span>
     <p class="toc-summary">The efficiency of civilization is two convergence costs, matter configuration and predictive models, both falling toward zero. They compete over the same problem, and the cheaper side wins. The equation of national power is rewritten.</p>
   </li>
 </ol>
