@@ -27,10 +27,9 @@ The "labour cost that has not been automated away" has a proper name in economic
 
 And here is the decisive part. The cost items that make up raising one child are almost all Baumol sectors plus housing. Childcare, education, healthcare, and a house. In the famous decomposition of American consumer prices, since 2000 hospital services have risen more than 200 percent, college tuition around 170 percent, and childcare more than 100 percent, while the prices of televisions, toys and software have fallen by anything from tens of percent to more than 90 percent.<sup class="noteref"><a href="#note-2">2</a></sup> The goods automation reached collapsed in price; the person-to-person services it did not reach soared. Raising a child is the act of buying, twenty years at a time, the least automated basket in the economy. On the Brookings Institution's update of a US Department of Agriculture estimate, raising one child born in 2015 to the age of seventeen costs about 310,000 dollars.<sup class="noteref"><a href="#note-3">3</a></sup> In Korea, spending on private tutoring alone hit a record 29.1919 trillion won in 2024. Seoul's ratio of house prices to income is among the worst in the world.<sup class="noteref"><a href="#note-4">4</a></sup>
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 4-1 · What became cheap and what did not (United States, 2000–2024)</p>
-  <p class="figure-caption"><sup class="noteref"><a href="#note-2">2</a></sup> The scale is logarithmic, so equal slopes mean equal rates of change. Baumol sectors branch upward and the goods automation reached branch downward. Children are bought from the upper bundle.</p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-4-1.png" alt="Figure 4-1. What became cheap and what did not (United States, 2000–2024). The scale is logarithmic, so equal slopes mean equal rates of change. Baumol sectors branch upward and the goods automation reached branch downward. Children are bought from the upper bundle.">
+</figure>
 
 What the household faces is the budget constraint composed of that price vector and its wages. As we have seen through Chapter 3, in the advanced importing countries after the 1970s households carried the cost of energy conversion over a long period, living costs rose faster than real wages, disposable income was pared back, and births were suppressed to that extent. What comes into view is this: the modern population-suppressing structure that deserves the name "the household Malthus" is not a matter of subjective household judgment or of values. It is a secondary constraint derived mechanically from energy, technology and the price system.
 
@@ -47,14 +46,12 @@ For Korea, let me record the scale of the spending and nothing else. Cumulative 
 
 Pull back to the world and this is not a local phenomenon. On the United Nations' World Population Prospects 2024, world TFR has fallen to 2.25 and two thirds of the world's population live in countries below replacement. The GBD projection published in The Lancet has world TFR heading for 1.83 in 2050 and 1.59 in 2100. Thailand's TFR is 0.86, already below Japan's.<sup class="noteref"><a href="#note-9">9</a></sup> The human species has entered the gravitational field of price.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 4-2 · The distribution itself moved: world fertility rates (1960–2024)</p>
-  <p class="figure-caption"><sup class="noteref"><a href="#note-9">9</a></sup> Each ridge is the population-weighted distribution of national fertility rates for that year. The share of humanity living in countries below replacement moved from 3.9 percent to 67.4 percent.</p>
-</div>
-<div class="figure-callout">
-  <p class="figure-title">Figure 4-3 · Korea: cumulative low-fertility spending and TFR</p>
-  <p class="figure-caption">Only published cumulative values are plotted as points; the line between them is interpolation.<sup class="noteref"><a href="#note-8">8</a></sup></p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-4-2.png" alt="Figure 4-2. The distribution itself moved: world fertility rates (1960–2024). Each ridge is the population-weighted distribution of national fertility rates for that year. The share of humanity living in countries below replacement moved from 3.9 percent to 67.4 percent.">
+</figure>
+<figure class="figure">
+  <img src="/assets/figures/figure-4-3.png" alt="Figure 4-3. Korea: cumulative low-fertility spending and TFR. Only published cumulative values are plotted as points; the line between them is interpolation .">
+</figure>
 
 ### 4.3.1 The largest case: China
 
@@ -72,18 +69,15 @@ The number of mothers born between 2003 and 2010 is flat, and between 2011 and 2
 
 This reading is still an optimistic one, and I should say so. The held-constant scenario does not price in any further fall from the current TFR of 0.93. Look at the present state of things, with young people in Shanghai, Hangzhou and Shenzhen worn down by 996 and by involution, moving out to Chengdu and elsewhere under the banner of "run", and lying flat, and there is nothing unreasonable about assuming a TFR that falls to somewhere between 0.7 and 0.8. In that case births in the late 2030s come to 5 million a year, which is about the American level. A country of 1.4 billion people and a country of 340 million would be producing the same number of children.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 4-4 · China's annual births (actual 1970–2025, estimated to 2060)</p>
-  <p class="figure-caption">Actuals from the National Bureau of Statistics; the estimate is this thesis's own cohort component method.<sup class="noteref"><a href="#note-12">12</a></sup></p>
-</div>
-<div class="figure-callout">
-  <p class="figure-title">Figure 4-5 · China: the female population of reproductive age, a decline already fixed</p>
-  <p class="figure-caption">Every woman who appears in this figure has already been born.<sup class="noteref"><a href="#note-12">12</a></sup></p>
-</div>
-<div class="figure-callout">
-  <p class="figure-title">Figure 4-6 · Where the world's children were born in 2024</p>
-  <p class="figure-caption">A Voronoi treemap. The area of each cell is proportional to that country's births and the area of each regional block to that region's share. Sub-Saharan Africa and South Asia between them account for more than half.<sup class="noteref"><a href="#note-12">12</a></sup></p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-4-4.png" alt="Figure 4-4. China's annual births (actual 1970–2025, estimated to 2060). Actuals from the National Bureau of Statistics; the estimate is this thesis's own cohort component method .">
+</figure>
+<figure class="figure">
+  <img src="/assets/figures/figure-4-5.png" alt="Figure 4-5. China: the female population of reproductive age, a decline already fixed. Every woman who appears in this figure has already been born .">
+</figure>
+<figure class="figure">
+  <img src="/assets/figures/figure-4-6.png" alt="Figure 4-6. Where the world's children were born in 2024. A Voronoi treemap. The area of each cell is proportional to that country's births and the area of each regional block to that region's share. Sub-Saharan Africa and South Asia between them account for more than half .">
+</figure>
 
 That is the site where the household Malthus mechanism runs at the largest scale in the world. Persistently high youth unemployment reproduces at scale, and without alteration, the suppression of births through a collapsed income outlook seen in section 4.3. The behaviour of not moving when money is handed out, and moving only in the years when the income outlook moved, is the same as Korea's.
 

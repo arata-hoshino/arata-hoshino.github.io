@@ -54,14 +54,12 @@ So the wall came closer. As of 2025 the IEA estimated that world data centre ele
 
 The movement of capital speaks more plainly than forecasts. On 25 August 2025 the Palisades plant in Michigan became the first reactor in American history to return from the decommissioning process to operating status.<sup class="noteref"><a href="#note-8">8</a></sup> The inventory of who ordered how much generation is left to a later chapter. What this thesis depends on is a single point, the structural change by which computing demand made investment in energy supply politically unavoidable, and as the unprecedented sight of a reactor pulled back out of the decommissioning queue shows, that has already happened.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 2-1 · Two centuries of the price of computation (log scale, 1850–2020)</p>
-  <p class="figure-caption">The collapse in price-performance from hand-cranked calculation to the present.<sup class="noteref"><a href="#note-9">9</a></sup></p>
-</div>
-<div class="figure-callout">
-  <p class="figure-title">Figure 2-2 · Jevons measured: load rose, tasks got cheaper</p>
-  <p class="figure-caption">On the left, the two points the IEA states explicitly, joined at a constant growth rate. On the right, a band rather than a series.<sup class="noteref"><a href="#note-9">9</a></sup></p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-2-1.png" alt="Figure 2-1. Two centuries of the price of computation (log scale, 1850–2020). The collapse in price-performance from hand-cranked calculation to the present .">
+</figure>
+<figure class="figure">
+  <img src="/assets/figures/figure-2-2.png" alt="Figure 2-2. Jevons measured: load rose, tasks got cheaper. On the left, the two points the IEA states explicitly, joined at a constant growth rate. On the right, a band rather than a series .">
+</figure>
 
 This is what the present turn actually is. The bet on physical AI and energy is not "the next trend." It is the historical return of capital to the side that was left behind, out of twelve thousand years of two directions.
 
@@ -71,10 +69,9 @@ I wrote "return," but only one side had stopped. The pressure toward efficiency 
 
 What speaks to this most plainly is a completed experiment with two centuries of data behind it: British agriculture. On Wrigley's account, roughly three quarters of the labour force was in agriculture under the Tudors. By the early eighteenth century it was about half, and by 1800 under two fifths. Broadberry and colleagues show the agricultural labour share already down to about 37 percent by 1759. Today agriculture is under 1 percent of the British labour force. And with that under 1 percent Britain produces the equivalent of roughly 60 percent of the food it consumes.<sup class="noteref"><a href="#note-10">10</a></sup> Two caveats. The remaining 40 percent is externalised to the labour and land of other countries, so the system does not close within Britain alone. And the fall in labour share is mixed with a denominator effect, as other sectors swelled. Even so, the fact that the same crops on the same island can now be grown in greater quantity with under a fortieth of the hands does not move.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 2-3 · Agriculture as a share of the British labour force (1381–2024)</p>
-  <p class="figure-caption">The industrial revolution did not end. It changed sectors.<sup class="noteref"><a href="#note-11">11</a></sup></p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-2-3.png" alt="Figure 2-3. Agriculture as a share of the British labour force (1381–2024). The industrial revolution did not end. It changed sectors .">
+</figure>
 
 What matters is that nowhere in that process is there an end of the revolution. From enclosure through crop rotation, seed improvement, mechanisation, Haber-Bosch fertiliser, the tractor, the combine, and now precision agriculture and automated glasshouses, one and the same pressure, to produce with less effort and at lower cost, worked without interruption for two centuries. The habit of numbering industrial revolutions first, second, third, and fourth is a set of graduations laid retrospectively over that continuum. The graduations change; the sign of the derivative has not changed once.
 

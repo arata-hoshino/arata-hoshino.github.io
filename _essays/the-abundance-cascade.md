@@ -22,10 +22,9 @@ One of the goods whose cost humanity has driven down for longest is artificial l
 
 So when light became ten thousand times cheaper, did humanity spend less on light? Here is the decisive finding. On the work of Tsao and colleagues, humanity has for three centuries, across six continents and five distinct lighting technologies, gone on spending consistently about 0.72 percent of GDP on light.<sup class="noteref"><a href="#note-2">2</a></sup> Exactly to the extent that efficiency rose, and by exactly that much, humanity consumed more light. It invented the city at night, the twenty-four-hour factory, the screen that never sleeps. In the language of economics, the rebound effect for light is close to 100 percent.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 5-1 · Three centuries of light: the purest demonstration of the cascade</p>
-  <p class="figure-caption">The price fell to one three-thousandth, and the share of GDP spent on it did not move. The three points on the right are three independent measured situations, spanning tallow candles to grid electricity<sup class="noteref"><a href="#note-1">1</a></sup>.<sup class="noteref"><a href="#note-2">2</a></sup></p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-5-1.png" alt="Figure 5-1. Three centuries of light: the purest demonstration of the cascade. The price fell to one three-thousandth, and the share of GDP spent on it did not move. The three points on the right are three independent measured situations, spanning tallow candles to grid electricity .">
+</figure>
 
 This is the purest modern version of the paradox Jevons saw in coal (Chapter 2). It is also the demonstration of this chapter's central proposition. A collapse in cost is absorbed not as a contraction of spending but as an explosion of consumption. There is no reason why what happened to light should not happen to energy as a whole. Light, after all, is only one form of energy.
 
@@ -40,10 +39,9 @@ Let me set out the inventory of what gets unlocked, concretely, from the cost st
 
 What matters is that the constraint on a civilization is industrial energy demand, not household demand. Industrial demand runs overwhelmingly ahead of household demand. The macro sketch is drawn by the IEA itself. Electricity as a share of final energy consumption rises from about 20 percent today to more than 50 percent by 2050 in the net-zero scenario, and world electricity demand rises by between 75 and 150 percent by 2050 depending on the scenario.<sup class="noteref"><a href="#note-5">5</a></sup> And that estimate has not yet priced in a world in which the global south converges on OECD levels of consumption per head. Recall the arithmetic of eight billion robots at the end of Chapter 3. There is no upper bound on demand.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 5-2 · Orbit: how many orders of magnitude have actually been crossed<sup class="noteref"><a href="#note-4">4</a></sup></p>
-  <p class="figure-caption">The solid steps are flights and prices that are settled. The dashed steps are targets, not achievements. Cross the third order of magnitude and orbit becomes an industrial location rather than a mission.</p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-5-2.png" alt="Figure 5-2. Orbit: how many orders of magnitude have actually been crossed . The solid steps are flights and prices that are settled. The dashed steps are targets, not achievements. Cross the third order of magnitude and orbit becomes an industrial location rather than a mission.">
+</figure>
 
 ## 5.4 The order of supply, and Wright's law
 
@@ -53,10 +51,9 @@ The order follows from the arguments of Chapters 3 and 4. At the top, fusion: so
 
 Here I introduce the most important law on the supply side. Wright's law: the learning curve on which unit cost falls by a constant rate for every doubling of cumulative production. The learning rate for solar panels is about 20 percent, and as prices fell 20 to 25 percent with every doubling of cumulative capacity, module prices dropped roughly 90 percent in the 2010s alone. Way and colleagues at Oxford, having tested learning-curve forecasts against more than fifty technologies, concluded that a rapid energy transition, far from being expensive, saves roughly 12 trillion dollars net against a slow one.<sup class="noteref"><a href="#note-6">6</a></sup> Cost reduction is not a function of will. It is a function of volume.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 5-3 · Wright's law in solar modules (1975–2024, log-log)</p>
-  <p class="figure-caption">This is a measured series, not a fitted curve; the learning rate is estimated from this set of points.<sup class="noteref"><a href="#note-6">6</a></sup></p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-5-3.png" alt="Figure 5-3. Wright's law in solar modules (1975–2024, log-log). This is a measured series, not a fitted curve; the learning rate is estimated from this set of points .">
+</figure>
 
 That law fixes the strategic meaning of nuclear and of SMRs. As Chapter 3 showed, the cost escalation of reactors is a product of institutions rather than of physical law, and France and Korea, repeating a standard design, held their costs stable (Chapter 3). The SMR bet is the bet that a reactor can be converted from a civil engineering project built on site into a product manufactured in series in a factory, putting nuclear on Wright's law for the first time in its history. And the giants on the demand side have begun to guarantee the early demand for that bet. Google contracted with Kairos Power for up to 500 megawatts, Amazon with X-energy for more than 5 gigawatts by 2039, Meta ran a tender for up to 4 gigawatts of nuclear procurement, and Microsoft locked in 835 megawatts on a twenty-year contract through the restart of Three Mile Island unit 1. The capacity the four announced or tendered across four months in the autumn of 2024 comes to something on the order of 10 gigawatts.<sup class="noteref"><a href="#note-7">7</a></sup> The order book that mass production presupposes is being built now.
 
@@ -173,10 +170,9 @@ And the price of delay can be calculated. If the reversal begins in 2050 rather 
 
 The investment implication comes in two stages. The forty years from 2035 to roughly 2075 are a period in which supply capacity grows exponentially while demand, the tax base and the challengers contract at the same time. What can be relied on in this phase is returns that do not depend on head-count: stakes in automation capital itself, and the infrastructure of energy and computation. Businesses whose returns are proportional to the volume of demand sit in a structural headwind for those forty years. And from 2075 the four head-counts return in sequence. When Chapter 6 writes that distribution is a question of demand before it is a question of fairness, it is in the sense of how these forty years are to be crossed.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 5-4 · When do the four head-counts return: the ramp-up of one human being into demand, labour, tax and founding<sup class="noteref"><a href="#note-15">15</a></sup><sup class="noteref"><a href="#note-16">16</a></sup></p>
-  <p class="figure-caption">The horizontal axis is years from birth. The four bands show, for each function, the level reached by that age. Only demand rises from the origin, and the fiscal band sits on the negative side until year twenty-six.</p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-5-4.png" alt="Figure 5-4. When do the four head-counts return: the ramp-up of one human being into demand, labour, tax and founding . The horizontal axis is years from birth. The four bands show, for each function, the level reached by that age. Only demand rises from the origin, and the fiscal band sits on the negative side until year twenty-six.">
+</figure>
 
 But this structure also shows the exit. If energy and labour genuinely become abundant and the wealth created is properly distributed, the household constraint loosens, fertility reverses and population returns. When population returns, demand, risk-takers and taxpayers all return with it. When the equation of Chapter 4 runs in reverse, what recovers is not population alone. The three head-counts an economy needs in order to work recover together.
 

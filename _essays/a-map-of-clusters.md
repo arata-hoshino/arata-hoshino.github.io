@@ -47,10 +47,9 @@ To be fair, let me write the other side. The UAE recognises this weakness and is
 
 England sits on the innermost rim of the first pole. What London and the Oxbridge corridor supply is the intelligence of basic research, and England is also the party to which America grants top-level access first. But that intelligence is inclined to leak. The emblem of it is the fact that the most important AI research organisation this corridor produced ended up under American capital. The place that produces intelligence and the place that holds the equity in that intelligence do not have to be the same. This is the same structure as the capital flight argued in Chapter 6, and it corroborates from the side of talent this thesis's claim that the siting of clusters is decisive. But as seen in Chapter 1, industrial electricity is the highest of 28 compared countries, and high-speed rail costs roughly 396 million pounds per mile. It is also the type case of a cluster that holds only the upper layers: the research comes out, the implementation does not.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 8-1 · The stack, and which layers are held where</p>
-  <p class="figure-caption">Original figure to this thesis. It is a schematic. A ribbon records that a given cluster carries a given layer, and its thickness is the author's ordinal judgement about how much of that layer it carries, not a measured share. No cluster on earth holds all five layers, and note that the thinnest ribbon in the China bloc is the first layer.</p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-8-1.png" alt="Figure 8-1. The stack, and which layers are held where. Original figure to this thesis. It is a schematic. A ribbon records that a given cluster carries a given layer, and its thickness is the author's ordinal judgement about how much of that layer it carries, not a measured share. No cluster on earth holds all five layers, and note that the thinnest ribbon in the China bloc is the first layer.">
+</figure>
 
 **The China techno-bloc.** This one is not a division of labour but vertical integration. A single political unit tries to assemble energy, materials, manufacturing, computation, models and applications for itself. The advantage is speed of decision and resilience against a cut in supply; the defect is that if any one of the five layers is structurally low, that layer becomes the rate limit on the whole. And in fact the first layer, leading-edge semiconductors, is two to three generations behind because of sanctions. However excellent the layers above, there is a ceiling on computing capacity.
 
@@ -280,10 +279,9 @@ For that very reason there is something to be careful about. For China and the G
 
 The implication for an investor comes down to the choice of indicator. Ranking countries directly by speed of connection cannot at present be done from published data. The United States publishes times required, the United Kingdom offers connection dates, the Netherlands publishes geographical exhaustion, and China and the Gulf publish nothing. One therefore works with proxies. Not the capacity in the queue but the proportion of the queue that actually reached energisation. Not the gross pipeline but the share held by confirmed contracts. And whether the grid operator has the will to offer a connection date. The last is probably the most eloquent. An operator that can offer a connection date knows its own queue.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 8-2 · The position of the major clusters: the feasibility of energy and space (horizontal) against talent and institutions (vertical)</p>
-  <p class="figure-caption">Original figure to this thesis. It is a schematic, and the positions are ordinal judgements from the coefficients described in Chapter 8, not measured values.</p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-8-2.png" alt="Figure 8-2. The position of the major clusters: the feasibility of energy and space (horizontal) against talent and institutions (vertical). Original figure to this thesis. It is a schematic, and the positions are ordinal judgements from the coefficients described in Chapter 8, not measured values.">
+</figure>
 
 Finally, let me write down the point of this figure. The top right is empty. A cluster that holds the feasibility of energy and space and holds talent and institutions at the highest level at the same time does not, for now, exist on earth. The Bay Area and London are at the top left; Texas and the Gulf are at the bottom right. Whoever fills this blank first writes the blueprint for the second half of the twenty-first century. There are only two ways to fill it. Either a place strong in institutions takes back physics, or a place strong in physics acquires the institutions that attract talent.
 

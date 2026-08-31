@@ -20,10 +20,9 @@ That the 1970s are a fault line is something the data testify to repeatedly. Thr
 
 First, energy use per person stopped rising. Primary energy consumption per capita in the United States climbed almost without interruption from the founding of the republic, topped out at the end of the 1970s, and has run flat to slightly downward for the half-century since.<sup class="noteref"><a href="#note-1">1</a></sup> The slope of a curve a century and a half long broke in that one decade. Some part of this is explained by efficiency gains, but set it against Jevons's law from Chapter 2, that efficiency gains have throughout history always raised total consumption, and it reads not as the fruit of efficiency but as the halt of expansion.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 3-1 · Primary energy consumption per capita in the United States (1950–2024)</p>
-  <p class="figure-caption">This single chart shows the break point at the end of the 1970s.<sup class="noteref"><a href="#note-1">1</a></sup></p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-3-1.png" alt="Figure 3-1. Primary energy consumption per capita in the United States (1950–2024). This single chart shows the break point at the end of the 1970s .">
+</figure>
 
 Second, productivity decelerated. In Robert Gordon's monumental aggregation, total factor productivity in the United States grew at roughly 1.9 percent a year from 1920 to 1970, and after 1970 fell to about a third of that rate, the IT phase of the late 1990s excepted, with no recovery since.<sup class="noteref"><a href="#note-2">2</a></sup> And the point at which the unexplained residual reappears in the Ayres and Warr useful-work model is 1975.<sup class="noteref"><a href="#note-3">3</a></sup> Two independent measurements point at the same decade.
 
@@ -41,14 +40,12 @@ None of this is anti-renewables rhetoric. It is established knowledge in energy 
 
 Take Germany as the implemented case. The renewables surcharge under the EEG peaked at 6.88 cents per kilowatt-hour in 2017 and pushed household electricity prices to the highest level in the world.<sup class="noteref"><a href="#note-8">8</a></sup> The number of hours in which German wholesale power prices were negative was 457 in 2024 and 573 in 2025, a record for the second year running. The time during which generators pay money to have their electricity taken off their hands passed three weeks a year. Congestion-management costs, redispatch included, have also stuck at around 3 billion euros since 2023 and are passed through to consumers as transmission network charges.<sup class="noteref"><a href="#note-9">9</a></sup> The price of solar panels did indeed collapse. But electricity as a system did not get cheaper. The gap in large industrial power prices, roughly 0.113 euros per kilowatt-hour in the EU against roughly 0.076 in the United States, is the closing statement of this structure.<sup class="noteref"><a href="#note-10">10</a></sup>
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 3-2 · The market value of wind falls as penetration rises</p>
-  <p class="figure-caption">Observed values from the German market, overlaid with the two points the medium-term model gives.<sup class="noteref"><a href="#note-6">6</a></sup></p>
-</div>
-<div class="figure-callout">
-  <p class="figure-title">Figure 3-3 · The hours when electricity is worth less than nothing: negative-price hours in Germany (2015–2025)</p>
-  <p class="figure-caption">One mark is one hour, one row is fifty hours. From 126 hours in 2015 to 573 in 2025, the area itself grows.<sup class="noteref"><a href="#note-9">9</a></sup></p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-3-2.png" alt="Figure 3-2. The market value of wind falls as penetration rises. Observed values from the German market, overlaid with the two points the medium-term model gives .">
+</figure>
+<figure class="figure">
+  <img src="/assets/figures/figure-3-3.png" alt="Figure 3-3. The hours when electricity is worth less than nothing: negative-price hours in Germany (2015–2025). One mark is one hour, one row is fifty hours. From 126 hours in 2015 to 573 in 2025, the area itself grows .">
+</figure>
 
 To avoid any misunderstanding, the conclusion is not that renewables should be excluded. It is that renewables properly belong as an auxiliary layer riding on top of firm generation, nuclear and fossil, and that the sound way to place them is as the optimal complementary source for a given geography. A society that handed the baseload of its civilization to a source that swings against human need distributed the cost of doing so, in the form of the electricity bill, to households in the end.
 
@@ -72,10 +69,9 @@ There are two ways to read this stagnation. The first reading is that ideas them
 
 The second reading is this thesis's own. Ideas did not run dry. Implementation was put on ration for energy and for capital. The science of the 1910s, fusion and the full exploitation of fission alongside it, demands enormous energy density and enormous up-front investment. Across the half-century in which hesitation about expanding energy coincided with the thinning of capital flowing into the physical world, as described in the previous section, the sciences that were most capital-intensive and most energy-centred were sent to the back of the implementation queue first. The decline in research productivity that Bloom and colleagues document is not inconsistent with this reading either. In an era when the fruit that was cheap to pick hung disproportionately on the virtual side, the fruit on the physical side was not hard to pick. Nobody was going to pick it. Which of the two readings is correct is being put to the experiment right now. If the speed of implementation recovers in the 2020s, the decade in which computing demand began to force energy investment, then what had run dry was not ideas but capital.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 3-4 · The decline in research productivity (United States: semiconductors, pharmaceuticals, agriculture)</p>
-  <p class="figure-caption">Each line is drawn at the average annual rate of decline the paper reports for that sector.<sup class="noteref"><a href="#note-12">12</a></sup></p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-3-4.png" alt="Figure 3-4. The decline in research productivity (United States: semiconductors, pharmaceuticals, agriculture). Each line is drawn at the average annual rate of decline the paper reports for that sector .">
+</figure>
 
 ## 3.6 Three variables, and eight billion robots
 

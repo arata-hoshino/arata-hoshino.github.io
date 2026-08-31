@@ -32,14 +32,12 @@ That 20 percent intuition is in fact consistent with the measured values in the 
 
 What GDP measures, then, is not value but the part of value wearing the skin of monetisation. This is not a bug in GDP. It is the specification: Smith's proxy, institutionalised over two hundred and fifty years. As the Stiglitz-Sen-Fitoussi Commission formally acknowledged,<sup class="noteref"><a href="#note-6">6</a></sup> we have measured what is easy to measure and called what we measured value.
 
-<div class="figure-callout">
-  <p class="figure-title">Figure 7-1 · The economy that is not counted: household production and free goods</p>
-  <p class="figure-caption">Areas are proportional to the published central estimates. The circle for free goods is drawn at the lower end of the range of consumer-surplus estimates<sup class="noteref"><a href="#note-3">3</a></sup>.<sup class="noteref"><a href="#note-5">5</a></sup></p>
-</div>
-<div class="figure-callout">
-  <p class="figure-title">Figure 7-2 · Where a human day goes</p>
-  <p class="figure-caption">As the inner ring shows, only paid work enters the national accounts. Variation across countries is large.<sup class="noteref"><a href="#note-4">4</a></sup></p>
-</div>
+<figure class="figure">
+  <img src="/assets/figures/figure-7-1.png" alt="Figure 7-1. The economy that is not counted: household production and free goods. Areas are proportional to the published central estimates. The circle for free goods is drawn at the lower end of the range of consumer-surplus estimates .">
+</figure>
+<figure class="figure">
+  <img src="/assets/figures/figure-7-2.png" alt="Figure 7-2. Where a human day goes. As the inner ring shows, only paid work enters the national accounts. Variation across countries is large .">
+</figure>
 
 ## 7.4 The retirement of money
 

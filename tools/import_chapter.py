@@ -136,11 +136,24 @@ def figures(body):
 
         html = []
         for f in out:
-            html.append('<div class="figure-callout">')
-            html.append('  <p class="figure-title">Figure %s · %s</p>' % (f['n'], f['title']))
-            if f['caption']:
-                html.append('  <p class="figure-caption">%s</p>' % ' '.join(f['caption']))
-            html.append('</div>')
+            caption = ' '.join(f['caption'])
+            plot = 'assets/figures/figure-%s.png' % f['n']
+            if os.path.exists(plot):
+                # the plot carries its own title and caption, so the page
+                # sets neither; what it says goes into the alt text
+                alt = 'Figure %s. %s%s' % (
+                    f['n'], f['title'], '. ' + caption if caption else '')
+                alt = re.sub(r'\[\d+\]', '', alt)
+                alt = re.sub(r'\*\*?|\s+', lambda m: ' ' if m.group(0).isspace() else '', alt).strip()
+                html.append('<figure class="figure">')
+                html.append('  <img src="/%s" alt="%s">' % (plot, alt.replace('"', '&quot;')))
+                html.append('</figure>')
+            else:
+                html.append('<div class="figure-callout">')
+                html.append('  <p class="figure-title">Figure %s · %s</p>' % (f['n'], f['title']))
+                if caption:
+                    html.append('  <p class="figure-caption">%s</p>' % caption)
+                html.append('</div>')
         return '\n'.join(html) + '\n'
 
     return FIGURE.sub(lambda m: one(m.group(0)), body)
