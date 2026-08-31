@@ -96,6 +96,9 @@ def repair(text):
     text = re.sub(r'â(?=[0-9])', '−', text)
     # what is left of the multiplication sign
     text = text.replace(' Ã ', ' × ')
+    # the drafts use the Japanese approximation sign; the site sets the
+    # one English typography uses
+    text = text.replace('≒', '≈')
     return text
 
 
@@ -150,7 +153,9 @@ def equations(body):
     """A blockquote that states a relation is set apart as one."""
     def one(m):
         inner = m.group(1)
-        if any(c in inner for c in ('≈', '→', '=')):
+        if any(c in inner for c in ('≈', '→', '=', '÷')):
+            # the paragraph is raw html, so the markdown escapes come out
+            inner = inner.replace('\\*', '*').replace('\\_', '_')
             return '<p class="equation">%s</p>' % inner
         return m.group(0)
     return EQUATION.sub(one, body)
@@ -212,6 +217,9 @@ def convert(path):
     app = re.sub(r'^---\n+## (?:[^\n]*: )?(Notes and Sources|Objections and Limits)\s*$',
                  r'<hr class="rule-major">\n\n## \1', app, flags=re.M)
     app = notes(app)
+    # the objections cite the notes too; by now the notes' own leads are
+    # numbered rather than bracketed, so nothing here is caught twice
+    app = references(app)
     app = links(app)
     app = '<div class="apparatus" markdown="1">\n\n' + app.strip('\n') + '\n\n</div>\n'
 
