@@ -51,8 +51,8 @@ concludes by identifying Texas and the UAE as the candidates for long and sustai
 Bay Area, Shenzhen, and Hangzhou as likely to keep growing, and Japan and Korea as consolidating
 into technological chokepoints.
 
-The intended readers are sovereign wealth funds in the Gulf and the United States, venture
-capital, and other investors. This thesis is strongly hypothetical in character, analysing,
+The intended readers are sovereign wealth funds, venture capital, other investors, and founders
+building in deep tech. This thesis is strongly hypothetical in character, analysing,
 thinking, and designing outside the present constraint rather than inside it, and it is meant to
 serve as a compass for investment in the way a hypothesis can. It is therefore not a rigorous
 scientific proof of the kind an academic paper offers, nor is it an analysis of particular
