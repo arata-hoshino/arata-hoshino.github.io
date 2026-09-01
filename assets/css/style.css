@@ -657,9 +657,8 @@ main {
    may be quoted.                                                       */
 
 .endnote {
-  margin: clamp(3.5rem, 8vw, 5rem) 0 0;
-  padding-top: 1.5em;
-  border-top: 1px solid var(--rule);
+  /* the contents already closes on a rule, so this one sets none */
+  margin: clamp(1.5rem, 3.5vw, 2.25rem) 0 0;
   color: var(--muted);
   font-size: 0.88em;
 }
