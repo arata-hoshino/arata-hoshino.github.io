@@ -186,10 +186,11 @@ def notes(app):
     """Number the notes, and give each one an anchor."""
     out, pending = [], None
     for line in app.split('\n'):
-        m = re.match(r'^\*\*\[(\d+)\] ', line)
+        # the drafts have written the note lead both bolded and plain
+        m = re.match(r'^(\*\*)?\[(\d+)\] ', line)
         if m:
-            pending = m.group(1)
-            line = re.sub(r'^\*\*\[(\d+)\] ', r'**\1. ', line)
+            pending = m.group(2)
+            line = re.sub(r'^(\*\*)?\[(\d+)\] ', r'\g<1>\2. ' if m.group(1) else r'\2. ', line)
         elif pending and line.strip() == '':
             out.append('{: #note-%s .note}' % pending)
             pending = None

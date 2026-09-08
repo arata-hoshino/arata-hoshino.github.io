@@ -48,7 +48,7 @@ And there is the humanoid robot that appeared in almost every account of the fut
 the 1980s. Humanoids are in fact arriving now, but not for the shopping errand. The value the
 shopping robot was supposed to deliver, which is having what you want appear at your door, came
 instead from Amazon, from rearranging warehousing, logistics, and the act of ordering. Small
-robots may take part at the last metre of a delivery, but none of them is a machine that walks
+robots may take part at the last meter of a delivery, but none of them is a machine that walks
 to the store. The imagined form never arrived. The value did. What is the nature of that
 substitution?
 
@@ -64,12 +64,12 @@ money. This thesis is an attempt to draw that whole line.
 ## This is not a book about AI
 
 Let me say one thing in advance. In the discourse of 2026 the phrase "energy abundance"
-circulates almost entirely within the context of AI. How to supply data centres with power; how
+circulates almost entirely within the context of AI. How to supply data centers with power; how
 to thicken the bottom layer of what Jensen Huang calls the five-layer cake. His five layers
 stack in the order of energy, chips, infrastructure, models, and applications. That the bottom
 layer is energy is the same claim this thesis makes.<sup class="noteref"><a href="#note-5">5</a></sup>
 
-This thesis does not belong to that context. The power problem of data centres is merely the
+This thesis does not belong to that context. The power problem of data centers is merely the
 newest instance of its subject. What this thesis treats is a far larger and far older structure:
 that the abundance of energy has governed the skeleton of civilization since the industrial
 revolution, which is to say what can be built from nothing, whether population grows, how wealth
@@ -115,7 +115,7 @@ happening.
 
 What is needed is not a fourth prescription but putting the three on one board. The coordinate
 system this thesis uses is extremely reductive. It reduces most of what can be observed about a
-civilization to three variables: institutions, the effective abundance of energy, and labour
+civilization to three variables: institutions, the effective abundance of energy, and labor
 input. Effective abundance is not the same thing as endowment. The same reserves become almost
 free energy in one society and stay in the ground in another.
 
@@ -153,7 +153,7 @@ refined to its limit, becomes nearly indistinguishable from magic.
 This is not a proof. It is a hypothesis, and I cannot prove it either. Statements about the
 future are like that in principle.
 
-But being unprovable and being groundless are different things. Having analysed, diagnosed, and
+But being unprovable and being groundless are different things. Having analyzed, diagnosed, and
 interpreted civilization, one can say that it looks as though it will go this way. Sharpening
 that "as though" until it is precise enough to bet on is the work of this thesis. That is why
 the final chapter sets out five bets and, for each, what would kill it.
@@ -177,7 +177,7 @@ The opening sentence reads "You can see the future first in San Francisco."
 Nuclear Energy Corporation). Al Dhafra solar is 2 GW, and its 2020 award price of 1.35 US cents
 per kilowatt-hour was the lowest in the world at the time (Emirates Water and Electricity
 Company, 2020). **What the auction settled was the developer and the price; the procured
-capacity itself was fixed in advance.** The fuller picture, including historically subsidised
+capacity itself was fixed in advance.** The fuller picture, including historically subsidized
 domestic gas, is in the notes to Chapter 1.
 {: #note-2 .note}
 

@@ -3,7 +3,7 @@ title: "Everything is energy conversion"
 number: "1"
 order: 2
 part: "Part I. The physics of civilization"
-summary: "A civilization's competitiveness is the product of institutions, the effective abundance of energy, and labour input. What it settles is not wealth but what can be built. Britain in the 1840s, the UAE today."
+summary: "A civilization's competitiveness is the product of institutions, the effective abundance of energy, and labor input. What it settles is not wealth but what can be built. Britain in the 1840s, the UAE today."
 ---
 
 ## 1.1 The reductive thesis
@@ -33,7 +33,7 @@ not there is a computer inside, energy conversion is energy conversion.
 This reduction is not rhetoric but a plain acknowledgment that thermodynamics is the higher law
 over all economic activity. What economics calls production appears to physics as a process that
 takes in low-entropy energy and matter, converts it into ordered structure (goods, services,
-information), and expels high-entropy waste heat. As Nicholas Georgescu-Roegen formalised in
+information), and expels high-entropy waste heat. As Nicholas Georgescu-Roegen formalized in
 *The Entropy Law and the Economic Process* (1971), the economic process is an irreversible
 conversion of low-entropy resources into high-entropy waste, and no economic activity is free of
 that constraint.<sup class="noteref"><a href="#note-3">3</a></sup> Mainstream economics has long treated the point as a philosophical
@@ -50,7 +50,7 @@ For the United States, that is eighty-eight people at 100 watts each. Against th
 employs something close to a hundred invisible servants.
 
 The comparison is not strictly measuring the same thing. The numerator is the primary energy a
-society mobilises; the denominator is the food an individual takes in through the mouth. But
+society mobilizes; the denominator is the food an individual takes in through the mouth. But
 that asymmetry is the point. What grew over twelve thousand years is not the amount a human
 eats. It is the amount of work done outside the human.
 
@@ -71,7 +71,7 @@ execute. Quality, meaning the goodness of life for the people living there, is n
 
 ### The competitiveness equation
 
-<p class="equation">Civilizational competitiveness <b>C</b> ≈ Institutions <b>I</b> × Effective energy abundance <b>E</b> × Labour input (automation) <b>L</b></p>
+<p class="equation">Civilizational competitiveness <b>C</b> ≈ Institutions <b>I</b> × Effective energy abundance <b>E</b> × Labor input (automation) <b>L</b></p>
 
 If any one of the three is near zero, the output is near zero however high the others are.
 
@@ -87,8 +87,8 @@ price can be largely ignored, is believed to persist partway through an asset's 
 question is not how many percentage points of competitiveness a twenty percent fall in
 electricity prices buys.
 
-**Labour input L.** In the present era this approximates to automation. Better energy
-conversion, meaning the removal of humans from labour input by machines. And better bit
+**Labor input L.** In the present era this approximates to automation. Better energy
+conversion, meaning the removal of humans from labor input by machines. And better bit
 conversion, meaning gains in productivity from AI and computing capacity.
 
 This term decomposes further.
@@ -99,7 +99,7 @@ This term decomposes further.
 
 **Large capital K.** Installing autonomy and computing substrate demands capital expenditure of
 another order. The question is whether the balance accumulated through prior periods can be
-mobilised at that scale.
+mobilized at that scale.
 
 Japan and Korea, holding the depth of an advanced-industrial supply chain, sit upstream on T.
 That is why they cannot be substituted for. The United States holds much of T and holds K, and
@@ -141,7 +141,7 @@ existing factory turns a profit but the capacity to create stock from scratch.
 
 Two societies have shown that capacity in extreme form: Britain in the 1840s and the UAE today.
 On the face of it they share nothing. Look at the structure and the same three are present.
-Cheap energy with no realistic prospect of exhaustion. Cheap labour input. And institutions that
+Cheap energy with no realistic prospect of exhaustion. Cheap labor input. And institutions that
 preserve returns and call in people and capital.
 
 **Britain in the 1840s.** British coal output rose twentyfold over the nineteenth century, and
@@ -149,18 +149,18 @@ one country was digging roughly two thirds of the world's coal.<sup class="noter
 French inspector wrote, coal was "the soul of English manufacture"; at the pithead it was a
 resource with no prospect of running out.<sup class="noteref"><a href="#note-5">5</a></sup>
 
-Labour was abnormally cheap as well. In 1841 roughly 216,000 people worked in the mines, and
+Labor was abnormally cheap as well. In 1841 roughly 216,000 people worked in the mines, and
 among them were children who from the age of five or six opened and closed ventilation doors
-underground.<sup class="noteref"><a href="#note-6">6</a></sup> Part of the cost of extraction was covered, literally, by the labour of
+underground.<sup class="noteref"><a href="#note-6">6</a></sup> Part of the cost of extraction was covered, literally, by the labor of
 children. I have no wish to defend it. But structurally this was a society in which the marginal
-cost of energy and the marginal cost of labour had both hit bottom.
+cost of energy and the marginal cost of labor had both hit bottom.
 
 The institutional side was exceptional for its time as well. The Joint Stock Companies Act of
 1844 permitted incorporation by registration alone. The Continent did not arrive at the same
 principle for more than twenty years. Railways were excluded from that act and required a
 private Act of Parliament for each line, but during the mania Parliament processed more than
 seven hundred railway bills across two sessions.<sup class="noteref"><a href="#note-7">7</a></sup> And the Lands Clauses Consolidation Act of
-1845 standardised the assessment and payment of compensation for the compulsory purchase those
+1845 standardized the assessment and payment of compensation for the compulsory purchase those
 private acts conferred.<sup class="noteref"><a href="#note-7">7</a></sup> The machinery for assembling capital and the machinery for
 assembling land were in place at the same time.
 
@@ -181,9 +181,9 @@ Raising a future city out of open country is out of the question. What changed? 
 not national character. The structure of abundance disappeared.
 
 **The UAE today.** And the same three conditions are now assembled somewhere else. Energy is
-cheap three times over: historically subsidised domestic gas, the 5.6 gigawatts of the Barakah
+cheap three times over: historically subsidized domestic gas, the 5.6 gigawatts of the Barakah
 nuclear plant, and Al Dhafra solar, which set what was then a world record price in 2020.<sup class="noteref"><a href="#note-12">12</a></sup>
-Labour is carried by migrants who make up more than eighty percent of the resident population.
+Labor is carried by migrants who make up more than eighty percent of the resident population.
 Land was infinite, as desert. And the institutional side is moving as well. As a place where
 returns are preserved, tax burdens are light, and the barrier to starting a business is low,
 frontier researchers and founders are beginning, slowly, to gather. The consequence is a set of
@@ -196,7 +196,7 @@ the twenty-first-century UAE is pouring into computing substrate.
 Windows do not only open. They close.
 
 **Japan and Germany, where they closed.** Japan's postwar high growth stood on cheap Middle
-Eastern crude and on cheap labour coming out of the countryside. The window closed in 1973. Real
+Eastern crude and on cheap labor coming out of the countryside. The window closed in 1973. Real
 growth halved over that period, from an annual 9.1 percent to 4.2, though the standard account
 attributes the main cause to the end of catch-up, with energy a contributing factor layered on
 top. The nuclear shutdown of 2011 was a second shock on top of that, and the trade balance swung
@@ -221,12 +221,12 @@ in the black. The abundance argument asks who can build the next civilization's 
 arguments of different dimensions.
 
 And here the bridge to this thesis's picture of the future is laid. The abundance of 1840s
-Britain rested in part on child labour and colonies, human costs that must never be repeated.
-The labour cost of the present-day UAE stands on a global wage gap. But the combination of
+Britain rested in part on child labor and colonies, human costs that must never be repeated.
+The labor cost of the present-day UAE stands on a global wage gap. But the combination of
 overwhelming energy abundance, fully automated manufacture and transport, and correct
 institutions makes those three conditions obtainable, for the first time in history, without
 human sacrifice, anywhere. Cheap energy is supplied by the output of next-generation energy R&D,
-fusion among it; cheap labour by the next generation of machines. At that point a wave of
+fusion among it; cheap labor by the next generation of machines. At that point a wave of
 private investment absorbing just under 8 percent of GDP could rise again on the same English
 plains where no future city could be built in the 2020s. The abundance the nineteenth century
 bought with human pain, the twenty-first buys back with machines. That is the civilizational
@@ -246,7 +246,7 @@ throttles births through the price system is the path this thesis follows from h
 ## 1.4 Conclusion of this chapter
 
 What a civilization can newly build in the physical world is settled by the product of three
-terms: institutions, the effective abundance of energy, and labour input. Britain in the 1840s
+terms: institutions, the effective abundance of energy, and labor input. Britain in the 1840s
 and the UAE today both had the three at once. In Japan and Germany what had been present was
 lost; in the United States what had been lost came back.
 
@@ -314,13 +314,13 @@ and this thesis keeps figure and text on the same series.**
 **5. British coal.** Output rose from roughly 8.5 to 10.5 million tons in 1800 to roughly 224
 million tons in 1900 (B. R. Mitchell, *Economic Development of the British Coal Industry
 1800–1914*, Cambridge University Press, 1984). **"Roughly two thirds of the world" is a
-generalisation about the nineteenth century as a whole; by 1913 the British share had fallen to
+generalization about the nineteenth century as a whole; by 1913 the British share had fallen to
 about 24 percent.** The quotation is from Ticquet (1738), but by way of Robert C. Allen, *The
 British Industrial Revolution in Global Perspective* (Cambridge University Press, 2009), p.80;
 the original has not been consulted.
 {: #note-5 .note}
 
-**6. Labour in the mines.** For the roughly 216,000 mine workers in 1841 and the children of
+**6. Labor in the mines.** For the roughly 216,000 mine workers in 1841 and the children of
 five and six operating ventilation doors, see Children's Employment Commission, *First Report of
 the Commissioners (Mines)*, 1842 (British Parliamentary Papers). **Whether the primary source
 for the 216,000 figure is that report or the 1841 census is unresolved.** The Mines Act of 1842
@@ -330,7 +330,7 @@ section 1 and by boys under ten in section 2.
 
 **7. The Companies Act and the railway bills.** The Joint Stock Companies Act of 1844 (7 & 8
 Vict. c. 110) permitted incorporation by registration alone, but **undertakings requiring
-parliamentary authorisation, meaning bridges, roads, canals, and railways, were excluded, and
+parliamentary authorization, meaning bridges, roads, canals, and railways, were excluded, and
 limited liability did not exist until separate acts of 1855 and 1856.** France arrived at full
 general incorporation with the law of 24 July 1867, the North German Confederation with that of
 11 June 1870 (Guinnane, Harris, Lamoreaux & Rosenthal, "Putting the Corporation in its Place,"
@@ -353,9 +353,9 @@ in the text and is likely relying on an unpublished draft.** Route mileage was 1
 **9. HS2.** Phase one, 134 miles, at a total of 53.1 billion pounds, is roughly 396 million
 pounds per mile. The French line from Tours to Bordeaux is roughly 46 million pounds per mile
 (Britain Remade, 2023). **What is included in that unit cost, in terms of land acquisition,
-rolling stock, signalling, and contingency, has not been verified, and the UK Department for
+rolling stock, signaling, and contingency, has not been verified, and the UK Department for
 Transport's official figure uses a different base year.** Cumulative spend was 46.8 billion
-pounds at the end of March 2026, in nominal terms, **including spend on the cancelled phase
+pounds at the end of March 2026, in nominal terms, **including spend on the canceled phase
 two** (National Audit Office, *High Speed Two reset*, HC 52, 2026). The same report gives an
 opening range for Old Oak Common to Birmingham of May 2036 to October 2039. HS2 Ltd began
 operating in January 2009.
@@ -383,7 +383,7 @@ Al Dhafra solar project was awarded at 1.35 US cents per kilowatt-hour, the lowe
 world at the time (Emirates Water and Electricity Company, 2020).
 {: #note-12 .note}
 
-**13. Labour and capital in the UAE.** Migrant workers number roughly 8.7 million, more than 80
+**13. Labor and capital in the UAE.** Migrant workers number roughly 8.7 million, more than 80
 percent of the resident population (International Labour Organization). The Abu Dhabi plan is a
 5-gigawatt UAE-US AI campus, **inside which Stargate UAE is a 1-gigawatt cluster. The two are
 easily confused and the distinction is noted here.** The 200-megawatt first phase targets
@@ -453,7 +453,7 @@ that merely names a residual predicts nothing.
 A product of three terms is a different object. Institutions are observable through net inflows
 of talent, the depth of capital markets, and permitting lead times; effective energy abundance
 through the level of prices and, for the expectation of persistence, through the price and tenor
-of long-term power purchase agreements and forward curves; labour input through robot density,
+of long-term power purchase agreements and forward curves; labor input through robot density,
 computing resources, and access to chokepoint technologies. Each is independently observable.
 None of the three is a residual.
 
@@ -496,12 +496,12 @@ Acemoglu & Simon Johnson, "Unbundling Institutions," *Journal of Political Econo
 checked. Brunnschweiler and Bulte rest on the publisher's abstract and indexing records; the
 full text has not been obtained.**
 
-### Labour input L is used in two senses (1.2 and 1.3)
+### Labor input L is used in two senses (1.2 and 1.3)
 
-The L of 1.2 is automation, defined as the removal of humans from labour input by machines
+The L of 1.2 is automation, defined as the removal of humans from labor input by machines
 together with productivity gains from AI and computing. But the cases offered in 1.3 as
 instances of all three conditions being present are Britain in the 1840s and the UAE today, and
-**in both of them what is cheap is human labour. Child labour and migrant labour, not
+**in both of them what is cheap is human labor. Child labor and migrant labor, not
 automation.**
 
 It follows that **there is not a single case in this chapter that demonstrates the L of the
@@ -512,7 +512,7 @@ This thesis puts the two into the same term because L is taken broadly, as input
 work done without spending human hands, and that breadth derives from the definition of terms in
 1.1. **The line at the end of 1.3, that the abundance the nineteenth century bought with human
 pain the twenty-first buys back with machines, is a declaration that the two are different
-realisations of the same term.** But a declaration is not a demonstration. **This is a weak part
+realizations of the same term.** But a declaration is not a demonstration. **This is a weak part
 of the thesis and is marked as such.**
 
 ### What was never conceived cannot be observed (1.2)
@@ -549,7 +549,7 @@ I. Stern, "Is There Really Granger Causality Between Energy Use and Output?" *Th
 Journal* 35(4), 2014, 97–120). This thesis does not dismiss that result.
 
 What it relies on is Stern and Kander's conditional formulation: energy constrains growth when
-it is scarce, while in non-scarce regimes labour-augmenting technical change dominates (David I.
+it is scarce, while in non-scarce regimes labor-augmenting technical change dominates (David I.
 Stern & Astrid Kander, "The Role of Energy in the Industrial Revolution and Modern Economic
 Growth," *The Energy Journal* 33(3), 2012, 125–152). What this thesis treats is a regime in
 which scarcity returns, and econometric results from a non-scarce period cannot be extrapolated

@@ -20,7 +20,7 @@ function. The constraint that has bound our capacity to conceive large-scale inv
 off. People are allotted capital before they ever work, and can devote themselves to the
 creation of value in its proper sense rather than to productivity. In that world the macro
 problems we now fear, population collapse among them, dissolve as a by-product of two
-constraints being lifted, energy and labour input, together with the distribution of wealth.
+constraints being lifted, energy and labor input, together with the distribution of wealth.
 They do not wait on symptomatic treatment.
 
 The argument of this thesis is that contemporary civilization faces one structural constraint,
@@ -42,7 +42,7 @@ diagnosis of the present.
 From there the thesis sets out how the accelerating arrival of energy abundance and automation
 restores that capacity to conceive and expands demand. It proposes a model of distributed
 ownership built on baby bonds, in place of allocating income by contribution to tasks. And it
-proposes, as a departure from GDP, a model of value creation and measurement centred on use
+proposes, as a departure from GDP, a model of value creation and measurement centered on use
 value, applying the principles of service-dominant logic.
 
 It then examines, region by region, the subcategories bearing on energy abundance, automation,
@@ -52,7 +52,7 @@ Bay Area, Shenzhen, and Hangzhou as likely to keep growing, and Japan and Korea 
 into technological chokepoints.
 
 The intended readers are sovereign wealth funds, venture capital, other investors, and founders
-building in deep tech. This thesis is strongly hypothetical in character, analysing,
+building in deep tech. This thesis is strongly hypothetical in character, analyzing,
 thinking, and designing outside the present constraint rather than inside it, and it is meant to
 serve as a compass for investment in the way a hypothesis can. It is therefore not a rigorous
 scientific proof of the kind an academic paper offers, nor is it an analysis of particular
@@ -78,7 +78,7 @@ companies whose fortunes turn over in a matter of months.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">01</span>
     <span class="toc-title"><a href="/essays/everything-is-energy-conversion/">Everything is energy conversion</a></span>
-    <p class="toc-summary">A civilization's competitiveness is the product of institutions, the effective abundance of energy, and labour input. What it settles is not wealth but what can be built. Britain in the 1840s, the UAE today.</p>
+    <p class="toc-summary">A civilization's competitiveness is the product of institutions, the effective abundance of energy, and labor input. What it settles is not wealth but what can be built. Britain in the 1840s, the UAE today.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">02</span>
