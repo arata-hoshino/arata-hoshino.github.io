@@ -16,7 +16,6 @@ import sys
 
 KEEP = [
     'International Labour Organization',
-    'Labour Force Survey',
     'Statistics Centre',
     'The Costs of Decarbonisation',
 ]
@@ -85,6 +84,8 @@ WORDS = {
     'analyses': 'analyzes',
     'analysing': 'analyzing',
     'cancelled': 'canceled',
+    'cheque': 'check',
+    'cheques': 'checks',
     'defence': 'defense',
     'judgement': 'judgment',
     'judgements': 'judgments',
@@ -92,6 +93,7 @@ WORDS = {
     'programmes': 'programs',
     'scepticism': 'skepticism',
     'signalling': 'signaling',
+    'totalling': 'totaling',
     'traveller': 'traveler',
     'travelling': 'traveling',
 }
