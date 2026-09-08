@@ -18,6 +18,7 @@ KEEP = [
     'International Labour Organization',
     'Labour Force Survey',
     'Statistics Centre',
+    'The Costs of Decarbonisation',
 ]
 
 WORDS = {
