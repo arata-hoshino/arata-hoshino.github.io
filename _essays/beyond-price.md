@@ -67,7 +67,7 @@ But this sequence has a second effect that has never been counted. Each time fid
 
 And this rise in resolution has not yet reached its endpoint. Yoichi Ochiai called the twentieth century the century of the image and the twenty-first the century of magic.<sup class="noteref"><a href="#note-9">9</a></sup> Twentieth-century media confined reality inside a two-dimensional screen; twenty-first-century computers rewrite reality itself, and the technology dissolves into the environment until it can no longer be seen. Technology that cannot be seen is indistinguishable, from the user's side, from magic. Beyond that lies digital nature, a view of nature in which matter, mind and body alike are described in unified terms from the standpoint of the computer.<sup class="noteref"><a href="#note-9">9</a></sup>
 
-The measuring surface moves towards the body as this proceeds. From the screen to the wristwatch. From the wristwatch to the smart contact lens. And then to the brain-machine interface. The point of observation moves from the transaction to the body, and from the body to the nervous system.
+The measuring surface moves toward the body as this proceeds. From the screen to the wristwatch. From the wristwatch to the smart contact lens. And then to the brain-machine interface. The point of observation moves from the transaction to the body, and from the body to the nervous system.
 
 ### The day the proxy is no longer needed
 
@@ -85,7 +85,7 @@ And the two directions of Chapter 2 both reach their terminus here. As the conve
 
 The entrance to this transition is already visible. Tokens and carbon emission allowances are converging on currency. Both were designed as units of account. But for an AI company constrained by energy, the token is a unit of revenue and at the same time a unit of the scarce resource that has to be rationed. As section 5.6 of Chapter 5 showed, through the decade in which the supply of compute is rate-limited by connection to the grid, this scarcity is real. Anything issued, exchanged and stored as a unit of a scarce resource is performing the function of currency at that point. Emission allowances have the same structure. It is the institutional designer rather than the state who sets the quantity issued, and the market that sets the price.
 
-It is more accurate to read these not as the first step in money becoming data but as a movement of money back towards a unit of energy. The quantity of energy consumption allowed per head. A world in which that is the unit sits just in front of a world that measures value in data. The two movements proceed at once, and which of them matures first is settled by which becomes cheap first, measurement or trust.
+It is more accurate to read these not as the first step in money becoming data but as a movement of money back toward a unit of energy. The quantity of energy consumption allowed per head. A world in which that is the unit sits just in front of a world that measures value in data. The two movements proceed at once, and which of them matures first is settled by which becomes cheap first, measurement or trust.
 
 The claim of this thesis is therefore bounded to the following form. Price retires not only because scarcity disappears. It retires also because use value becomes observable and the reason for keeping a proxy is gone. The first is a problem of energy, and a problem of decades. The second is a problem of measurement and of trust, and it is probably the harder of the two. Reservations about this argument are gathered at the end of the chapter.
 

@@ -94,6 +94,8 @@ WORDS = {
     'scepticism': 'skepticism',
     'signalling': 'signaling',
     'totalling': 'totaling',
+    'pedlar': 'peddler',
+    'towards': 'toward',
     'traveller': 'traveler',
     'travelling': 'traveling',
 }
