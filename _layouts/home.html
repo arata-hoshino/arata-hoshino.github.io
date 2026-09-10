@@ -10,6 +10,7 @@ layout: default
 
 <article class="page">
   <header class="titleblock">
+    {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
     {% if page.heading %}<h1 class="page-title">{{ page.heading }}</h1>{% endif %}
     {% if page.subtitle %}<p class="page-subtitle">{{ page.subtitle }}</p>{% endif %}
 

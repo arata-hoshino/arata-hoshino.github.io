@@ -70,7 +70,6 @@
   --face: "ET Book", Palatino, "Palatino Linotype", Georgia,
           "Times New Roman", Times, serif;
   --mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
-  --stamp: "Jost", "Futura", "Avenir Next", "Helvetica Neue", Arial, sans-serif;
 
   --body-size: 1.0625rem; /* 17px body copy; the rest scales off it in em */
   --measure: 43.75rem;    /* 700px — the column narrowed with the type */
@@ -240,9 +239,10 @@ main {
    description, then the metadata table.                              */
 
 .eyebrow {
-  margin: 0 0 1.4em;
-  color: var(--navy);
-  font-size: 0.74em;
+  margin: 0 0 2.15em;
+  color: var(--muted);
+  font-size: 0.9em;
+  letter-spacing: 0.2em;
 }
 
 .page-title {
@@ -513,32 +513,18 @@ main {
    annotated table of contents — number in the margin, title, then the
    chapter's own description, separated by space rather than by rules.  */
 
-/* The name and the line under it are set as an inscription: one face, one
-   size, and letterspaced. This is the single place on the site that takes
-   letterspacing, and it takes it deliberately. */
+/* the name and the line under it: one face, one size, one colour */
 .author-name,
 .author-role {
   margin: 0;
-  font-family: var(--stamp);
-  font-size: 0.88em;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-}
-
-.author-name {
   color: var(--ink);
-  font-weight: 700;
-}
-
-.author-role {
-  color: var(--muted);
-  font-weight: 300;
+  font-size: 1.05em;
 }
 
 /* name, place and date are one block: a fixed leading keeps the three
    lines evenly spaced even though the name is set larger */
 .author {
-  line-height: 1.83rem;
+  line-height: 1.75rem;
 }
 
 .author + .author {
@@ -557,18 +543,25 @@ main {
   margin-top: 0;
 }
 
+.titleblock .page-title {
+  margin-bottom: 0;
+  font-size: clamp(2.4rem, 5.4vw, 3.3rem);
+  font-weight: 400;
+  line-height: 1.1;
+}
+
 
 .page-subtitle {
-  margin: 0.7em 0 0;
-  color: var(--ink);
+  margin: 1.3em 0 0;
+  color: var(--body);
   font-size: 1.28em;
   font-style: italic;
-  line-height: 1.4;
+  line-height: 1.75;
 }
 
 /* the same gap above the name as below the block, and a little wider */
 .titleblock .author:first-of-type {
-  margin-top: clamp(2.75rem, 6vw, 3.75rem);
+  margin-top: clamp(4.5rem, 10vw, 7rem);
 }
 
 /* The epigraph sits between the title block and the body, in a pale panel
