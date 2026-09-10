@@ -712,6 +712,16 @@ main {
 .endnote p { margin: 0 0 1em; }
 .endnote p:last-child { margin-bottom: 0; }
 
+/* On the contents page the notice closes the page, so it sits just over
+   the footer's rule rather than at the top of the usual run-out. */
+.is-contents .page {
+  padding-bottom: 0;
+}
+
+.is-contents .site-footer {
+  margin-top: clamp(1.5rem, 3.5vw, 2.25rem);
+}
+
 /* -------------------------------------------------- figures in a chapter
 
    A figure carries its own title and lede above the plot and its caption
