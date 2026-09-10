@@ -633,7 +633,7 @@ main {
   /* an h3, so it takes the navy uppercase label from .prose h3; the
      margins are set in rem, not in the em of that 0.8em label, and
      scoped so .prose h3 does not outrank them */
-  margin: 3.4rem 0 1.2125rem;
+  margin: 3.4rem 0 1.09rem;
   padding-bottom: 0.9em;
   border-bottom: 1px solid var(--rule);
 }
@@ -703,8 +703,8 @@ main {
 
 .endnote {
   /* the contents already closes on a rule, so this one sets none; the
-     notice stands off it by the measure the title page's breaks use */
-  margin: 3.72rem 0 0;
+     notice stands well clear of the last entry */
+  margin: clamp(4.5rem, 10vw, 8rem) 0 0;
   color: var(--muted);
   font-size: 0.88em;
 }
