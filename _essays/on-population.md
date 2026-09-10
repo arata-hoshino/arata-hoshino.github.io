@@ -18,8 +18,7 @@ What matters here is that Malthus's schema was not itself wrong. What was wrong 
 
 Nobody in an advanced country today gives "there is nothing to eat" as the reason for not having children. And yet fertility sits pinned at historic lows. What I want to put forward here is the following hypothesis.
 
-> **The modern "food" is, in substance, the household's economic capacity. But the household's economic capacity and its constraint are themselves derived variables, fixed by the macro energy structure and the level of technology.**
-
+> The modern "food" is, in substance, the household's economic capacity. But the household's economic capacity and its constraint are themselves derived variables, fixed by the macro energy structure and the level of technology.
 Households judge whether a life is possible from the level of wages and from the price system. The point is that the price system is itself a function of the energy constraint and of technological structure. The price of a good or a service is set, roughly, by energy cost, manufacturing cost (including the extraction, processing and transport of materials), transport cost, computing cost, and the labor cost that has not been automated away. Energy is the base cost common to almost all production, transport and computation, and labor cost is heavily affected by energy and by the level of technology, which is to say the degree of automation. Hence,
 
 <p class="equation">Price vector of goods and services p = f(energy price P_E, degree of automation A)</p>

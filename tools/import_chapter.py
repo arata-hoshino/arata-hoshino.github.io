@@ -170,7 +170,9 @@ def equations(body):
             # the paragraph is raw html, so the markdown escapes come out
             inner = inner.replace('\\*', '*').replace('\\_', '_')
             return '<p class="equation">%s</p>' % inner
-        return m.group(0)
+        # a quotation is set apart by the rule beside it and by its italic,
+        # never by weight: the draft's bold comes off here
+        return '> ' + inner
     return EQUATION.sub(one, body)
 
 

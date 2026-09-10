@@ -611,6 +611,15 @@ main {
 
 .prose blockquote p:last-child { margin-bottom: 0; }
 
+/* a quotation is set apart by the rule beside it and by its italic. It is
+   never set apart by weight, whatever the draft asked for. */
+.prose blockquote strong,
+.prose blockquote b,
+.epigraph strong,
+.epigraph b {
+  font-weight: inherit;
+}
+
 .prose table {
   width: 100%;
   margin: 2.2em 0;
