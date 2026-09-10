@@ -225,44 +225,114 @@ main {
   }
 }
 
-/* ------------------------------------------- the contents button
+/* ------------------------------------------- the contents sheet
 
-   On a narrow screen the list folds behind a button under the title.
-   The shell is a grid of one row, and the row goes from nothing to its
-   content: that animates cleanly without measuring anything. The links
-   ride in after it on small delays, quickly, from just above.          */
+   On a narrow screen the list folds behind a button under the title and
+   opens as a sheet over the page: it fades up, carries its own head so
+   the way out is always in the same place, and holds the page still
+   behind it. The links arrive one after another, from just above.
 
-.nav-toggle {
+   On a wide screen the two wrappers are display:contents, so the list
+   sits in the flow exactly where it always has.                       */
+
+.nav-shell,
+.nav-panel {
+  display: contents;
+}
+
+.nav-panel-head {
+  display: none;
+}
+
+/* the button, and the way out of the sheet: the same stamp as the name
+   on the title page, a fifth smaller, in grey */
+.nav-toggle,
+.nav-close {
   display: inline-flex;
   align-items: center;
-  gap: 0.6em;
-  margin: 1.1em auto 0;
-  padding: 0.5em 0.95em;
-  border: 1px solid var(--rule);
-  border-radius: 4px;
+  gap: 0.7em;
+  padding: 0;
+  border: 0;
   background: none;
   color: var(--muted);
-  font-family: inherit;
-  font-size: 0.8em;
-  letter-spacing: 0.08em;
+  font-family: var(--stamp);
+  font-size: 0.64em;
+  font-weight: 700;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   cursor: pointer;
+  transition: color 0.18s ease;
+}
+
+.nav-toggle {
+  margin: 1.35em auto 0;
+  padding: 0.62em 1.05em;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
   transition: color 0.18s ease, border-color 0.18s ease;
 }
 
 .nav-toggle:hover,
 .nav-toggle:focus-visible {
-  color: var(--ink);
   border-color: var(--muted);
 }
 
-.nav-toggle-icon path {
-  transition: d 0.2s ease;
+.nav-toggle:hover,
+.nav-toggle:focus-visible,
+.nav-close:hover,
+.nav-close:focus-visible {
+  color: var(--ink);
 }
 
 .nav-toggle-label {
   line-height: 1;
 }
+
+/* three hairlines, and the cross that replaces them: drawn rather than
+   fetched, and held at a fixed size so the small label cannot shrink it */
+.nav-toggle-icon {
+  position: relative;
+  display: block;
+  flex: none;
+  width: 17px;
+  height: 1px;
+  background: currentColor;
+}
+
+.nav-toggle-icon::before,
+.nav-toggle-icon::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: currentColor;
+}
+
+.nav-toggle-icon::before { top: -5px; }
+.nav-toggle-icon::after  { top: 5px; }
+
+.nav-close-icon {
+  position: relative;
+  display: block;
+  flex: none;
+  width: 15px;
+  height: 15px;
+}
+
+.nav-close-icon::before,
+.nav-close-icon::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: currentColor;
+}
+
+.nav-close-icon::before { transform: rotate(45deg); }
+.nav-close-icon::after  { transform: rotate(-45deg); }
 
 /* on a wide page the list is simply there, and the button is not */
 @media (min-width: 48rem) {
@@ -273,42 +343,83 @@ main {
 
 @media (max-width: 47.99rem) {
   .nav-shell {
-    display: grid;
-    grid-template-rows: 0fr;
-    transition: grid-template-rows 0.26s cubic-bezier(0.2, 0.9, 0.2, 1);
-  }
-
-  .nav-shell > .nav {
-    overflow: hidden;
+    display: block;
+    position: fixed;
+    inset: 0;
+    z-index: 60;
+    background: var(--paper);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.24s ease, visibility 0s linear 0.24s;
   }
 
   .nav-shell.is-open {
-    grid-template-rows: 1fr;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.24s ease, visibility 0s;
+  }
+
+  /* the page is held where it was left, under the sheet */
+  body.nav-open {
+    position: fixed;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+  }
+
+  .nav-panel {
+    display: block;
+    padding: 0 var(--gutter);
+  }
+
+  .nav-panel-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5em;
+    padding: clamp(1.75rem, 4vw, 2.75rem) 0 1.35em;
+    border-bottom: 1px solid var(--rule-faint);
+  }
+
+  .nav-panel-brand {
+    color: var(--ink);
+    font-size: 0.86em;
+    font-weight: 700;
+    line-height: 1.45;
+    text-transform: uppercase;
+    text-decoration: none;
   }
 
   .nav {
+    display: flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 0;
-    padding: 0;
+    max-width: none;
+    padding: 1.35em 0 4rem;
+    font-size: 1em;
   }
 
   .nav-link {
-    padding: 0.42em 0;
+    padding: 0.5em 0;
     opacity: 0;
-    transform: translateY(-6px);
-    transition: opacity 0.16s ease, transform 0.16s cubic-bezier(0.2, 0.9, 0.2, 1);
-  }
-
-  .nav-shell.is-open .nav {
-    padding: 1.2em 0 0.4em;
+    transform: translateY(-7px);
+    transition: opacity 0.18s ease, transform 0.18s cubic-bezier(0.2, 0.9, 0.2, 1);
   }
 
   .nav-shell.is-open .nav-link {
     opacity: 1;
     transform: none;
     /* each one a beat after the last, fast enough to read as one motion */
-    transition-delay: calc(0.06s + var(--i, 0) * 0.022s);
+    transition-delay: calc(0.05s + var(--i, 0) * 0.022s);
+  }
+
+  /* nothing grows under a finger; the sheet is a list, not a row */
+  .nav-link:hover,
+  .nav-link:focus-visible {
+    transform: none;
   }
 }
 
@@ -1043,7 +1154,8 @@ main {
 
   .nav-link,
   .nav-shell,
-  .nav-toggle {
+  .nav-toggle,
+  .nav-close {
     transition: none;
   }
 
