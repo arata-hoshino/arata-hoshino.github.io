@@ -600,6 +600,20 @@ main {
     display: inline;
   }
 
+  /* the panel is a little shallower, and the two breaks of the title
+     page — under the epigraph, and over the contents — take the same
+     measure. The second is given a class of its own so that .prose h2,
+     which every chapter uses, is left alone. */
+  .epigraph {
+    padding-top: 1.85rem;
+    padding-bottom: 1.85rem;
+  }
+
+  .epigraph + .prose,
+  .prose .toc-heading {
+    margin-top: 3.72rem;
+  }
+
   .epigraph figcaption {
     float: right;
     margin-top: 0;

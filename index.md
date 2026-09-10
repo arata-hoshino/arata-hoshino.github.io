@@ -58,6 +58,7 @@ scientific proof of the kind an academic paper offers, nor is it an analysis of 
 companies whose fortunes turn over in a matter of months.
 
 ## Table of Contents
+{: .toc-heading}
 
 <div class="toc">
 
