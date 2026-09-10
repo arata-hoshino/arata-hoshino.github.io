@@ -58,7 +58,7 @@ serve as a compass for investment in the way a hypothesis can. It is therefore n
 scientific proof of the kind an academic paper offers, nor is it an analysis of particular
 companies whose fortunes turn over in a matter of months.
 
-## Contents
+## Table of Contents
 
 <p class="toc-note">Eight chapters, a prologue, and a closing list of falsifiable predictions.</p>
 
