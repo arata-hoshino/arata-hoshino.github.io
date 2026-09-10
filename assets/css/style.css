@@ -545,6 +545,8 @@ main {
 }
 
 .author-role {
+  /* the leading rounds in steps, so the last of the gap is set here */
+  margin-top: -0.026rem;
   color: var(--muted);
   font-size: 0.853em;   /* 14.5px against the name's 15 */
   font-weight: 300;
@@ -553,7 +555,7 @@ main {
 /* name, place and date are one block: a fixed leading keeps the three
    lines evenly spaced even though the name is set larger */
 .author {
-  line-height: 1.804rem;
+  line-height: 1.83rem;
 }
 
 .author + .author {
