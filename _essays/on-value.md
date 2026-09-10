@@ -1,8 +1,8 @@
 ---
-title: "Beyond price"
+title: "On Value"
 number: "7"
 order: 8
-part: "Part III. Designing the release"
+part: "Part III. Designing the Release"
 summary: "Price is only a proxy for use value. When use value becomes measurable, currency becomes data. The release of the axis of expenditure, and the second gate on births."
 ---
 
@@ -116,43 +116,43 @@ The industrial revolution of the nineteenth century was richer than the fifteent
 <hr class="rule-major">
 
 ## Notes and Sources
-**1. Value in use and value in exchange.** Adam Smith, *The Wealth of Nations*, 1776, Book I, Ch. IV.
+1. Value in use and value in exchange. Adam Smith, *The Wealth of Nations*, 1776, Book I, Ch. IV.
 {: #note-1 .note}
 
-**2. Service-dominant logic.** Stephen L. Vargo & Robert F. Lusch, "Evolving to a New Dominant Logic for Marketing," *Journal of Marketing* 68(1), 2004, 1–17 (more than 14,000 citations). The axiomatization is the same authors' "Institutions and axioms: an extension and update of service-dominant logic," *Journal of the Academy of Marketing Science* 44(1), 2016, 5–23. **At the time of the 2014 book there were four axioms and ten foundational premises; the fifth axiom, which covers institutions and institutional arrangements, was added in the 2016 paper.**
+2. Service-dominant logic. Stephen L. Vargo & Robert F. Lusch, "Evolving to a New Dominant Logic for Marketing," *Journal of Marketing* 68(1), 2004, 1–17 (more than 14,000 citations). The axiomatization is the same authors' "Institutions and axioms: an extension and update of service-dominant logic," *Journal of the Academy of Marketing Science* 44(1), 2016, 5–23. At the time of the 2014 book there were four axioms and ten foundational premises; the fifth axiom, which covers institutions and institutional arrangements, was added in the 2016 paper.
 {: #note-2 .note}
 
-**3. Household production and Figure 7-1.** Benjamin Bridgman, Andrew Craig & Danit Kanal, "Accounting for Household Production in the National Accounts: An Update, 1965–2020," *Survey of Current Business* 102(2), 2022. **Non-market household production accounts for 22 percent (2019) to 25 percent (2020) of the satellite account's extended output. That is not a ratio to published GDP; restated as an addition to published GDP it corresponds to 28 to 33 percent. The numbers move between vintages of the accounts, so the vintage and the year both have to be stated.** OECD estimates swing widely with the valuation method: for the G7, 14.7 to 25.6 percent on a replacement-cost basis and 43.7 to 68.6 percent on an opportunity-cost basis (van de Ven, Zwijnenburg & De Queljoe, OECD Statistics Working Papers 2018/04). **The earlier draft's "30 to 50 percent depending on the OECD method" corresponds to neither method.**
+3. Household production and Figure 7-1. Benjamin Bridgman, Andrew Craig & Danit Kanal, "Accounting for Household Production in the National Accounts: An Update, 1965–2020," *Survey of Current Business* 102(2), 2022. Non-market household production accounts for 22 percent (2019) to 25 percent (2020) of the satellite account's extended output. That is not a ratio to published GDP; restated as an addition to published GDP it corresponds to 28 to 33 percent. The numbers move between vintages of the accounts, so the vintage and the year both have to be stated. OECD estimates swing widely with the valuation method: for the G7, 14.7 to 25.6 percent on a replacement-cost basis and 43.7 to 68.6 percent on an opportunity-cost basis (van de Ven, Zwijnenburg & De Queljoe, OECD Statistics Working Papers 2018/04). The earlier draft's "30 to 50 percent depending on the OECD method" corresponds to neither method.
 {: #note-3 .note}
 
-**4. Time use and Figure 7-2.** OECD Time Use Database, and Veerle Miranda, "Cooking, Caring and Volunteering: Unpaid Work Around the World," OECD Social, Employment and Migration Working Papers No. 116, 2011. On the OECD average for ages 25 to 64: paid work or study 4.5 hours, unpaid work 4.1 hours, leisure 4.7 hours, and personal care including sleep 10.8 hours. **This is an average across all days including weekends, and an average across employed and non-employed people together. That is why paid work looks short. The values move a great deal by age band.**
+4. Time use and Figure 7-2. OECD Time Use Database, and Veerle Miranda, "Cooking, Caring and Volunteering: Unpaid Work Around the World," OECD Social, Employment and Migration Working Papers No. 116, 2011. On the OECD average for ages 25 to 64: paid work or study 4.5 hours, unpaid work 4.1 hours, leisure 4.7 hours, and personal care including sleep 10.8 hours. This is an average across all days including weekends, and an average across employed and non-employed people together. That is why paid work looks short. The values move a great deal by age band.
 {: #note-4 .note}
 
-**5. Free digital goods.** Erik Brynjolfsson, Avinash Collis & Felix Eggers, "Using massive online choice experiments to measure changes in well-being," *PNAS* 116(15), 2019, 7250–7255.
+5. Free digital goods. Erik Brynjolfsson, Avinash Collis & Felix Eggers, "Using massive online choice experiments to measure changes in well-being," *PNAS* 116(15), 2019, 7250–7255.
 {: #note-5 .note}
 
-**6. The critique of measurement.** Joseph Stiglitz, Amartya Sen & Jean-Paul Fitoussi, *Report by the Commission on the Measurement of Economic Performance and Social Progress*, 2009.
+6. The critique of measurement. Joseph Stiglitz, Amartya Sen & Jean-Paul Fitoussi, *Report by the Commission on the Measurement of Economic Performance and Social Progress*, 2009.
 {: #note-6 .note}
 
-**7. The lineage that sees money as an institution.** Georg Simmel, *Philosophie des Geldes*, Duncker & Humblot, 1900 (English translation *The Philosophy of Money*, Routledge & Kegan Paul, 1978). David Graeber, *Debt: The First 5,000 Years*, Melville House, 2011. Yuval Noah Harari, *Sapiens: A Brief History of Humankind*, Harvill Secker, 2014.
+7. The lineage that sees money as an institution. Georg Simmel, *Philosophie des Geldes*, Duncker & Humblot, 1900 (English translation *The Philosophy of Money*, Routledge & Kegan Paul, 1978). David Graeber, *Debt: The First 5,000 Years*, Melville House, 2011. Yuval Noah Harari, *Sapiens: A Brief History of Humankind*, Harvill Secker, 2014.
 {: #note-7 .note}
 
-**8. The mechanics of zero marginal cost.** Carl Shapiro & Hal R. Varian, *Information Rules*, Harvard Business School Press, 1998. Jeremy Rifkin, *The Zero Marginal Cost Society*, Palgrave Macmillan, 2014.
+8. The mechanics of zero marginal cost. Carl Shapiro & Hal R. Varian, *Information Rules*, Harvard Business School Press, 1998. Jeremy Rifkin, *The Zero Marginal Cost Society*, Palgrave Macmillan, 2014.
 {: #note-8 .note}
 
-**9. The century of magic and digital nature.** Yoichi Ochiai, *Mahō no seiki* (The Century of Magic), PLANETS, 2015. The same author's *Dejitaru neichā: seitaikei o nasu hanshinka shita keisanki ni yoru wabi to sabi* (Digital Nature: wabi and sabi by way of pantheized computers that constitute an ecosystem), PLANETS, 2018.
+9. The century of magic and digital nature. Yoichi Ochiai, *Mahō no seiki* (The Century of Magic), PLANETS, 2015. The same author's *Dejitaru neichā: seitaikei o nasu hanshinka shita keisanki ni yoru wabi to sabi* (Digital Nature: wabi and sabi by way of pantheized computers that constitute an ecosystem), PLANETS, 2018.
 {: #note-9 .note}
 
-**10. Unconscious data democracy.** Yusuke Narita, *22-seiki no minshushugi: senkyo wa arugorizumu ni nari, seijika wa neko ni naru* (Democracy for the 22nd Century: elections become algorithms and politicians become cats), SB Shinsho, 2022.
+10. Unconscious data democracy. Yusuke Narita, *22-seiki no minshushugi: senkyo wa arugorizumu ni nari, seijika wa neko ni naru* (Democracy for the 22nd Century: elections become algorithms and politicians become cats), SB Shinsho, 2022.
 {: #note-10 .note}
 
-**11. Fifteen hours a week.** John Maynard Keynes, "Economic Possibilities for our Grandchildren," 1930 (collected in *Essays in Persuasion*, 1931).
+11. Fifteen hours a week. John Maynard Keynes, "Economic Possibilities for our Grandchildren," 1930 (collected in *Essays in Persuasion*, 1931).
 {: #note-11 .note}
 
-**12. The shuttle and the plectrum.** Aristotle, *Politics*, Book I, 1253b–1254a (Rackham translation, Loeb Classical Library). **The Greek word for leisure, scholē, is the root of the English word school.**
+12. The shuttle and the plectrum. Aristotle, *Politics*, Book I, 1253b–1254a (Rackham translation, Loeb Classical Library). The Greek word for leisure, scholē, is the root of the English word school.
 {: #note-12 .note}
 
-**13. Expenditure and action.** Georges Bataille, *La Part maudite*, Éditions de Minuit, 1949. Hannah Arendt, *The Human Condition*, University of Chicago Press, 1958. **Arendt herself takes the distinction between labor, work and action from the Greek polis.**
+13. Expenditure and action. Georges Bataille, *La Part maudite*, Éditions de Minuit, 1949. Hannah Arendt, *The Human Condition*, University of Chicago Press, 1958. Arendt herself takes the distinction between labor, work and action from the Greek polis.
 {: #note-13 .note}
 
 <hr class="rule-major">
@@ -160,20 +160,20 @@ The industrial revolution of the nineteenth century was richer than the fifteent
 ## Objections and Limits
 ### Four reservations about the argument that use value becomes measurable (7.5)
 
-**First, service-dominant logic does not support this conclusion.** The original work has a side to it that defends money. Money is a device for learning relative exchange values quickly on a common scale, and without it actors would have almost no information about exchange value at all. Whether direct measurement by data can replace that learning function depends on whether measurement is cheap and, just as much, on whether it is trusted.
+First, service-dominant logic does not support this conclusion. The original work has a side to it that defends money. Money is a device for learning relative exchange values quickly on a common scale, and without it actors would have almost no information about exchange value at all. Whether direct measurement by data can replace that learning function depends on whether measurement is cheap and, just as much, on whether it is trusted.
 
-**Second, the current state of the technology is a long way off.** Invasive BMIs are at the clinical-trial stage, and what has reached practical use non-invasively is at the level of reading fragments of intention from muscle potentials. Smart contact lenses are at the prototype stage. And the quantification of subjective experience such as pleasure and satisfaction still depends, for now, on proxies of its own: dopamine response, electrodermal response.
+Second, the current state of the technology is a long way off. Invasive BMIs are at the clinical-trial stage, and what has reached practical use non-invasively is at the level of reading fragments of intention from muscle potentials. Smart contact lenses are at the prototype stage. And the quantification of subjective experience such as pleasure and satisfaction still depends, for now, on proxies of its own: dopamine response, electrodermal response.
 
-**Third, a problem of principle remains there.** If we depend on proxies, we may simply have replaced one proxy, price, with another, biometric data. And what the fourth axiom says is that an external party cannot assess the beneficiary's value. Brain activity measured from outside is precisely an assessment from outside. **This argument holds only where measurement stops standing proxy and records the person's own phenomenological determination itself.** Including the inverted qualia problem, this is a question that remains on the side of philosophy rather than engineering.
+Third, a problem of principle remains there. If we depend on proxies, we may simply have replaced one proxy, price, with another, biometric data. And what the fourth axiom says is that an external party cannot assess the beneficiary's value. Brain activity measured from outside is precisely an assessment from outside. This argument holds only where measurement stops standing proxy and records the person's own phenomenological determination itself. Including the inverted qualia problem, this is a question that remains on the side of philosophy rather than engineering.
 
-**Fourth, what can be measured gets manufactured.** An institution that pays for measured pleasure simultaneously creates the incentive to manufacture measured pleasure. Price was a coarse measure, but it was hard to fake at scale. There is no guarantee that biometric data has the same property. Being that much easier to handle, it may be that much easier to manipulate.
+Fourth, what can be measured gets manufactured. An institution that pays for measured pleasure simultaneously creates the incentive to manufacture measured pleasure. Price was a coarse measure, but it was hard to fake at scale. There is no guarantee that biometric data has the same property. Being that much easier to handle, it may be that much easier to manipulate.
 
 ### Service-dominant logic is not used as authority for the conclusions of this thesis (7.2 and 7.4)
 
-This thesis uses SDL's five axioms as a foundation, but **SDL does not support the conclusion that money retires.** If anything the original work has a side to it that defends money, as set out in the first reservation above. **The step from the axioms to the conclusion belongs to this thesis, not to Vargo and Lusch.** Blur that distinction and an established theory looks as though it were guaranteeing an unestablished claim of this thesis.
+This thesis uses SDL's five axioms as a foundation, but SDL does not support the conclusion that money retires. If anything the original work has a side to it that defends money, as set out in the first reservation above. The step from the axioms to the conclusion belongs to this thesis, not to Vargo and Lusch. Blur that distinction and an established theory looks as though it were guaranteeing an unestablished claim of this thesis.
 
 ### The limits of GDP are not in themselves a new point (7.3)
 
-The observation about the uncounted economy was formally set out by the Stiglitz-Sen-Fitoussi Commission in 2009,<sup class="noteref"><a href="#note-6">6</a></sup> and the satellite accounts for household production have a series running back to 1965.<sup class="noteref"><a href="#note-3">3</a></sup> **What is new here is not the limits of measurement themselves but the direction: that those limits may be lifted by technology.** The first half is an introduction to existing knowledge, not a contribution of this thesis.
+The observation about the uncounted economy was formally set out by the Stiglitz-Sen-Fitoussi Commission in 2009,<sup class="noteref"><a href="#note-6">6</a></sup> and the satellite accounts for household production have a series running back to 1965.<sup class="noteref"><a href="#note-3">3</a></sup> What is new here is not the limits of measurement themselves but the direction: that those limits may be lifted by technology. The first half is an introduction to existing knowledge, not a contribution of this thesis.
 
 </div>

@@ -1,8 +1,8 @@
 ---
-title: "Two endgoals"
+title: "On Convergence"
 number: "2"
 order: 3
-part: "Part I. The physics of civilization"
+part: "Part I. The Physics of Civilization"
 summary: "The efficiency of civilization is two convergence costs, matter configuration and predictive models, both falling toward zero. They compete over the same problem, and the cheaper side wins. The equation of national power is rewritten."
 ---
 
@@ -36,7 +36,7 @@ The two directions compete over the same problem. And the side with the lower co
 
 > **The law of competition: for any given problem, a direction-1 solution and a direction-2 solution are potentially in competition, and the one with the lower convergence cost wins. The more the essence of the problem is information processing, the more direction 2 wins; the more matter configuration is unavoidable, the more direction 1 remains.**
 
-The two puzzles of the premise are its first application. The shopping robot was a direction-1 solution to the problem of shopping: a humanoid machine physically rearranges the configuration of matter. Amazon is a direction-2 solution to the same problem. Most of shopping, meaning search, comparison, ordering, and payment, is not matter configuration but information processing, and Amazon solved that part in virtual space and pushed only the residual matter configuration through the existing logistics network. What decided the outcome was not the superiority of one vision but cost structure. A direction-2 solution replicates at nearly zero marginal cost and is less bound by physical law and safety regulation.
+The two puzzles of the Premise are its first application. The shopping robot was a direction-1 solution to the problem of shopping: a humanoid machine physically rearranges the configuration of matter. Amazon is a direction-2 solution to the same problem. Most of shopping, meaning search, comparison, ordering, and payment, is not matter configuration but information processing, and Amazon solved that part in virtual space and pushed only the residual matter configuration through the existing logistics network. What decided the outcome was not the superiority of one vision but cost structure. A direction-2 solution replicates at nearly zero marginal cost and is less bound by physical law and safety regulation.
 
 To make this law a tool, one has to be able to measure the mixing ratio before seeing who wins. There is one way to measure it. Decompose the problem into steps and count the mass that must be moved at each step. For shopping, search, comparison, ordering, and payment all move zero mass. The only step that does not is the last leg, from warehouse to doorstep. So this problem could be read in advance as one that would mostly move to direction 2. Apply the same question elsewhere: what Zoom substituted for was the leg of a business trip that carries a human body, and what Uber Eats relocated was the mass-bearing step of cooking, moved from the household to a network. Steps of zero mass migrate to direction 2 sooner or later.
 
@@ -61,7 +61,7 @@ The movement of capital speaks more plainly than forecasts. On 25 August 2025 th
   <img src="/assets/figures/figure-2-2.png" alt="Figure 2-2. Jevons measured: load rose, tasks got cheaper. On the left, the two points the IEA states explicitly, joined at a constant growth rate. On the right, a band rather than a series .">
 </figure>
 
-This is what the present turn actually is. The bet on physical AI and energy is not "the next trend." It is the historical return of capital to the side that was left behind, out of twelve thousand years of two directions.
+This is what the present turn actually is. The commitment of capital to physical AI and energy is not "the next trend." It is the historical return of capital to the side that was left behind, out of twelve thousand years of two directions.
 
 ## 2.5 The industrial revolution never ended
 
@@ -124,49 +124,49 @@ As supply is automated, GDP moves away from the concept of the sum of value crea
 <hr class="rule-major">
 
 ## Notes and Sources
-**1. The five-layer cake.** Jensen Huang, "AI Is a 5-Layer Cake," NVIDIA Blog, March 10, 2026. [blogs.nvidia.com](https://blogs.nvidia.com/blog/ai-5-layer-cake/){:target="_blank" rel="noopener"} The five layers stack in the order of energy, chips, infrastructure, models, and applications.
+1. The five-layer cake. Jensen Huang, "AI Is a 5-Layer Cake," NVIDIA Blog, March 10, 2026. [blogs.nvidia.com](https://blogs.nvidia.com/blog/ai-5-layer-cake/){:target="_blank" rel="noopener"} The five layers stack in the order of energy, chips, infrastructure, models, and applications.
 {: #note-1 .note}
 
-**2. Shannon's definition.** Claude E. Shannon, "A Mathematical Theory of Communication," *Bell System Technical Journal* 27 (1948), 379–423, 623–656. The quotations are the opening two sentences: the definition of the fundamental problem of communication, and the proviso separating semantic aspects from the engineering problem.
+2. Shannon's definition. Claude E. Shannon, "A Mathematical Theory of Communication," *Bell System Technical Journal* 27 (1948), 379–423, 623–656. The quotations are the opening two sentences: the definition of the fundamental problem of communication, and the proviso separating semantic aspects from the engineering problem.
 {: #note-2 .note}
 
-**3. Structure prediction.** John Jumper et al., "Highly accurate protein structure prediction with AlphaFold," *Nature* 596 (2021), 583–589. **On the relationship to experimental structure determination, the standard reading in the field is that prediction accelerates but does not replace it. This thesis does not claim replacement.**
+3. Structure prediction. John Jumper et al., "Highly accurate protein structure prediction with AlphaFold," *Nature* 596 (2021), 583–589. On the relationship to experimental structure determination, the standard reading in the field is that prediction accelerates but does not replace it. This thesis does not claim replacement.
 {: #note-3 .note}
 
-**4. Software and flying cars.** Marc Andreessen, "Why Software Is Eating the World," *The Wall Street Journal*, August 20, 2011. **The line "we wanted flying cars, instead we got 140 characters" is from the Founders Fund manifesto "What Happened to the Future?" (2011), written by Bruce Gibney, and is frequently misattributed to Peter Thiel.**
+4. Software and flying cars. Marc Andreessen, "Why Software Is Eating the World," *The Wall Street Journal*, August 20, 2011. The line "we wanted flying cars, instead we got 140 characters" is from the Founders Fund manifesto "What Happened to the Future?" (2011), written by Bruce Gibney, and is frequently misattributed to Peter Thiel.
 {: #note-4 .note}
 
-**5. Jevons's paradox.** William Stanley Jevons, *The Coal Question*, Macmillan, 1865. The observation that improvements in the efficiency of the steam engine increased rather than reduced coal consumption.
+5. Jevons's paradox. William Stanley Jevons, *The Coal Question*, Macmillan, 1865. The observation that improvements in the efficiency of the steam engine increased rather than reduced coal consumption.
 {: #note-5 .note}
 
-**6. Data center electricity demand.** IEA, *Key Questions for the Energy Sector in 2026* and *Energy and AI* (2025). World data center electricity demand rose roughly 17 percent year on year in 2025 and is projected to roughly double by 2030; demand at AI-specific facilities is projected to roughly triple over the same period. **The decline in electricity per AI task is a directional statement supported by multiple vendor and operator disclosures rather than by a single published series.**
+6. Data center electricity demand. IEA, *Key Questions for the Energy Sector in 2026* and *Energy and AI* (2025). World data center electricity demand rose roughly 17 percent year on year in 2025 and is projected to roughly double by 2030; demand at AI-specific facilities is projected to roughly triple over the same period. The decline in electricity per AI task is a directional statement supported by multiple vendor and operator disclosures rather than by a single published series.
 {: #note-6 .note}
 
-**7. IEA and Goldman Sachs projections.** IEA, *Energy and AI* (2025), projecting world data center demand at roughly 945 TWh by 2030, slightly above Japan's total electricity consumption today. Goldman Sachs Research, "AI to drive 165% increase in data center power demand by 2030" (2025), subsequently revised to 175 percent. **These are projections and not observations, and the two houses' definitions of the data center perimeter differ.**
+7. IEA and Goldman Sachs projections. IEA, *Energy and AI* (2025), projecting world data center demand at roughly 945 TWh by 2030, slightly above Japan's total electricity consumption today. Goldman Sachs Research, "AI to drive 165% increase in data center power demand by 2030" (2025), subsequently revised to 175 percent. These are projections and not observations, and the two houses' definitions of the data center perimeter differ.
 {: #note-7 .note}
 
-**8. The Palisades plant.** Utility Dive, "Palisades becomes first decommissioned US nuclear plant to reach 'operations' status," August 28, 2025 (the event was 25 August; the article 28 August). **"Operations" status here is a regulatory category, not the resumption of generation. The reactor had reached the stage of being able to receive new fuel and, as of July 2026, had not yet gone critical (American Nuclear Society, Nuclear Newswire, July 8, 2026). What this thesis uses is only the fact that it was pulled back out of the decommissioning queue.**
+8. The Palisades plant. Utility Dive, "Palisades becomes first decommissioned US nuclear plant to reach 'operations' status," August 28, 2025 (the event was 25 August; the article 28 August). "Operations" status here is a regulatory category, not the resumption of generation. The reactor had reached the stage of being able to receive new fuel and, as of July 2026, had not yet gone critical (American Nuclear Society, Nuclear Newswire, July 8, 2026). What this thesis uses is only the fact that it was pulled back out of the decommissioning queue.
 {: #note-8 .note}
 
-**9. Figures 2-1 and 2-2.** Figure 2-1 is from William D. Nordhaus, "Two Centuries of Productivity Growth in Computing," *Journal of Economic History* 67(1), 2007, 128–159. Figure 2-2 joins the two points the IEA states explicitly at a constant growth rate on the left; **the right-hand panel is a band indicating a direction, not a data series, and should not be read as one.**
+9. Figures 2-1 and 2-2. Figure 2-1 is from William D. Nordhaus, "Two Centuries of Productivity Growth in Computing," *Journal of Economic History* 67(1), 2007, 128–159. Figure 2-2 joins the two points the IEA states explicitly at a constant growth rate on the left; the right-hand panel is a band indicating a direction, not a data series, and should not be read as one.
 {: #note-9 .note}
 
-**10. British agriculture.** Wrigley's account is from E. A. Wrigley, *Energy and the English Industrial Revolution*, Cambridge University Press, 2010: roughly three quarters of the labor force in agriculture under the Tudors, about half by the early eighteenth century, under two fifths by 1800. The 1759 figure of about 37 percent is from Stephen Broadberry, Bruce Campbell, Alexander Klein, Mark Overton & Bas van Leeuwen, *British Economic Growth, 1270–1870*, Cambridge University Press, 2015. Current agricultural employment of under 1 percent and self-sufficiency of roughly 60 percent are from UK Department for Environment, Food and Rural Affairs, *Agriculture in the United Kingdom*. **Wrigley's phrasing about the 1801 and 1851 censuses, which appeared in an earlier draft of this thesis, does not exist in the 2010 book; the text has been replaced with the verified formulations from that edition.**
+10. British agriculture. Wrigley's account is from E. A. Wrigley, *Energy and the English Industrial Revolution*, Cambridge University Press, 2010: roughly three quarters of the labor force in agriculture under the Tudors, about half by the early eighteenth century, under two fifths by 1800. The 1759 figure of about 37 percent is from Stephen Broadberry, Bruce Campbell, Alexander Klein, Mark Overton & Bas van Leeuwen, *British Economic Growth, 1270–1870*, Cambridge University Press, 2015. Current agricultural employment of under 1 percent and self-sufficiency of roughly 60 percent are from UK Department for Environment, Food and Rural Affairs, *Agriculture in the United Kingdom*. Wrigley's phrasing about the 1801 and 1851 censuses, which appeared in an earlier draft of this thesis, does not exist in the 2010 book; the text has been replaced with the verified formulations from that edition.
 {: #note-10 .note}
 
-**11. Figure 2-3.** Broadberry et al. (2015) for the pre-1870 series and DEFRA for the modern one. **The two series are spliced and are not constructed on an identical definition of agricultural employment.**
+11. Figure 2-3. Broadberry et al. (2015) for the pre-1870 series and DEFRA for the modern one. The two series are spliced and are not constructed on an identical definition of agricultural employment.
 {: #note-11 .note}
 
-**12. Human computers.** David Alan Grier, *When Computers Were Human*, Princeton University Press, 2005.
+12. Human computers. David Alan Grier, *When Computers Were Human*, Princeton University Press, 2005.
 {: #note-12 .note}
 
-**13. The price-performance of computation.** Nordhaus (2007), cited above. Improvement of between 1.7 trillion and 76 trillion times since the era of hand cranking, depending on the measure used, with improvement at roughly 55 percent a year between 1940 and 2001.
+13. The price-performance of computation. Nordhaus (2007), cited above. Improvement of between 1.7 trillion and 76 trillion times since the era of hand cranking, depending on the measure used, with improvement at roughly 55 percent a year between 1940 and 2001.
 {: #note-13 .note}
 
-**14. Moravec's paradox.** Hans Moravec, *Mind Children: The Future of Robot and Human Intelligence*, Harvard University Press, 1988, p.15. **The proposition is widely cited but has not been subjected to systematic empirical testing, and this thesis treats it as a tendency claim rather than an established result.**
+14. Moravec's paradox. Hans Moravec, *Mind Children: The Future of Robot and Human Intelligence*, Harvard University Press, 1988, p.15. The proposition is widely cited but has not been subjected to systematic empirical testing, and this thesis treats it as a tendency claim rather than an established result.
 {: #note-14 .note}
 
-**15. A quarter of the residual.** Kento Sakai, Paul Brockway, John Barrett & Peter Taylor, "Thermodynamic Efficiency Gains and their Role as a Key 'Engine of Economic Growth'," *Energies* 12(1), 2019, 110, giving roughly 25 percent of the increase in UK GDP over 1971–2013. See "Objections and Limits" at the end of this chapter.
+15. A quarter of the residual. Kento Sakai, Paul Brockway, John Barrett & Peter Taylor, "Thermodynamic Efficiency Gains and their Role as a Key 'Engine of Economic Growth'," *Energies* 12(1), 2019, 110, giving roughly 25 percent of the increase in UK GDP over 1971–2013. See "Objections and Limits" at the end of this chapter.
 {: #note-15 .note}
 
 <hr class="rule-major">
@@ -178,21 +178,21 @@ The body carries only the bones of the argument. Anticipated objections and how 
 
 This is the heaviest objection. Does "the more the essence of the problem is information processing, the more direction 2 wins" not amount to identifying the essence after seeing which side won? Shopping looked like a physical problem until Amazon won.
 
-The decomposition by mass in the body is written to answer this. Counting the mass that must be moved at each step can be done before the outcome is known. **But the granularity of the decomposition is itself a judgment.** Cut shopping into search, comparison, ordering, payment, and delivery, or into going to the shop, choosing, and carrying home, and the proportion of zero-mass steps changes. This law is therefore best read as **a tool of classification rather than a tool of prediction.** It does not tell you which side will win; it points to the axis along which the outcome will be decided. The same limit written about the three conditions in Chapter 1 applies here.
+The decomposition by mass in the body is written to answer this. Counting the mass that must be moved at each step can be done before the outcome is known. But the granularity of the decomposition is itself a judgment. Cut shopping into search, comparison, ordering, payment, and delivery, or into going to the shop, choosing, and carrying home, and the proportion of zero-mass steps changes. This law is therefore best read as a tool of classification rather than a tool of prediction. It does not tell you which side will win; it points to the axis along which the outcome will be decided. The same limit written about the three conditions in Chapter 1 applies here.
 
 ### Is the division into two directions itself arbitrary (2.1 and 2.2)
 
-The division into matter configuration and predictive models is neither exclusive nor exhaustive. Which is the production of energy itself? Which is the building of institutions? **This thesis uses the division not as an ontological classification but as a working partition covering only what can be measured on a single scale, convergence cost.** Energy production can be handled as a special case of matter configuration; institutions cannot. That is why institutions are erected as a separate term in Chapter 1. The two directions do not cover the whole of civilization, and no claim is made that they do.
+The division into matter configuration and predictive models is neither exclusive nor exhaustive. Which is the production of energy itself? Which is the building of institutions? This thesis uses the division not as an ontological classification but as a working partition covering only what can be measured on a single scale, convergence cost. Energy production can be handled as a special case of matter configuration; institutions cannot. That is why institutions are erected as a separate term in Chapter 1. The two directions do not cover the whole of civilization, and no claim is made that they do.
 
 ### The proviso that two layers suffice, against the rest of this thesis (2.1)
 
-Section 2.1 collapses five layers into two. Yet Chapter 1 makes chokepoint technology T half of labor input, and the latter half of this thesis argues that holding a particular layer is decisive. **Is it a contradiction to fold layers away and then call them decisive?**
+Section 2.1 collapses five layers into two. Yet Chapter 1 makes chokepoint technology T half of labor input, and the latter half of this thesis argues that holding a particular layer is decisive. Is it a contradiction to fold layers away and then call them decisive?
 
-It is not a contradiction, but the risk in how it is written is acknowledged. Two layers is the resolution appropriate to asking where things are headed; five layers is the resolution appropriate to asking where things are. At the former, intermediate layers turn over; at the latter, the location of the intermediate layers is everything. **The same object is being viewed at different resolutions according to the question.** A chapter that does not say so plainly will confuse its reader, which is why the proviso is stated in the body.
+It is not a contradiction, but the risk in how it is written is acknowledged. Two layers is the resolution appropriate to asking where things are headed; five layers is the resolution appropriate to asking where things are. At the former, intermediate layers turn over; at the latter, the location of the intermediate layers is everything. The same object is being viewed at different resolutions according to the question. A chapter that does not say so plainly will confuse its reader, which is why the proviso is stated in the body.
 
 ### Does this depend on Moravec's paradox (2.6)
 
-It does not, and that is set down here. The claim in the body is that the human brain is not an organ designed for computation, and the general understanding of evolutionary biology is sufficient for that. Moravec is cited only as corroboration. **And the present scene cited as corroboration, that white-collar work is being eroded first, is equally well explained by the availability of training data.** Which of the two is operating cannot be separated at present, and the argument of that section is written so as to survive Moravec being wrong.
+It does not, and that is set down here. The claim in the body is that the human brain is not an organ designed for computation, and the general understanding of evolutionary biology is sufficient for that. Moravec is cited only as corroboration. And the present scene cited as corroboration, that white-collar work is being eroded first, is equally well explained by the availability of training data. Which of the two is operating cannot be separated at present, and the argument of that section is written so as to survive Moravec being wrong.
 
 ### The objection that "energy is only 6 percent of GDP"
 

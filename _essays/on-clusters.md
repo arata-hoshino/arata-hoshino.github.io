@@ -1,8 +1,8 @@
 ---
-title: "A map of clusters"
+title: "On Clusters"
 number: "8"
 order: 9
-part: "Part IV. The map"
+part: "Part IV. Where to Stand"
 summary: "The unit is not the country but the stack. The five-layer cake, two techno-blocs, and the regions scored against the equation. The upper right of the map is still empty."
 ---
 

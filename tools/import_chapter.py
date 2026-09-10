@@ -27,16 +27,16 @@ import sys
 
 # the chapters, by the name of the draft file
 CHAPTERS = {
-    '01_Prologue': 'prologue',
-    '02_Chapter1': 'everything-is-energy-conversion',
-    '03_Chapter2': 'two-endgoals-twelve-thousand-years',
-    '04_Chapter3': 'a-scarcity-of-our-own-tying',
-    '05_Chapter4': 'the-household-malthus',
-    '06_Chapter5': 'the-abundance-cascade',
-    '07_Chapter6': 'the-crisis-of-distribution',
-    '08_Chapter7': 'beyond-price',
-    '09_Chapter8': 'a-map-of-clusters',
-    '10_Final_Chapter': 'the-stakes',
+    '01_Premise': 'premise',
+    '02_Chapter1': 'on-building',
+    '03_Chapter2': 'on-convergence',
+    '04_Chapter3': 'on-scarcity',
+    '05_Chapter4': 'on-population',
+    '06_Chapter5': 'on-abundance',
+    '07_Chapter6': 'on-ownership',
+    '08_Chapter7': 'on-value',
+    '09_Chapter8': 'on-clusters',
+    '10_Chapter9': 'on-investment',
 }
 
 # the mojibake, word by word where the character is ambiguous

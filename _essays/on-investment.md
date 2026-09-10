@@ -1,8 +1,8 @@
 ---
-title: "Investment discipline"
+title: "On Investment"
 number: "9"
 order: 10
-part: "Part IV. The map"
+part: "Part IV. Where to Stand"
 summary: "Five predictions, set out as a table, each with the condition under which it would be shown wrong."
 ---
 
@@ -47,7 +47,7 @@ Writing the predictions down is not enough. What would make me admit that one of
 | # | The prediction | Falsification condition (observe this and the prediction is lost) | Tracking indicator | Source | Date of judgment |
 |---|---|---|---|---|---|
 | One | Energy | By the end of 2035, no year has appeared, in any major economic bloc, in which new capital investment in nuclear exceeds that in renewables | Annual new capital investment by generation source | IEA *World Energy Investment* (annual) | 2036 |
-| One' | Fusion | Commercial delivery of power to the grid is not achieved even once by the end of 2040, or the levelized cost of electricity approaches the level of existing generation sources by 2045 | Recorded delivery to a commercial grid, LCOE | Operators' own announcements, IEA, IAEA | 2040 and 2045 |
+| One' | Fusion | Commercial delivery of power to the grid is not achieved even once by the end of 2040, or the levelized cost of electricity from fusion reaches the level of existing generation sources by the end of 2040 | Recorded delivery to a commercial grid, LCOE | Operators' own announcements, IEA, IAEA | 2040 |
 | Two | China's births | Annual births in 2032 exceed 7 million | Annual births | National Bureau of Statistics of China, annual statistical communiqué | Early 2033 |
 | Two' | Reversal in the birth rate | A significant reversal in the birth rate is observed in a country centered on cash transfers before it is observed in a country or city that has brought down the effective price of energy and housing | TFR, real prices of housing and electricity | National statistical offices, World Bank, OECD | 2035 |
 | Three | Politics | By the end of 2040, a wealth tax or a top marginal rate at the 70 percent level has not appeared in the governing platforms of two or more major advanced economies | Party platforms, legislative status | National parliamentary records, OECD tax database | 2040 |
@@ -79,17 +79,17 @@ Let us meet and talk.
 
 ---
 
-*Acknowledgements: Much of the skeleton of this thesis is owed to continuing conversation with Kei Irizawa (Yale University) and to our joint memoranda, "Energy Supply and Computational Capacity for the Post-Capitalist Society" and "Roadmap of Next 10 Years". Responsibility for the text is mine alone.*
+*Acknowledgments: Much of the skeleton of this thesis is owed to continuing conversation with Kei Irizawa (Yale University) and to our joint memoranda, "Energy Supply and Computational Capacity for the Post-Capitalist Society" and "Roadmap of Next 10 Years". Responsibility for the text is mine alone.*
 
 <div class="apparatus" markdown="1">
 
 <hr class="rule-major">
 
 ## Notes and Sources
-**1. How E is measured.** The effective price of industrial electricity comes from national published statistics (the UK Department for Energy Security and Net Zero's international comparison, Eurostat `nrg_pc_205`, US Energy Information Administration *Electric Power Monthly* Table 5.3). Reliability of supply is the series based on SAIDI/SAIFI that the World Bank's *Doing Business* Getting Electricity indicator used. **For the lead time on a new grid connection alone, no published statistic exists that is bundled as an ex ante country-by-country screen.** In the United States, Lawrence Berkeley National Laboratory's *Queued Up* publishes the period from application to commercial operation; in the United Kingdom NESO names a connection date; in the Netherlands TenneT publishes exhaustion by geography. **China and the Gulf publish nothing. As stated in section 8.8 of Chapter 8, this is the gap in information most unfavorable to the argument of this thesis.**
+1. How E is measured. The effective price of industrial electricity comes from national published statistics (the UK Department for Energy Security and Net Zero's international comparison, Eurostat `nrg_pc_205`, US Energy Information Administration *Electric Power Monthly* Table 5.3). Reliability of supply is the series based on SAIDI/SAIFI that the World Bank's *Doing Business* Getting Electricity indicator used. For the lead time on a new grid connection alone, no published statistic exists that is bundled as an ex ante country-by-country screen. In the United States, Lawrence Berkeley National Laboratory's *Queued Up* publishes the period from application to commercial operation; in the United Kingdom NESO names a connection date; in the Netherlands TenneT publishes exhaustion by geography. China and the Gulf publish nothing. As stated in section 8.8 of Chapter 8, this is the gap in information most unfavorable to the argument of this thesis.
 {: #note-1 .note}
 
-**2. On the tracking indicators in the falsification table.** Every series listed in the Source column of the table is a published statistic updated annually or quarterly. **Rows whose date of judgment has passed are kept, with the result of the judgment appended. The table is there to record that a prediction was wrong, not to delete the prediction.**
+2. On the tracking indicators in the falsification table. Every series listed in the Source column of the table is a published statistic updated annually or quarterly. Rows whose date of judgment has passed are kept, with the result of the judgment appended. The table is there to record that a prediction was wrong, not to delete the prediction.
 {: #note-2 .note}
 
 </div>
