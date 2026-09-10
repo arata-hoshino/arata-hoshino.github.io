@@ -1,8 +1,8 @@
 ---
-title: "The stakes"
+title: "Investment discipline"
 order: 10
 part: "Final chapter"
-summary: "Five bets, set out as a table, each with the condition under which it would be shown wrong."
+summary: "Five predictions, set out as a table, each with the condition under which it would be shown wrong."
 ---
 
 ## The function of a civilization's competitiveness
@@ -21,15 +21,15 @@ The production side does not turn into a different function either. As section 2
 
 Two of the three terms are quantities on the supply side, and demand enters nowhere. That is not an omission. Raise a revolution in supply and demand follows. Demand is contracting now because population, which is what demand actually consists of, is contracting under a supply constraint.
 
-Take that reading as the premise and the research agenda can be set as follows.
+Four things this thesis asserts and does not establish.
 
-First, macro empirical work on the relation between energy prices, technological structure and the birth rate: long-run panel analysis of energy prices, generation mix, real wages and fertility across the advanced economies. Second, a decomposition of the price system: take apart the price structure of the major expenditure categories, housing, education, childcare and healthcare, and estimate how each cost driver, energy and non-automated labor above all, contributes to the household Malthus. Third, a quantitative model that explains urban growth from macro structure: model how the combination of cheap energy, cheap labor and abundant land endogenously settled investment in urban infrastructure and the agglomeration of population. Fourth, the relation between the adoption of AI and automation and both hours of work and fertility behavior: describe, as a household macro model, what shorter hours, income redistribution and a fall in anxiety about the future do to the decision to marry and the decision to have a child.
+The link between energy prices, technological structure and the birth rate is set out as a mechanism, not measured as one; settling it takes a long-run panel of energy prices, generation mix, real wages and fertility across the advanced economies. The decomposition of the price system is qualitative; what is missing is an estimate, across housing, education, childcare and healthcare, of how much each cost driver contributes to the household Malthus, energy and non-automated labor above all. The account of urban growth rests on historical cases rather than on a model in which cheap energy, cheap labor and abundant land endogenously settle infrastructure investment and agglomeration. And the effect of automation on hours of work and on fertility behavior is argued rather than modeled: what shorter hours, redistributed income and reduced anxiety about the future do to the decision to marry and to have a child belongs in a household macro model this thesis does not build.
 
-In short, what I want to do is to pursue as radically as I can a single question: whether explanations that run on values or on policy can be reformulated from a layer closer to physics, meaning energy, computing capacity, technology, the price system and the household constraint. And equally, to find out where that reformulation stops. Of the three terms, what geology and physics settle goes only as far as the raw material of energy; what settles anything past that is institutions. The reduction stops short of institutions. And the place where it stops is exactly the outline of the range that humans get to decide.
+The reduction has a boundary, and naming it matters more than the four. Explanations that run on values or on policy can be restated from a layer closer to physics, meaning energy, computing capacity, technology, the price system and the household constraint. Where that restatement stops is not settled here either. Of the three terms, what geology and physics settle goes only as far as the raw material of energy; past that, institutions settle it. The reduction stops short of institutions, and the place where it stops is the outline of what humans get to decide.
 
-## The stakes
+## The predictions
 
-A hypothesis means nothing until it is bet on. I am staking my own career and my own capital on the predictions that follow. I write them in falsifiable form.
+A hypothesis is worth nothing until it is committed to. I have committed my own career and my own capital to the predictions that follow, and I write them in falsifiable form.
 
 **One. Energy.** By the middle of the 2030s, in at least one major economic bloc, there will be a year in which new capital investment in nuclear fission exceeds new capital investment in renewables. Fusion will achieve its first commercial delivery of power to the grid in the 2030s, but the main theater of price impact is the diffusion phase in which the learning curve operates, which is to say the 2040s. The start-up of the first commercial reactor will be reported as the news that energy has become free. That report will be wrong.
 
@@ -43,7 +43,7 @@ A hypothesis means nothing until it is bet on. I am staking my own career and my
 
 Writing the predictions down is not enough. What would make me admit that one of them was wrong has to be written down to the same precision.
 
-| # | The bet | Falsification condition (observe this and the bet is lost) | Tracking indicator | Source | Date of judgment |
+| # | The prediction | Falsification condition (observe this and the prediction is lost) | Tracking indicator | Source | Date of judgment |
 |---|---|---|---|---|---|
 | One | Energy | By the end of 2035, no year has appeared, in any major economic bloc, in which new capital investment in nuclear exceeds that in renewables | Annual new capital investment by generation source | IEA *World Energy Investment* (annual) | 2036 |
 | One' | Fusion | Commercial delivery of power to the grid is not achieved even once by the end of 2040, or the levelized cost of electricity approaches the level of existing generation sources by 2045 | Recorded delivery to a commercial grid, LCOE | Operators' own announcements, IEA, IAEA | 2040 and 2045 |
@@ -62,7 +62,7 @@ The purpose of this table is not to protect the predictions. It is to keep them 
 
 Some of these will be wrong. But the way they go wrong is the information. I intend to keep updating this map by collision with reality.
 
-## On how to bet
+## On allocation
 
 Finally, on investment.
 

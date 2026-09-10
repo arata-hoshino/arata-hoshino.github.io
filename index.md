@@ -137,8 +137,8 @@ companies whose fortunes turn over in a matter of months.
 <ol class="toc-list">
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">—</span>
-    <span class="toc-title"><a href="/essays/the-stakes/">The stakes</a></span>
-    <p class="toc-summary">Five bets, set out as a table, each with the condition under which it would be shown wrong.</p>
+    <span class="toc-title"><a href="/essays/the-stakes/">Investment discipline</a></span>
+    <p class="toc-summary">Five predictions, set out as a table, each with the condition under which it would be shown wrong.</p>
   </li>
 </ol>
 

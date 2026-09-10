@@ -887,6 +887,11 @@ main {
     grid-template-columns: 2.75em minmax(0, 1fr);
   }
 
+  /* the page ends at the footer rather than on a long run-out below it */
+  .site-footer {
+    padding-bottom: 1.5em;
+  }
+
 
   .prose table {
     display: block;
