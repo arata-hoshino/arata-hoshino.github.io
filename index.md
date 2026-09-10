@@ -2,8 +2,7 @@
 layout: home
 title: "The Far Side of the Constraint"
 heading: "The Far Side of the Constraint"
-eyebrow: "A Civilizational Thesis"
-subtitle: "Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
+subtitle: "A Civilizational Thesis on Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
 authors:
   - name: "Arata Hoshino"
     role: "United Arab Emirates, Aug 2026"
