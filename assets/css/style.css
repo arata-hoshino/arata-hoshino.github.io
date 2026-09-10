@@ -580,7 +580,8 @@ main {
 
 .epigraph blockquote {
   margin: 0;
-  color: var(--ink);
+  /* the quotation and its source are set at one colour */
+  color: var(--muted);
   font-style: italic;
 }
 
