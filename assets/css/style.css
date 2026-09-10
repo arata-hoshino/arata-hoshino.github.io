@@ -520,23 +520,19 @@ main {
 .author-role {
   margin: 0;
   font-family: var(--stamp);
-  font-size: 1em;
+  font-size: 0.88em;
   letter-spacing: 0.14em;
+  text-transform: uppercase;
 }
 
 .author-name {
   color: var(--ink);
   font-weight: 700;
-  text-transform: uppercase;
 }
 
 .author-role {
   color: var(--muted);
   font-weight: 300;
-}
-
-.stamp-place {
-  text-transform: uppercase;
 }
 
 /* name, place and date are one block: a fixed leading keeps the three
