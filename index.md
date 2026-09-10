@@ -60,8 +60,6 @@ companies whose fortunes turn over in a matter of months.
 
 ## Table of Contents
 
-<p class="toc-note">Eight chapters, a prologue, and a closing list of falsifiable predictions.</p>
-
 <div class="toc">
 
 <ol class="toc-list">

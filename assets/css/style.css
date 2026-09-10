@@ -147,7 +147,6 @@ a:focus-visible {
 .eyebrow,
 .prose h3,
 .prose thead th,
-.toc-note,
 .pager a,
 .site-footer {
   text-transform: uppercase;
@@ -593,12 +592,6 @@ main {
 .epigraph cite { font-style: italic; }
 
 /* ------------------------------------------------ table of contents */
-
-.toc-note {
-  margin: 0 0 1.8em;
-  color: var(--muted);
-  font-size: 0.74em;
-}
 
 .toc-part {
   /* an h3, so it inherits the navy uppercase label from .prose h3 */
