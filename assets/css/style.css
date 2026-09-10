@@ -532,7 +532,7 @@ main {
 
 .author-role {
   color: var(--muted);
-  font-size: 0.81em;
+  font-size: 0.853em;   /* 14.5px against the name's 15 */
   font-weight: 300;
 }
 
