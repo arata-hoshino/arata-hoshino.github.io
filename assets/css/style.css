@@ -596,32 +596,13 @@ main {
 
 .epigraph cite { font-style: italic; }
 
-/* On a wide page the source sits on the last line of the quotation, at
-   the right edge of it. The quotation goes inline so that the floated
-   source can share its final line; on a narrow page it stays stacked. */
+/* The panel keeps the depth it has on a narrow page; only the sides open
+   out with the column. The source stays on a line of its own, flush
+   right, at every width. */
 @media (min-width: 48rem) {
-  .epigraph blockquote,
-  .epigraph blockquote p {
-    display: inline;
-  }
-
-  /* the panel keeps the depth it has on a narrow page; only the sides
-     open out with the column */
   .epigraph {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
-  }
-
-  .epigraph figcaption {
-    float: right;
-    margin-top: 0;
-    padding-left: 2em;
-  }
-
-  .epigraph::after {
-    content: "";
-    display: block;
-    clear: both;
   }
 }
 
