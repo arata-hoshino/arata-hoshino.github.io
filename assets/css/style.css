@@ -599,9 +599,14 @@ main {
   /* an h3, so it takes the navy uppercase label from .prose h3; the
      margins are set in rem, not in the em of that 0.8em label, and
      scoped so .prose h3 does not outrank them */
-  margin: 2.6rem 0 1.6rem;
+  margin: 3.4rem 0 1.45rem;
   padding-bottom: 0.9em;
   border-bottom: 1px solid var(--rule);
+}
+
+/* the first label answers the head of the page, not another category */
+.prose .toc .toc-part:first-child {
+  margin-top: 2.08rem;
 }
 
 .prose .toc-list {
