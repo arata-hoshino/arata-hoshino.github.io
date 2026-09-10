@@ -70,6 +70,7 @@
   --face: "ET Book", Palatino, "Palatino Linotype", Georgia,
           "Times New Roman", Times, serif;
   --mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+  --stamp: "Jost", "Futura", "Avenir Next", "Helvetica Neue", Arial, sans-serif;
 
   --body-size: 1.0625rem; /* 17px body copy; the rest scales off it in em */
   --measure: 43.75rem;    /* 700px — the column narrowed with the type */
@@ -512,17 +513,30 @@ main {
    annotated table of contents — number in the margin, title, then the
    chapter's own description, separated by space rather than by rules.  */
 
-.author-name {
+/* The name and the line under it are set as an inscription: one face, one
+   size, and letterspaced. This is the single place on the site that takes
+   letterspacing, and it takes it deliberately. */
+.author-name,
+.author-role {
   margin: 0;
-  /* the name and the line under it are set at one colour */
-  color: var(--muted);
-  font-size: 1.32em;
+  font-family: var(--stamp);
+  font-size: 1em;
+  letter-spacing: 0.14em;
+}
+
+.author-name {
+  color: var(--ink);
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 .author-role {
-  margin: 0;
   color: var(--muted);
-  font-size: 0.88em;
+  font-weight: 300;
+}
+
+.stamp-place {
+  text-transform: uppercase;
 }
 
 /* name, place and date are one block: a fixed leading keeps the three
