@@ -62,6 +62,7 @@
   --muted: #8b9098;    /* labels, captions, metadata */
   --navy: #1b3a5c;     /* the single accent: labels, numbers, links */
   --rule: #dfe3e8;     /* hairlines */
+  --rule-faint: #ecEFF2; /* the faintest of them */
   --tint: #eef1f5;     /* pale panels */
   --tint-soft: #f7f9fb; /* the palest ground: the epigraph */
   --mark: #fdf3c8;
@@ -613,10 +614,12 @@ main {
   margin-top: 3.72rem;
 }
 
-/* the same break to the eye: the line above it sits on a longer leading,
-   so this one is set a shade wider to match it */
+/* The contents opens on a rule, set at the faintest grey the site has,
+   with the break opened out to carry it. */
 .prose .toc-heading {
-  margin-top: 4.692rem;
+  margin-top: 3.4rem;
+  padding-top: 2.7rem;
+  border-top: 1px solid var(--rule-faint);
 }
 
 .epigraph blockquote {
@@ -658,7 +661,7 @@ main {
   /* an h3, so it takes the navy uppercase label from .prose h3; the
      margins are set in rem, not in the em of that 0.8em label, and
      scoped so .prose h3 does not outrank them */
-  margin: 3.4rem 0 1.09rem;
+  margin: 3.4rem 0 0.981rem;
   padding-bottom: 0.9em;
   border-bottom: 1px solid var(--rule);
 }
@@ -679,7 +682,7 @@ main {
   grid-template-columns: 3.25em minmax(0, 1fr);
   align-items: baseline;
   gap: 0 1.5em;
-  margin: 0 0 clamp(0.92rem, 1.85vw, 1.2125rem);
+  margin: 0 0 clamp(0.813rem, 1.634vw, 1.071rem);
   padding: 0;
 }
 
