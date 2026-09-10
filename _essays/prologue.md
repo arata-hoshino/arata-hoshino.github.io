@@ -4,6 +4,11 @@ order: 1
 summary: "Where the given and the chosen change places. Two puzzles, the carriage and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved."
 ---
 
+<figure class="epigraph">
+  <blockquote><p>“Wealth consists of physical energy (as matter or radiation) combined with metaphysical know-what and know-how.”</p></blockquote>
+  <figcaption>— R. Buckminster Fuller, <cite>Critical Path</cite> (1981), p.198</figcaption>
+</figure>
+
 You can see the future first in San Francisco, wrote Leopold Aschenbrenner.<sup class="noteref"><a href="#note-1">1</a></sup> I agree with half
 of that. The future of computation can indeed be seen from San Francisco. But the future of
 civilization, which is to say the future of energy, population, and distribution, is visible
