@@ -227,15 +227,21 @@ main {
 .nav-link {
   color: var(--muted);
   text-decoration: none;
+  /* transform, not size, so nothing in the row moves when one grows */
+  transform-origin: center;
+  transition: transform 0.18s ease, color 0.18s ease;
 }
 
 .nav-link:hover,
 .nav-link:focus-visible {
   color: var(--navy);
+  transform: scale(1.1);
 }
 
+/* the page you are on is named in ink and in the semi-bold of the face */
 .nav-link.is-current {
   color: var(--ink);
+  font-weight: 600;
 }
 
 /* ------------------------------------------------------- page shell */
@@ -944,6 +950,15 @@ main {
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
+
+  .nav-link {
+    transition: none;
+  }
+
+  .nav-link:hover,
+  .nav-link:focus-visible {
+    transform: none;
+  }
 }
 
 @media print {
