@@ -140,6 +140,8 @@ fortunes turn over in a matter of months.
 </div>
 
 <div class="endnote">
-  © 2026 Arata Hoshino. Quotation is welcome, but always cite the source. Using the material of
-  this thesis without attribution is plagiarism and an infringement of copyright.
+  © 2026 Arata Hoshino. Published under a Creative Commons Attribution 4.0 International license
+  (CC BY 4.0). Quote, translate, excerpt and redistribute it freely, including commercially,
+  provided the author and the source are named. Cite as: Arata Hoshino, The Far Side of the
+  Constraint: Energy Abundance, Physical Automation, and the Distribution of Ownership (2026).
 </div>
