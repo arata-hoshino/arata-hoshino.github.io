@@ -161,7 +161,7 @@ future are like that in principle.
 But being unprovable and being groundless are different things. Having analyzed, diagnosed, and
 interpreted civilization, one can say that it looks as though it will go this way. Sharpening
 that "as though" until it is precise enough to bet on is the work of this thesis. That is why
-the final chapter sets out five bets and, for each, what would kill it.
+Chapter 9 sets out five predictions and, for each, what would kill it.
 
 So we begin with the analysis of civilization.
 

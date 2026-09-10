@@ -553,6 +553,6 @@ it is scarce, while in non-scarce regimes labor-augmenting technical change domi
 Stern & Astrid Kander, "The Role of Energy in the Industrial Revolution and Modern Economic
 Growth," *The Energy Journal* 33(3), 2012, 125–152). What this thesis treats is a regime in
 which scarcity returns, and econometric results from a non-scarce period cannot be extrapolated
-into it directly. This corresponds to one line of the falsification table in the final chapter.
+into it directly. This corresponds to one line of the falsification table in Chapter 9.
 
 </div>

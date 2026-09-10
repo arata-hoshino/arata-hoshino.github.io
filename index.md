@@ -128,13 +128,8 @@ companies whose fortunes turn over in a matter of months.
     <span class="toc-title"><a href="/essays/a-map-of-clusters/">A map of clusters</a></span>
     <p class="toc-summary">The unit is not the country but the stack. The five-layer cake, two techno-blocs, and the regions scored against the equation. The upper right of the map is still empty.</p>
   </li>
-</ol>
-
-<h3 class="toc-part">Final chapter</h3>
-
-<ol class="toc-list">
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">—</span>
+    <span class="toc-number" aria-hidden="true">09</span>
     <span class="toc-title"><a href="/essays/the-stakes/">Investment discipline</a></span>
     <p class="toc-summary">Five predictions, set out as a table, each with the condition under which it would be shown wrong.</p>
   </li>

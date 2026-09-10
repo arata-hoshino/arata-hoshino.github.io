@@ -1,7 +1,8 @@
 ---
 title: "Investment discipline"
+number: "9"
 order: 10
-part: "Final chapter"
+part: "Part IV. The map"
 summary: "Five predictions, set out as a table, each with the condition under which it would be shown wrong."
 ---
 
