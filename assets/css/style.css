@@ -913,6 +913,11 @@ main {
     padding-bottom: 1.5em;
   }
 
+  /* the subtitle comes down a step, so it does not crowd the narrow column */
+  .page-subtitle {
+    font-size: 1.1em;
+  }
+
 
   .prose table {
     display: block;
