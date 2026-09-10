@@ -704,7 +704,7 @@ main {
 .endnote {
   /* the contents already closes on a rule, so this one sets none; the
      notice stands well clear of the last entry */
-  margin: clamp(4.5rem, 10vw, 8rem) 0 0;
+  margin: clamp(9rem, 27vw, 18.75rem) 0 0;
   color: var(--muted);
   font-size: 0.88em;
 }
