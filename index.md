@@ -65,7 +65,7 @@ companies whose fortunes turn over in a matter of months.
 <ol class="toc-list">
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">—</span>
-    <span class="toc-title"><a href="/essays/prologue/">Prologue</a></span>
+    <span class="toc-title"><a href="/essays/prologue/">Premise</a></span>
     <p class="toc-summary">Where the given and the chosen change places. Two puzzles, the carriage and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved.</p>
   </li>
 </ol>

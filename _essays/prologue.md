@@ -1,5 +1,5 @@
 ---
-title: "Prologue"
+title: "Premise"
 order: 1
 summary: "Where the given and the chosen change places. Two puzzles, the carriage and Amazon. Physics runs ahead of institutions. And on a hypothesis that cannot be proved."
 ---
@@ -78,7 +78,7 @@ and will survive it. AI is the current name of a megatrend two centuries old.
 
 ## Physics runs ahead of institutions
 
-There is one more piece of history I want to place in this prologue.
+There is one more piece of history I want to place in this premise.
 
 In 1798 Malthus wrote that there is a ceiling on the number of people this island can feed. For
 half a century afterward Britain fought over that ceiling. The Corn Laws, the Poor Laws, rent
