@@ -595,9 +595,11 @@ main {
 
 /* The part label carries the only rule in the contents. Four rules for
    four parts, instead of one for every row. */
-.toc-part {
-  /* an h3, so it inherits the navy uppercase label from .prose h3 */
-  margin: clamp(3rem, 6vw, 4rem) 0 clamp(2.5rem, 5vw, 3.4rem);
+.prose .toc-part {
+  /* an h3, so it takes the navy uppercase label from .prose h3; the
+     margins are set in rem, not in the em of that 0.8em label, and
+     scoped so .prose h3 does not outrank them */
+  margin: 2rem 0 1.6rem;
   padding-bottom: 0.9em;
   border-bottom: 1px solid var(--rule);
 }
