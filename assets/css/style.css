@@ -352,13 +352,18 @@ main {
     -webkit-overflow-scrolling: touch;
     opacity: 0;
     visibility: hidden;
-    transition: opacity 0.24s ease, visibility 0s linear 0.24s;
+    /* closing is a shade quicker than opening: the page should come back
+       the moment it is asked for */
+    transition: opacity 0.2s cubic-bezier(0.4, 0, 0.7, 1),
+                visibility 0s linear 0.2s;
   }
 
   .nav-shell.is-open {
     opacity: 1;
     visibility: visible;
-    transition: opacity 0.24s ease, visibility 0s;
+    /* a long decelerating curve: it arrives rather than appears */
+    transition: opacity 0.34s cubic-bezier(0.22, 1, 0.36, 1),
+                visibility 0s;
   }
 
   /* the page is held where it was left, under the sheet */
@@ -408,15 +413,20 @@ main {
   .nav-link {
     padding: 0.5em 0;
     opacity: 0;
-    transform: translateY(-7px);
-    transition: opacity 0.18s ease, transform 0.18s cubic-bezier(0.2, 0.9, 0.2, 1);
+    /* the third axis keeps the whole list on one compositor layer, so the
+       motion is smooth on a phone rather than repainted line by line */
+    transform: translate3d(0, -9px, 0);
+    transition: opacity 0.16s ease, transform 0.16s ease;
   }
 
   .nav-shell.is-open .nav-link {
     opacity: 1;
-    transform: none;
-    /* each one a beat after the last, fast enough to read as one motion */
-    transition-delay: calc(0.05s + var(--i, 0) * 0.022s);
+    transform: translate3d(0, 0, 0);
+    /* each line eases out of its own fall and settles; each one a beat
+       after the last, close enough to read as one motion */
+    transition: opacity 0.4s cubic-bezier(0.22, 1, 0.36, 1),
+                transform 0.44s cubic-bezier(0.16, 1, 0.3, 1);
+    transition-delay: calc(0.07s + var(--i, 0) * 0.024s);
   }
 
   /* nothing grows under a finger; the sheet is a list, not a row */
@@ -1167,7 +1177,10 @@ main {
     transform: none;
   }
 
+  /* the shorthand above carries its own timing, so it is undone here
+     rather than only its delay */
   .nav-shell.is-open .nav-link {
+    transition: none;
     transition-delay: 0s;
   }
 }
