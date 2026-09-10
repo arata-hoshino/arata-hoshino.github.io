@@ -371,7 +371,10 @@ main {
 
   .nav-panel {
     display: block;
-    padding: 0 var(--gutter);
+    /* the sheet is set in from the edge further than the page beneath it:
+       a list read on its own wants more air at its left than a column of
+       prose does */
+    padding: 0 calc(var(--gutter) + 0.9rem);
   }
 
   .nav-panel-head {
