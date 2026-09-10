@@ -514,7 +514,8 @@ main {
 
 .author-name {
   margin: 0;
-  color: var(--ink);
+  /* the name and the line under it are set at one colour */
+  color: var(--muted);
   font-size: 1.32em;
 }
 
@@ -527,7 +528,7 @@ main {
 /* name, place and date are one block: a fixed leading keeps the three
    lines evenly spaced even though the name is set larger */
 .author {
-  line-height: 1.85rem;
+  line-height: 1.83rem;
 }
 
 .author + .author {
@@ -575,9 +576,14 @@ main {
    the contents — take the same measure. The contents head is given a
    class of its own for that, so .prose h2, which every chapter's sections
    use, is left alone. */
-.is-contents .prose,
-.prose .toc-heading {
+.is-contents .prose {
   margin-top: 3.72rem;
+}
+
+/* the same break to the eye: the line above it sits on a longer leading,
+   so this one is set a shade wider to match it */
+.prose .toc-heading {
+  margin-top: 3.884rem;
 }
 
 .epigraph blockquote {
