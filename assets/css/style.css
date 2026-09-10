@@ -434,7 +434,7 @@ main {
 .nav-link:hover,
 .nav-link:focus-visible {
   color: var(--navy);
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 /* the page you are on is named in ink and in the semi-bold of the face */
