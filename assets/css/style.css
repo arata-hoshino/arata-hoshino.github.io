@@ -225,6 +225,93 @@ main {
   }
 }
 
+/* ------------------------------------------- the contents button
+
+   On a narrow screen the list folds behind a button under the title.
+   The shell is a grid of one row, and the row goes from nothing to its
+   content: that animates cleanly without measuring anything. The links
+   ride in after it on small delays, quickly, from just above.          */
+
+.nav-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6em;
+  margin: 1.1em auto 0;
+  padding: 0.5em 0.95em;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: none;
+  color: var(--muted);
+  font-family: inherit;
+  font-size: 0.8em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: color 0.18s ease, border-color 0.18s ease;
+}
+
+.nav-toggle:hover,
+.nav-toggle:focus-visible {
+  color: var(--ink);
+  border-color: var(--muted);
+}
+
+.nav-toggle-icon path {
+  transition: d 0.2s ease;
+}
+
+.nav-toggle-label {
+  line-height: 1;
+}
+
+/* on a wide page the list is simply there, and the button is not */
+@media (min-width: 48rem) {
+  .nav-toggle {
+    display: none;
+  }
+}
+
+@media (max-width: 47.99rem) {
+  .nav-shell {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 0.26s cubic-bezier(0.2, 0.9, 0.2, 1);
+  }
+
+  .nav-shell > .nav {
+    overflow: hidden;
+  }
+
+  .nav-shell.is-open {
+    grid-template-rows: 1fr;
+  }
+
+  .nav {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+    padding: 0;
+  }
+
+  .nav-link {
+    padding: 0.42em 0;
+    opacity: 0;
+    transform: translateY(-6px);
+    transition: opacity 0.16s ease, transform 0.16s cubic-bezier(0.2, 0.9, 0.2, 1);
+  }
+
+  .nav-shell.is-open .nav {
+    padding: 1.2em 0 0.4em;
+  }
+
+  .nav-shell.is-open .nav-link {
+    opacity: 1;
+    transform: none;
+    /* each one a beat after the last, fast enough to read as one motion */
+    transition-delay: calc(0.06s + var(--i, 0) * 0.022s);
+  }
+}
+
 .nav-link {
   color: var(--muted);
   text-decoration: none;
@@ -694,7 +781,7 @@ main {
 
 .toc-number {
   color: var(--navy);
-  font-size: 0.82em;
+  font-size: 0.95em;
 }
 
 .toc-title {
@@ -954,13 +1041,19 @@ main {
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
 
-  .nav-link {
+  .nav-link,
+  .nav-shell,
+  .nav-toggle {
     transition: none;
   }
 
   .nav-link:hover,
   .nav-link:focus-visible {
     transform: none;
+  }
+
+  .nav-shell.is-open .nav-link {
+    transition-delay: 0s;
   }
 }
 

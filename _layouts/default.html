@@ -25,6 +25,7 @@
       <p>© {{ "now" | date: "%Y" }} {{ site.author }}. Written in Markdown, built with Jekyll.</p>
     </footer>
 
+    <script src="{{ '/assets/js/nav-toggle.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
     <script src="{{ '/assets/js/section-rail.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
   </body>
 </html>
