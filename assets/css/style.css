@@ -613,7 +613,7 @@ main {
   grid-template-columns: 3.25em minmax(0, 1fr);
   align-items: baseline;
   gap: 0 1.5em;
-  margin: 0 0 clamp(0.8rem, 1.6vw, 1.1rem);
+  margin: 0 0 clamp(1.4rem, 2.8vw, 1.9rem);
   padding: 0;
 }
 
