@@ -621,7 +621,7 @@ main {
   /* an h3, so it takes the navy uppercase label from .prose h3; the
      margins are set in rem, not in the em of that 0.8em label, and
      scoped so .prose h3 does not outrank them */
-  margin: 3.4rem 0 1.36rem;
+  margin: 3.4rem 0 1.275rem;
   padding-bottom: 0.9em;
   border-bottom: 1px solid var(--rule);
 }
@@ -642,7 +642,7 @@ main {
   grid-template-columns: 3.25em minmax(0, 1fr);
   align-items: baseline;
   gap: 0 1.5em;
-  margin: 0 0 clamp(1.25rem, 2.5vw, 1.645rem);
+  margin: 0 0 clamp(1.15rem, 2.3vw, 1.5125rem);
   padding: 0;
 }
 
