@@ -702,8 +702,9 @@ main {
    may be quoted.                                                       */
 
 .endnote {
-  /* the contents already closes on a rule, so this one sets none */
-  margin: clamp(1.5rem, 3.5vw, 2.25rem) 0 0;
+  /* the contents already closes on a rule, so this one sets none; the
+     notice stands off it by the measure the title page's breaks use */
+  margin: 3.72rem 0 0;
   color: var(--muted);
   font-size: 0.88em;
 }
