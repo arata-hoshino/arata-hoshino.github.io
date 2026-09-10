@@ -597,7 +597,7 @@ main {
    four parts, instead of one for every row. */
 .toc-part {
   /* an h3, so it inherits the navy uppercase label from .prose h3 */
-  margin: clamp(3rem, 6vw, 4rem) 0 clamp(2.1rem, 4.2vw, 2.9rem);
+  margin: clamp(3rem, 6vw, 4rem) 0 clamp(2.5rem, 5vw, 3.4rem);
   padding-bottom: 0.9em;
   border-bottom: 1px solid var(--rule);
 }
@@ -613,7 +613,7 @@ main {
   grid-template-columns: 3.25em minmax(0, 1fr);
   align-items: baseline;
   gap: 0 1.5em;
-  margin: 0 0 clamp(1.05rem, 2.1vw, 1.45rem);
+  margin: 0 0 clamp(0.8rem, 1.6vw, 1.1rem);
   padding: 0;
 }
 
@@ -649,7 +649,7 @@ main {
 
 .toc-summary {
   grid-column: 2;
-  margin: 1em 0 0;
+  margin: 1.25em 0 0;
   color: var(--muted);
   font-size: 0.92em;
   line-height: 1.55;
