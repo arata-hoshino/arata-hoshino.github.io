@@ -784,7 +784,7 @@ main {
 /* name, place and date are one block: a fixed leading keeps the three
    lines evenly spaced even though the name is set larger */
 .author {
-  line-height: 1.83rem;
+  line-height: 1.65rem;
 }
 
 .author + .author {
