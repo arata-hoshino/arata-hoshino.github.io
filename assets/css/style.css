@@ -742,7 +742,7 @@ main {
    is a divider rather than a break, so it stands close to the section it
    closes and keeps its air for the head below it. */
 .prose .rule-major {
-  margin: clamp(4rem, 8vw, 5.6rem) 0 clamp(1.47rem, 2.94vw, 2.1rem);
+  margin: clamp(4rem, 8vw, 5.6rem) 0 clamp(1.225rem, 2.45vw, 1.75rem);
 }
 
 .prose .rule-major + h2 {
