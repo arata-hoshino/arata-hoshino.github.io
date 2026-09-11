@@ -754,9 +754,17 @@ main {
    the head of its own block and needs no space above it of its own. The
    block itself stands half again as far from the pager as prose would. */
 /* A fixed measure, not a scaled one: the apparatus stands the same
-   distance below the pager on a phone as on a desk. */
+   distance below the pager on a desk whatever the width of the window.
+   A phone, whose column is narrow and whose scroll is long, takes half
+   again as much. */
 .apparatus-block {
   margin-top: 18.23rem;
+}
+
+@media (max-width: 47.99rem) {
+  .apparatus-block {
+    margin-top: 27.345rem;
+  }
 }
 
 .apparatus-block .apparatus > .rule-major:first-child {
