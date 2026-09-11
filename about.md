@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Author
+title: About the Author
 permalink: /about/
 description: "Arata Hoshino — from Japan, based in the United Arab Emirates. Energy, physical automation, and what they do to how people live."
 ---

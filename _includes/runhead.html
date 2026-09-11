@@ -39,7 +39,7 @@
            class="nav-link{% if page.url == essay.url %} is-current{% endif %}">{% if essay.number %}{{ essay.number }}. {% endif %}{{ essay.title }}</a>
       {% endfor %}
       <a href="{{ '/about/' | relative_url }}" style="--i: {{ essays.size | plus: 1 }}"
-         class="nav-link{% if page.url == '/about/' %} is-current{% endif %}">About Author</a>
+         class="nav-link{% if page.url == '/about/' %} is-current{% endif %}">Author</a>
     </nav>
   </div>
 </div>
