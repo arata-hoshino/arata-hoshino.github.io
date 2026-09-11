@@ -3,34 +3,66 @@ title: "On Investment"
 number: "9"
 order: 10
 part: "Part IV. Where to Stand"
-summary: "Five predictions, set out as a table, each with the condition under which it would be shown wrong."
+summary: "The upper right is filled by a combination rather than by a place. From that, the order of resource allocation, in five items. The discipline of allocation, and five predictions, each with the condition under which it would be shown wrong."
 ---
 
-## The function of a civilization's competitiveness
+## 9.1 One constraint, one prescription
 
-What this thesis has offered is the skeleton of a hypothesis and nothing more. As section 1.2 of Chapter 1 set out, the competitiveness of a civilization is settled by the product of three terms.
+Live in the Gulf and your sense of what can be moved and what cannot breaks down. Energy and fertility, which the advanced economies treat as given, are objects of design here. Talent, which they assume money can move, is the hardest of the three. That inversion was the starting point.
 
 <p class="equation">Civilizational competitiveness C ≈ Institutions I × Effective energy abundance E × Labor input L</p>
 <p class="equation">L ≈ Technology access T × Large capital K</p>
-If any one of the three is near zero, the output is near zero however high the others are. What this equation settles is not wealth. It is how much of the next physical substrate can be built.
+If any one of the three is near zero, the output is near zero however high the others are. What the equation settles is not wealth but the capacity to build. E is measured by three quantities observable in advance: the effective price of industrial electricity, the reliability of supply, and the lead time for a new grid connection.<sup class="noteref"><a href="#note-1">1</a></sup>
 
-There is a reason for putting it in this form. Write competitiveness as two terms, something like energy times institutional efficiency, and the shape comes out tidy, but everything unobservable ends up inside the institutional term, and that is the same structure as the Solow residual this thesis criticized in Chapter 1. An equation that merely names a residual predicts nothing. It is precisely because each of the three terms is independently observable that the equation can be used to predict.
+The efficiency of civilization is two convergence costs falling toward zero at once, matter configuration and predictive models. They compete over the same problem, and the cheaper side wins. For two hundred years what has set the speed of automation is energy and capital goods, and this time is the same.
 
-And E is measured by three quantities that can be observed in advance: the effective price of industrial electricity, the reliability of supply, and the lead time for a new connection to the grid. Measured by those three, the circularity that absorbs institutional failure into an energy story does not arise.<sup class="noteref"><a href="#note-1">1</a></sup>
+For fifty years the advanced countries rebuilt their economies, their institutions and their values on the premise that energy does not grow. They chose that scarcity. It reached households through the prices of the goods automation never got to, and it held births down. The Malthusian trap did not disappear; it moved from food to the household budget.
 
-The production side does not turn into a different function either. As section 2.7 of Chapter 2 showed, to the degree that human input thins out, both GDP and the measure of national power asymptote to the same product. What can be built, how much can be produced, how strong a country is: three questions that look separate are the same three terms seen from different angles.
+What follows the lifting of a constraint is not a discount but an explosion of demand. Of the four head-counts an economy requires, automation bypasses only labor supply, and the other three are population itself. So a valley in which supply alone grows lasts half a century.
 
-Two of the three terms are quantities on the supply side, and demand enters nowhere. That is not an omission. Raise a revolution in supply and demand follows. Demand is contracting now because population, which is what demand actually consists of, is contracting under a supply constraint.
+The device for crossing that valley is distribution. The conduit that allocates income by contribution to tasks breaks in the 2030s, and taxing capital fails because capital moves. What is left is to distribute ownership itself. And when price stops rationing scarcity, the work of measuring value returns to use value.
 
-Four things this thesis asserts and does not establish.
+Finally, the unit is not the country but the stack. Neither the three terms nor the five layers is complete in any single cluster.
 
-The link between energy prices, technological structure and the birth rate is set out as a mechanism, not measured as one; settling it takes a long-run panel of energy prices, generation mix, real wages and fertility across the advanced economies. The decomposition of the price system is qualitative; what is missing is an estimate, across housing, education, childcare and healthcare, of how much each cost driver contributes to the household Malthus, energy and non-automated labor above all. The account of urban growth rests on historical cases rather than on a model in which cheap energy, cheap labor and abundant land endogenously settle infrastructure investment and agglomeration. And the effect of automation on hours of work and on fertility behavior is argued rather than modeled: what shorter hours, redistributed income and reduced anxiety about the future do to the decision to marry and to have a child belongs in a household macro model this thesis does not build.
+Stagnation, rising prices, the failure of distribution and falling births are not separate problems. They are several symptoms of one constraint. The prescription is therefore one, not four: fill whichever of the three terms is missing.
 
-The reduction has a boundary, and naming it matters more than the four. Explanations that run on values or on policy can be restated from a layer closer to physics, meaning energy, computing capacity, technology, the price system and the household constraint. Where that restatement stops is not settled here either. Of the three terms, what geology and physics settle goes only as far as the raw material of energy; past that, institutions settle it. The reduction stops short of institutions, and the place where it stops is the outline of what humans get to decide.
+## 9.2 The upper right is filled by a combination, not a place
 
-## The predictions
+The map in Chapter 8 has one empty seat. No cluster holds, at the highest level and at the same time, the feasibility of energy and space together with talent and institutions. Neither the product of the three terms nor the five layers of the stack is complete in any single place. What follows is not that some place will eventually move into the upper right.
 
-A hypothesis is worth nothing until it is committed to. I have committed my own career and my own capital to the predictions that follow, and I write them in falsifiable form.
+The upper right is filled by a combination, not a place.
+
+What is required exists in three separate pieces. The United States holds direction 2, which is to say models, basic research, and the capital markets that buy them. Japan, Korea and Taiwan hold the capability of direction 1, which is to say materials, production equipment, industrial robots and leading-edge logic. The Gulf holds the joules, the land, and the speed of decision. Taken separately, none of the three has more than two of the terms. Put under a single decision, the three terms are complete and so are the five layers.
+
+The scarcest thing in this field is therefore neither technology nor capital. It is a body able to place the three regions under one design. It is not that translators are short. It is that no organization yet exists whose job is the translation.
+
+And whoever assembles that combination first settles where the physical substrate of the later twenty-first century gets built.
+
+## 9.3 What, then, should the world invest in
+
+Down from the map to practice. If the readings so far are correct, the allocation of resources from here takes the following order.
+
+**One. Energy R&D.** This has been this thesis's top priority throughout, and it does not change here either. The bottleneck is neither models nor capital but the speed at which gigawatts are connected. And the lead time for a new grid connection is now the most powerful instrument of industrial policy in the world. A policy that shortens the queue moves the ranking of clusters faster than a policy that lowers the price. This claim, as section 8.10 of Chapter 8 shows, can be measured.
+
+**Two. Implementation design for the physical world.** Palo Alto makes AI's brain and Northeast Asia makes its body. But the people who design what, concretely, that does in a factory, a hospital, a city, logistics and agriculture are decisively short. This is not an engineer's question but a design question. In the language of Chapter 2, it is the work of deciding where to apply the lever, once direction 2 has become the lever that collapses the development cost of direction 1. This will be the thinnest-supplied profession of the coming decade.
+
+**Three. Translation between capital and technology.** Translation here does not mean interpreting. It means being able to compose, in both languages, which layer capital goes into, on what horizon, and on what terms. Only capital that can read the function of Chapter 1 gets placed in the right place.
+
+**Four. Institutions of distribution.** The birth-endowment capital accounts, the citizen-share sovereign fund and the universal share in automation capital argued in Chapter 6. This is not an item of ethics but an item of engineering that settles whether a cluster is still functioning ten years from now. The cluster that implements it seriously first buys the social stability of the 2040s.
+
+**Five. Basic investment in the side that is not connected.** As section 8.6 of Chapter 8 showed, the twentieth-century development model will not be replayed. Even so, a substantial part of the world's population has reached neither stable electricity nor water and sewerage nor basic education. On the same planet where we are talking about fusion and humanoids. If the cascade is real, then fresh water, electricity and education can arrive there as goods whose marginal cost has approached zero. And the societies now paying the highest effective prices are the first and largest market for those goods. If capital does not go into designs that reach that market, this thesis's argument ends as an in-house conversation on the frontier.
+
+## 9.4 The discipline of allocation
+
+This thesis names no securities and no regional allocation weights. That is work to be settled in conversation, knowing the character of the money and its time horizon, not on paper. What it can supply is what to judge by.
+
+First, the indicator. The bottleneck is the speed at which gigawatts are connected, and that speed is measured not by the capacity sitting in the queue but by the proportion of the queue that reached energization, by the share under firm contract, and by the grid operator's willingness to name a connection date. Section 8.10 of Chapter 8 sets out those numbers. Second, the time constant. Energy is a decade; institutions are a generation. For an allocation to one and the same region, the holding period required differs by a factor of two depending on whether it is framed as an energy story or as a story about the agglomeration of talent.
+
+And the scarcest thing is neither generation technology nor capital. It is a site that is already connected.
+
+## 9.5 The predictions
+
+A hypothesis is worth nothing until it is committed to. I have committed my own career and my own capital to the predictions that follow.
 
 **One. Energy.** By the middle of the 2030s, in at least one major economic bloc, there will be a year in which new capital investment in nuclear fission exceeds new capital investment in renewables. Fusion will achieve its first commercial delivery of power to the grid in the 2030s, but the main theater of price impact is the diffusion phase in which the learning curve operates, which is to say the 2040s. The start-up of the first commercial reactor will be reported as the news that energy has become free. That report will be wrong.
 
@@ -41,6 +73,8 @@ A hypothesis is worth nothing until it is committed to. I have committed my own 
 **Four. Distribution.** In the same 2030s, institutions for making every citizen an investor, meaning capital accounts opened at birth, sovereign funds held as a national stake, and a universal stake in automated capital, will appear as mainstream policy in more than one country. This is the beginning of what this thesis calls the update to capitalism. On my reading, the first country to implement it in earnest buys itself the social stability of the 2040s.
 
 **Five. Labor.** The relative fall in youth employment in the occupations most exposed to AI will keep widening through the second half of the 2020s, and in at least one major economic bloc youth unemployment will become the central issue in politics. The first wave of solutions offered at that point will be job retraining, and it will not work, because the reinstatement of tasks does not happen.
+
+## 9.6 What would show them to be wrong
 
 Writing the predictions down is not enough. What would make me admit that one of them was wrong has to be written down to the same precision.
 
@@ -59,34 +93,32 @@ Writing the predictions down is not enough. What would make me admit that one of
 | Zero'' | Where institutions sit | Within a window of ten to thirty years, institutional quality is shown to move systematically with resource endowment (if institutions are endogenous on that time axis, the first term of the equation stops being an independent term) | Panel of institutional indicators and resource endowment over the same period | World Governance Indicators, various resource-endowment data | 2040 |
 | Five' | Job retraining | A large-scale retraining program restores the employment rate of the target cohort to a statistically significant degree | RCT or quasi-experimental evaluation of a training program | National labor ministries, peer-reviewed papers | 2035 |
 
-The purpose of this table is not to protect the predictions. It is to keep them killable.<sup class="noteref"><a href="#note-2">2</a></sup> What breaks in the skeleton of this thesis when one of them is falsified belongs here too. If one is lost, the timeline of Chapter 5 slides backwards, but the identification of the constraint survives. If two is lost, the central proposition of Chapter 4 is itself wrong. If three and four are lost, the design argument of Chapter 6 was necessary and yet politically impossible. If five is lost, the erosion of the conduit, which is the premise of Chapter 6, was never happening in the first place. The most fragile is two. The one I least want to break is four.
+The purpose of this table is not to protect the predictions. It is to keep them killable.<sup class="noteref"><a href="#note-2">2</a></sup> What breaks in the skeleton of this thesis when one of them is falsified? If one is lost, the timeline of Chapter 5 slides backwards, but the identification of the constraint survives. If two is lost, the central proposition of Chapter 4 is itself wrong. If three and four are lost, the design argument of Chapter 6 was necessary and yet politically impossible. If five is lost, the erosion of the conduit, which is the premise of Chapter 6, was never happening in the first place. The most fragile is two. The one I least want to break is four.
 
 Some of these will be wrong. But the way they go wrong is the information. I intend to keep updating this map by collision with reality.
 
-## On allocation
+## 9.7 What this thesis does not establish
 
-Finally, on investment.
+Four things this thesis asserts and does not establish.
 
-Section 8.8 of Chapter 8 set out the order of resource allocation. What I add here is the discipline for bringing that order down into an actual allocation.
+The link between energy prices, technological structure and the birth rate is set out as a mechanism, not measured as one; settling it takes a long-run panel of energy prices, generation mix, real wages and fertility across the advanced economies. The decomposition of the price system is qualitative; what is missing is an estimate, across housing, education, childcare and healthcare, of how much each cost driver contributes to the household Malthus, energy and non-automated labor above all. The account of urban growth rests on historical cases rather than on a model in which cheap energy, cheap labor and abundant land endogenously settle infrastructure investment and agglomeration. And the effect of automation on hours of work and on fertility behavior is argued rather than modeled: what shorter hours, redistributed income and reduced anxiety about the future do to the decision to marry and to have a child belongs in a household macro model this thesis does not build.
 
-This thesis names no securities and no regional allocation weights. That is work to be settled in conversation, knowing the character of the money and its time horizon, not on paper. But there are three things this thesis does supply to judge by. First, the order. The bottleneck is neither the models nor the capital; it is the speed at which gigawatts are connected. Second, the indicator. That speed is measured not by the capacity sitting in the queue but by the proportion of the queue that reached energization, by the share under firm contract, and by the grid operator's willingness to name a connection date. Third, the time constant. Energy is a decade; institutions are a generation. For an allocation to one and the same region, the holding period required differs by a factor of two depending on whether it is framed as an energy story or as a story about the agglomeration of talent.
+## 9.8 Where the reduction stops
 
-Energy remains throughout the decisive priority. But by the time I had finished writing this thesis my reading had become somewhat more specific than it was at the outset. The scarcest thing is neither generation technology nor capital. It is a site that is already connected.
+The reduction has a boundary. Explanations that run on values or on policy can be restated from a layer closer to physics, meaning energy, computing capacity, technology, the price system and the household constraint. Where that restatement stops is not settled here either. Of the three terms, what geology and physics settle goes only as far as the raw material of energy; past that, institutions settle it. The reduction stops short of institutions, and the place where it stops is the outline of what humans get to decide.
 
 If this map is right, we become the first generation in human history to design the far side of the constraint rather than the inside of it.
 
+I intend to spend my working life on assembling that combination. It is not a thing one person can assemble. So the design goes out first.
+
 Let us meet and talk.
-
----
-
-*Acknowledgments: Much of the skeleton of this thesis is owed to continuing conversation with Kei Irizawa (Yale University) and to our joint memoranda, "Energy Supply and Computational Capacity for the Post-Capitalist Society" and "Roadmap of Next 10 Years". Responsibility for the text is mine alone.*
 
 <div class="apparatus" markdown="1">
 
 <hr class="rule-major">
 
 ## Notes and Sources
-1. How E is measured. The effective price of industrial electricity comes from national published statistics (the UK Department for Energy Security and Net Zero's international comparison, Eurostat `nrg_pc_205`, US Energy Information Administration *Electric Power Monthly* Table 5.3). Reliability of supply is the series based on SAIDI/SAIFI that the World Bank's *Doing Business* Getting Electricity indicator used. For the lead time on a new grid connection alone, no published statistic exists that is bundled as an ex ante country-by-country screen. In the United States, Lawrence Berkeley National Laboratory's *Queued Up* publishes the period from application to commercial operation; in the United Kingdom NESO names a connection date; in the Netherlands TenneT publishes exhaustion by geography. China and the Gulf publish nothing. As stated in section 8.8 of Chapter 8, this is the gap in information most unfavorable to the argument of this thesis.
+1. How E is measured. The effective price of industrial electricity comes from national published statistics (the UK Department for Energy Security and Net Zero's international comparison, Eurostat `nrg_pc_205`, US Energy Information Administration *Electric Power Monthly* Table 5.3). Reliability of supply is the series based on SAIDI/SAIFI that the World Bank's *Doing Business* Getting Electricity indicator used. For the lead time on a new grid connection alone, no published statistic exists that is bundled as an ex ante country-by-country screen. In the United States, Lawrence Berkeley National Laboratory's *Queued Up* publishes the period from application to commercial operation; in the United Kingdom NESO names a connection date; in the Netherlands TenneT publishes exhaustion by geography. China and the Gulf publish nothing. As stated in section 8.10 of Chapter 8, this is the gap in information most unfavorable to the argument of this thesis.
 {: #note-1 .note}
 
 2. On the tracking indicators in the falsification table. Every series listed in the Source column of the table is a published statistic updated annually or quarterly. Rows whose date of judgment has passed are kept, with the result of the judgment appended. The table is there to record that a prediction was wrong, not to delete the prediction.

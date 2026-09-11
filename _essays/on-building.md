@@ -32,8 +32,6 @@ One term of this thesis is settled here. Energy means a way of getting work done
 
 What this thesis treats is the competitiveness of a civilization. Competitiveness here means how fast it can build the next physical substrate and how much new investment at scale it can execute. Quality, meaning the goodness of life for the people living there, is not treated.
 
-### The competitiveness equation
-
 <p class="equation">Civilizational competitiveness C ≈ Institutions I × Effective energy abundance E × Labor input (automation) L</p>
 If any one of the three is near zero, the output is near zero however high the others are.
 
@@ -52,9 +50,7 @@ This term decomposes further.
 
 Japan, Korea, and Taiwan, holding between them the depth of an advanced-industrial supply chain, sit upstream on T. That is why they cannot be substituted for. The United States holds much of T and holds K, and what it lacks arrives through alliance. China holds much of T and much of K but sits outside the alliance. For a country with neither, two paths remain: accept enormous investment through alliance, or receive a transfer of technology. L can be obtained without building it yourself. It just requires somebody's permission.
 
-### What this equation settles and what it does not
-
-To be exact about the scope: what this equation settles is not wealth as a stock but the capacity to build as a flow.
+**What this equation settles and what it does not.** What this equation settles is not wealth as a stock but the capacity to build as a flow.
 
 The set of countries that are wealthy now and the set that can build now are different sets. The first is running on inventory laid down in a period when all three were present. A society with institutions but without abundance may be wealthy, and still cannot build. The next section watches the window open and close over a single country.
 

@@ -34,11 +34,11 @@ And there is the humanoid robot that appeared in almost every account of the fut
 
 The two puzzles are one puzzle. In both, the value stayed and the thing that had been delivering it was swapped out. What people wanted was not a carriage but to go farther, faster. Not a robot, but to have what they wanted appear at the door. A person's goal always sits on the side of the value, never on the side of the means. So: what stays, and what is exchanged? Answer that and the question of what to invest in is half solved. Follow the question all the way down and it runs in one line from the causes of falling fertility through the structural limits of renewables, the trajectory of the Chinese economy, the next form of capitalism, and the end of money. This thesis is an attempt to draw that whole line.
 
-## This is not a book about AI
+## The energy question is older than AI
 
 One thing in advance. In the discourse of 2026 the phrase "energy abundance" circulates almost entirely within the context of AI. How to supply data centers with power; how to thicken the bottom layer of what Jensen Huang calls the five-layer cake. His five layers stack in the order of energy, chips, infrastructure, models, and applications. That the bottom layer is energy is the same claim this thesis makes.<sup class="noteref"><a href="#note-5">5</a></sup>
 
-This thesis does not belong to that context. The power problem of data centers is merely the newest instance of its subject. What this thesis treats is a far larger and far older structure: that the abundance of energy has governed the skeleton of civilization since the industrial revolution, which is to say what can be built from nothing, whether population grows, how wealth is distributed, and what value is measured by. Interest in that structure precedes the AI boom and will survive it. AI is the current name of a megatrend two centuries old.
+This thesis is not contained by that context. The power problem of data centers is merely the newest instance of its subject. What this thesis treats is a far larger and far older structure: that the abundance of energy has governed the skeleton of civilization since the industrial revolution, which is to say what can be built from nothing, whether population grows, how wealth is distributed, and what value is measured by. Interest in that structure precedes the AI boom and will survive it. AI is the current name of a megatrend two centuries old.
 
 ## Physics runs ahead of institutions
 

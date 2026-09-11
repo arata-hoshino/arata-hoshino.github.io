@@ -128,12 +128,21 @@ fortunes turn over in a matter of months.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">Chapter 8</span>
     <span class="toc-title"><a href="/essays/on-clusters/">On Clusters</a></span>
-    <p class="toc-summary">The unit is not the country but the stack. The five-layer cake, two techno-blocs, and the regions scored against the equation. The upper right of the map is still empty.</p>
+    <p class="toc-summary">The unit is not the country but the stack. The five-layer cake, two techno-blocs, and the regions scored against the equation. The speed of connection can be measured, and the upper right of the map is still empty.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">Chapter 9</span>
     <span class="toc-title"><a href="/essays/on-investment/">On Investment</a></span>
-    <p class="toc-summary">Five predictions, set out as a table, each with the condition under which it would be shown wrong.</p>
+    <p class="toc-summary">The upper right is filled by a combination rather than by a place. From that, the order of resource allocation, in five items. The discipline of allocation, and five predictions, each with the condition under which it would be shown wrong.</p>
+  </li>
+</ol>
+
+<h3 class="toc-part">About the Author</h3>
+
+<ol class="toc-list">
+  <li class="toc-item">
+    <span class="toc-number" aria-hidden="true">—</span>
+    <span class="toc-title"><a href="/about/">About the Author</a></span>
   </li>
 </ol>
 

@@ -99,23 +99,17 @@ The measure of national power therefore converges on the same equation. The twen
 
 Three things follow from this replacement.
 
-### One: this is an equation of supply
-
-Of the three terms, effective energy abundance and labor input are both quantities on the supply side. Institutions, too, act on the supply side, in the sense of calling in capital and talent. Demand appears nowhere.
+**One: this is an equation of supply.** Of the three terms, effective energy abundance and labor input are both quantities on the supply side. Institutions, too, act on the supply side, in the sense of calling in capital and talent. Demand appears nowhere.
 
 That is not an omission but the central view of this thesis. Bring about a supply revolution and demand follows. Demand is contracting now not because people have lost things they want, but because population, the substance of demand, is contracting under the supply constraint. The prices households face are a function of supply, and births are a function of those prices. The order runs from supply to demand, and it does not run in reverse.
 
 So if the three terms turn, capital arrives afterward. And if the wealth created is properly distributed, population returns and demand returns. A rotation that began on the supply side comes round and reaches demand. Whether that circuit closes is the subject of the latter half of this thesis. There is a cost, however. In a world where supply is automated, what becomes scarce is not productive capacity but demand. Productive capacity nobody can sell to is a liability, not an asset.
 
-### Two: the contents of labor input have been swapped
-
-The method of throwing in large volumes of hands to make things cheaply, which is to say the human-wave approach, ended in China in the 2010s. From the 2020s onward, labor input is another name for automation, and its substance is technology access and large capital. Possessing cheap labor is no longer an entry ticket. If a society sets out to climb the same road now, automation will have gone farther before it catches up. What is asked of this term, therefore, is not population but whether chokepoint technologies are within reach and whether capital expenditure of another order of magnitude can be mobilized.
+**Two: the contents of labor input have been swapped.** The method of throwing in large volumes of hands to make things cheaply, which is to say the human-wave approach, ended in China in the 2010s. From the 2020s onward, labor input is another name for automation, and its substance is technology access and large capital. Possessing cheap labor is no longer an entry ticket. If a society sets out to climb the same road now, automation will have gone farther before it catches up. What is asked of this term, therefore, is not population but whether chokepoint technologies are within reach and whether capital expenditure of another order of magnitude can be mobilized.
 
 For the same reason the meaning of talent changes. Talent is no longer an input to production but an input to direction. Once machines carry what to make and how much, what remains to humans is deciding what ought to be made, and seeing possibilities nobody is looking at. So what is asked is not quantity but the depth of the pool from which selection is made, and the power to attract that pool.
 
-### Three: GDP moves away from value
-
-As supply is automated, GDP moves away from the concept of the sum of value created. There are two reasons. First, wealth produced by machines is counted regardless of whom it was useful to. The construction by which only what sells counts as value was an approximation for an era when there were humans on the supply side. Second, because those creating value stop being conscious of productivity. Once human time is released from the direction of productivity, the value that time generates is, by definition, not recorded on an index of productivity. GDP moves away from value not because GDP breaks. It is because human activity moves outside GDP's domain of definition.
+**Three: GDP moves away from value.** As supply is automated, GDP moves away from the concept of the sum of value created. There are two reasons. First, wealth produced by machines is counted regardless of whom it was useful to. The construction by which only what sells counts as value was an approximation for an era when there were humans on the supply side. Second, because those creating value stop being conscious of productivity. Once human time is released from the direction of productivity, the value that time generates is, by definition, not recorded on an index of productivity. GDP moves away from value not because GDP breaks. It is because human activity moves outside GDP's domain of definition.
 
 <div class="apparatus" markdown="1">
 
