@@ -35,7 +35,7 @@ CHAPTERS = {
     '05_Chapter4': 'on-population',
     '06_Chapter5': 'on-abundance',
     '07_Chapter6': 'on-capitalism',
-    '08_Chapter7': 'on-use-value',
+    '08_Chapter7': 'on-value',
     '09_Chapter8': 'on-clusters',
     '10_Chapter9': 'on-investment',
 }

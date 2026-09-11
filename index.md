@@ -117,7 +117,7 @@ fortunes turn over in a matter of months.
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">VII</span>
-    <span class="toc-title"><a href="/essays/on-use-value/">On Use Value</a></span>
+    <span class="toc-title"><a href="/essays/on-value/">On Value</a></span>
     <p class="toc-summary">Price is only a proxy for use value. When use value becomes measurable, currency becomes data. The release of the axis of expenditure, and the second gate on births.</p>
   </li>
 </ol>
