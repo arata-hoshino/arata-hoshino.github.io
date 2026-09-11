@@ -737,7 +737,7 @@ main {
    is a divider rather than a break, so it stands close to the section it
    closes and keeps its air for the head below it. */
 .prose .rule-major {
-  margin: clamp(5rem, 10vw, 7rem) 0 clamp(1.75rem, 3.5vw, 2.5rem);
+  margin: clamp(5rem, 10vw, 7rem) 0 clamp(1.225rem, 2.45vw, 1.75rem);
 }
 
 .prose .rule-major + h2 {
@@ -748,7 +748,7 @@ main {
    the head of its own block and needs no space above it of its own. The
    block itself stands half again as far from the pager as prose would. */
 .apparatus-block {
-  margin-top: clamp(4.5rem, 10.5vw, 6.75rem);
+  margin-top: clamp(6.75rem, 15.75vw, 10.125rem);
 }
 
 .apparatus-block .apparatus > .rule-major:first-child {
@@ -1123,8 +1123,8 @@ main {
 .pager {
   display: flex;
   gap: 1.5em;
-  margin: clamp(4rem, 9vw, 6rem) 0 0;
-  padding-top: 1.5em;
+  margin: clamp(2.8rem, 6.3vw, 4.2rem) 0 0;
+  padding-top: 1.05em;
   font-size: 0.78em;
 }
 
