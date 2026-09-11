@@ -752,8 +752,10 @@ main {
 /* The apparatus is set below the pager, so the rule that opens it stands at
    the head of its own block and needs no space above it of its own. The
    block itself stands half again as far from the pager as prose would. */
+/* A fixed measure, not a scaled one: the apparatus stands the same
+   distance below the pager on a phone as on a desk. */
 .apparatus-block {
-  margin-top: clamp(12.15rem, 28.35vw, 18.23rem);
+  margin-top: 18.23rem;
 }
 
 .apparatus-block .apparatus > .rule-major:first-child {
