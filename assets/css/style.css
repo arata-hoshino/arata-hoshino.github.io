@@ -725,11 +725,16 @@ main {
   font-size: 0.9em;
 }
 
-/* Inside the apparatus everything is set at one colour and one weight: it
-   is reference, not argument. The two heads keep their own setting. */
+/* Inside the apparatus everything is set at one colour, the heads with it:
+   it is reference, not argument, and the weight alone tells them apart. */
+.prose .apparatus strong,
+.prose .apparatus b,
+.prose .apparatus h2 {
+  color: inherit;
+}
+
 .prose .apparatus strong,
 .prose .apparatus b {
-  color: inherit;
   font-weight: inherit;
 }
 
@@ -1123,8 +1128,8 @@ main {
 .pager {
   display: flex;
   gap: 1.5em;
-  margin: clamp(2.8rem, 6.3vw, 4.2rem) 0 0;
-  padding-top: 1.05em;
+  margin: clamp(2rem, 4.5vw, 3rem) 0 0;
+  padding-top: 0.75em;
   font-size: 0.78em;
 }
 
