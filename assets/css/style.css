@@ -799,7 +799,7 @@ main {
   font-size: 0.82em;   /* 13.9px against the name's 14.4 */
   font-weight: 300;
   /* the lighter, smaller line carries a little more air than the name */
-  letter-spacing: 0.218em;
+  letter-spacing: 0.229em;
 }
 
 /* name, place and date are one block: a fixed leading keeps the three
