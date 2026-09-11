@@ -1,8 +1,9 @@
 ---
 title: "On Population"
 number: "4"
+roman: "IV"
 order: 5
-part: "Part II. The Constraint We Chose"
+part: "Part Two. The Constraint We Chose"
 summary: "Falling fertility is a price phenomenon, not a cultural one. The Malthusian trap did not disappear; it moved from food to the household budget. China as the largest case."
 ---
 

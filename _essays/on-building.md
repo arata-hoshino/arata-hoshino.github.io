@@ -1,8 +1,9 @@
 ---
 title: "On Building"
 number: "1"
+roman: "I"
 order: 2
-part: "Part I. The Physics of Civilization"
+part: "Part One. The Physics of Civilization"
 summary: "A civilization's competitiveness is the product of institutions, the effective abundance of energy, and labor input. What it settles is not wealth but what can be built. Britain in the 1840s, the UAE today."
 ---
 

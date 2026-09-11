@@ -1,8 +1,9 @@
 ---
 title: "On Convergence"
 number: "2"
+roman: "II"
 order: 3
-part: "Part I. The Physics of Civilization"
+part: "Part One. The Physics of Civilization"
 summary: "The efficiency of civilization is two convergence costs, matter configuration and predictive models, both falling toward zero. They compete over the same problem, and the cheaper side wins. The equation of national power is rewritten."
 ---
 

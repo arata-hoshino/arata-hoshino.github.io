@@ -1,8 +1,9 @@
 ---
 title: "On Capitalism"
 number: "6"
+roman: "VI"
 order: 7
-part: "Part III. Designing the Release"
+part: "Part Three. Designing the Release"
 summary: "Allocating income by contribution to tasks breaks in the 2030s. Capital flight as the mechanism of failure, and an update to capitalism that makes every citizen an investor."
 redirect_from:
   - /essays/on-ownership/

@@ -1,8 +1,9 @@
 ---
 title: "On Abundance"
 number: "5"
+roman: "V"
 order: 6
-part: "Part III. Designing the Release"
+part: "Part Three. Designing the Release"
 summary: "What follows the lifting of a constraint is not a discount but an explosion of demand. Three centuries of light, the timeline for fusion, and why what sets the pace is connection rather than generation."
 ---
 

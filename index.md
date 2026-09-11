@@ -2,7 +2,7 @@
 layout: home
 title: "The Far Side of the Constraint"
 heading: "The Far Side of the Constraint"
-subtitle: "A Civilizational Thesis on Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
+subtitle: "A Vision Thesis on Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
 authors:
   - name: "Arata Hoshino"
     role: "UNITED ARAB EMIRATES, Aug 2026"
@@ -72,66 +72,66 @@ fortunes turn over in a matter of months.
   </li>
 </ol>
 
-<h3 class="toc-part">Part I · The Physics of Civilization</h3>
+<h3 class="toc-part">Part One · The Physics of Civilization</h3>
 
 <ol class="toc-list">
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">Chapter 1</span>
+    <span class="toc-number" aria-hidden="true">I</span>
     <span class="toc-title"><a href="/essays/on-building/">On Building</a></span>
     <p class="toc-summary">A civilization's competitiveness is the product of institutions, the effective abundance of energy, and labor input. What it settles is not wealth but what can be built. Britain in the 1840s, the UAE today.</p>
   </li>
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">Chapter 2</span>
+    <span class="toc-number" aria-hidden="true">II</span>
     <span class="toc-title"><a href="/essays/on-convergence/">On Convergence</a></span>
     <p class="toc-summary">The efficiency of civilization is two convergence costs, matter configuration and predictive models, both falling toward zero. They compete over the same problem, and the cheaper side wins. The equation of national power is rewritten.</p>
   </li>
 </ol>
 
-<h3 class="toc-part">Part II · The Constraint We Chose</h3>
+<h3 class="toc-part">Part Two · The Constraint We Chose</h3>
 
 <ol class="toc-list">
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">Chapter 3</span>
+    <span class="toc-number" aria-hidden="true">III</span>
     <span class="toc-title"><a href="/essays/on-scarcity/">On Scarcity</a></span>
     <p class="toc-summary">For fifty years capital and talent flowed from the physical to the virtual. The system cost of renewables, self-binding under information asymmetry, and why the science of the 1910s is still unbuilt.</p>
   </li>
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">Chapter 4</span>
+    <span class="toc-number" aria-hidden="true">IV</span>
     <span class="toc-title"><a href="/essays/on-population/">On Population</a></span>
     <p class="toc-summary">Falling fertility is a price phenomenon, not a cultural one. The Malthusian trap did not disappear; it moved from food to the household budget. China as the largest case.</p>
   </li>
 </ol>
 
-<h3 class="toc-part">Part III · Designing the Release</h3>
+<h3 class="toc-part">Part Three · Designing the Release</h3>
 
 <ol class="toc-list">
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">Chapter 5</span>
+    <span class="toc-number" aria-hidden="true">V</span>
     <span class="toc-title"><a href="/essays/on-abundance/">On Abundance</a></span>
     <p class="toc-summary">What follows the lifting of a constraint is not a discount but an explosion of demand. Three centuries of light, the timeline for fusion, and why what sets the pace is connection rather than generation.</p>
   </li>
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">Chapter 6</span>
+    <span class="toc-number" aria-hidden="true">VI</span>
     <span class="toc-title"><a href="/essays/on-capitalism/">On Capitalism</a></span>
     <p class="toc-summary">Allocating income by contribution to tasks breaks in the 2030s. Capital flight as the mechanism of failure, and an update to capitalism that makes every citizen an investor.</p>
   </li>
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">Chapter 7</span>
+    <span class="toc-number" aria-hidden="true">VII</span>
     <span class="toc-title"><a href="/essays/on-use-value/">On Use Value</a></span>
     <p class="toc-summary">Price is only a proxy for use value. When use value becomes measurable, currency becomes data. The release of the axis of expenditure, and the second gate on births.</p>
   </li>
 </ol>
 
-<h3 class="toc-part">Part IV · Where to Stand</h3>
+<h3 class="toc-part">Part Four · Where to Stand</h3>
 
 <ol class="toc-list">
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">Chapter 8</span>
+    <span class="toc-number" aria-hidden="true">VIII</span>
     <span class="toc-title"><a href="/essays/on-clusters/">On Clusters</a></span>
     <p class="toc-summary">The unit is not the country but the stack. The five-layer cake, two techno-blocs, and the regions scored against the equation. The speed of connection can be measured, and the upper right of the map is still empty.</p>
   </li>
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">Chapter 9</span>
+    <span class="toc-number" aria-hidden="true">IX</span>
     <span class="toc-title"><a href="/essays/on-investment/">On Investment</a></span>
     <p class="toc-summary">The upper right is filled by a combination rather than by a place. From that, the order of resource allocation, in five items. The discipline of allocation, and five predictions, each with the condition under which it would be shown wrong.</p>
   </li>
@@ -152,6 +152,6 @@ fortunes turn over in a matter of months.
   © 2026 Arata Hoshino. Published under a Creative Commons Attribution 4.0 International license
   (CC BY 4.0). Quote, translate, excerpt and redistribute it freely, including commercially,
   provided the author and the source are named. Cite as: Arata Hoshino, <cite>The Far Side of the
-  Constraint: A Civilizational Thesis on Energy Abundance, Physical Automation, and the
+  Constraint: A Vision Thesis on Energy Abundance, Physical Automation, and the
   Distribution of Ownership</cite> (2026).
 </div>

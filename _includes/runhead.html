@@ -36,7 +36,7 @@
       {% for essay in essays %}
         {% if essay.number == "6" %}<span class="nav-break" aria-hidden="true"></span>{% endif %}
         <a href="{{ essay.url | relative_url }}" style="--i: {{ forloop.index }}"
-           class="nav-link{% if page.url == essay.url %} is-current{% endif %}">{% if essay.number %}Chapter {{ essay.number }}. {% endif %}{{ essay.title }}</a>
+           class="nav-link{% if page.url == essay.url %} is-current{% endif %}">{% if essay.roman %}{{ essay.roman }}. {% endif %}{{ essay.title }}</a>
       {% endfor %}
       <a href="{{ '/about/' | relative_url }}" style="--i: {{ essays.size | plus: 1 }}"
          class="nav-link{% if page.url == '/about/' %} is-current{% endif %}">About the Author</a>

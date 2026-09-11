@@ -1,8 +1,9 @@
 ---
 title: "On Investment"
 number: "9"
+roman: "IX"
 order: 10
-part: "Part IV. Where to Stand"
+part: "Part Four. Where to Stand"
 summary: "The upper right is filled by a combination rather than by a place. From that, the order of resource allocation, in five items. The discipline of allocation, and five predictions, each with the condition under which it would be shown wrong."
 ---
 
