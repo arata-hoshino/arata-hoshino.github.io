@@ -211,13 +211,14 @@ main {
   font-size: 0.86em;
 }
 
-/* On a wide page the menu is broken where the thesis breaks, before the
-   sixth chapter. On a narrow one it wraps as it will. */
+/* On a page wide enough to carry the first five chapters in one row, the
+   menu is broken where the thesis breaks, before the sixth. Narrower than
+   that the break would leave a line of one, so the list wraps as it will. */
 .nav-break {
   display: none;
 }
 
-@media (min-width: 48rem) {
+@media (min-width: 73rem) {
   .nav-break {
     display: block;
     flex-basis: 100%;
