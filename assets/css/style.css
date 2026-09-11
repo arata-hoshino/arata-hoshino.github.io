@@ -853,12 +853,10 @@ main {
   margin-top: 3.72rem;
 }
 
-/* The contents opens on a rule, set at the faintest grey the site has,
-   with the break opened out to carry it. */
+/* The contents opens on white: the break alone carries it. */
 .prose .toc-heading {
   margin-top: 3.4rem;
   padding-top: 2.7rem;
-  border-top: 1px solid var(--rule-faint);
 }
 
 .epigraph blockquote {
