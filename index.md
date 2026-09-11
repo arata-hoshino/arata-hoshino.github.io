@@ -47,8 +47,8 @@ value, applying the principles of service-dominant logic.
 It then examines, region by region, the subcategories bearing on energy abundance, automation, and
 institutions, and forecasts the composition of the world at the level of clusters. It concludes by
 identifying Texas and the UAE as the candidates for long and sustained success, the Bay Area,
-Shenzhen, and Hangzhou as likely to keep growing, and Japan and Korea as consolidating into
-technological chokepoints.
+Shenzhen, and Hangzhou as likely to keep growing, and Japan, Korea, and Taiwan as consolidating
+into technological chokepoints.
 
 The intended readers are sovereign wealth funds, venture capital, other investors, and founders
 building in deep tech. This thesis is strongly hypothetical in character, analyzing, thinking, and
@@ -108,16 +108,16 @@ fortunes turn over in a matter of months.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">05</span>
     <span class="toc-title"><a href="/essays/on-abundance/">On Abundance</a></span>
-    <p class="toc-summary">What follows the lifting of a constraint is not a discount but an explosion of demand. Three centuries of light, the timeline for fusion, and why the rate limiter is connection rather than generation.</p>
+    <p class="toc-summary">What follows the lifting of a constraint is not a discount but an explosion of demand. Three centuries of light, the timeline for fusion, and why what sets the pace is connection rather than generation.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">06</span>
-    <span class="toc-title"><a href="/essays/on-ownership/">On Ownership</a></span>
+    <span class="toc-title"><a href="/essays/on-capitalism/">On Capitalism</a></span>
     <p class="toc-summary">Allocating income by contribution to tasks breaks in the 2030s. Capital flight as the mechanism of failure, and an update to capitalism that makes every citizen an investor.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">07</span>
-    <span class="toc-title"><a href="/essays/on-value/">On Value</a></span>
+    <span class="toc-title"><a href="/essays/on-use-value/">On Use Value</a></span>
     <p class="toc-summary">Price is only a proxy for use value. When use value becomes measurable, currency becomes data. The release of the axis of expenditure, and the second gate on births.</p>
   </li>
 </ol>

@@ -9,6 +9,11 @@ lang: "en"
 markdown: kramdown
 permalink: pretty
 
+# two chapters were renamed after they had been posted; their old addresses
+# are kept alive rather than broken
+plugins:
+  - jekyll-redirect-from
+
 kramdown:
   input: GFM
   auto_ids: true

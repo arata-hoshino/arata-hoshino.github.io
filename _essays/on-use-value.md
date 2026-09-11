@@ -1,9 +1,11 @@
 ---
-title: "On Value"
+title: "On Use Value"
 number: "7"
 order: 8
 part: "Part III. Designing the Release"
 summary: "Price is only a proxy for use value. When use value becomes measurable, currency becomes data. The release of the axis of expenditure, and the second gate on births."
+redirect_from:
+  - /essays/on-value/
 ---
 
 ## 7.1 Smith's fork
@@ -83,7 +85,7 @@ There is a precedent for this structure on the political side. Yusuke Narita set
 
 And the two directions of Chapter 2 both reach their terminus here. As the convergence cost of arranging matter goes to zero, price loses the thing it rations. As the convergence cost of predictive models goes to zero, price loses its reason to stand proxy. Price acquires two causes of death at once. That is the sense in which the retirement of money is not a metaphor. Currency becomes data.
 
-The entrance to this transition is already visible. Tokens and carbon emission allowances are converging on currency. Both were designed as units of account. But for an AI company constrained by energy, the token is a unit of revenue and at the same time a unit of the scarce resource that has to be rationed. As section 5.6 of Chapter 5 showed, through the decade in which the supply of compute is rate-limited by connection to the grid, this scarcity is real. Anything issued, exchanged and stored as a unit of a scarce resource is performing the function of currency at that point. Emission allowances have the same structure. It is the institutional designer rather than the state who sets the quantity issued, and the market that sets the price.
+The entrance to this transition is already visible. Tokens and carbon emission allowances are converging on currency. Both were designed as units of account. But for an AI company constrained by energy, the token is a unit of revenue and at the same time a unit of the scarce resource that has to be rationed. As section 5.6 of Chapter 5 showed, through the decade in which the supply of compute is held down by connection to the grid, this scarcity is real. Anything issued, exchanged and stored as a unit of a scarce resource is performing the function of currency at that point. Emission allowances have the same structure. It is the institutional designer rather than the state who sets the quantity issued, and the market that sets the price.
 
 It is more accurate to read these not as the first step in money becoming data but as a movement of money back toward a unit of energy. The quantity of energy consumption allowed per head. A world in which that is the unit sits just in front of a world that measures value in data. The two movements proceed at once, and which of them matures first is settled by which becomes cheap first, measurement or trust.
 
@@ -109,7 +111,7 @@ Having a child now competes with a career measured in productivity. What compete
 
 Retire the ruler and the deduction disappears. Not because prices fall, but because what is being measured changes. Distribution opens the gate on the income side; the redefinition of value opens the gate on the side of meaning. The path by which the equation of Chapter 4 starts running backwards is not disposable income alone.
 
-The industrial revolution of the nineteenth century was richer than the fifteenth, and the twenty-first century now is richer than that. This transition too is an increase in richness. Designing how that connects to the richness of an individual, designing the society, thinking about distribution, and thinking about how population moves: all of that has been done in the chapters up to here. What remains is the question of where on this planet, and by whom, the physics of this civilization gets implemented first. On to the chapter of the map.
+The industrial revolution of the nineteenth century was richer than the fifteenth, and the twenty-first century now is richer than that. This transition too is an increase in richness. Designing how that connects to the richness of an individual, designing the society, thinking about distribution, and thinking about how population moves: all of that has been done in the chapters up to here. What remains is the question of where on this planet, and by whom, the physics of this civilization gets implemented first. On to the chapter on clusters.
 
 <div class="apparatus" markdown="1">
 

@@ -8,7 +8,7 @@ summary: "A civilization's competitiveness is the product of institutions, the e
 
 ## 1.1 The reductive thesis
 
-Let me start from the most reductive place available.
+I start from the most reductive place available.
 
 Everything in this world is a conversion of energy. Cars, calculators, computers, aircraft, VR headsets, and the computing systems that drive them. All of it rests on heat turned into electricity, on electricity turned into hydrogen, or on fossil fuels, which are plant carbon formed by photosynthesis and buried. Buckminster Fuller, in *Operating Manual for Spaceship Earth* (1969), treated fossil fuels as a store loaded aboard the ship and warned against a civilization that keeps funding its daily voyage out of that savings account. Sunlight, and the wind that arises from the heat differentials sunlight creates, are the mains supply, generated continuously outside the ship. What I want from Fuller is not the warning but a second implication of the metaphor: that the whole activity of a civilization sits on the ship's energy balance sheet.<sup class="noteref"><a href="#note-1">1</a></sup>
 
@@ -50,13 +50,13 @@ This term decomposes further.
 
 **Large capital K.** Installing autonomy and computing substrate demands capital expenditure of another order. The question is whether the balance accumulated through prior periods can be mobilized at that scale.
 
-Japan and Korea, holding the depth of an advanced-industrial supply chain, sit upstream on T. That is why they cannot be substituted for. The United States holds much of T and holds K, and what it lacks arrives through alliance. China holds much of T and much of K but sits outside the alliance. For a country with neither, two paths remain: accept enormous investment through alliance, or receive a transfer of technology. L can be obtained without building it yourself. It just requires somebody's permission.
+Japan, Korea, and Taiwan, holding between them the depth of an advanced-industrial supply chain, sit upstream on T. That is why they cannot be substituted for. The United States holds much of T and holds K, and what it lacks arrives through alliance. China holds much of T and much of K but sits outside the alliance. For a country with neither, two paths remain: accept enormous investment through alliance, or receive a transfer of technology. L can be obtained without building it yourself. It just requires somebody's permission.
 
 ### What this equation settles and what it does not
 
-Let me be exact about scope. What this equation settles is not wealth as a stock but the capacity to build as a flow.
+To be exact about the scope: what this equation settles is not wealth as a stock but the capacity to build as a flow.
 
-The set of countries that are wealthy now and the set that can build now are different sets. The first is running on inventory laid down in a period when all three were present. A society with institutions but without abundance is wealthy and cannot build. The next section watches the window open and close over a single country.
+The set of countries that are wealthy now and the set that can build now are different sets. The first is running on inventory laid down in a period when all three were present. A society with institutions but without abundance may be wealthy, and still cannot build. The next section watches the window open and close over a single country.
 
 What the absence of abundance takes away is not prosperity in general but the option to build. Steel mills, chemical plants, gigawatt-scale computing substrate, and cities themselves fall out of the set of things that society can choose. And for the coming decades what the world needs is the building, not the inventory.
 
@@ -66,7 +66,7 @@ How much of this structure belongs to prior literature is set out in "Objections
 
 ## 1.3 Abundance and capital expenditure: what a civilization can build from nothing
 
-Let me put the previous section's equation against history. The question is not whether an existing factory turns a profit but the capacity to create stock from scratch.
+Now set the previous section's equation against history. The question is not whether an existing factory turns a profit but the capacity to create stock from scratch.
 
 Two societies have shown that capacity in extreme form: Britain in the 1840s and the UAE today. On the face of it they share nothing. Look at the structure and the same three are present. Cheap energy with no realistic prospect of exhaustion. Cheap labor input. And institutions that preserve returns and call in people and capital.
 
@@ -106,7 +106,7 @@ What is settled is not the thickness of the inventory but what can be built from
 
 But the capacity to build does not stop there. What can be built determines what becomes cheap. The price of what did not become cheap becomes the household's constraint. That order does not run backwards.
 
-Let me settle one thing about how to read this thesis. Stagnation, rising prices, the failure of distribution, and falling births have each been argued as separate problems. This thesis reads them as multiple symptoms produced by one constraint. The prescription is therefore not one per symptom but one in total: fill whichever of the three terms is missing. Symptom-by-symptom measures did not fail because they were badly designed. They failed because we were firing at symptoms in the belief that they were causes.
+A note here on how to read this thesis. Stagnation, rising prices, the failure of distribution, and falling births have each been argued as separate problems. This thesis reads them as multiple symptoms produced by one constraint. The prescription is therefore not one per symptom but one in total: fill whichever of the three terms is missing. Symptom-by-symptom measures did not fail because they were badly designed. They failed because we were firing at symptoms in the belief that they were causes.
 
 Births, for which a thread was laid in the previous section, are the slowest-moving of those symptoms. That is why they bite last and are hardest to take back. This thesis gives population a large place not because raising it is the objective, but because whether the constraint has come off shows up there last of all.
 
@@ -120,7 +120,7 @@ From here I follow, in order, where this system jams and what happens when the j
 1. Spaceship Earth. R. Buckminster Fuller, *Operating Manual for Spaceship Earth*, Southern Illinois University Press, 1969. The passage in question treats fossil fuels as a store loaded aboard the ship and argues the danger of funding the daily voyage out of that savings.
 {: #note-1 .note}
 
-2. The wattage of a human body. Two thousand kilocalories a day is about 97 watts per second. This is total energy expenditure, not basal metabolic rate. BMR is roughly 1,700 kcal (about 81 W) for a 70 kg man and roughly 1,300 kcal (about 63 W) for a 57 kg woman (FAO/WHO/UNU, *Human Energy Requirements*, 2004). The brain is about 2 percent of body mass and accounts for 20 percent of whole-body oxygen consumption at rest, giving a metabolic rate of roughly 20 watts (Clarke & Sokoloff, "Circulation and Energy Metabolism of the Brain," in *Basic Neurochemistry*, 6th ed., 1999).
+2. The wattage of a human body. Two thousand kilocalories a day averages out to about 97 watts. This is total energy expenditure, not basal metabolic rate. BMR is roughly 1,700 kcal (about 81 W) for a 70 kg man and roughly 1,300 kcal (about 63 W) for a 57 kg woman (FAO/WHO/UNU, *Human Energy Requirements*, 2004). The brain is about 2 percent of body mass and accounts for 20 percent of whole-body oxygen consumption at rest, giving a metabolic rate of roughly 20 watts (Clarke & Sokoloff, "Circulation and Energy Metabolism of the Brain," in *Basic Neurochemistry*, 6th ed., 1999).
 {: #note-2 .note}
 
 3. The entropy law and the economic process. Nicholas Georgescu-Roegen, *The Entropy Law and the Economic Process*, Harvard University Press, 1971.

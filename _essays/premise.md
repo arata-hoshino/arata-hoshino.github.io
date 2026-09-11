@@ -26,17 +26,17 @@ Energy and population, which the advanced economies have given up on as fixed, c
 
 ## Two puzzles
 
-Beyond that, let me set down the two questions that made me write.
+Beyond that, there are two questions that made me write.
 
 At the start of the industrial revolution, if you had asked people what they wanted, they would have said a faster carriage. What arrived was the railway, and then the automobile. Something nobody ordered delivered what everybody wanted.<sup class="noteref"><a href="#note-4">4</a></sup> What is the nature of that substitution?
 
-And there is the humanoid robot that appeared in almost every account of the future written in the 1980s. Humanoids are in fact arriving now, but not for the shopping errand. The value the shopping robot was supposed to deliver, which is having what you want appear at your door, came instead from Amazon, from rearranging warehousing, logistics, and the act of ordering. Small robots may take part at the last meter of a delivery, but none of them is a machine that walks to the store. The imagined form never arrived. The value did. What is the nature of that substitution?
+And there is the humanoid robot that appeared in almost every account of the future written in the 1980s. Humanoids are in fact arriving now, but not for the shopping errand. The value the shopping robot was supposed to deliver, which is having what you want appear at your door, came instead from Amazon, from rearranging warehousing, logistics, and the act of ordering. Small robots may take part at the last meter of a delivery, but none of them is a machine that walks to the store. The imagined form never arrived. The value did. Why is it always the form that gets replaced?
 
 The two puzzles are one puzzle. In both, the value stayed and the thing that had been delivering it was swapped out. What people wanted was not a carriage but to go farther, faster. Not a robot, but to have what they wanted appear at the door. A person's goal always sits on the side of the value, never on the side of the means. So: what stays, and what is exchanged? Answer that and the question of what to invest in is half solved. Follow the question all the way down and it runs in one line from the causes of falling fertility through the structural limits of renewables, the trajectory of the Chinese economy, the next form of capitalism, and the end of money. This thesis is an attempt to draw that whole line.
 
 ## This is not a book about AI
 
-Let me say one thing in advance. In the discourse of 2026 the phrase "energy abundance" circulates almost entirely within the context of AI. How to supply data centers with power; how to thicken the bottom layer of what Jensen Huang calls the five-layer cake. His five layers stack in the order of energy, chips, infrastructure, models, and applications. That the bottom layer is energy is the same claim this thesis makes.<sup class="noteref"><a href="#note-5">5</a></sup>
+One thing in advance. In the discourse of 2026 the phrase "energy abundance" circulates almost entirely within the context of AI. How to supply data centers with power; how to thicken the bottom layer of what Jensen Huang calls the five-layer cake. His five layers stack in the order of energy, chips, infrastructure, models, and applications. That the bottom layer is energy is the same claim this thesis makes.<sup class="noteref"><a href="#note-5">5</a></sup>
 
 This thesis does not belong to that context. The power problem of data centers is merely the newest instance of its subject. What this thesis treats is a far larger and far older structure: that the abundance of energy has governed the skeleton of civilization since the industrial revolution, which is to say what can be built from nothing, whether population grows, how wealth is distributed, and what value is measured by. Interest in that structure precedes the AI boom and will survive it. AI is the current name of a megatrend two centuries old.
 
@@ -48,7 +48,7 @@ In 1798 Malthus wrote that there is a ceiling on the number of people this islan
 
 Malthus's logic was correct about the world he was describing. In an economy running on that year's sunlight alone, output is bound to land. What broke was not the logic. It was the premise. Coal is the savings of past sunlight, and drawing on it removed the constraint of land on which the entire argument had been resting.
 
-My own family watched the same thing happen elsewhere. In the last years of the Tokugawa shogunate, while the intellectuals of continental Asia stayed absorbed in the political argument of the moment, my great-great-grandfather's generation gave practical priority to installing the most advanced systems of the day, which were the steam engine and the telegraph. And they learned this: once you install them, the questions worth arguing about, and the situation itself, change out from under you. The dispute between expelling the barbarians and opening the country did not get resolved. It disappeared as a question, somewhere past the point where the black ships' engines had been taken apart, the telegraph lines strung, and the railways laid.
+My own family watched the same thing happen elsewhere. In the last years of the Tokugawa shogunate, while the argument was still running at the level of politics, my great-great-grandfather's generation gave practical priority to installing the most advanced systems of the day, which were the steam engine and the telegraph. And they learned this: once you install them, the questions worth arguing about, and the situation itself, change out from under you. The dispute between expelling the barbarians and opening the country did not get resolved. It disappeared as a question, somewhere past the point where the black ships' engines had been taken apart, the telegraph lines strung, and the railways laid.
 
 You do not win the argument about institutions. You replace the premises of the argument. That sense of order is the method running through this thesis, and it is also the essence of what is happening now in the Gulf.
 
@@ -64,7 +64,7 @@ A coordinate system is not asked whether it is right or wrong. It is asked only 
 
 ## On a hypothesis that cannot be proved
 
-Finally, let me state in advance what this thesis is ultimately claiming.
+Finally, here is what this thesis ultimately claims.
 
 Consider a society in which energy is supplied at a level where price need not be counted, in which every process is automated, and in which institutions are correctly designed on top of that. The structural constraint that has bound the conception of business models and of large-scale investment comes off. The wealth that is created is distributed to everyone as a stake held from birth, and by the age of eighteen a person is a capitalist without ever having worked. At that point what an individual does with their time changes. Neither productivity nor contribution to GDP is the highest proposition; making someone else happy is, and one can pour everything into the creation and exchange of value that serves it. That becomes possible because the exchange of value is itself tracked in data.
 

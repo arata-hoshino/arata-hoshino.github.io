@@ -17,6 +17,7 @@ none of them things worth doing by hand a second time:
   * numbers the notes as Chicago numbers them, and anchors each
   * gathers Notes and Sources and Objections and Limits into the apparatus,
     behind the rule that closes the body
+  * sets a chapter's opening quotation as an epigraph
   * marks the figure slots, and sets the equations apart
 """
 
@@ -33,8 +34,8 @@ CHAPTERS = {
     '04_Chapter3': 'on-scarcity',
     '05_Chapter4': 'on-population',
     '06_Chapter5': 'on-abundance',
-    '07_Chapter6': 'on-ownership',
-    '08_Chapter7': 'on-value',
+    '07_Chapter6': 'on-capitalism',
+    '08_Chapter7': 'on-use-value',
     '09_Chapter8': 'on-clusters',
     '10_Chapter9': 'on-investment',
 }
@@ -159,6 +160,23 @@ def figures(body):
     return FIGURE.sub(lambda m: one(m.group(0)), body)
 
 
+EPIGRAPH = re.compile(r'\A> "([^\n]+)"\n> [\u2015\u2014\u2013-] ?([^\n]+)\n')
+
+
+def epigraph(body):
+    """A quotation standing at the head of a chapter is set as one."""
+    def one(m):
+        quote, whom = m.group(1), m.group(2).strip()
+        whom = re.sub(r'\*([^*]+)\*', r'<cite>\1</cite>', whom)
+        return (
+            '<figure class="epigraph">\n'
+            '  <blockquote><p>\u201c%s\u201d</p></blockquote>\n'
+            '  <figcaption>\u2014 %s</figcaption>\n'
+            '</figure>\n' % (quote, whom)
+        )
+    return EPIGRAPH.sub(one, body, count=1)
+
+
 EQUATION = re.compile(r'^> \*\*(.+?)\*\*\s*$', re.M)
 
 
@@ -226,6 +244,7 @@ def convert(path):
         raise SystemExit('%s: no Notes and Sources' % stem)
     body, app = text[:m.start()], text[m.start():]
 
+    body = epigraph(body)
     body = figures(body)
     body = equations(body)
     body = references(body)

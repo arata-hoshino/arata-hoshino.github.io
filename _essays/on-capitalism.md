@@ -1,9 +1,11 @@
 ---
-title: "On Ownership"
+title: "On Capitalism"
 number: "6"
 order: 7
 part: "Part III. Designing the Release"
 summary: "Allocating income by contribution to tasks breaks in the 2030s. Capital flight as the mechanism of failure, and an update to capitalism that makes every citizen an investor."
+redirect_from:
+  - /essays/on-ownership/
 ---
 
 If what you have read so far has looked like a work of optimism, this chapter should correct that. I am optimistic about supply and pessimistic about distribution. To put it precisely, I predict that the redistribution of wealth will fail once, somewhere in the 2030s. And the first half of that prediction, the leftward turn in politics, has already begun.
@@ -26,7 +28,7 @@ This is not a prophecy about the 2030s. It is an observation of the 2020s.
 
 Brynjolfsson and colleagues at Stanford have dug a decisive fact out of American payroll data.<sup class="noteref"><a href="#note-3">3</a></sup> In the occupations most exposed to AI, employment of young workers aged 22 to 25 fell in relative terms by 13 percent on the August 2025 version and 16 percent on the November version, while employment of experienced workers held steady. The fall came through a halt in hiring rather than through layoffs, and it is concentrated in occupations where AI substitutes for people rather than augmenting them. The tracking indicator had widened to 19 percent as of June 2026. I state plainly that the authors themselves treat this as correlation rather than causation, and that the numbers move as the data is updated. The industry estimate that graduate hiring at the large technology firms fell about 25 percent between 2023 and 2024, and the economic index Anthropic publishes, draw the same picture.<sup class="noteref"><a href="#note-3">3</a></sup> The conduit is closing from the entrance, from the young end. As Chapter 4 showed, youth unemployment and the collapse of births are already chained together in China; the AI version of that mechanism is quietly starting up at the entrance to the advanced economies.
 
-In fairness, let me set the contrary observation beside it. Anthropic's economic index reports that in conversational use, uses that augment people (52 percent) slightly outnumber uses that replace them (45 percent).<sup class="noteref"><a href="#note-4">4</a></sup> Use itself is skewed toward high-income countries and high-end knowledge work, and the speed gains are largest on tasks at the level of a university education. At the same time, in enterprise API use, coding tasks that began as collaboration are reported to be moving toward more fully automated workflows.
+In fairness, the contrary observation belongs beside it. Anthropic's economic index reports that in conversational use, uses that augment people (52 percent) slightly outnumber uses that replace them (45 percent).<sup class="noteref"><a href="#note-4">4</a></sup> Use itself is skewed toward high-income countries and high-end knowledge work, and the speed gains are largest on tasks at the level of a university education. At the same time, in enterprise API use, coding tasks that began as collaboration are reported to be moving toward more fully automated workflows.
 
 So the present answer to the question of whether AI destroys high-skill work first or amplifies it first is: both. Which is exactly why the question has to be posed differently. Not how many people AI has made redundant. Whether the entry-level jobs survive, who owns the output, and whether the fruit of productivity accrues to wages or to capital. This thesis takes the third of those, and the third is settled long before the employment statistics deliver an answer.
 
@@ -46,7 +48,7 @@ Here I can speak from experimental results rather than from conviction.
 
 The strongest answer to this weakness is not a higher rate but international coordination. The report Gabriel Zucman submitted to the G20 in 2024 proposed a coordinated standard imposing on the world's billionaires a minimum effective tax rate equal to 2 percent of holdings. Fully enforced, the estimate is 200 to 250 billion dollars a year; with twenty percent avoidance and evasion built in, roughly 193 billion.<sup class="noteref"><a href="#note-7">7</a></sup> In the Rio declaration of the same year, the G20 stated its intention to cooperate in securing the effective taxation of the ultra-wealthy.
 
-This is not an institutional success. It sits at the stage of a proposal and a diplomatic agreement. But as an argument it is exact. Zucman's proposal does not try to block the movement of capital; it tries to build a common floor that covers the destinations as well. If what defeated single-country taxation was mobility, then internationalizing the floor is a coherent response. It is not a solution, though. It moves the question somewhere else. Who values the assets? Which country enforces? How long can it be held politically? The wealth tax has not risen from the graveyard; it has reappeared in another form, as an institutional experiment that crosses borders. And what matters for the argument of this thesis is that whichever way this experiment falls, the need to design a widening of ownership itself is not reduced.
+This is not an institutional success. It sits at the stage of a proposal and a diplomatic agreement. But as an argument it is exact. Zucman's proposal tries to build a common floor that covers the destinations as well, instead of blocking the movement of capital. If what defeated single-country taxation was mobility, then internationalizing the floor is a coherent response. What it does, though, is move the question somewhere else. Who values the assets? Which country enforces? How long can it be held politically? The wealth tax has not risen from the graveyard; it has reappeared in another form, as an institutional experiment that crosses borders. And what matters for the argument of this thesis is that whichever way this experiment falls, the need to design a widening of ownership itself is not reduced.
 
 **The limits of cash transfers.** On UBI we now have the best experimental data there is. The unconditional cash study run by OpenResearch, funded by Sam Altman, gave a thousand people a thousand dollars a month for three years. The results: hours worked down 1.3 a week, the employment rate down about 2 percent, no measurable improvement in health indicators. The Finnish experiment likewise raised subjective wellbeing while its employment effect was close to zero.<sup class="noteref"><a href="#note-8">8</a></sup> Cash buys autonomy and immediate peace of mind. On its own it changes neither the trajectory of a life nor the state of a body. A check does not move the structure. Distribution policy arrives at the same conclusion this thesis reached about family policy in Chapter 4.
 
@@ -93,7 +95,7 @@ One question remains: who, or what, generates the energy that runs the AI. The u
 
 ## 6.6 The four head-counts come back
 
-Before closing this chapter, let me answer the question posed in section 5.7 of Chapter 5.
+Before closing this chapter, back to the question posed in section 5.7 of Chapter 5.
 
 There I wrote that an economy requires four head-counts: labor supply, demand, risk-takers, taxpayers. And that automation can route around only labor supply, the other three being population itself. It is this asymmetry that keeps the valley a valley in a phase when supply alone grows exponentially.
 
