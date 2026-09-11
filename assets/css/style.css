@@ -211,8 +211,9 @@ main {
   font-size: 0.86em;
 }
 
-/* On a wide page the menu is broken where the thesis breaks, before the
-   sixth chapter. On a narrow one it wraps as it will. */
+/* On a wide page the menu is broken where the thesis turns from the
+   diagnosis to the future, before the fifth chapter. On a narrow one it
+   wraps as it will. */
 .nav-break {
   display: none;
 }
