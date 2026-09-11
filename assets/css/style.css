@@ -480,7 +480,8 @@ main {
 .page-title {
   margin: 0 0 0.6em;
   color: var(--ink);
-  font-size: clamp(2rem, 4.4vw, 2.95rem);
+  /* 28px on a phone, rising with the page to 50 on a desk */
+  font-size: clamp(1.75rem, 4.4vw, 2.95rem);
   /* 800: Lora's axis stops at 700, so this resolves to 700 */
   font-weight: 800;
   line-height: 1.15;
