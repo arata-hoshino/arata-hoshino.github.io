@@ -2,7 +2,7 @@
 layout: home
 title: "The Far Side of the Constraint"
 heading: "The Far Side of the Constraint"
-subtitle: "A Vision Thesis on Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
+subtitle: "A Civilizational Thesis on Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
 authors:
   - name: "Arata Hoshino"
     role: "UNITED ARAB EMIRATES, Aug 2026"
@@ -152,6 +152,6 @@ fortunes turn over in a matter of months.
   © 2026 Arata Hoshino. Published under a Creative Commons Attribution 4.0 International license
   (CC BY 4.0). Quote, translate, excerpt and redistribute it freely, including commercially,
   provided the author and the source are named. Cite as: Arata Hoshino, <cite>The Far Side of the
-  Constraint: A Vision Thesis on Energy Abundance, Physical Automation, and the
+  Constraint: A Civilizational Thesis on Energy Abundance, Physical Automation, and the
   Distribution of Ownership</cite> (2026).
 </div>
