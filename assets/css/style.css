@@ -733,10 +733,11 @@ main {
   font-weight: inherit;
 }
 
-/* The rule that closes the body of a chapter and opens its apparatus:
-   the notes and the objections. It is meant to be felt as a break. */
+/* The rule that opens each part of the apparatus. Inside the apparatus it
+   is a divider rather than a break, so it stands close to the section it
+   closes and keeps its air for the head below it. */
 .prose .rule-major {
-  margin: clamp(8rem, 17vw, 13rem) 0 clamp(3.5rem, 7vw, 5rem);
+  margin: clamp(2.5rem, 5vw, 3.5rem) 0 clamp(3.5rem, 7vw, 5rem);
 }
 
 .prose .rule-major + h2 {
@@ -744,7 +745,12 @@ main {
 }
 
 /* The apparatus is set below the pager, so the rule that opens it stands at
-   the head of its own block and needs no space above it of its own. */
+   the head of its own block and needs no space above it of its own. The
+   block itself stands half again as far from the pager as prose would. */
+.apparatus-block {
+  margin-top: clamp(4.5rem, 10.5vw, 6.75rem);
+}
+
 .apparatus-block .apparatus > .rule-major:first-child {
   margin-top: 0;
 }
