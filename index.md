@@ -5,7 +5,7 @@ heading: "The Far Side of the Constraint"
 subtitle: "A Civilizational Thesis on Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
 authors:
   - name: "Arata Hoshino"
-    role: "United Arab Emirates, Aug 2026"
+    role: "UNITED ARAB EMIRATES, Aug 2026"
 description: "A thesis on the one structural constraint behind stagnation, falling births, and artificial intelligence running into a wall of electricity — and on the civilization that lies on the far side of it."
 ---
 
