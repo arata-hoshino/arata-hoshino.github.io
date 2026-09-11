@@ -761,7 +761,7 @@ main {
 .author-role {
   margin: 0;
   font-family: var(--stamp);
-  font-size: 0.88em;
+  font-size: 0.845em;
   letter-spacing: 0.14em;
   text-transform: uppercase;
 }
@@ -775,7 +775,7 @@ main {
   /* the leading rounds in steps, so the last of the gap is set here */
   margin-top: -0.026rem;
   color: var(--muted);
-  font-size: 0.853em;   /* 14.5px against the name's 15 */
+  font-size: 0.82em;   /* 13.9px against the name's 14.4 */
   font-weight: 300;
   /* the lighter, smaller line carries a little more air than the name */
   letter-spacing: 0.16em;
