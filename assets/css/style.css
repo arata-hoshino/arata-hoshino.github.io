@@ -743,6 +743,12 @@ main {
   margin-top: 0;
 }
 
+/* The apparatus is set below the pager, so the rule that opens it stands at
+   the head of its own block and needs no space above it of its own. */
+.apparatus-block .apparatus > .rule-major:first-child {
+  margin-top: 0;
+}
+
 .prose mark {
   background: var(--mark);
   color: var(--ink);
