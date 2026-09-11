@@ -1112,12 +1112,13 @@ main {
 
 /* ------------------------------------------------------------ pager */
 
+/* No rule above it: the pager stands on white, between the body and the
+   rule that opens the apparatus. */
 .pager {
   display: flex;
   gap: 1.5em;
   margin: clamp(4rem, 9vw, 6rem) 0 0;
   padding-top: 1.5em;
-  border-top: 1px solid var(--rule);
   font-size: 0.78em;
 }
 
