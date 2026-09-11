@@ -76,12 +76,12 @@ fortunes turn over in a matter of months.
 
 <ol class="toc-list">
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">01</span>
+    <span class="toc-number" aria-hidden="true">Chapter 1</span>
     <span class="toc-title"><a href="/essays/on-building/">On Building</a></span>
     <p class="toc-summary">A civilization's competitiveness is the product of institutions, the effective abundance of energy, and labor input. What it settles is not wealth but what can be built. Britain in the 1840s, the UAE today.</p>
   </li>
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">02</span>
+    <span class="toc-number" aria-hidden="true">Chapter 2</span>
     <span class="toc-title"><a href="/essays/on-convergence/">On Convergence</a></span>
     <p class="toc-summary">The efficiency of civilization is two convergence costs, matter configuration and predictive models, both falling toward zero. They compete over the same problem, and the cheaper side wins. The equation of national power is rewritten.</p>
   </li>
@@ -91,12 +91,12 @@ fortunes turn over in a matter of months.
 
 <ol class="toc-list">
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">03</span>
+    <span class="toc-number" aria-hidden="true">Chapter 3</span>
     <span class="toc-title"><a href="/essays/on-scarcity/">On Scarcity</a></span>
     <p class="toc-summary">For fifty years capital and talent flowed from the physical to the virtual. The system cost of renewables, self-binding under information asymmetry, and why the science of the 1910s is still unbuilt.</p>
   </li>
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">04</span>
+    <span class="toc-number" aria-hidden="true">Chapter 4</span>
     <span class="toc-title"><a href="/essays/on-population/">On Population</a></span>
     <p class="toc-summary">Falling fertility is a price phenomenon, not a cultural one. The Malthusian trap did not disappear; it moved from food to the household budget. China as the largest case.</p>
   </li>
@@ -106,17 +106,17 @@ fortunes turn over in a matter of months.
 
 <ol class="toc-list">
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">05</span>
+    <span class="toc-number" aria-hidden="true">Chapter 5</span>
     <span class="toc-title"><a href="/essays/on-abundance/">On Abundance</a></span>
     <p class="toc-summary">What follows the lifting of a constraint is not a discount but an explosion of demand. Three centuries of light, the timeline for fusion, and why what sets the pace is connection rather than generation.</p>
   </li>
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">06</span>
+    <span class="toc-number" aria-hidden="true">Chapter 6</span>
     <span class="toc-title"><a href="/essays/on-capitalism/">On Capitalism</a></span>
     <p class="toc-summary">Allocating income by contribution to tasks breaks in the 2030s. Capital flight as the mechanism of failure, and an update to capitalism that makes every citizen an investor.</p>
   </li>
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">07</span>
+    <span class="toc-number" aria-hidden="true">Chapter 7</span>
     <span class="toc-title"><a href="/essays/on-use-value/">On Use Value</a></span>
     <p class="toc-summary">Price is only a proxy for use value. When use value becomes measurable, currency becomes data. The release of the axis of expenditure, and the second gate on births.</p>
   </li>
@@ -126,12 +126,12 @@ fortunes turn over in a matter of months.
 
 <ol class="toc-list">
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">08</span>
+    <span class="toc-number" aria-hidden="true">Chapter 8</span>
     <span class="toc-title"><a href="/essays/on-clusters/">On Clusters</a></span>
     <p class="toc-summary">The unit is not the country but the stack. The five-layer cake, two techno-blocs, and the regions scored against the equation. The upper right of the map is still empty.</p>
   </li>
   <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">09</span>
+    <span class="toc-number" aria-hidden="true">Chapter 9</span>
     <span class="toc-title"><a href="/essays/on-investment/">On Investment</a></span>
     <p class="toc-summary">Five predictions, set out as a table, each with the condition under which it would be shown wrong.</p>
   </li>

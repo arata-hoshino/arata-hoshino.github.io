@@ -919,7 +919,7 @@ main {
 
 .prose .toc-item {
   display: grid;
-  grid-template-columns: 3.25em minmax(0, 1fr);
+  grid-template-columns: 5.6em minmax(0, 1fr);
   align-items: baseline;
   gap: 0 1.5em;
   margin: 0 0 clamp(0.813rem, 1.634vw, 1.071rem);
@@ -1172,7 +1172,8 @@ main {
 
 @media (max-width: 34rem) {
   .prose .toc-item {
-    grid-template-columns: 2.75em minmax(0, 1fr);
+    grid-template-columns: 5.2em minmax(0, 1fr);
+    gap: 0 1em;
   }
 
   /* the page ends at the footer rather than on a long run-out below it */
