@@ -944,7 +944,8 @@ main {
 
 .toc-number {
   color: var(--navy);
-  font-size: 1em;
+  /* the numeral marks the row; it does not compete with the title */
+  font-size: 0.88em;
 }
 
 .toc-title {
