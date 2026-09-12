@@ -728,11 +728,16 @@ main {
 }
 
 /* Inside the apparatus everything is set at one colour, the heads with it:
-   it is reference, not argument, and the weight alone tells them apart. */
+   it is reference, not argument, and the weight alone tells them apart.
+   The heads are set smaller than those of the body for the same reason. */
 .prose .apparatus strong,
 .prose .apparatus b,
 .prose .apparatus h2 {
   color: inherit;
+}
+
+.prose .apparatus h2 {
+  font-size: 1.2em;
 }
 
 .prose .apparatus strong,
