@@ -724,7 +724,7 @@ main {
    down from the body they belong to. */
 .prose .apparatus {
   color: var(--muted);
-  font-size: 0.9em;
+  font-size: 0.85em;
 }
 
 /* Inside the apparatus everything is set at one colour, the heads with it:
@@ -737,7 +737,8 @@ main {
 }
 
 .prose .apparatus h2 {
-  font-size: 1.2em;
+  /* held where it was when the text around it came down a step */
+  font-size: 1.27em;
 }
 
 .prose .apparatus strong,
