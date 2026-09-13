@@ -37,9 +37,7 @@ Diamond argued that crops and domesticated animals spread only along latitudes, 
 
 The relative retreat of Europe, Russia and the Eurasian interior, the running out of breath in Latin America, and the slowness of the interior of Africa to take off, are one structure appearing in different places. In the language of Chapter 1, what the two shores of the Atlantic hold is inventory; where building is happening is the rim of the Indo-Pacific.
 
-## 8.3 Migration is urbanization across a border
-
-Migration is the movement of people into a cluster across a border, and in substance it is urbanization.
+## 8.3 Migration is substantially urbanization across a border
 
 Nobody calls a person who moves from Ohio to the San Francisco Bay Area a migrant. Move from Nigeria to the Bay Area and you are one. The destination is the same cluster and the gradient being climbed is the same. The only difference is whether a line was crossed on the way.
 
@@ -62,7 +60,6 @@ After several centuries of this, that the world's people might sit inside a few 
 The seven chapters to here have been about when things happen. This chapter takes up where. For that, take the equation derived in Chapter 1 down to the grain at which a place can actually be observed.
 
 <p class="equation">Civilizational competitiveness C ≈ Institutions I × Effective energy abundance E × Labor input L</p>
->
 <p class="equation">L ≈ Deep tech T × Large capital K</p>
 None of these terms exists as a national average. The number called the industrial electricity price of the United States is the result of averaging Texas and California, and it is of no use in either siting decision. Whether land can be assembled is settled at the level of the county and the municipality. Institutions acquire meaning only once you descend to state law and municipal permitting. What attracts a genius is not a nationality but a density: the density in which, if you get up in the morning and walk to a cafe, you meet a founder and an investor you have never met. So what has to be looked at is not three terms per country. It is the decomposed terms, cluster by cluster.
 

@@ -12,7 +12,6 @@ summary: "The upper right is filled by a combination rather than by a place. Fro
 Live in the Gulf and your sense of which terms are variables and which are fixed breaks down. Energy and fertility, which the advanced economies hold fixed, are variables here. Talent, which they treat as a variable that money sets, is the most fixed of the three. That inversion was the starting point.
 
 <p class="equation">Civilizational competitiveness C ≈ Institutions I × Effective energy abundance E × Labor input L</p>
->
 <p class="equation">L ≈ Deep tech T × Large capital K</p>
 If any one of the three is near zero, the output is near zero however high the others are. What the equation settles is not wealth but the capacity to build. E is measured by three quantities observable in advance: the effective price of industrial electricity, the reliability of supply, and the lead time for a new grid connection.<sup class="noteref"><a href="#note-1">1</a></sup>
 

@@ -1064,7 +1064,16 @@ main {
   line-height: 1.5;
 }
 
-/* The equations: set apart from the running text, on the tint. */
+/* The equations: set apart from the running text, on the tint. Where two
+   stand together they are one statement, and sit close. */
+.prose .equation:has(+ .equation) {
+  margin-bottom: 1.56em;
+}
+
+.prose .equation + .equation {
+  margin-top: 1.56em;
+}
+
 .prose .equation {
   margin: 1.8em 0;
   padding: 1em 1.25em;

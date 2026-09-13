@@ -210,7 +210,11 @@ def equations(body):
         # a quotation is set apart by the rule beside it and by its italic,
         # never by weight: the draft's bold comes off here
         return '> ' + inner
-    return EQUATION.sub(one, body)
+    body = EQUATION.sub(one, body)
+    # the draft separates a pair of relations with a bare quote mark; once
+    # both are set as equations it would render as an empty blockquote
+    return re.sub(r'(<p class="equation">[^\n]*</p>)\n>[ \t]*\n(?=<p class="equation">)',
+                  r'\1\n', body)
 
 
 def references(body):
