@@ -26,7 +26,7 @@ The comparison is not strictly measuring the same thing. The numerator is the pr
 One term of this thesis is settled here. Energy means a way of getting work done without spending human hands. Buying that with coal and buying it with machines are the same purchase. But a machine without electricity does not run, and energy without machines still needs hands, so the next section multiplies the two as separate terms.
 
 <figure class="figure">
-  <img src="/assets/figures/figure-1-1.png" alt="Figure 1-1. Energy moved per person: how many human bodies. One division is 100 watts of continuous output, one person. From roughly 300 watts for hunter-gatherers to 8,767 watts for the United States, almost all of the twelve-thousand-year difference has arisen since 1800. Values before 1800 are estimates to the nearest order of magnitude .">
+  <img src="/assets/figures/fig1-1_energy_per_capita.png" alt="Figure 1-1. Energy moved per person: how many human bodies. One division is 100 watts of continuous output, one person. From roughly 300 watts for hunter-gatherers to 8,767 watts for the United States, almost all of the twelve-thousand-year difference has arisen since 1800. Values before 1800 are estimates to the nearest order of magnitude .">
 </figure>
 
 ## 1.2 What determines a civilization's competitiveness
@@ -44,12 +44,12 @@ If any one of the three is near zero, the output is near zero however high the o
 
 This term decomposes further.
 
-<p class="equation">L ≈ Technology access T × Large capital K</p>
-**Technology access T.** Whether chokepoint technologies are within reach.
+<p class="equation">L ≈ Deep tech T × Large capital K</p>
+**Deep tech T.** Whether the chokepoint technologies are held, or whoever holds them is within reach.
 
 **Large capital K.** Installing autonomy and computing substrate demands capital expenditure of another order. The question is whether the balance accumulated through prior periods can be mobilized at that scale.
 
-Japan, Korea, and Taiwan, holding between them the depth of an advanced-industrial supply chain, sit upstream on T. That is why they cannot be substituted for. The United States holds much of T and holds K, and what it lacks arrives through alliance. China holds much of T and much of K but sits outside the alliance. For a country with neither, two paths remain: accept enormous investment through alliance, or receive a transfer of technology. L can be obtained without building it yourself. It just requires somebody's permission.
+Japan-Korea-Taiwan, holding between them the depth of an advanced-industrial supply chain, sit upstream on T. That is why they cannot be substituted for. The United States holds much of T and holds K, and what it lacks arrives through alliance. China holds much of T and much of K but sits outside the alliance. For a country with neither, two paths remain: accept enormous investment through alliance, or receive a transfer of technology. L can be obtained without building it yourself. It just requires somebody's permission.
 
 **What this equation settles and what it does not.** What this equation settles is not wealth as a stock but the capacity to build as a flow.
 
@@ -57,7 +57,7 @@ The set of countries that are wealthy now and the set that can build now are dif
 
 What the absence of abundance takes away is not prosperity in general but the option to build. Steel mills, chemical plants, gigawatt-scale computing substrate, and cities themselves fall out of the set of things that society can choose. And for the coming decades what the world needs is the building, not the inventory.
 
-Options, moreover, are not considered and rejected. They stop being proposed. Where it is known that a premise will not move, no business plan is written on that premise, nothing reaches an investment committee, and nothing is conceived in the first place. Let a constraint persist long enough and the inside of the constraint starts to look like the whole world. The range of ventures we currently feel to be realistic, and our common sense about the scale of investment, were both built on the assumption that the three terms sit where they now sit. What this equation binds is not only what can be built. It is what can be conceived.
+Options, moreover, are not considered and rejected. They stop being proposed. Where a premise is known to be fixed rather than variable, no business plan is written on that premise, nothing reaches an investment committee, and nothing is conceived in the first place. Let a constraint persist long enough and the inside of the constraint starts to look like the whole world. The range of ventures we currently feel to be realistic, and our common sense about the scale of investment, were both built on the assumption that the three terms sit where they now sit. What this equation binds is not only what can be built. It is what can be conceived.
 
 How much of this structure belongs to prior literature is set out in "Objections and Limits" at the end of this chapter.
 
@@ -84,7 +84,7 @@ Windows do not only open. They close.
 **Japan and Germany, where they closed.** Japan's postwar high growth stood on cheap Middle Eastern crude and on cheap labor coming out of the countryside. The window closed in 1973. Real growth halved over that period, from an annual 9.1 percent to 4.2, though the standard account attributes the main cause to the end of catch-up, with energy a contributing factor layered on top. The nuclear shutdown of 2011 was a second shock on top of that, and the trade balance swung from surplus to deficit.<sup class="noteref"><a href="#note-14">14</a></sup> Germany closed its own. In 2023 it stopped its last three reactors, lost Russian pipeline gas at almost the same moment, and industrial electricity moved to two or three times the American level.<sup class="noteref"><a href="#note-15">15</a></sup> The word *Deindustrialisierung* became central to its economic debate after that.
 
 <figure class="figure">
-  <img src="/assets/figures/figure-1-2.png" alt="Figure 1-2. Japan's trade balance and LNG import prices after the nuclear shutdown (2008–2015). A swing of roughly 20 trillion yen in three years, paid straight to foreign energy suppliers .">
+  <img src="/assets/figures/fig1-2_japan_trade.png" alt="Figure 1-2. Japan's trade balance and LNG import prices after the nuclear shutdown (2008–2015). A swing of roughly 20 trillion yen in three years, paid straight to foreign energy suppliers .">
 </figure>
 
 **The United States, where it was reopened.** Shale pinned natural gas at a third of European and Asian levels, and cheap gas became cheap electricity and cheap feedstock directly.<sup class="noteref"><a href="#note-16">16</a></sup> The return of manufacturing is narrated as the achievement of policy, but the policy only became possible on top of that physics. Policy can only choose from within the set of options the energy structure permits.

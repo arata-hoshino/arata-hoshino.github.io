@@ -28,7 +28,7 @@ The "labor cost that has not been automated away" has a proper name in economics
 And here is the decisive part. The cost items that make up raising one child are almost all Baumol sectors plus housing. Childcare, education, healthcare, and a house. In the famous decomposition of American consumer prices, since 2000 hospital services have risen more than 200 percent, college tuition around 170 percent, and childcare more than 100 percent, while the prices of televisions, toys and software have fallen by anything from tens of percent to more than 90 percent.<sup class="noteref"><a href="#note-2">2</a></sup> The goods automation reached collapsed in price; the person-to-person services it did not reach soared. Raising a child is the act of buying, twenty years at a time, the least automated basket in the economy. On the Brookings Institution's update of a US Department of Agriculture estimate, raising one child born in 2015 to the age of seventeen costs about 310,000 dollars.<sup class="noteref"><a href="#note-3">3</a></sup> In Korea, spending on private tutoring alone hit a record 29.1919 trillion won in 2024. Seoul's ratio of house prices to income is among the worst in the world.<sup class="noteref"><a href="#note-4">4</a></sup>
 
 <figure class="figure">
-  <img src="/assets/figures/figure-4-1.png" alt="Figure 4-1. What became cheap and what did not (United States, 2000–2024). The scale is logarithmic, so equal slopes mean equal rates of change. Baumol sectors branch upward and the goods automation reached branch downward. Children are bought from the upper bundle.">
+  <img src="/assets/figures/fig4-1_price_divergence.png" alt="Figure 4-1. What became cheap and what did not (United States, 2000–2024). The scale is logarithmic, so equal slopes mean equal rates of change. Baumol sectors branch upward and the goods automation reached branch downward. Children are bought from the upper bundle.">
 </figure>
 
 What the household faces is the budget constraint composed of that price vector and its wages. As we have seen through Chapter 3, in the advanced importing countries after the 1970s households carried the cost of the energy transition over a long period, living costs rose faster than real wages, disposable income was pared back, and births were suppressed to that extent. What comes into view is this: the modern population-suppressing structure that deserves the name "the household Malthus" is not a matter of subjective household judgment or of values. It is a secondary constraint derived mechanically from energy, technology and the price system.
@@ -49,10 +49,10 @@ In Korea, cumulative spending on low-fertility measures since 2006 has reached r
 Pull back to the world and this is not a local phenomenon. On the United Nations' World Population Prospects 2024, world TFR has fallen to 2.25 and two thirds of the world's population live in countries below replacement. The GBD projection published in The Lancet has world TFR heading for 1.83 in 2050 and 1.59 in 2100. Thailand's TFR is 0.86, already below Japan's.<sup class="noteref"><a href="#note-9">9</a></sup> The human species has entered the gravitational field of price.
 
 <figure class="figure">
-  <img src="/assets/figures/figure-4-2.png" alt="Figure 4-2. The distribution itself moved: world fertility rates (1960–2024). Each ridge is the population-weighted distribution of national fertility rates for that year. The share of humanity living in countries below replacement moved from 3.9 percent to 67.4 percent.">
+  <img src="/assets/figures/fig4-2_tfr_distribution.png" alt="Figure 4-2. The distribution itself moved: world fertility rates (1960–2024). Each ridge is the population-weighted distribution of national fertility rates for that year. The share of humanity living in countries below replacement moved from 3.9 percent to 67.4 percent.">
 </figure>
 <figure class="figure">
-  <img src="/assets/figures/figure-4-3.png" alt="Figure 4-3. Korea: cumulative low-fertility spending and TFR. Only published cumulative values are plotted as points; the line between them is interpolation .">
+  <img src="/assets/figures/fig4-3_korea_spend_tfr.png" alt="Figure 4-3. Korea: cumulative low-fertility spending and TFR. Only published cumulative values are plotted as points; the line between them is interpolation .">
 </figure>
 
 ## 4.4 The largest case: China
@@ -72,13 +72,13 @@ The number of mothers born between 2003 and 2010 is flat, and between 2011 and 2
 This reading is still an optimistic one. The held-constant scenario does not price in any further fall from the current TFR of 0.93. Look at the present state of things, with young people in Shanghai, Hangzhou and Shenzhen worn down by 996 and by involution, moving out to Chengdu and elsewhere under the banner of "run", and lying flat, and there is nothing unreasonable about assuming a TFR that falls to somewhere between 0.7 and 0.8. In that case births in the late 2030s come to 5 million a year, which is about the American level. A country of 1.4 billion people and a country of 340 million would be producing the same number of children.
 
 <figure class="figure">
-  <img src="/assets/figures/figure-4-4.png" alt="Figure 4-4. China's annual births (actual 1970–2025, estimated to 2060). Actuals from the National Bureau of Statistics; the estimate is this thesis's own cohort component method .">
+  <img src="/assets/figures/fig4-4_china_births.png" alt="Figure 4-4. China's annual births (actual 1970–2025, estimated to 2060). Actuals from the National Bureau of Statistics; the estimate is this thesis's own cohort component method .">
 </figure>
 <figure class="figure">
-  <img src="/assets/figures/figure-4-5.png" alt="Figure 4-5. China: the female population of reproductive age, a decline already fixed. Every woman who appears in this figure has already been born .">
+  <img src="/assets/figures/fig4-5_china_women.png" alt="Figure 4-5. China: the female population of reproductive age, a decline already fixed. Every woman who appears in this figure has already been born .">
 </figure>
 <figure class="figure">
-  <img src="/assets/figures/figure-4-6.png" alt="Figure 4-6. Where the world's children were born in 2024. A Voronoi treemap. The area of each cell is proportional to that country's births and the area of each regional block to that region's share. Sub-Saharan Africa and South Asia between them account for more than half .">
+  <img src="/assets/figures/fig4-6_world_births.png" alt="Figure 4-6. Where the world's children were born in 2024. A Voronoi treemap. The area of each cell is proportional to that country's births and the area of each regional block to that region's share. Sub-Saharan Africa and South Asia between them account for more than half .">
 </figure>
 
 That is the site where the household Malthus mechanism runs at the largest scale in the world. Persistently high youth unemployment reproduces at scale, and without alteration, the suppression of births through a collapsed income outlook seen in section 4.3. The behavior of not moving when money is handed out, and moving only in the years when the income outlook moved, is the same as Korea's.
@@ -172,7 +172,7 @@ Falling fertility is not a cultural phenomenon but a price phenomenon. Only a co
 
 Two edges of the framework, and only two.
 
-The Nordics. In the countries with the most generous family policy in the world, the TFR has collapsed since the 2010s.<sup class="noteref"><a href="#note-14">14</a></sup> Family policy transfers childcare and leave, but it has not been able to move housing, the largest term in C_child, or the expected value of the opportunity cost of a career. On top of that, the decision to have a child rests not on current prices but on expected lifetime prices. A generation that grew up in an era of low growth discounts the sustainability of policy however generous that policy is. An expected price system is also a price. Even so, I accept that this case marks the edge of this thesis's explanatory power. The gravity of price speaks to necessary conditions; it does not speak to sufficient ones.
+The Nordics. In the countries with the most generous family policy in the world, the TFR has collapsed since the 2010s.<sup class="noteref"><a href="#note-14">14</a></sup> Family policy transfers childcare and leave, but it does not reach housing, the largest term in C_child, or the expected value of the opportunity cost of a career. On top of that, the decision to have a child rests not on current prices but on expected lifetime prices. A generation that grew up in an era of low growth discounts the sustainability of policy however generous that policy is. An expected price system is also a price. Even so, I accept that this case marks the edge of this thesis's explanatory power. The gravity of price speaks to necessary conditions; it does not speak to sufficient ones.
 
 Israel. The TFR is around 2.9, and this is not a phenomenon confined to the ultra-Orthodox: the secular population holds at around 2.<sup class="noteref"><a href="#note-15">15</a></sup> And this in a high-price society. I accept that religion, community and a national ethos can overwrite price signals. But the fact that the counterexample is a single country is itself the outline of the law.
 

@@ -20,7 +20,7 @@ The conduit began to narrow before AI. On Karabarbounis and Neiman's well-known 
 So the problem sits here. The automation of tasks is not new; it has run continuously since the industrial revolution. In that revolution, cheap labor and cheap energy moved workers out of agriculture and into manufacturing. Human skill stayed adaptable and stayed meaningful. What is different in the age of AI is that automation can remove the need for human labor itself, not task by task but across whole categories of work: displacement goes general while there is no prospect of reinstatement. The problem is not the displacement of tasks. It is distribution. The new industrial revolution will be driven by cheap automated labor and cheap fusion energy, and by the time it arrives the conduit of distribution will have vanished.
 
 <figure class="figure">
-  <img src="/assets/figures/figure-6-1.png" alt="Figure 6-1. The fall in the labor share (United States, 1975 to 2023). The American series is shown. The same downward trend is observed across most countries and industries .">
+  <img src="/assets/figures/fig6-1_labour_share.png" alt="Figure 6-1. The fall in the labor share (United States, 1975 to 2023). The American series is shown. The same downward trend is observed across most countries and industries .">
 </figure>
 
 ## 6.2 The erosion of the conduit has already begun: the evidence of the 2020s
@@ -62,10 +62,10 @@ Placed in its historical lineage, what this proposal actually is becomes clearer
 A sufficiently developed capitalism becomes a money tree that distributes wealth to every citizen. Productivity expands autonomously under AI, so the only question left is who holds the stake in the fruit. And once distribution reaches the whole population, the equation of Chapter 4 starts to move. Disposable income recovers, the expected cost per child falls (Chapter 5), and society begins to reproduce its population again. This is how population comes back.
 
 <figure class="figure">
-  <img src="/assets/figures/figure-6-2.png" alt="Figure 6-2. The graveyard of the wealth tax: how long each country's net wealth tax survived. One bar is one country's tax on individual net wealth. The black bars are the ones still in force. Twelve countries in 1990, three now .">
+  <img src="/assets/figures/fig6-2_wealth_tax.png" alt="Figure 6-2. The graveyard of the wealth tax: how long each country's net wealth tax survived. One bar is one country's tax on individual net wealth. The black bars are the ones still in force. Twelve countries in 1990, three now .">
 </figure>
 <figure class="figure">
-  <img src="/assets/figures/figure-6-3.png" alt="Figure 6-3. The lineage of citizen capital: the Homestead Act, Japanese land reform, the Alaska PFD, Norway's GPFG, Trump Accounts. The nineteenth century distributed land. The twenty-first will distribute a stake in automated capital .">
+  <img src="/assets/figures/fig6-3_citizen_capital.png" alt="Figure 6-3. The lineage of citizen capital: the Homestead Act, Japanese land reform, the Alaska PFD, Norway's GPFG, Trump Accounts. The nineteenth century distributed land. The twenty-first will distribute a stake in automated capital .">
 </figure>
 
 ## 6.5 The cost of becoming a capitalist is falling

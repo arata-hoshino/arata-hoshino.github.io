@@ -21,6 +21,8 @@ none of them things worth doing by hand a second time:
   * marks the figure slots, and sets the equations apart
 """
 
+import glob
+import glob
 import io
 import os
 import re
@@ -116,6 +118,23 @@ FIGURE = re.compile(
     re.M)
 
 
+def plot_for(number):
+    """The plot drawn for a figure, found by its number alone.
+
+    The files are named fig<chapter>-<figure>_<what it shows>.png, so the
+    number is the key and the rest is for whoever opens the folder. Where
+    more than one file claims a number, the ambiguity is reported rather
+    than resolved quietly.
+    """
+    hits = sorted(glob.glob('assets/figures/fig%s_*.png' % number))
+    if len(hits) > 1:
+        sys.stderr.write('  figure %s: %d files claim this number (%s); using %s\n'
+                         % (number, len(hits),
+                            ', '.join(os.path.basename(h) for h in hits),
+                            os.path.basename(hits[0])))
+    return hits[0] if hits else None
+
+
 def figures(body):
     """Mark each figure slot with its number, title and caption."""
 
@@ -138,8 +157,8 @@ def figures(body):
         html = []
         for f in out:
             caption = ' '.join(f['caption'])
-            plot = 'assets/figures/figure-%s.png' % f['n']
-            if os.path.exists(plot):
+            plot = plot_for(f['n'])
+            if plot:
                 # the plot carries its own title and caption, so the page
                 # sets neither; what it says goes into the alt text
                 alt = 'Figure %s. %s%s' % (

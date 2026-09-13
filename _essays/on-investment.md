@@ -4,15 +4,16 @@ number: "9"
 roman: "IX"
 order: 10
 part: "Part Four. Where to Stand"
-summary: "The upper right is filled by a combination rather than by a place. From that, the order of resource allocation, in five items. The discipline of allocation, and five predictions, each with the condition under which it would be shown wrong."
+summary: "The upper right is filled by a combination rather than by a place. From that, the order of resource allocation, in five items. The discipline of allocation, the first move available now, and five predictions, each with the condition under which it would be shown wrong."
 ---
 
 ## 9.1 One constraint, one prescription
 
-Live in the Gulf and your sense of what can be moved and what cannot breaks down. Energy and fertility, which the advanced economies treat as given, are objects of design here. Talent, which they assume money can move, is the hardest of the three. That inversion was the starting point.
+Live in the Gulf and your sense of which terms are variables and which are fixed breaks down. Energy and fertility, which the advanced economies hold fixed, are variables here. Talent, which they treat as a variable that money sets, is the most fixed of the three. That inversion was the starting point.
 
 <p class="equation">Civilizational competitiveness C ≈ Institutions I × Effective energy abundance E × Labor input L</p>
-<p class="equation">L ≈ Technology access T × Large capital K</p>
+>
+<p class="equation">L ≈ Deep tech T × Large capital K</p>
 If any one of the three is near zero, the output is near zero however high the others are. What the equation settles is not wealth but the capacity to build. E is measured by three quantities observable in advance: the effective price of industrial electricity, the reliability of supply, and the lead time for a new grid connection.<sup class="noteref"><a href="#note-1">1</a></sup>
 
 The efficiency of civilization is two convergence costs falling toward zero at once, matter configuration and predictive models. They compete over the same problem, and the cheaper side wins. For two hundred years what has set the speed of automation is energy and capital goods, and this time is the same.
@@ -23,17 +24,17 @@ What follows the lifting of a constraint is not a discount but an explosion of d
 
 The device for crossing that valley is distribution. The conduit that allocates income by contribution to tasks breaks in the 2030s, and taxing capital fails because capital moves. What is left is to distribute ownership itself. And when price stops rationing scarcity, the work of measuring value returns to use value.
 
-Finally, the unit is not the country but the stack. Neither the three terms nor the five layers is complete in any single cluster.
+Finally, the unit is not the country but the stack. The terms decomposed in Chapter 8 are not complete in any single cluster.
 
 Stagnation, rising prices, the failure of distribution and falling births are not separate problems. They are several symptoms of one constraint. The prescription is therefore one, not four: fill whichever of the three terms is missing.
 
 ## 9.2 The upper right is filled by a combination, not a place
 
-The map in Chapter 8 has one empty seat. No cluster holds, at the highest level and at the same time, the feasibility of energy and space together with talent and institutions. Neither the product of the three terms nor the five layers of the stack is complete in any single place. What follows is not that some place will eventually move into the upper right.
+The map in Chapter 8 has one empty seat. No cluster holds, at the highest level and at the same time, the feasibility of energy and space together with talent and institutions. And the terms are not complete in any single place. What follows is not that some place will eventually move into the upper right.
 
 The upper right is filled by a combination, not a place.
 
-What is required exists in three separate pieces. The United States holds direction 2, which is to say models, basic research, and the capital markets that buy them. Japan, Korea and Taiwan hold the capability of direction 1, which is to say materials, production equipment, industrial robots and leading-edge logic. The Gulf holds the joules, the land, and the speed of decision. Taken separately, none of the three has more than two of the terms. Put under a single decision, the three terms are complete and so are the five layers.
+What is required exists in three separate pieces. The United States holds direction 2, which is to say models, basic research, and the capital markets that buy them. Japan-Korea-Taiwan holds the capability of direction 1, which is to say materials, production equipment, industrial robots and leading-edge logic. The Gulf holds the joules, the land, and the speed of decision. Taken separately, none of the three has more than two of the terms. Put under a single decision, every term is complete.
 
 The scarcest thing in this field is therefore neither technology nor capital. It is a body able to place the three regions under one design. It is not that translators are short. It is that no organization yet exists whose job is the translation.
 
@@ -43,25 +44,39 @@ And whoever assembles that combination first settles where the physical substrat
 
 Down from the map to practice. If the readings so far are correct, the allocation of resources from here takes the following order.
 
-**One. Energy R&D.** This has been this thesis's top priority throughout, and it does not change here either. The bottleneck is neither models nor capital but the speed at which gigawatts are connected. And the lead time for a new grid connection is now the most powerful instrument of industrial policy in the world. A policy that shortens the queue moves the ranking of clusters faster than a policy that lowers the price. This claim, as section 8.10 of Chapter 8 shows, can be measured.
+**One. Energy R&D.** This has been this thesis's top priority throughout, and it does not change here either. The bottleneck is neither models nor capital but the speed at which gigawatts are connected. And the lead time for a new grid connection is now the most powerful instrument of industrial policy in the world. A policy that shortens the queue moves the ranking of clusters faster than a policy that lowers the price. This claim, as section 8.13 of Chapter 8 shows, can be measured.
 
 **Two. Implementation design for the physical world.** Palo Alto makes AI's brain and Northeast Asia makes its body. But the people who design what, concretely, that does in a factory, a hospital, a city, logistics and agriculture are decisively short. This is not an engineer's question but a design question. In the language of Chapter 2, it is the work of deciding where to apply the lever, once direction 2 has become the lever that collapses the development cost of direction 1. This will be the thinnest-supplied profession of the coming decade.
 
-**Three. Translation between capital and technology.** Translation here does not mean interpreting. It means being able to compose, in both languages, which layer capital goes into, on what horizon, and on what terms. Only capital that can read the function of Chapter 1 gets placed in the right place.
+**Three. Translation between capital and technology.** Translation here does not mean interpreting. It means being able to compose, in both languages, which term capital goes into, on what horizon, and on what conditions. Only capital that can read the function of Chapter 1 gets placed in the right place.
 
 **Four. Institutions of distribution.** The birth-endowment capital accounts, the citizen-share sovereign fund and the universal share in automation capital argued in Chapter 6. This is not an item of ethics but an item of engineering that settles whether a cluster is still functioning ten years from now. The cluster that implements it seriously first buys the social stability of the 2040s.
 
-**Five. Basic investment in the side that is not connected.** As section 8.6 of Chapter 8 showed, the twentieth-century development model will not be replayed. Even so, a substantial part of the world's population has reached neither stable electricity nor water and sewerage nor basic education. On the same planet where we are talking about fusion and humanoids. If the cascade is real, then fresh water, electricity and education can arrive there as goods whose marginal cost has approached zero. And the societies now paying the highest effective prices are the first and largest market for those goods. If capital does not go into designs that reach that market, this thesis's argument ends as an in-house conversation on the frontier.
+**Five. Basic investment in the side that is not connected.** In a world where supply is automated the scarce thing is demand. And for the forty years from 2035, the only part of the world where head-count is rising is the part now placed outside the stack. As section 8.9 of Chapter 8 showed, the twentieth-century development model will not be replayed, so that head-count does not turn into purchasing power on its own. If the cascade is real, then fresh water, electricity and education can arrive there as goods whose marginal cost has approached zero, and the societies now paying the highest effective prices are the first and largest market for those goods. Directing capital there is not charity for the side crossing the forty-year valley. It is the creation of demand. If capital does not go into designs that reach that market, this thesis's argument ends as an in-house conversation on the frontier.
 
 ## 9.4 The discipline of allocation
 
 This thesis names no securities and no regional allocation weights. That is work to be settled in conversation, knowing the character of the money and its time horizon, not on paper. What it can supply is what to judge by.
 
-First, the indicator. The bottleneck is the speed at which gigawatts are connected, and that speed is measured not by the capacity sitting in the queue but by the proportion of the queue that reached energization, by the share under firm contract, and by the grid operator's willingness to name a connection date. Section 8.10 of Chapter 8 sets out those numbers. Second, the time constant. Energy is a decade; institutions are a generation. For an allocation to one and the same region, the holding period required differs by a factor of two depending on whether it is framed as an energy story or as a story about the agglomeration of talent.
+First, the indicator. The bottleneck is the speed at which gigawatts are connected, and that speed is measured not by the capacity sitting in the queue but by the proportion of the queue that reached energization, by the share under firm contract, and by the grid operator's willingness to name a connection date. Section 8.13 of Chapter 8 sets out those numbers. Second, the time constant. Energy is a decade; institutions are a generation. For an allocation to one and the same region, the holding period required differs by a factor of two depending on whether it is framed as an energy story or as a story about the agglomeration of talent.
 
 And the scarcest thing is neither generation technology nor capital. It is a site that is already connected.
 
-## 9.5 The predictions
+## 9.5 Where the first move sits
+
+Order and discipline are a matter for whoever can move large money. But if the map is right, there are positions available to actors of the size that can move now, without waiting. What becomes scarce after the constraint comes off can be identified before it does. There are three, and none of them waits for the technology to be finished.
+
+**One. Land that is already connected.** As section 8.13 of Chapter 8 showed, the median period from application to entry into operation, for projects entering operation in the United States in 2025, was 61 months, and of the projects applied for between 2000 and 2020 only 13 percent by capacity actually reached operation. A new interconnection right is no longer something bought with time. It is bought with probability. Which means that land already holding a position on a thick transmission network is not a discounted version of a new project. It is a different asset class. The site of a decommissioned thermal plant, the grounds of a heavy-industry works running at low utilization: what sits there is not a building but a right that is no longer issued on the same terms. The business of assembling such land into packages with environmental assessment complete and connection confirmed can be started today, without waiting for a small reactor or a fusion plant to be demonstrated.
+
+There is a tension in this position that should be written down honestly. The return exists because the procedure is slow. The conclusion of section 8.13 was that a queue is not a physical constant but the output of institutions. If the first priority of 9.3 is actually achieved, the scarcity of this asset thins. Whoever takes a position in connected land stands to lose from the reform he ought to be pushing. That is not a contradiction; it is another way of saying that the scarcity carries a price. But it is worth knowing which side of it you are on.
+
+**Two. Physical lead times.** The model side grows exponentially and the equipment side does not. As section 8.13 showed, the delivery time for large transformers went from under a year before the pandemic to a standard three years now, and five at the longest, with generator step-up transformers at 144 weeks. That constraint is worldwide: the procedure is a variable, the lead time is not. So the queue that matters is not only the one on the grid. There is one at the factory as well. What is there to be taken is the manufacturing slot itself, and one layer below it the copper, the grain-oriented electrical steel and the people who can wind a coil. The same logic applies one step across to physical AI. When humanoids enter volume production, what runs out first is not the finished machine but the capacity to make actuators, precision motors and thermal management.
+
+**Three. An organization whose job is translation.** Section 9.2 said that what is short is not translators but an organization whose job is the translation. What such an organization actually does is worth setting out. It does not allocate capital. It composes terms. Guarantee a gigawatt-scale grid position and an allocation of compute from the outset if the demonstration is run on this site, so that what a founder cannot obtain anywhere else is written into the conditions of founding. This is not the work of a fund. A fund buys into companies that already exist; what is needed here is to design companies that do not exist yet, together with their founders and their infrastructure. And what this organization offers in exchange is not money. It is effective energy abundance and the speed of decision. As section 8.5 showed, the Gulf holds those two and lacks only the coefficient on talent, while Japan, Korea, Taiwan and England hold the coefficient on talent and lack the energy. Translation is the work of turning that asymmetry into cocreation.
+
+What the three share is a shape: take the thing that becomes scarce after the constraint comes off, before it comes off. But the first and second are positions taken against an existing bottleneck, and only the third builds something that does not yet exist. From the standpoint of a thesis whose subject is the distribution of ownership, the first two work, and on their own they solve none of the problems argued in Chapter 6.
+
+## 9.6 The predictions
 
 A hypothesis is worth nothing until it is committed to. I have committed my own career and my own capital to the predictions that follow.
 
@@ -75,7 +90,7 @@ A hypothesis is worth nothing until it is committed to. I have committed my own 
 
 **Five. Labor.** The relative fall in youth employment in the occupations most exposed to AI will keep widening through the second half of the 2020s, and in at least one major economic bloc youth unemployment will become the central issue in politics. The first wave of solutions offered at that point will be job retraining, and it will not work, because the reinstatement of tasks does not happen.
 
-## 9.6 What would show them to be wrong
+## 9.7 What would show them to be wrong
 
 Writing the predictions down is not enough. What would make me admit that one of them was wrong has to be written down to the same precision.
 
@@ -98,19 +113,19 @@ The purpose of this table is not to protect the predictions. It is to keep them 
 
 Some of these will be wrong. But the way they go wrong is the information. I intend to keep updating this map by collision with reality.
 
-## 9.7 What this thesis does not establish
+## 9.8 What this thesis does not establish
 
 Four things this thesis asserts and does not establish.
 
 The link between energy prices, technological structure and the birth rate is set out as a mechanism, not measured as one; settling it takes a long-run panel of energy prices, generation mix, real wages and fertility across the advanced economies. The decomposition of the price system is qualitative; what is missing is an estimate, across housing, education, childcare and healthcare, of how much each cost driver contributes to the household Malthus, energy and non-automated labor above all. The account of urban growth rests on historical cases rather than on a model in which cheap energy, cheap labor and abundant land endogenously settle infrastructure investment and agglomeration. And the effect of automation on hours of work and on fertility behavior is argued rather than modeled: what shorter hours, redistributed income and reduced anxiety about the future do to the decision to marry and to have a child belongs in a household macro model this thesis does not build.
 
-## 9.8 Where the reduction stops
+## 9.9 Where the reduction stops
 
 The reduction has a boundary. Explanations that run on values or on policy can be restated from a layer closer to physics, meaning energy, computing capacity, technology, the price system and the household constraint. Where that restatement stops is not settled here either. Of the three terms, what geology and physics settle goes only as far as the raw material of energy; past that, institutions settle it. The reduction stops short of institutions, and the place where it stops is the outline of what humans get to decide.
 
 If this map is right, we become the first generation in human history to design the far side of the constraint rather than the inside of it.
 
-I intend to spend my working life on assembling that combination. It is not a thing one person can assemble. So the design goes out first.
+I intend to spend my working life on assembling that combination. It is not a thing one person can assemble. It presumes collaboration. So the design goes out first.
 
 Let us meet and talk.
 
@@ -119,7 +134,7 @@ Let us meet and talk.
 <hr class="rule-major">
 
 ## Notes and Sources
-1. How E is measured. The effective price of industrial electricity comes from national published statistics (the UK Department for Energy Security and Net Zero's international comparison, Eurostat `nrg_pc_205`, US Energy Information Administration *Electric Power Monthly* Table 5.3). Reliability of supply is the series based on SAIDI/SAIFI that the World Bank's *Doing Business* Getting Electricity indicator used. For the lead time on a new grid connection alone, no published statistic exists that is bundled as an ex ante country-by-country screen. In the United States, Lawrence Berkeley National Laboratory's *Queued Up* publishes the period from application to commercial operation; in the United Kingdom NESO names a connection date; in the Netherlands TenneT publishes exhaustion by geography. China and the Gulf publish nothing. As stated in section 8.10 of Chapter 8, this is the gap in information most unfavorable to the argument of this thesis.
+1. How E is measured. The effective price of industrial electricity comes from national published statistics (the UK Department for Energy Security and Net Zero's international comparison, Eurostat `nrg_pc_205`, US Energy Information Administration *Electric Power Monthly* Table 5.3). Reliability of supply is the series based on SAIDI/SAIFI that the World Bank's *Doing Business* Getting Electricity indicator used. For the lead time on a new grid connection alone, no published statistic exists that is bundled as an ex ante country-by-country screen. In the United States, Lawrence Berkeley National Laboratory's *Queued Up* publishes the period from application to commercial operation; in the United Kingdom NESO names a connection date; in the Netherlands TenneT publishes exhaustion by geography. China and the Gulf publish nothing. As stated in section 8.13 of Chapter 8, this is the gap in information most unfavorable to the argument of this thesis.
 {: #note-1 .note}
 
 2. On the tracking indicators in the falsification table. Every series listed in the Source column of the table is a published statistic updated annually or quarterly. Rows whose date of judgment has passed are kept, with the result of the judgment appended. The table is there to record that a prediction was wrong, not to delete the prediction.

@@ -46,16 +46,18 @@ value, applying the principles of service-dominant logic.
 
 It then examines, region by region, the subcategories bearing on energy abundance, automation, and
 institutions, and forecasts the composition of the world at the level of clusters. It concludes by
-identifying Texas and the UAE as the candidates for long and sustained success, the Bay Area,
-Shenzhen, and Hangzhou as likely to keep growing, and Japan, Korea, and Taiwan as consolidating
-into technological chokepoints.
+identifying Texas and the UAE as the candidates for long and sustained success, the San Francisco
+Bay Area, Shenzhen, and Hangzhou as likely to keep growing, and Japan-Korea-Taiwan as
+consolidating into technological chokepoints.
 
 The intended readers are sovereign wealth funds, venture capital, other investors, and founders
 building in deep tech. This thesis is strongly hypothetical in character, analyzing, thinking, and
 designing outside the present constraint rather than inside it, and it is meant to serve as a
 compass for investment in the way a hypothesis can. It is therefore not a rigorous scientific
 proof of the kind an academic paper offers, nor is it an analysis of particular companies whose
-fortunes turn over in a matter of months.
+fortunes turn over in a matter of months. The figures and sources in this thesis are, unless
+otherwise stated, as of August 2026. Dates given for companies and projects are not achievements
+but the targets published at that time.
 
 ## Table of Contents
 {: .toc-heading}
@@ -128,12 +130,12 @@ fortunes turn over in a matter of months.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">VIII</span>
     <span class="toc-title"><a href="/essays/on-clusters/">On Clusters</a></span>
-    <p class="toc-summary">The unit is not the country but the stack. The five-layer cake, two techno-blocs, and the regions scored against the equation. The speed of connection can be measured, and the upper right of the map is still empty.</p>
+    <p class="toc-summary">The body of the world economy is not the country but the cluster, and the clusters line up along the coasts. Migration is urbanization across a border. The terms the equation decomposes into, two techno-blocs, and the regions scored against them. The upper right of the map is still empty.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">IX</span>
     <span class="toc-title"><a href="/essays/on-investment/">On Investment</a></span>
-    <p class="toc-summary">The upper right is filled by a combination rather than by a place. From that, the order of resource allocation, in five items. The discipline of allocation, and five predictions, each with the condition under which it would be shown wrong.</p>
+    <p class="toc-summary">The upper right is filled by a combination rather than by a place. From that, the order of resource allocation, in five items. The discipline of allocation, the first move available now, and five predictions, each with the condition under which it would be shown wrong.</p>
   </li>
 </ol>
 

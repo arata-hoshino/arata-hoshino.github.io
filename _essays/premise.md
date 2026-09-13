@@ -14,7 +14,7 @@ You can see the future first in San Francisco, wrote Leopold Aschenbrenner.<sup 
 
 ## Where the given and the chosen change places
 
-The first thing that goes wrong when you live in the Gulf is your sense of what can be moved and what cannot. What the advanced economies treat as fixed is inverted here.
+The first thing that goes wrong when you live in the Gulf is your sense of which terms are variables and which are fixed. What the advanced economies hold fixed and what they treat as free to set are exchanged here.
 
 First, energy. In the advanced economies energy is a cost, and supply is planned against demand. Here the order runs the other way. Neither Barakah's 5.6 gigawatts of nuclear nor Al Dhafra's 2 gigawatts of solar was built by waiting for demand to accumulate.<sup class="noteref"><a href="#note-2">2</a></sup> You lay the power down first and decide what to build on it afterwards. The question that is visible here is different too. Not what a kilowatt-hour costs, but how many gigawatts you can use, for how many years, without counting them. These are two questions wearing similar faces.
 
@@ -22,7 +22,7 @@ Second, fertility. In the same city, under the same climate and the same prices,
 
 Third, talent. Energy came first, then capital, then infrastructure. All three arrive if you decide they will. The fourth does not, which is the person who makes one out of zero. They choose where to move by density rather than by tax rate, by the chance of running into someone smarter than themselves every week.
 
-Energy and population, which the advanced economies have given up on as fixed, can be designed. Talent, which they assume money can move, is the hardest constraint of the three. That inversion is where this thesis began.
+Energy and population, which the advanced economies hold fixed, are variables here. Talent, which they treat as a variable that money sets, is the one term of the three that stays fixed. That inversion is where this thesis began.
 
 ## Two puzzles
 
