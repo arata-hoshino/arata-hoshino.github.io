@@ -98,11 +98,17 @@ Which of the two is faster? This thesis's framework reduces the answer to a sing
   <img src="/assets/figures/fig8-1_techno_blocs.png" alt="Figure 8-1. The terms of the equation, and where each is held. Original figure to this thesis. It is a schematic. The nine clusters are grouped here by country and region. Each term is taken as a whole and divided into the shares each place carries; the shares are the author's ordinal judgment, not measured values. No place carries every term at world level: over eighty per cent of T_2 lies outside the United States, China does not reach institutions at all, and India belongs to neither way of assembling them.">
 </figure>
 
+<figure class="figure">
+  <img src="/assets/figures/fig8-2_pentagons.png" alt="Figure 8-2. The five terms, region by region. Original figure to this thesis. It is a schematic. Each plate shows one region at the five terms of the Chapter 1 equation: institutions I, effective energy abundance E, deep tech in bits T_1, deep tech in the physical T_2, and large capital K. The scale is absolute and the same on all five plates, so a small shape is a small shape. The levels are consistent with the world shares drawn in Figure 8-1. Names set in black are the nine clusters of this chapter; names in grey are placed for reference. Levels are ordinal judgments from the coefficients described in this chapter, not measured values.">
+</figure>
+
 ## 8.5 The American techno-bloc
 
 The essence of the American techno-bloc is not that one country holds every term but that a division of labor holds. America holds T_1, along with K and I. T_2 sits outside: Taiwan takes leading-edge logic, Korea takes high-speed memory, and Japan takes production equipment and materials. E is supplied as connectable gigawatts by Texas and the Gulf. On top of that, the Gulf supplies capital and a regulatory sandbox, and England supplies the people of basic research.
 
 This chain does not function if any one link is pulled out. Put the other way, whether a cluster is built into this division of labor is that cluster's standing.
+
+The first plate of Figure 8-2 shows that shape. Every one of the five clusters is a lopsided shape pulled out along a single direction. The San Francisco Bay Area toward T_1, Japan-Korea-Taiwan toward T_2, Texas and the UAE toward I and E, BosWash toward K. Yet laid over one another the five very nearly fill the pentagon. Not one of them is complete, and put together the gaps disappear.
 
 **The United States.** The terms are most nearly complete here. It holds T_1 and it holds K, and in Texas it holds an E at the world's highest level that was made by decision. On T_2 it holds a corner of the production equipment, while neither leading-edge logic nor lithography is homegrown; what is missing arrives through alliance and capital. And I is extremely strong on the side that calls in capital. This country takes the highest value in this thesis's framework because it is filling from the side of physics.
 
@@ -131,6 +137,8 @@ The China techno-bloc is not a division of labor but vertical integration. A sin
 What is missing is I. Of the terms, E it made at the largest scale in the world. L, T_2 aside, is thick as well. But I does not turn. Precisely stated, what is not working is not the I on the side that calls in capital but the side that distributes the wealth produced to the population. Wealth is not distributed, so households do not become wealthy, people are in surplus, they tire of competition, youth unemployment stays high, births collapse, demand shrinks, and the oversupply deepens further. The choice between a wealthy China and a strong China is what has stopped this gear train.
 
 That China's I is weak is not a statement about ownership or contract. The institutions on the side that calls in capital did in fact call in the fastest investment in the world over these forty years. If supply alone keeps being reinforced while that circuit stays shut, the sequence seen in 2.7 is cut partway. Supply turns, but it does not reach demand.
+
+In the China plate of Figure 8-2, on E, on T_1, on T_2 and on K alike, the four shapes reach the size of the American plate. Only the top differs, and the height of that top follows a rule: the further from the center, the higher. Beijing is lowest, the Yangtze Delta above it, then the GBA, and highest of all is Chengdu-Chongqing, inland. Distance from the grip is what sets the height of institutions. The movement of people and capital inland to Chengdu, and the money that routes through Hong Kong, both run along that gradient. Even so, Chengdu-Chongqing at the highest is at four and a half, an order away from the other four terms. Laying the shapes over one another does not fill that bite. When what is missing is missing from everyone, combination does not help.
 
 **Not a country but a continent.** Treat China as a monolith and this map becomes unreadable. The body of it is the coast. The Yangtze Delta has a population of about 240 million and a GDP of about 4.65 trillion dollars, already larger than Japan as a whole. The Pearl River Delta has a population of about 86 million and a GDP of about 2.1 trillion dollars, the equivalent of Spain. These two regions alone account for about 38 percent of China's GDP.<sup class="noteref"><a href="#note-17">17</a></sup> Shenzhen is the hardware of physical AI, Hangzhou is the AI ecosystem and Shanghai is capital and finance, and China's computation, manufacture and capital are converging on those three points. Beijing does not produce a pole; it exists by administering one.
 
@@ -182,11 +190,19 @@ Even so, this thesis's reading is that India will not become an independent pole
 
 There are therefore two branches: a road on which India aims at an AI stack of its own, and a road on which it settles inside the American stack. This thesis's reading leans to the latter. An independent stack demands T_2, and that demands decades of accumulation, enormous capital, and above all the settling of talent. India converges not on an independent pole but on a regional great power with a sphere of influence inside the American techno-bloc. The time frame is the 2040s to the 2050s. This is also where the ranking could move most: if the feasibility of energy and land improves, this reading is rewritten.
 
+That the India plate of Figure 8-2 is a small shape, reaching toward K with almost nothing standing on T_2, is the shape of this reading.
+
 ## 8.8 Europe: the research comes out, the implementation does not
 
 E can be filled; L cannot. If fusion is implemented, the energy side may be solved. But on the automation side there is no technological asset equivalent to what Japan-Korea-Taiwan holds.
 
+In the Europe plate of Figure 8-2, what comes out highest in this region is T_2, with the Netherlands reaching seven and Germany five. The lithography machine, the machine tools and the industrial robots are real, and on this one axis Europe stands on the same ground as the two deltas. It does not reach the ten of Japan-Korea-Taiwan, and the reason is the depth of the layers. Materials, production equipment, lithography, leading-edge logic, high-bandwidth memory, precision motors: the only region where all of them are assembled inside one place is Japan-Korea-Taiwan. Europe is strong at particular steps and does not hold every layer.
+
+On E the Nordics reach six on hydro and geothermal and France follows at five and a half on nuclear, and given that Europe's gigawatt-class loads actually land in the north, those two are real. Germany is at close to nothing, and as a region it is not on the same plate as Texas, the UAE or the two deltas. On T_1 the ceiling is Loxbridge at five and France at three and a half; with Mistral it is not zero, and it is a different height from the Bay Area's nine and a half or the Yangtze Delta's nine. K is lower still.
+
 And there is a problem with I as well. Regulatory density is part of institutions, and it tells directly on both the preservation of returns and the speed of permitting. High industrial electricity, slow construction and heavy regulation are not separate problems. They are three faces of one term.
+
+Loxbridge is BosWash at a smaller scale. Institutions, capital and research, with no energy and nothing physical: the same shape, differing only in size. The other four in Europe do not overlap even with that. That Loxbridge is the region's only cluster follows from the same shape.
 
 ## 8.9 Southeast Asia: fertility decline arrives before wealth
 
@@ -205,6 +221,8 @@ The model of becoming wealthy by making use of a demographic dividend has a high
 ## 8.10 Sub-Saharan Africa: the longest dividend and the largest blank
 
 With the twentieth-century sequence broken from both sides, an ironic map appears. The demographic dividend lasts longest in sub-Saharan Africa, which can enjoy it from the 2030s into the 2060s. But it does not have the institutions and infrastructure to make use of it. Where the institutions are, fertility decline has already begun.
+
+In the global south plate of Figure 8-2, for Indonesia, Vietnam, Nigeria and Kenya none of the five terms is yet standing. The largest blank is this blank.
 
 South America and sub-Saharan Africa, while settling the world's future in population, are placed outside the connective relations of the stack. As Figure 4-6 in Chapter 4 shows, a little over three tenths of the world's children are now born in sub-Saharan Africa. Being outside the connections and being unimportant are entirely different things. This thesis's position is that investment should go into designs that reach there, and that this is the largest blank on the current map.
 
@@ -271,22 +289,6 @@ A queue is not a physical constant. It is the output of institutions. This is th
 There is, however, a floor that institutions cannot shorten. The delivery time for large power transformers has stretched from under a year before the pandemic to a standard of three years now and a maximum of five. On the industry series it went from 50 weeks in 2021 to 128 weeks in the second quarter of 2025, with generator step-up transformers at 144 weeks.<sup class="noteref"><a href="#note-33">33</a></sup> The procedure is a variable; the two and a half to three years of physics underneath it is not. And that floor is common to the whole world.
 
 The implication for an investor comes down to the choice of indicator. Ranking countries directly by speed of connection cannot at present be done from published data. The United States publishes times required, the United Kingdom offers connection dates, the Netherlands publishes geographical exhaustion, and China and the Gulf publish nothing. One therefore works with proxies. Not the capacity in the queue but the proportion of the queue that actually reached energization. Not the gross pipeline but the share held by confirmed contracts. And whether the grid operator has the will to offer a connection date. The last is probably the most eloquent. An operator that can offer a connection date knows its own queue.
-
-<figure class="figure">
-  <img src="/assets/figures/fig8-2_pentagons.png" alt="Figure 8-2. The five terms, region by region. Original figure to this thesis. It is a schematic. Each plate shows one region at the five terms of the Chapter 1 equation: institutions I, effective energy abundance E, deep tech in bits T_1, deep tech in the physical T_2, and large capital K. The scale is absolute and the same on all six plates, so a small shape is a small shape. The levels are consistent with the world shares drawn in Figure 8-1. Names set in black are the nine clusters of this chapter; names in grey are placed for reference. Levels are ordinal judgments from the coefficients described in this chapter, not measured values.">
-</figure>
-
-Six plates, on one scale.
-
-**The United States, Northeast Asia and the Gulf.** Every one of the five clusters is a lopsided shape pulled out along a single direction. The San Francisco Bay Area toward T_1, Japan-Korea-Taiwan toward T_2, Texas and the UAE toward I and E, BosWash toward K. Yet laid over one another the five very nearly fill the pentagon. Not one of them is complete, and put together the gaps disappear. This is the body of the American techno-bloc, and it is the shape of what 8.5 called a division of labor.
-
-**China.** On E, on T_1, on T_2 and on K alike, the four shapes reach the size of the American plate. Only the top differs, and the height of that top follows a rule: the further from the center, the higher. Beijing is lowest, the Yangtze Delta above it, then the GBA, and highest of all is Chengdu-Chongqing, inland. Distance from the grip is what sets the height of institutions. The movement of people and capital inland to Chengdu, and the money that routes through Hong Kong, both run along that gradient. Even so, Chengdu-Chongqing at the highest is at four and a half, an order away from the other four terms. Laying the shapes over one another does not fill that bite. When what is missing is missing from everyone, combination does not help. China's constraint is not a shortage of capability. It is this one place.
-
-**Europe.** Loxbridge is BosWash at a smaller scale. Institutions, capital and research, with no energy and nothing physical: the same shape, differing only in size. The other four in Europe do not overlap even with that. What comes out highest in this region is T_2, with the Netherlands reaching seven and Germany five. The lithography machine, the machine tools and the industrial robots are real, and on this one axis Europe stands on the same ground as the two deltas. It does not reach the ten of Japan-Korea-Taiwan, and the reason is the depth of the layers. Materials, production equipment, lithography, leading-edge logic, high-bandwidth memory, precision motors: the only region where all of them are assembled inside one place is Japan-Korea-Taiwan. Europe is strong at particular steps and does not hold every layer. On E the Nordics reach six on hydro and geothermal and France follows at five and a half on nuclear, and given that Europe's gigawatt-class loads actually land in the north, those two are real. Germany is at close to nothing, and as a region it is not on the same plate as Texas, the UAE or the two deltas. On T_1 the ceiling is Loxbridge at five and France at three and a half; with Mistral it is not zero, and it is a different height from the Bay Area's nine and a half or the Yangtze Delta's nine. K is lower still. When 8.8 said that research comes out and implementation does not, this shape is what it meant. That Loxbridge is the region's only cluster follows from the same shape.
-
-**India and the global south.** Both are small shapes. India reaches toward K and has almost nothing standing on T_2, which is where the reading in 8.7 shows itself. For Indonesia, Vietnam, Nigeria and Kenya none of the five terms is yet standing. The blank that 8.10 called the largest population dividend beside the largest blank is this blank.
-
-The scale is held the same across all six plates on purpose. The Europe plate and the India plate are legible shapes on their own, and set beside the American and the Chinese plates they are small. That is what this chapter is saying.
 
 <div class="apparatus" markdown="1">
 
