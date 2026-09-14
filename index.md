@@ -110,7 +110,7 @@ but the targets published at that time.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">V</span>
     <span class="toc-title"><a href="/essays/on-abundance/">On Abundance</a></span>
-    <p class="toc-summary">What follows the lifting of a constraint is not a discount but an explosion of demand. Three centuries of light, the timeline for fusion, and why what sets the pace is connection rather than generation.</p>
+    <p class="toc-summary">What follows the lifting of a constraint is not a discount but an explosion of demand. Three centuries of light, the timeline for fusion, and why what sets the pace is grid connection rather than generation.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">VI</span>
@@ -130,12 +130,12 @@ but the targets published at that time.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">VIII</span>
     <span class="toc-title"><a href="/essays/on-clusters/">On Clusters</a></span>
-    <p class="toc-summary">The body of the world economy is not the country but the cluster, and the clusters line up along the coasts. Migration is urbanization across a border. The terms the equation decomposes into, two techno-blocs, and the regions scored against them. The upper right of the map is still empty.</p>
+    <p class="toc-summary">The body of the world economy is not the nation but the cluster, and most clusters sit along the rim of the Indo-Pacific. Migration is substantially urbanization across a border. The terms the equation decomposes into, two techno-blocs and a third candidate, and the regions scored against them. The loop that joins one term to another belongs, for now, to no one.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">IX</span>
     <span class="toc-title"><a href="/essays/on-investment/">On Investment</a></span>
-    <p class="toc-summary">The upper right is filled by a combination rather than by a place. From that, the order of resource allocation, in five items. The discipline of allocation, the first move available now, and five predictions, each with the condition under which it would be shown wrong.</p>
+    <p class="toc-summary">What is required sits unevenly across three regions, and whoever integrates them settles the siting. From that, the order of resource allocation, in five items. The discipline of allocation, the first move available now, and five predictions, each with the condition under which it would be shown wrong.</p>
   </li>
 </ol>
 
