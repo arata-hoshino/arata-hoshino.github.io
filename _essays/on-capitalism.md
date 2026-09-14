@@ -90,9 +90,9 @@ The question that remains is who, or what, generates the energy that runs the AI
 
 ## 6.7 The four head-counts come back
 
-An economy requires four head-counts: labor supply, demand, risk-takers, taxpayers. Automation can route around only labor supply; the other three are population itself. It is this asymmetry that keeps the valley a valley in a phase when supply alone grows exponentially.
+An economy requires four head-counts: labor supply, demand, risk-takers, taxpayers. Automation can route around only labor supply; the other three are population itself. It is this asymmetry that keeps the valley of demand a valley in a phase when supply alone grows exponentially.
 
-The design of distribution argued in this chapter is a device for raising the floor of that valley. But it is more than that. Distribution is the only path that restores three of the four head-counts at once.
+The design of distribution argued in this chapter is a device for raising the floor of that valley of demand. But it is more than that. Distribution is the only path that restores three of the four head-counts at once.
 
 If disposable income recovers, the equation of Chapter 4 runs backwards. The expected cost per child, C_child, falls from the denominator side through energy and automation, while income from the ownership of capital lifts the numerator. The mechanism of the household Malthus is symmetric: it loosens along the same path by which it tightened. If the birth rate rises, population comes back. And if population comes back, demand comes back, the pool of people who take risks comes back, and the tax base comes back.
 

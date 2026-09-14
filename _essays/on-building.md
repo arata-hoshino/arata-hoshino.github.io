@@ -57,7 +57,7 @@ The set of countries that are wealthy now and the set that can build now are dif
 
 What the absence of abundance takes away is not prosperity in general but the option to build. Steel mills, chemical plants, gigawatt-scale computing substrate, and cities themselves fall out of the set of things that society can choose. And for the coming decades what the world needs is the building, not the inventory.
 
-Options, moreover, are not considered and rejected. They stop being proposed. Where a premise is known to be fixed rather than variable, no business plan is written on that premise, nothing reaches an investment committee, and nothing is conceived in the first place. Let a constraint persist long enough and the inside of the constraint starts to look like the whole world. The range of ventures we currently feel to be realistic, and our common sense about the scale of investment, were both built on the assumption that the three terms sit where they now sit. What this equation binds is not only what can be built. It is what can be conceived.
+Options, moreover, are not considered and rejected. They stop being proposed. Where a premise is known to be fixed rather than variable, no business plan is written on that premise, nothing reaches an investment committee, and nothing is conceived in the first place. Let a constraint persist long enough and the inside of the constraint starts to look like the whole world. The range of ventures we currently feel to be realistic, and our common sense about the scale of investment, were both built on the assumption that the three terms sit where they now sit. What this equation binds is not only what can be built. It binds what can be conceived.
 
 How much of this structure belongs to prior literature is set out in "Objections and Limits" at the end of this chapter.
 
@@ -103,7 +103,7 @@ What is settled is not the thickness of the inventory but what can be built from
 
 But the capacity to build does not stop there. What can be built determines what becomes cheap. The price of what did not become cheap becomes the household's constraint. That order does not run backwards.
 
-A note here on how to read this thesis. Stagnation, rising prices, the failure of distribution, and falling births have each been argued as separate problems. This thesis reads them as multiple symptoms produced by one constraint. The prescription is therefore not one per symptom but one in total: fill whichever of the three terms is missing. Symptom-by-symptom measures did not fail because they were badly designed. They failed because we were firing at symptoms in the belief that they were causes.
+A note here on how to read this thesis. Stagnation, rising prices, the failure of distribution, and falling births have each been argued as separate problems. This thesis reads them as multiple symptoms produced by one constraint. The prescription is therefore one in total: fill whichever of the three terms is missing. Symptom-by-symptom measures did not fail because they were badly designed. They failed because we were firing at symptoms in the belief that they were causes.
 
 Births, for which a thread was laid in the previous section, are the slowest-moving of those symptoms. That is why they bite last and are hardest to take back. This thesis gives population a large place not because raising it is the objective, but because whether the constraint has come off shows up there last of all.
 
