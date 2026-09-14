@@ -843,9 +843,8 @@ main {
 .page-subtitle {
   margin: 0.7em 0 0;
   color: var(--ink);
-  /* the size of the name below it: the subtitle states the case, it does
-     not announce it a second time */
-  font-size: 0.845em;
+  /* below the title and above the name, a step down from both */
+  font-size: 1.176em;
   font-style: italic;
   line-height: 1.4;
 }
