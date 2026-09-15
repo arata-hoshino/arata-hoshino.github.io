@@ -9,13 +9,12 @@ authors:
 description: "A thesis on the one structural constraint behind stagnation, falling births, and artificial intelligence running into a wall of electricity — and on the civilization that lies on the far side of it."
 ---
 
-*This thesis is written for sovereign wealth funds, venture capital, other investors, and founders
+## Abstract
+
+This thesis is written for sovereign wealth funds, venture capital, other investors, and founders
 building in deep tech. It is a hypothesis that analyzes, conceives and designs outside the present
 constraint rather than inside it, and it is meant to serve, as a hypothesis, as a compass for
-investment.*
-{: .lede}
-
-## Abstract
+investment.
 
 Suppose a future society in which energy is abundant, in which artificial intelligence and
 physical AI autonomously raise the productivity of every process, and in which institutions
