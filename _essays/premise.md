@@ -16,7 +16,7 @@ You can see the future first in San Francisco, wrote Leopold Aschenbrenner.<sup 
 
 The first thing that goes wrong when you live in the Gulf is your sense of which terms are variables and which are fixed. What the advanced economies hold fixed and what they treat as free to set are exchanged here.
 
-First, energy. In the advanced economies energy is a cost, and supply is planned against demand. Here the order runs the other way. Neither Barakah's 5.6 gigawatts of nuclear nor Al Dhafra's 2 gigawatts of solar was built by waiting for demand to accumulate.<sup class="noteref"><a href="#note-2">2</a></sup> You lay the power down first and decide what to build on it afterwards. The question that is visible here is different too. Not what a kilowatt-hour costs, but how many gigawatts you can use, for how many years, without counting them. These are two different questions wearing similar faces.
+First, energy. In the advanced economies energy is a cost, and supply is planned against demand. Here the order runs the other way. Neither Barakah's 5.6 gigawatts of nuclear nor Al Dhafra's 2 gigawatts of solar was built by waiting for demand to accumulate.<sup class="noteref"><a href="#note-2">2</a></sup> You lay the power down first and decide what to build on it afterwards. The question that is visible here is different too. Not what a kilowatt-hour costs, but how many gigawatts you can use, for how many years, without counting them. These are two different questions that look alike.
 
 Second, fertility. In the same city, under the same climate and the same prices, fertility among UAE nationals and among all residents differs by nearly a factor of three.<sup class="noteref"><a href="#note-3">3</a></sup> The only difference is whether the population settles or rotates. People who come to earn and go home in a few years do not have children there. Culture does not explain what you see here. A difference in settlement and in the design of distribution does.
 
@@ -26,23 +26,19 @@ Energy and population, which the advanced economies hold fixed, are variables he
 
 ## Two puzzles
 
-Beyond that, there are two questions that made me write.
-
 At the start of the industrial revolution, if you had asked people what they wanted, they would have said a faster carriage. What arrived was the railway, and then the automobile. Something nobody ordered delivered what everybody wanted.<sup class="noteref"><a href="#note-4">4</a></sup> What was swapped, and what stayed?
 
-And there is the humanoid robot that appeared in almost every account of the future written in the 1980s. Humanoids are in fact arriving now, but not for the shopping errand. The value the shopping robot was supposed to deliver, which is having what you want appear at your door, came instead from Amazon, from rearranging warehousing, logistics, and the act of ordering. Small robots may take part at the tail end of a delivery, but none of them is a machine that walks to the store. The imagined form never arrived. The value did. Why is it always the form that gets replaced?
+And there is the humanoid robot that appeared in almost every account of the future written in the 1980s. Humanoids are arriving now, but not for the shopping errand. The value the shopping robot was supposed to deliver, which is having what you want appear at your door, came instead from Amazon, from rearranging warehousing, logistics, and the act of ordering. Small robots may take part at the tail end of a delivery, but none of them is a machine that walks to the store. The imagined form never arrived. The value did. Why is it always the form that gets replaced?
 
 The two puzzles are one puzzle. In both, the value stayed and the thing that had been delivering it was swapped out. What people wanted was not a carriage but to go farther, faster. Not a robot, but to have what they wanted appear at the door. A person's goal always sits on the side of the value. So: what stays, and what is exchanged? Answer that and the question of what to invest in is half solved. Follow the question all the way down and it runs in one line from the causes of falling fertility through the structural limits of renewables, the trajectory of the Chinese economy, the next form of capitalism, and the end of money. This thesis is an attempt to draw that whole line.
 
 ## The energy question is older than AI
 
-One thing in advance. In the discourse of 2026 the phrase "energy abundance" circulates almost entirely within the context of AI. How to supply data centers with power; how to thicken the bottom layer of what Jensen Huang calls the five-layer cake. His five layers stack in the order of energy, chips, infrastructure, models, and applications. That the bottom layer is energy is the same claim this thesis makes.<sup class="noteref"><a href="#note-5">5</a></sup>
+The power problem of data centers is merely the newest instance of its subject. In the discourse of 2026 the phrase "energy abundance" circulates almost entirely within the context of AI. How to supply data centers with power; how to thicken the bottom layer of what Jensen Huang calls the five-layer cake. His five layers stack in the order of energy, chips, infrastructure, models, and applications. That the bottom layer is energy is the same claim this thesis makes.<sup class="noteref"><a href="#note-5">5</a></sup>
 
-This thesis is not contained by that context. The power problem of data centers is merely the newest instance of its subject. What this thesis treats is a far larger and far older structure: that the abundance of energy has governed the skeleton of civilization since the industrial revolution, which is to say what can be built from nothing, whether population grows, how wealth is distributed, and what value is measured by. Interest in that structure precedes the AI boom and will survive it. AI is the current name of a megatrend two centuries old.
+What this thesis treats is a far larger and far older structure: that the abundance of energy has governed the skeleton of civilization since the industrial revolution, which is to say what can be built from nothing, whether population grows, how wealth is distributed, and what value is measured by. Interest in that structure precedes the AI boom and will survive it. AI is the current name of a megatrend two centuries old.
 
 ## Physics runs ahead of institutions
-
-There is one more piece of history I want to place here.
 
 In 1798 Malthus wrote that there is a ceiling on the number of people this island can feed. For half a century afterward Britain fought over that ceiling. The Corn Laws, the Poor Laws, rent and wages. The argument reached a political settlement in 1846, but what moved the height of the ceiling itself was not the argument. It was coal. To obtain by the sustainable harvest of woodland the heat that England was digging out of the ground in 1850 would have required 48.1 million acres, which is one and a half times the surface of the country.<sup class="noteref"><a href="#note-6">6</a></sup>
 
@@ -70,7 +66,7 @@ And the macro problems we now fear come from that same constraint, so they begin
 
 This is not a proof. It is a hypothesis, and I cannot prove it either. Statements about the future are like that in principle.
 
-But being unprovable and being groundless are different things. Having analyzed, diagnosed, and interpreted civilization, one can say that it looks as though it will go this way. Sharpening that "as though" until it is precise enough to commit capital to is the work of this thesis. That is why Chapter 9 sets out five predictions and, for each, what would kill it.
+But being unprovable and being groundless are different things. Having analyzed, diagnosed, and interpreted civilization, one can say that it looks as though it will go this way. Sharpening that "as though" until it is precise enough to commit capital to is the work of this thesis. That is why Chapter 9 sets out eleven predictions and, for each, what would kill it.
 
 So we begin with the analysis of civilization.
 

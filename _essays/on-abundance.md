@@ -9,7 +9,7 @@ summary: "What follows the lifting of a constraint is not a discount but an expl
 
 ## 5.1 The traveler with 2GB
 
-Start with a thought experiment. On a week away, with only 2GB of roaming data, we hold back as far as we can. Whether a thing is finite or infinite works on the mind out of all proportion. Give us genuinely unlimited data and we keep the phone running and do anything at all with it: quite possibly out among the sights from morning to night with a voice agent open the entire time. We decide which businesses to put capital into from inside a constraint. Latent business models branch like a tree, and to stop short because a constraint is in the way may be to cut away, wholesale, every branch that would have flowered further on. And from inside the constraint we cannot, in principle, imagine what we would do in a world without it.
+On a week away, with only 2GB of roaming data, we hold back as far as we can. Whether a thing is finite or infinite works on the mind out of all proportion. Give us genuinely unlimited data and we keep the phone running and do anything at all with it: quite possibly out among the sights from morning to night with a voice agent open the entire time. We decide which businesses to put capital into from inside a constraint. Latent business models branch like a tree, and to stop short because a constraint is in the way may be to cut away, wholesale, every branch that would have flowered further on. And from inside the constraint we cannot, in principle, imagine what we would do in a world without it.
 
 On energy, our civilization is that traveler with 2GB.
 
@@ -19,7 +19,7 @@ So what happens when the cost of energy structurally collapses is not a discount
 
 One of the goods whose cost humanity has driven down for longest is artificial light. William Nordhaus, in a classic study, measured the true price of light from open fire through tallow candles, whale oil, gas lamps, incandescent bulbs and fluorescent tubes, and showed that the official price indices had overstated the rise in the price of light by between 900 and 1,600 times. In real terms, the price of a thousand lumen-hours fell by 99.97 percent between 1800 and 1992.<sup class="noteref"><a href="#note-1">1</a></sup> Setting computation aside, no good in human history has become as cheap as light.
 
-So when light became ten thousand times cheaper, did humanity spend less on light? Here is the decisive finding. On the work of Tsao and colleagues, humanity has for three centuries, across six continents and five distinct lighting technologies, gone on spending consistently about 0.72 percent of GDP on light.<sup class="noteref"><a href="#note-2">2</a></sup> Exactly to the extent that efficiency rose, and by exactly that much, humanity consumed more light. It invented the city at night, the twenty-four-hour factory, the screen that never sleeps. In the language of economics, the rebound effect for light is close to 100 percent.
+So when light became three thousand times cheaper, did humanity spend less on light? On the work of Tsao and colleagues, humanity has for three centuries, across six continents and five distinct lighting technologies, gone on spending consistently about 0.72 percent of GDP on light.<sup class="noteref"><a href="#note-2">2</a></sup> Exactly to the extent that efficiency rose, and by exactly that much, humanity consumed more light. It invented the city at night, the twenty-four-hour factory, the screen that never sleeps. In the language of economics, the rebound effect for light is close to 100 percent.
 
 <figure class="figure">
   <img src="/assets/figures/fig5-1_price_of_light.png" alt="Figure 5-1. Three centuries of light: the purest demonstration of the cascade. The price fell to one three-thousandth, and the share of GDP spent on it did not move. The three points on the right are three independent measured situations, spanning tallow candles to grid electricity .">
@@ -29,14 +29,14 @@ This is the purest modern version of the paradox Jevons saw in coal (Chapter 2).
 
 ## 5.3 Anatomy of the demand explosion
 
-The more the efficiency of energy conversion in the physical world improves and the further cost falls, the more the business models that have been held down come into flower, the more energy demand expands without limit, the more uses multiply, and the more energy production rises again in a virtuous circle. Space holds resources enough to go on increasing energy production forever.
+The more the efficiency of energy conversion in the physical world improves and the further cost falls, the more the business models that have been held down come into flower, the more energy demand expands without limit, the more uses multiply, and the more energy production rises again in a virtuous circle. 
 
 <p class="equation">E↑ → P_E↓ → application demand D↑ → investment↑ → E↑</p>
 What gets unlocked can be drawn concretely from the cost structure.
 
 **Water.** Reverse osmosis desalination has come down to roughly 0.5 dollars per cubic meter, and between 30 and 50 percent of that cost is energy.<sup class="noteref"><a href="#note-3">3</a></sup> Cut the price of energy to a fraction of itself and fresh water stops being the binding variable of arid regions.
 
-**Food.** Energy accounts for 40 to 70 percent of the operating cost of vertical farming, and within that energy, in a dedicated growing room, lighting takes 60 to a little over 80 percent and climate control 20 to a little over 30 percent.<sup class="noteref"><a href="#note-3">3</a></sup> In a world of cheap electricity, agriculture is cut loose from land and climate and moves into the city.
+**Food.** Energy accounts for 40 to 70 percent of the operating cost of vertical farming.<sup class="noteref"><a href="#note-3">3</a></sup> In a world of cheap electricity, agriculture is cut loose from land and climate and moves into the city.
 
 **Cities.** As Chapter 1 showed, whether a city can be built from nothing is the product of institutions, energy and labor input, and fusion and automation set that product high in any location at all.
 
@@ -44,7 +44,7 @@ What gets unlocked can be drawn concretely from the cost structure.
 
 **Computation.** That the leading edge of the demand explosion is computation is no longer a forecast but an observation (Chapter 2).
 
-What matters is that the constraint on a civilization is industrial energy demand, not household demand. Industrial demand runs overwhelmingly ahead of household demand. The macro sketch is drawn by the IEA itself. Electricity as a share of final energy consumption rises from about 20 percent today to more than 50 percent by 2050 in the net-zero scenario, and world electricity demand rises by between 75 and 150 percent by 2050 depending on the scenario.<sup class="noteref"><a href="#note-5">5</a></sup> And that estimate has not yet priced in a world in which the global south converges on OECD levels of consumption per head. Recall the arithmetic of eight billion robots at the end of Chapter 3. There is no upper bound on demand.
+The constraint on a civilization is industrial energy demand, not household demand. The macro sketch is drawn by the IEA itself. Electricity as a share of final energy consumption rises from about 20 percent today to more than 50 percent by 2050 in the net-zero scenario, and world electricity demand rises by between 75 and 150 percent by 2050 depending on the scenario.<sup class="noteref"><a href="#note-5">5</a></sup> And that estimate has not yet priced in a world in which the global south converges on OECD levels of consumption per head. Recall the arithmetic of eight billion robots at the end of Chapter 3. There is no upper bound on demand.
 
 <figure class="figure">
   <img src="/assets/figures/fig5-2_launch_costs.png" alt="Figure 5-2. Orbit: how many orders of magnitude have actually been crossed . The solid steps are flights and prices that are settled. The dashed steps are targets, not achievements. Cross the third order of magnitude and orbit becomes an industrial location rather than a mission.">
@@ -64,13 +64,13 @@ So nuclear and SMRs turn on how many copies of one design get built. As Chapter 
 
 The order book that mass production presupposes is already being built. Google contracted for up to 500 megawatts, Amazon for more than 5 gigawatts by 2039, Meta tendered for up to 4 gigawatts, and Microsoft locked in 835 megawatts on a twenty-year contract through the restart of Three Mile Island unit 1. The capacity the four announced or tendered across four months in the autumn of 2024 comes to something on the order of 10 gigawatts.<sup class="noteref"><a href="#note-7">7</a></sup> OpenAI's Stargate has reached roughly 7 gigawatts of planned capacity and more than 400 billion dollars of investment.<sup class="noteref"><a href="#note-8">8</a></sup> In fusion, Microsoft signed the world's first fusion power purchase agreement with Helion, and Google placed a 200-megawatt purchase agreement on CFS's ARC reactor.<sup class="noteref"><a href="#note-9">9</a></sup> On the machines themselves, Helion's Polaris became the first privately funded device to measure fusion on deuterium-tritium fuel, reaching 150 million degrees, and CFS's SPARC has set its first-plasma target at 2027. These are targets, not achievements.<sup class="noteref"><a href="#note-10">10</a></sup>
 
-But neither an order book nor an ignition is a price. SMRs and fusion alike carry extremely large construction CAPEX while their fuel costs once running are low, which gives them the property data centers and semiconductor fabs have: once the initial investment is cleared, the marginal cost of expanding use is low. The cost of energy falls after commercial operation, once decades of large-scale deployment, learning-by-doing and supply chain maturity have pushed unit cost down. Between the ignition of the first machine and a tenfold reduction in the cost per unit lie several decades and several hundred reactors. The main battleground for first power to the grid is the end of the 2020s and the 2030s, the main battleground for price impact is the 2040s, and even the 2040s may be too early. Diffusion itself is not the hard part, because fusion is compatible with the existing grid.
+But neither an order book nor an ignition is a price. SMRs and fusion alike carry large construction CAPEX while their fuel costs once running are low, which gives them the property data centers and semiconductor fabs have: once the initial investment is cleared, the marginal cost of expanding use is low. Between the ignition of the first machine and a tenfold reduction in the cost per unit lie several decades and several hundred reactors. The main battleground for first power to the grid is the end of the 2020s and the 2030s, the main battleground for price impact is the 2040s, and even the 2040s may be too early. Diffusion itself is not the hard part, because fusion is compatible with the existing grid.
 
 If energy settles the speed of AI, energy is also an instrument of governance over it. The electricity large-scale AI takes for training and inference cannot be hidden, cannot be smuggled, and can be counted.<sup class="noteref"><a href="#note-11">11</a></sup>
 
 ## 5.5 The effect on population
 
-If fertility reverses, it will reverse when the price of a child falls. As Chapter 4 showed, the fall in fertility is a price phenomenon, so its reversal can only occur as a price phenomenon too. And the condition for that arrives for the first time when the marginal cost of labor collapses in the wake of energy.
+If fertility reverses, it will reverse when the price of a child falls. As Chapter 4 showed, the fall in fertility is a price phenomenon. And the condition for that arrives for the first time when the marginal cost of labor collapses in the wake of energy.
 
 The sequence runs like this. If the mass production of humanoids and automated plant begins at the end of the 2020s, the price of energy P_E and the degree of automation A, in the framework of Chapter 4, move at the same time. The effective prices of the components of the expected cost per child C_child, meaning housing, education, childcare and healthcare, the Baumol sectors, can then fall structurally for the first time. There has only ever been one known cure for Baumol's cost disease. Raise productivity in the sick sector directly, with technology. Physical AI is another name for the productivity revolution in the Baumol sectors.
 
@@ -88,7 +88,7 @@ The unit cost of humanoids is indeed beginning to ride Wright's law. On Morgan S
 
 We look at what is around us and assume that humanity as a whole is moving at the same speed. What is fast is only what is around us, in Silicon Valley or the UAE. The claim of this thesis is not about when it arrives but about what the constraint is. The identification of the constraint can be correct while the speed of its removal differs completely from place to place according to capital, institutions and geography.
 
-**The possibility that capital markets break first.** The equation of Chapter 1 has a variable in it that has not yet been made explicit: the appetite of capital markets to invest. In Bank of America's fund manager survey of February 2026, the share of respondents saying that companies are overinvesting in capex reached the highest level in the history of the survey, 25 percent named an AI bubble as the largest tail risk, and 30 percent named hyperscaler capex as the epicenter of a systemic credit event.<sup class="noteref"><a href="#note-13">13</a></sup> This is the most direct skepticism the financial markets offer about this thesis's supply-side scenario. This thesis does not dismiss it. Let AI investment break badly once and the expansion curves of energy and computing power themselves bend. At that point the identification of the constraint stays correct and only its removal slips back by a decade or more.
+**The possibility that capital markets break first.** The equation of Chapter 1 has a variable in it that has not yet been made explicit: the appetite of capital markets to invest. In Bank of America's fund manager survey of February 2026, the share of respondents saying that companies are overinvesting in capex reached the highest level in the history of the survey, 25 percent named an AI bubble as the largest tail risk.<sup class="noteref"><a href="#note-13">13</a></sup> This is the most direct skepticism the financial markets offer about this thesis's supply-side scenario. This thesis does not dismiss it. Let AI investment break badly once and the expansion curves of energy and computing power themselves bend. At that point the identification of the constraint stays correct and only its removal slips back by a decade or more.
 
 **Growth itself will not be exponential.** The market of 2026 prices AI as though it will be. But what sets the speed is not how much power can be generated; it is whether a new load can be connected to the grid.
 
@@ -98,13 +98,17 @@ Two implications follow from this. Prices in the transition rise rather than fal
 
 ## 5.7 The valley of demand
 
-**Supply grows at once; demand grows only at the speed of population.** As section 2.7 derived, in a world where supply is automated the scarce thing is not productive capacity but demand. And population, which is what demand is made of, is the slowest-moving variable in an economy. Several decades pass before demand catches up with supply.
+### Supply grows at once; demand grows only at the speed of population
+
+As section 2.7 derived, in a world where supply is automated the scarce thing is not productive capacity but demand. And population, which is what demand is made of, is the slowest-moving variable in an economy. Several decades pass before demand catches up with supply.
 
 Population grew exponentially after a constraint came off in the first and second industrial revolutions. As Chapter 1 showed, what drove the surge in English population after 1750 was not falling mortality but rising fertility, and what pushed it up was rising real income.
 
 Even with distribution working and disposable income recovered, it takes time for fertility to move, and more time still for total population. Suppose a baby boom began in the 2030s: that generation enters the labor market in the 2050s. Through those years the largest supply capacity in history sits alongside a population that has not yet recovered. The trap China faces now is one the whole world will pass through once. China goes through it under the constraint, and the world goes through it with the constraint removed.
 
-**Of the four head-counts, automation can bypass one.** For an economy to work, it needs at least four head-counts: labor supply, demand, risk-takers and taxpayers. Machines can replace only the first.
+### Of the four head-counts, automation can bypass one
+
+For an economy to work, it needs at least four head-counts: labor supply, demand, risk-takers and taxpayers. Machines can replace only the first.
 
 The other three are all head-counts. If nobody wants the thing, then however much you make, it is only inventory. How many people will put their own lives into a business nobody has tried is settled not by productivity but by the size of the population and by whether that population is allowed to fail. You can tax the wealth machines generate, but what carries that taxation, decides its distribution and maintains its institutions is a human community, and the scale of a community is its population. The meaning of a falling population is not a shortage of labor but that these three shrink at once.
 
@@ -123,7 +127,9 @@ And even on the most optimistic assumptions available, the valley of demand last
 | 38–52 (core founding cohort) | 284m | 175m | 2073 | −38.4% |
 | Total population | 1.401bn | 1.127bn | 2115 or later | −19.5% |
 
-**The investment implication comes in two stages.** On the most optimistic scenario, the half-century from 2035 to roughly 2085 is the valley of demand. What can be relied on is returns that do not depend on head-count: stakes in automation capital itself, and the infrastructure of energy and computation. Businesses whose returns are proportional to the volume of demand sit in a structural headwind for that half-century. The four head-counts reach their floors between the 2070s and 2090, and return after that. Describing the world after the removal of the constraint is complete, and designing a way to survive the half-century that leads there, are two different jobs.
+### The investment implication comes in two stages
+
+On the most optimistic scenario, the half-century from 2035 to roughly 2085 is the valley of demand. What can be relied on is returns that do not depend on head-count: stakes in automation capital itself, and the infrastructure of energy and computation. Businesses whose returns are proportional to the volume of demand sit in a structural headwind for that half-century. The four head-counts reach their floors between the 2070s and 2090, and return after that. Describing the world after the removal of the constraint is complete, and designing a way to survive the half-century that leads there, are two different jobs.
 
 In a world short of demand, the strong position belongs not to the side that can make but to the side that can buy. And through the half-century of the valley of demand, the only places where population is still rising are East, West, Central and North Africa, the Levant, Pakistan, and parts of Central Asia and Central America, which are the lowest-income places in the world today. But demand is population multiplied by purchasing power per head, and what that part of the world holds now is future demand, not present demand. So for the side holding plant it cannot sell, building up the other side's ability to buy is not charity but the work of turning its own plant from a liability back into an asset.
 
@@ -202,6 +208,6 @@ The strongest objection to this model is migration. Because migration substantia
 
 ### What this thesis is not confident about on the timeline (5.6)
 
-The reservations set out in 5.6 are every one of them about the speed of removal, not about the identification of the constraint. There is exactly one case in which that distinction breaks down: the case in which capital markets break first and AI investment bends badly. Removal then slips back by a decade or more, and the investment judgments in this thesis need more than added years of waiting. Of the five priorities this thesis sets out, the judgment about returns that do not depend on head-count is the one most directly affected.
+The reservations set out in 5.6 are every one of them about the speed of removal, not about the identification of the constraint. There is exactly one case in which that distinction breaks down: the case in which capital markets break first and AI investment bends badly. Removal then slips back by a decade or more, and the investment judgments in this thesis need more than added years of waiting. Of the ten priorities this thesis sets out, the judgment about returns that do not depend on head-count is the one most directly affected.
 
 </div>

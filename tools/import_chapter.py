@@ -113,8 +113,10 @@ def strip_front(text):
     return text
 
 
+# the draft has set the title of a figure both in bold and plain; either way
+# the number in brackets is what marks the block
 FIGURE = re.compile(
-    r'(?:^> \*\*\[Figure ([0-9]+-[0-9]+)\]\s*(.*?)\*\*[^\n]*\n(?:^>[^\n]*\n)*)+',
+    r'(?:^> (?:\*\*)?\[Figure [0-9]+-[0-9]+\][^\n]*\n(?:^>[^\n]*\n)*)+',
     re.M)
 
 
@@ -142,13 +144,17 @@ def figures(body):
         lines = [re.sub(r'^>\s?', '', l) for l in block.strip('\n').split('\n')]
         out, cur = [], None
         for line in lines:
-            m = re.match(r'\*\*\[Figure ([0-9]+-[0-9]+)\]\s*(.*?)\*\*\s*(.*)$', line)
+            m = re.match(r'(?:\*\*)?\[Figure ([0-9]+-[0-9]+)\]\s*(.*)$', line)
             if m:
                 if cur:
                     out.append(cur)
-                cur = {'n': m.group(1), 'title': m.group(2), 'caption': []}
-                if m.group(3).strip():
-                    cur['caption'].append(m.group(3).strip())
+                title, rest = m.group(2), ''
+                bold = re.match(r'(.*?)\*\*\s*(.*)$', title)
+                if bold:
+                    title, rest = bold.group(1), bold.group(2)
+                cur = {'n': m.group(1), 'title': title.strip(), 'caption': []}
+                if rest.strip():
+                    cur['caption'].append(rest.strip())
             elif cur is not None and line.strip():
                 cur['caption'].append(line.strip())
         if cur:
