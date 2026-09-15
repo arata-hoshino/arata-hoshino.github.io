@@ -1149,6 +1149,53 @@ main {
   color: var(--ink);
 }
 
+/* --------------------------------------------------------- sidenotes
+
+   Built by assets/js/sidenotes.js. The mirror of the section rail: the
+   same width and the same size of type, on the other side of the column.
+   One note at a time, called up by its own mark.                        */
+
+.sidenote {
+  display: none;
+}
+
+@media screen and (min-width: 88rem) {
+  .page {
+    position: relative;
+  }
+
+  .sidenote {
+    display: block;
+    position: absolute;
+    /* as far outside the column on the right as the rail is on the left */
+    left: calc(100% + 12rem);
+    width: var(--rail);
+    color: var(--muted);
+    font-size: 0.72em;
+    line-height: 1.35;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-3px);
+    transition: opacity 0.16s ease, transform 0.16s ease, visibility 0s linear 0.16s;
+  }
+
+  .sidenote.is-open {
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    transition: opacity 0.16s ease, transform 0.16s ease, visibility 0s;
+  }
+
+  .sidenote-number {
+    color: var(--navy);
+  }
+
+  /* the mark keeps its place in the text while its note stands open */
+  .prose .noteref.is-open a {
+    color: var(--navy);
+  }
+}
+
 /* ------------------------------------------------------------ pager */
 
 /* No rule above it: the pager stands on white, between the body and the
