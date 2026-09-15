@@ -20,7 +20,7 @@
   var marks = page.querySelectorAll('.prose sup.noteref a[href^="#note-"]');
   if (!marks.length) return;
 
-  var wide = window.matchMedia('(min-width: 88rem)');
+  var wide = window.matchMedia('(min-width: 78rem)');
   var panel = null;
   var shown = null;
   var timer = null;

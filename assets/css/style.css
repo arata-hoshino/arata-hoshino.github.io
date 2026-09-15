@@ -1159,7 +1159,9 @@ main {
   display: none;
 }
 
-@media screen and (min-width: 88rem) {
+/* It appears wherever the rail does, and stands as far outside the column
+   on the right as the rail stands on the left, whatever the window. */
+@media screen and (min-width: 78rem) {
   .page {
     position: relative;
   }
@@ -1167,8 +1169,9 @@ main {
   .sidenote {
     display: block;
     position: absolute;
-    /* as far outside the column on the right as the rail is on the left */
-    left: calc(100% + 12rem);
+    left: calc(100% + (100vw - var(--measure)) / 2
+               - max(var(--gutter), 50vw - var(--measure) / 2 - 12rem - var(--rail))
+               - var(--rail));
     width: var(--rail);
     color: var(--muted);
     font-size: 0.72em;
