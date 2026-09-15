@@ -28,7 +28,7 @@ Energy and population, which the advanced economies hold fixed, are variables he
 
 Beyond that, there are two questions that made me write.
 
-At the start of the industrial revolution, if you had asked people what they wanted, they would have said a faster carriage. What arrived was the railway, and then the automobile. Something nobody ordered delivered what everybody wanted.<sup class="noteref"><a href="#note-4">4</a></sup> What is the nature of that substitution?
+At the start of the industrial revolution, if you had asked people what they wanted, they would have said a faster carriage. What arrived was the railway, and then the automobile. Something nobody ordered delivered what everybody wanted.<sup class="noteref"><a href="#note-4">4</a></sup> What was swapped, and what stayed?
 
 And there is the humanoid robot that appeared in almost every account of the future written in the 1980s. Humanoids are in fact arriving now, but not for the shopping errand. The value the shopping robot was supposed to deliver, which is having what you want appear at your door, came instead from Amazon, from rearranging warehousing, logistics, and the act of ordering. Small robots may take part at the tail end of a delivery, but none of them is a machine that walks to the store. The imagined form never arrived. The value did. Why is it always the form that gets replaced?
 
@@ -50,17 +50,17 @@ Malthus's logic was correct about the world he was describing. In an economy run
 
 My own family watched the same thing happen elsewhere. In the last years of the Tokugawa shogunate, while the argument was still running at the level of politics, my great-great-grandfather's generation gave practical priority to installing the most advanced systems of the day, which were the steam engine and the telegraph. And they learned this: once you install them, the questions worth arguing about, and the situation itself, change out from under you. The dispute between expelling the barbarians and opening the country did not get resolved. It disappeared as a question, somewhere past the point where the black ships' engines had been taken apart, the telegraph lines strung, and the railways laid.
 
-You do not win the argument about institutions. You replace the premises of the argument. That sense of order is the method running through this thesis, and it is also the essence of what is happening now in the Gulf.
+You do not win the argument about institutions. You replace the premises of the argument. That order is the method running through this thesis, and it is also what is happening now in the Gulf.
 
-## On the coordinate system
+## How the three are laid out
 
 Falling fertility is treated as culture, AI as technology, inequality as politics. Seen through three separate windows, the prescriptions contradict each other. Raising the birth rate calls for fiscal spending, AI policy calls for attracting investment, and inequality calls for taxing capital. Do all three at once and capital moves, and none of the three works. That is what is happening.
 
-What is needed is not a fourth prescription but putting the three on one board. The coordinate system this thesis uses is extremely reductive. It reduces most of what can be observed about a civilization to three variables: institutions, the effective abundance of energy, and labor input. Effective abundance is not the same thing as endowment. The same reserves become almost free energy in one society and stay in the ground in another.
+What is needed is not a fourth prescription but putting the three on one board. This thesis explains most of what can be observed about a civilization with three variables and no more: institutions, the effective abundance of energy, and labor input. Effective abundance is not the same thing as endowment. The same reserves become almost free energy in one society and stay in the ground in another.
 
 Placed on one board, two things change. The order of cause and symptom inverts, and fertility becomes not a cause but the slowest-moving symptom. And the order of action follows. Rather than lining up one remedy per symptom, you fill in whichever of the three terms is missing.
 
-A coordinate system is not asked whether it is right or wrong. It is asked only for explanatory and predictive power. I am aware that the reduction looks crude. What the crudeness buys in explanatory power is shown in the chapters that follow, and the judgment is left to the reader. The intended reader is explicit: sovereign wealth funds, venture capital, and individual investors. What they should be asking, before any judgment of a particular security or technology, is which variable is moving now.
+A way of laying things out is not asked whether it is right or wrong. It is asked only for explanatory and predictive power. I am aware that cutting it to three looks crude. What the crudeness buys in explanatory power is shown in the chapters that follow, and the judgment is left to the reader. The intended reader is explicit: sovereign wealth funds, venture capital, and individual investors. What they should be asking, before any judgment of a particular security or technology, is which variable is moving now.
 
 ## On a hypothesis that cannot be proved
 
@@ -68,7 +68,7 @@ Finally, here is what this thesis ultimately claims.
 
 Consider a society in which energy is supplied at a level where price need not be counted, in which every process is automated, and in which institutions are correctly designed on top of that. The structural constraint that has bound the conception of business models and of large-scale investment comes off. The wealth that is created is distributed to everyone as a stake held from birth, and by the age of eighteen a person is a capitalist without ever having worked. At that point what an individual does with their time changes. Neither productivity nor contribution to GDP is the governing aim; making someone else happy is, and one can pour everything into the creation and exchange of value that serves it. That becomes possible because the exchange of value is itself tracked in data.
 
-And the macro problems we now fear begin to resolve themselves there. The collapse of population is only one of them. Increasing population is not the objective. It is that things were that way under a larger structural constraint, so when the constraint comes off, the direction changes. Humanity goes farther, production and transport move off the planet, and the world of bits, refined to its limit, becomes nearly indistinguishable from magic.
+And the macro problems we now fear come from that same constraint, so they begin to resolve when it comes off. The collapse of population is only one of them. Increasing population is not the objective. It is that people stopped having children under a larger structural constraint, so when the constraint comes off, births return. Humanity goes farther, production and transport move off the planet, and the world of bits, refined to its limit, becomes nearly indistinguishable from magic.
 
 This is not a proof. It is a hypothesis, and I cannot prove it either. Statements about the future are like that in principle.
 

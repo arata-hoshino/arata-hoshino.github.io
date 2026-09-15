@@ -21,43 +21,34 @@ energy and labor input, together with the distribution of wealth. They do not wa
 treatment.
 
 The argument of this thesis is that contemporary civilization faces one structural constraint, a
-stalled capacity to build, defined by three deficits: (i) the absence of energy abundance, (ii) a
-lag in automation, and (iii) the absence of institutions. The macroeconomic and social stagnation
-we observe, including economic stagnation and population collapse, is not the cause. It is the set
-of symptoms the constraint produced.
+stalled capacity to build, defined by three deficits: (i) the absence of effective energy
+abundance, (ii) a lag in automation, and (iii) the absence of institutions. Economic stagnation
+and population collapse are not the cause. They are the symptoms the constraint produced.
 
-The thesis begins with an interpretation of the past industrial revolutions and a concrete
-diagnosis of the present.
+The argument begins with an interpretation of the past industrial revolutions and a diagnosis of
+the present.
 
-1. The industrial revolutions are read as two axes: the efficiency of the joule and the efficiency
-   of the bit.
+One. The industrial revolutions are re-read on two axes: the efficiency of placing matter and the
+efficiency of prediction.
 
-2. The supply constraint is argued to be suppressing, at the macro layer, our capacity to conceive
-   large new investment.
+Two. The supply constraint is argued to be suppressing, at the macro layer, our capacity to
+conceive large new investment.
 
-3. The supply constraint is argued to be suppressing population at the macro layer, as a second
-   Malthusian trap, through the rising prices of exactly those goods automation never reached.
+Three. The supply constraint is argued to be suppressing population as a second Malthusian trap,
+with the rising prices of exactly those goods automation never reached striking households
+directly.
 
-From there the thesis sets out how the accelerating arrival of energy abundance and automation
-restores that capacity to conceive and expands demand. It proposes a model of distributed
-ownership built on baby bonds, in place of allocating income by contribution to tasks. And it
-proposes, as a departure from GDP, a model of value creation and measurement centered on use
-value, applying the principles of service-dominant logic.
+From there the thesis sets out how the accelerating arrival of effective energy abundance and of
+automation restores that capacity to conceive and expands demand. In place of allocating income by
+contribution to tasks, it proposes a model of distributed ownership built on capital accounts at
+birth. And as a departure from GDP, it proposes a model of value creation and measurement centered
+on use value, applying the principles of service-dominant logic.
 
-It then examines, region by region, the subcategories bearing on energy abundance, automation, and
-institutions, and forecasts the composition of the world at the level of clusters. It concludes by
-identifying Texas and the UAE as the candidates for long and sustained success, the San Francisco
-Bay Area, Shenzhen, and Hangzhou as likely to keep growing, and Japan-Korea-Taiwan as
-consolidating into technological chokepoints.
-
-The intended readers are sovereign wealth funds, venture capital, other investors, and founders
-building in deep tech. This thesis is strongly hypothetical in character, analyzing, thinking, and
-designing outside the present constraint rather than inside it, and it is meant to serve as a
-compass for investment in the way a hypothesis can. It is therefore not a rigorous scientific
-proof of the kind an academic paper offers, nor is it an analysis of particular companies whose
-fortunes turn over in a matter of months. The figures and sources in this thesis are, unless
-otherwise stated, as of August 2026. Dates given for companies and projects are not achievements
-but the targets published at that time.
+Finally it examines, region by region, the subcategories bearing on effective energy abundance,
+automation and institutions, and forecasts the composition of the world at the level of clusters.
+It identifies Texas and the UAE as the candidates for long and sustained success, the San
+Francisco Bay Area, the Yangtze Delta and the Pearl River Delta as likely to keep growing, and
+Japan-Korea-Taiwan as consolidating into technological chokepoints.
 
 ## Table of Contents
 {: .toc-heading}
@@ -100,7 +91,7 @@ but the targets published at that time.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">IV</span>
     <span class="toc-title"><a href="/essays/on-population/">On Population</a></span>
-    <p class="toc-summary">Falling fertility is a price phenomenon, not a cultural one. The Malthusian trap did not disappear; it moved from food to the household budget. China as the largest case.</p>
+    <p class="toc-summary">Falling fertility is a price phenomenon, not a cultural one. The Malthusian trap did not disappear. Energy took the seat food used to occupy, and it tells through the household budget. China as the largest case.</p>
   </li>
 </ol>
 
@@ -120,7 +111,7 @@ but the targets published at that time.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">VII</span>
     <span class="toc-title"><a href="/essays/on-value/">On Value</a></span>
-    <p class="toc-summary">Price is only a proxy for use value. When use value becomes measurable, currency becomes data. The release of the axis of expenditure, and the second gate on births.</p>
+    <p class="toc-summary">Price is only a proxy for use value. When use value becomes measurable, currency becomes data. The release of the inefficient side, and the second gate on births.</p>
   </li>
 </ol>
 
@@ -130,12 +121,12 @@ but the targets published at that time.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">VIII</span>
     <span class="toc-title"><a href="/essays/on-clusters/">On Clusters</a></span>
-    <p class="toc-summary">The body of the world economy is not the nation but the cluster, and most clusters sit along the rim of the Indo-Pacific. Migration is substantially urbanization across a border. The terms the equation decomposes into, two techno-blocs and a third candidate, and the regions scored against them. The loop that joins one term to another belongs, for now, to no one.</p>
+    <p class="toc-summary">The body of the world economy is not the nation but the cluster, and most clusters sit along the rim of the Indo-Pacific. Migration is substantially urbanization across a border. The terms the equation decomposes into, two techno-blocs and a third candidate, and the regions scored against them. The question left is which goes further: the side that divides the terms among itself, or the side that holds all of them within one country.</p>
   </li>
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">IX</span>
     <span class="toc-title"><a href="/essays/on-investment/">On Investment</a></span>
-    <p class="toc-summary">What is required sits unevenly across three regions, and whoever integrates them settles the siting. From that, the order of resource allocation, in five items. The discipline of allocation, the first move available now, and five predictions, each with the condition under which it would be shown wrong.</p>
+    <p class="toc-summary">What is required sits unevenly across three regions, and whoever integrates them settles the siting. From that, five answers to what to invest in and one to how. The loop that joins one term to another belongs, for now, to no one. And five predictions, each with the condition under which it would be shown wrong.</p>
   </li>
 </ol>
 
@@ -155,5 +146,7 @@ but the targets published at that time.
   (CC BY 4.0). Quote, translate, excerpt and redistribute it freely, including commercially,
   provided the author and the source are named. Cite as: Arata Hoshino, <cite>The Far Side of the
   Constraint: A Civilizational Thesis on Energy Abundance, Physical Automation, and the
-  Distribution of Ownership</cite> (2026).
+  Distribution of Ownership</cite> (2026). This thesis is also not a rigorous proof of the kind an
+  academic paper offers, and its figures, sources and plans are, unless otherwise stated, as of
+  August 2026.
 </div>
