@@ -9,6 +9,12 @@ authors:
 description: "A thesis on the one structural constraint behind stagnation, falling births, and artificial intelligence running into a wall of electricity — and on the civilization that lies on the far side of it."
 ---
 
+*This thesis is written for sovereign wealth funds, venture capital, other investors, and founders
+building in deep tech. It is a hypothesis that analyzes, conceives and designs outside the present
+constraint rather than inside it, and it is meant to serve, as a hypothesis, as a compass for
+investment.*
+{: .lede}
+
 ## Abstract
 
 Suppose a future society in which energy is abundant, in which artificial intelligence and
@@ -127,15 +133,6 @@ Japan-Korea-Taiwan as consolidating into technological chokepoints.
     <span class="toc-number" aria-hidden="true">IX</span>
     <span class="toc-title"><a href="/essays/on-investment/">On Investment</a></span>
     <p class="toc-summary">What is required sits unevenly across three regions, and whoever integrates them settles the siting. From that, five answers to what to invest in and one to how. The loop that joins one term to another belongs, for now, to no one. And five predictions, each with the condition under which it would be shown wrong.</p>
-  </li>
-</ol>
-
-<h3 class="toc-part">About the Author</h3>
-
-<ol class="toc-list">
-  <li class="toc-item">
-    <span class="toc-number" aria-hidden="true">—</span>
-    <span class="toc-title"><a href="/about/">About the Author</a></span>
   </li>
 </ol>
 

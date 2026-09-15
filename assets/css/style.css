@@ -873,6 +873,13 @@ main {
   margin-top: 3.72rem;
 }
 
+/* The line that stands before the abstract, naming who the thesis is for
+   and on what terms it is offered. */
+.prose .lede {
+  margin: 0 0 clamp(2.5rem, 5vw, 3.5rem);
+  color: var(--ink);
+}
+
 /* The contents opens on white: the break alone carries it. */
 .prose .toc-heading {
   margin-top: 3.4rem;
