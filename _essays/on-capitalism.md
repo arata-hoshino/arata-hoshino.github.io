@@ -9,7 +9,7 @@ redirect_from:
   - /essays/on-ownership/
 ---
 
-If what you have read so far has looked like a work of optimism, this chapter should correct that. I am optimistic about supply and pessimistic about distribution. To put it precisely, I predict that the redistribution of wealth will fail once, somewhere in the 2030s. And the first half of that prediction, the leftward turn in politics, has already begun.
+If what you have read so far has looked like a work of optimism, this chapter should correct that. This thesis is optimistic about supply and pessimistic about distribution. To put it precisely, the prediction here is that the redistribution of wealth will fail once, somewhere in the 2030s. And the first half of that prediction, the leftward turn in politics, has already begun.
 
 ## 6.1 The invention of the task
 
@@ -35,9 +35,9 @@ So the present answer to the question of whether AI destroys high-skill work fir
 
 ## 6.3 The democratic-socialist wave, and its failure
 
-Politics always reacts. My reading has been the same for some time: through the 2030s, a democratic-socialist mood will rise in the major advanced economies. While I was writing, the first half of the prediction began to come true. In November 2025, candidates standing as democratic socialists won the mayoralties of New York and Seattle. Gallup's survey that year put favorable views of capitalism down to 54 percent.<sup class="noteref"><a href="#note-5">5</a></sup> In an era when the young are beginning to be shut out of the task conduit, this current is not a coincidence. It is the first political sign of the crisis of distribution.
+Politics always reacts. The reading has not changed for some time: through the 2030s, a democratic-socialist mood will rise in the major advanced economies. While this chapter was being written, the first half of the prediction began to come true. In November 2025, candidates standing as democratic socialists won the mayoralties of New York and Seattle. Gallup's survey that year put favorable views of capitalism down to 54 percent.<sup class="noteref"><a href="#note-5">5</a></sup> In an era when the young are beginning to be shut out of the task conduit, this current is not a coincidence. It is the first political sign of the crisis of distribution.
 
-But I predict that the remedies this wave puts forward will fail. And the mechanism of failure is not the old point about high tax rates blunting the will to work but capital flight.
+But the remedies this wave puts forward will fail. And the mechanism of failure is not the old point about high tax rates blunting the will to work but capital flight.
 
 Tax financial income heavily and the agents that generate the wealth leave. Capital moves, and so do the people who hold it. Capital does not vanish at that moment; it moves to a country with better terms. This, exactly, is why institutions, the tax code, the business environment and the depth of the cluster are decisive. When you design distribution, what you are dealing with is not a citizenry but capital that can be redeployed across borders.
 
@@ -49,7 +49,7 @@ The strongest answer to this weakness is not a higher rate but international coo
 
 **The limits of cash transfers.** On UBI we now have the best experimental data there is. The unconditional cash study run by OpenResearch, funded by Sam Altman, gave a thousand people a thousand dollars a month for three years. The results: hours worked down 1.3 a week, the employment rate down about 2 percent, no measurable improvement in health indicators. The Finnish experiment likewise raised subjective wellbeing while its employment effect was close to zero.<sup class="noteref"><a href="#note-8">8</a></sup> Cash buys autonomy and immediate peace of mind. On its own it changes neither the trajectory of a life nor a person's health. A check does not move the structure. Distribution policy arrives at the same conclusion this thesis reached about family policy in Chapter 4.
 
-I am not against the safety net. I cannot look at a country where several percent of the population strung out on fentanyl and call it acceptable. What I reject is the view that the remedy is socialist policy. It was I who wrote, in an earlier jointly written memo, that we should move from capitalist arrangements to a socialist UBI and eventually to holding the means of production in common. Six months later I have come to think that the method was the part that was wrong.
+None of this is an argument against the safety net. A country where several percent of the population is strung out on fentanyl is not something to call acceptable. What I reject is the view that the remedy is socialist policy. It was I who wrote, in an earlier jointly written memo, that we should move from capitalist arrangements to a socialist UBI and eventually to holding the means of production in common. Six months later, what was wrong turns out to have been the method.
 
 ## 6.4 Make every citizen an investor
 
@@ -100,7 +100,7 @@ Here is the reason this thesis is not pessimistic about the death of task-based 
 
 And there is a temporal asymmetry in that order. Institutions of distribution can be made by legislation, so once the decision is taken they move within a few years. Population does not, and as Chapter 5 showed, a child born now joins demand, risk-taking and the tax rolls twenty years later. The design of distribution therefore has to be started twenty years before its effect appears. To institutionalize it in the 2030s is to buy the demand, the challengers and the tax revenue of the 2050s now.
 
-In Chapter 5 I wrote that the design of distribution is a necessary condition and not a sufficient one. I can now say precisely why. Distribution restores three of the head-counts, but the restoration runs on human time. Institutions can solve the problem of income. They cannot solve the problem of time. Which is why there is a need to hurry.
+Chapter 5 said that the design of distribution is a necessary condition and not a sufficient one. The reason can now be stated precisely. Distribution restores three of the head-counts, but the restoration runs on human time. Institutions can solve the problem of income. They cannot solve the problem of time. Which is why there is a need to hurry.
 
 Section 6.6 described a world in which value reaches people without monetary income. So what is value? Before the final part, we have to look at the bare face of the economy that remains after price has been retired.
 

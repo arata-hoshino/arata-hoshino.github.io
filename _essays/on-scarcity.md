@@ -76,7 +76,7 @@ The second reading is this thesis's own. Ideas did not run dry. Implementation w
 
 ## 3.6 Three variables, and eight billion robots
 
-If the stagnation of the advanced countries is to be decomposed, the three variables I watch are automation, energy cost, and the speed at which research and development gets implemented. Countries in which all three improve together rise; countries in which all three deteriorate together sink. Every analysis in the chapters that follow is an observation of these three variables.
+If the stagnation of the advanced countries is to be decomposed, the three variables to watch are automation, energy cost, and the speed at which research and development gets implemented. Countries in which all three improve together rise; countries in which all three deteriorate together sink. Every analysis in the chapters that follow is an observation of these three variables.
 
 Here is a simple demonstration that the total quantity of energy is going to fall short. Treat the eight billion humans alive now as robots with computing capacity. On that count alone, the total of drive energy, meaning food, and computing energy, meaning the brain, is already enormous. Now suppose we newly create advanced robots equivalent to another eight billion units: automated plant, humanoids, data centers. Very nearly the same quantity of energy again, or more, will be required on top. In a world where energy generation grows only by something like a factor of 1.2 while the requirement doubles, what happens? Energy prices rise, the whole price system is pushed up, and household disposable income falls. And so our population fell. Demand, moreover, does not stop at eight billion units. There is no limit to it. We will automate more, move more, compute more.
 
@@ -136,7 +136,7 @@ The claim of this thesis answers that criticism in one particular form. What thi
 
 ### The relation between the three variables and the equation of Chapter 1 (3.6)
 
-The three variables raised in 3.6, automation, energy cost, and the speed at which research and development gets implemented, are a different cut from the product of three terms in section 1.2 of Chapter 1. The former are observational indicators for diagnosis; the latter is a definition of the capacity to build. Automation corresponds to L and energy cost to E, but the speed of implementation corresponds directly to none of the three terms. This mismatch has not been resolved. I take the speed of implementation to be a secondary quantity that appears as a composite of institutions, capital and energy, but it has not yet been put into a form in which that can be written down.
+The three variables raised in 3.6, automation, energy cost, and the speed at which research and development gets implemented, are a different cut from the product of three terms in section 1.2 of Chapter 1. The former are observational indicators for diagnosis; the latter is a definition of the capacity to build. Automation corresponds to L and energy cost to E, but the speed of implementation corresponds directly to none of the three terms. This mismatch has not been resolved. The speed of implementation is best read as a secondary quantity that appears as a composite of institutions, capital and energy, but it has not yet been put into a form in which that can be written down.
 
 ### On the arithmetic of the eight billion robots (3.6)
 

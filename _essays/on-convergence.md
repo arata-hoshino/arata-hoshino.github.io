@@ -11,7 +11,7 @@ summary: "The efficiency of civilization is two convergence costs, matter config
 
 The progress of civilization is made of one substrate and two directions of development. The substrate is energy, and the two directions ride on top of it. Not two axes placed side by side, but two layers stacked.
 
-Direction 1 is productivity in the physical world. Turning energy into momentum, building machines, transporting, constructing, traveling farther. The goal of moving matter with less effort and at lower cost has not changed since the industrial revolution. Jensen Huang divides AI into five layers: energy, chips, infrastructure, models, and applications.<sup class="noteref"><a href="#note-1">1</a></sup> I agree with placing energy at the bottom. But seen from the side of civilization, two layers suffice: energy, and the applications that run on it. The layers in between rise and fall as means to that goal.
+Direction 1 is productivity in the physical world. Turning energy into momentum, building machines, transporting, constructing, traveling farther. The goal of moving matter with less effort and at lower cost has not changed since the industrial revolution. Jensen Huang divides AI into five layers: energy, chips, infrastructure, models, and applications.<sup class="noteref"><a href="#note-1">1</a></sup> Placing energy at the bottom is right. But seen from the side of civilization, two layers suffice: energy, and the applications that run on it. The layers in between rise and fall as means to that goal.
 
 Direction 2 is productivity in the world of bits. A lineage that begins with language and continues through writing, printing, the telegraph, and the telephone: development on the side where mass is minimal. Solutions here do not necessarily take physical form. We imagined a future in which a shopping robot took our order and came back with the goods; what actually delivered it was Amazon, a system. At the far end of this direction lies what Yoichi Ochiai calls technology becoming magic, which is to say technology that dissolves into the environment and disappears from view.
 
@@ -64,7 +64,7 @@ This is what the present turn actually is. The commitment of capital to physical
 
 ## 2.5 The industrial revolution never ended
 
-I wrote "return," but only one side had stopped. The pressure toward efficiency itself has not broken once in two hundred years.
+The word used was "return," but only one side had stopped. The pressure toward efficiency itself has not broken once in two hundred years.
 
 What speaks to this most plainly is a completed experiment with two centuries of data behind it: British agriculture. On Wrigley's account, roughly three quarters of the labor force was in agriculture under the Tudors. By the early eighteenth century it was about half, and by 1800 under two fifths. Broadberry and colleagues show the agricultural labor share already down to about 37 percent by 1759. Today agriculture is under 1 percent of the British labor force. And with that under 1 percent Britain produces the equivalent of roughly 60 percent of the food it consumes.<sup class="noteref"><a href="#note-10">10</a></sup> Two caveats. The remaining 40 percent is externalized to the labor and land of other countries, so the system does not close within Britain alone. And the fall in labor share is mixed with a denominator effect, as other sectors swelled. Even so, the fact that the same crops on the same island can now be grown in greater quantity with under a fortieth of the hands does not move.
 

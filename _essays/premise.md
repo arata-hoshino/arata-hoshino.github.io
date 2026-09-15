@@ -10,7 +10,7 @@ summary: "Where the given and the chosen change places. Two puzzles, the carriag
   <figcaption>— R. Buckminster Fuller, <cite>Critical Path</cite> (1981), p.198</figcaption>
 </figure>
 
-You can see the future first in San Francisco, wrote Leopold Aschenbrenner.<sup class="noteref"><a href="#note-1">1</a></sup> I agree with half of that. The future of computation can indeed be seen from San Francisco. But the future of civilization, which is to say the future of energy, population, and distribution, is visible first from the United Arab Emirates, where I live. This thesis is that report.
+You can see the future first in San Francisco, wrote Leopold Aschenbrenner.<sup class="noteref"><a href="#note-1">1</a></sup> Half of that is right. The future of computation can indeed be seen from San Francisco. But the future of civilization, which is to say the future of energy, population, and distribution, is visible first from the United Arab Emirates, where I live. This thesis is that report.
 
 ## Where the given and the chosen change places
 
@@ -60,7 +60,7 @@ What is needed is not a fourth prescription but putting the three on one board. 
 
 Placed on one board, two things change. The order of cause and symptom inverts, and fertility becomes not a cause but the slowest-moving symptom. And the order of action follows. Rather than lining up one remedy per symptom, you fill in whichever of the three terms is missing.
 
-A way of laying things out is not asked whether it is right or wrong. It is asked only for explanatory and predictive power. I am aware that cutting it to three looks crude. What the crudeness buys in explanatory power is shown in the chapters that follow, and the judgment is left to the reader. The intended reader is explicit: sovereign wealth funds, venture capital, and individual investors. What they should be asking, before any judgment of a particular security or technology, is which variable is moving now.
+A way of laying things out is not asked whether it is right or wrong. It is asked only for explanatory and predictive power. Cutting it to three looks crude. What the crudeness buys in explanatory power is shown in the chapters that follow, and the judgment is left to the reader. The intended reader is explicit: sovereign wealth funds, venture capital, and individual investors. What they should be asking, before any judgment of a particular security or technology, is which variable is moving now.
 
 ## On a hypothesis that cannot be proved
 
