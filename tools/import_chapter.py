@@ -228,7 +228,9 @@ def references(body):
     def sup(m):
         n, punct = m.group(1), m.group(2)
         return '%s<sup class="noteref"><a href="#note-%s">%s</a></sup>' % (punct, n, n)
-    return re.sub(r'[ \n]*\[(\d+)\]([.,;:]?)', sup, body)
+    # at most three digits: a four-figure number in brackets is the year of
+    # an original edition, as in "1964 [1848]", and not a reference at all
+    return re.sub(r'[ \n]*\[(\d{1,3})\]([.,;:]?)', sup, body)
 
 
 def notes(app):

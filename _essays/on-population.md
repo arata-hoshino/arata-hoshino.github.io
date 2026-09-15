@@ -46,7 +46,7 @@ On employment, Adserà's international comparison shows that high unemployment a
 
 In Korea, cumulative spending on low-fertility measures since 2006 has reached roughly 380 trillion won, and the TFR arrived at after those twenty years is 0.72 (2023), and 0.55 in Seoul.<sup class="noteref"><a href="#note-8">8</a></sup> Twenty years of handing out a sum equivalent to several percent of GDP, and the price structure itself did not move.
 
-Widen the view to the world and this is not a local phenomenon. On the United Nations' World Population Prospects 2024, world TFR has fallen to 2.25 and two thirds of the world's population live in countries below replacement. The GBD projection published in The Lancet has world TFR heading for 1.83 in 2050 and 1.59 in 2100. Thailand's TFR is 0.86, already below Japan's.<sup class="noteref"><a href="#note-9">9</a></sup> 
+Widen the view to the world and this is not a local phenomenon. On the United Nations' World Population Prospects 2024, world TFR has fallen to 2.25 and two thirds of the world's population live in countries below replacement. The GBD projection published in The Lancet has world TFR heading for 1.83 in 2050 and 1.59 in 2100. Thailand's TFR is 0.86, already below Japan's.<sup class="noteref"><a href="#note-9">9</a></sup>
 
 <figure class="figure">
   <img src="/assets/figures/fig4-2_tfr_distribution.png" alt="Figure 4-2. The distribution itself moved: world fertility rates (1960–2024) . Each ridge is the population-weighted distribution of national fertility rates for that year. The share of humanity living in countries below replacement moved from 3.9 percent to 67.4 percent.">
@@ -59,15 +59,13 @@ Widen the view to the world and this is not a local phenomenon. On the United Na
 
 The site where this mechanism is running at the largest scale in the world is China. The merits of the political system are not the subject. Only the arithmetic of population and economic structure is.
 
-### The cliff
-
 In 2025 China's annual births fell to 7.92 million. That is a drop of 17 percent in a single year from the previous year's 9.54 million, less than half the 2016 figure, and the lowest since the founding of the republic. The population fell by 3.39 million to 1.405 billion, a fourth consecutive year of decline, and the rate of decline more than doubled against the previous year. Marriage is the leading indicator, and marriage registrations in 2024 numbered 6.10 million, down 20 percent on the year, the largest fall since the statistics began. The 2013 peak was 13.47 million.<sup class="noteref"><a href="#note-10">10</a></sup>
 
 ### The population base is already fixed
 
 That it will not reverse is already settled once you look at the cohorts. The female population aged 20 to 34, which carries 85 percent of births, goes from 105 million in 2025 to 58 million in 2050, close to halving, and that is fixed by the number of people who have already been born. This thesis's own estimate lays the observed trends in marriage rates and marital fertility over that cohort structure and stacks up annual births from them, and the implication is simple. Births, which ran at around 20 million a year in the 1990s (20.67 million in 1996), fall below 6 million around 2032 and flatten out at 5 to 6.5 million a year from the late 2030s into the 2040s.
 
-Births in a given year are the female population of reproductive age in that year multiplied by age-specific fertility rates and summed. China's mean age at childbearing is 29.2 to 29.3 on the United Nations' estimates;<sup class="noteref"><a href="#note-11">11</a></sup> the distribution of births spreads from roughly 18 to 40, centered on that mean with a slight tail to the right. Every woman who will give birth in 2050 has been born by 2032 at the latest. The population base is already fixed. The only degree of freedom left is the level of age-specific fertility, which is to say the TFR. 
+Births in a given year are the female population of reproductive age in that year multiplied by age-specific fertility rates and summed. China's mean age at childbearing is 29.2 to 29.3 on the United Nations' estimates;<sup class="noteref"><a href="#note-11">11</a></sup> the distribution of births spreads from roughly 18 to 40, centered on that mean with a slight tail to the right. Every woman who will give birth in 2050 has been born by 2032 at the latest. The population base is already fixed. The only degree of freedom left is the level of age-specific fertility, which is to say the TFR.
 
 The median birth year of the mothers of the 7.92 million children born in 2025, backed out from the mean age at childbearing, falls around 1996. Births in 1996 were 20.67 million. By 2003 they had fallen to about 16 million.<sup class="noteref"><a href="#note-10">10</a></sup> Mechanically from there, births in 2032 shrink to around 6 million. Actually applying the age-specific fertility distribution and summing gives about 6.55 million if TFR is held at its 2025 level of 0.93, and about 5.97 million if TFR falls to 0.75.
 
@@ -117,7 +115,7 @@ The speed at which population returns sets the speed of everything else.
 
 That said, the degrowth cast of mind has to be broken: the idea of accepting a falling population in order to hold down the consumption of resources. There is no ground for suppressing population. Population is a result, and pressure is being applied to it now only because there is a constraint on the supply of energy. If energy were inexhaustibly abundant and supplied cheaply and in volume, the rate of economic growth would by rights explode, and with redistribution working, our population would be free to rise again. As we saw in Chapter 1, societies of abundance have in fact reproduced their populations. In Britain during the industrial revolution, in the postwar United States, in the Gulf during the oil boom.
 
-Elon Musk's dream of becoming a multiplanetary species is not a mission but a result that follows once the constraint comes off. Abolish the energy constraint on Spaceship Earth and our civilization turns necessarily toward expansion, with expansion in the direction of space following as part of it. 
+Elon Musk's dream of becoming a multiplanetary species is not a mission but a result that follows once the constraint comes off. Abolish the energy constraint on Spaceship Earth and our civilization turns necessarily toward expansion, with expansion in the direction of space following as part of it.
 
 Falling fertility is not a cultural phenomenon but a price phenomenon. Only a collapse in the cost of energy and robotics, therefore, can reverse the demographics. That is the end of the diagnosis. Three chapters have traced how the constraint descends to the household and from the household to population. What comes next is what happens when that constraint comes off.
 

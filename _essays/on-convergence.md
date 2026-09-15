@@ -25,7 +25,7 @@ That intuition coincides exactly with the definition given by the father of info
 
 The convergence cost of matter configuration (C_config) is the total cost of getting arbitrary matter to an arbitrary place in an arbitrary configuration. Transport, manufacture, construction, agriculture, and the opening of space are all special cases of convergence on a desired configuration of matter, and thermodynamics sets the ceiling on their efficiency. The convergence cost of predictive models (C_pred) is the total cost of having on hand, at the required accuracy, a model of the state and behavior of some system: another person's mind, a market, a protein, a city. Communication, computation, science, education, and AI are all special cases of convergence on a sufficiently good predictive model. The wheel, the sailing ship, the steam engine, the container, and reusable rockets are milestones of the first; language, writing, printing, the telegraph, the internet, and deep learning are milestones of the second.
 
-What is treated here is only the direction of efficiency. 
+What is treated here is only the direction of efficiency.
 
 ## 2.3 The law of competition
 
@@ -85,7 +85,7 @@ The human brain is not an organ designed to maximize computational capacity but 
 
 There is corroboration from robotics. Hans Moravec wrote in *Mind Children* (1988) that it is comparatively easy to make a computer perform at adult level on intelligence tests, and difficult or impossible to give it the perceptual and motor skills of a one-year-old. The reason lies in evolutionary time. "The large, highly evolved sensory and motor portions of the human brain encode a billion years of experience. (...) The deliberate process we call reasoning is, I believe, the thinnest veneer of human thought".<sup class="noteref"><a href="#note-14">14</a></sup> The present sight of white-collar intellectual work being eroded by AI ahead of skilled blue-collar physical work is consistent with that view. Consistent, and no more than that. The same scene is equally well explained by something simpler, which is that language and clerical work were the work for which digitized training data already existed in quantity. Which of the two is operating I cannot separate at present.
 
-And in a future where computation has been fully externalized, on the ruler of computational volume, differences between humans vanish. That is not the same as the differences themselves vanishing. Judgment remains, relationships remain, the body remains. What retires is the single ruler that stood in front of them for two hundred years. 
+And in a future where computation has been fully externalized, on the ruler of computational volume, differences between humans vanish. That is not the same as the differences themselves vanishing. Judgment remains, relationships remain, the body remains. What retires is the single ruler that stood in front of them for two hundred years.
 
 ## 2.7 Rewriting the equation of national power
 

@@ -49,15 +49,11 @@ What this thesis treats is the competitiveness of a civilization. Competitivenes
 
 Japan-Korea-Taiwan, holding between them the depth of an advanced-industrial supply chain, sit upstream on T. That is why they cannot be substituted for. The United States holds much of T and holds K, and what it lacks arrives through alliance. China holds much of T and much of K but sits outside the alliance. For a country with neither, two paths remain: accept enormous investment through alliance, or receive a transfer of technology. L can be obtained without building it yourself. It just requires somebody's permission.
 
-### What the equation settles is a flow
+### The constraint binds what can be conceived
 
-What this equation settles is not wealth as a stock but the capacity to build as a flow.
-
-The set of countries that are wealthy now and the set that can build now are different sets. The first is running on inventory laid down in a period when all three were present.
+What this equation settles is not wealth as a stock but the capacity to build as a flow. The set of countries that are wealthy now and the set that can build now are different sets. The first is running on inventory laid down in a period when all three were present.
 
 What the absence of abundance takes away is not prosperity in general but the option to build. Steel mills, chemical plants, gigawatt-scale computing substrate, and cities themselves fall out of the set of things that society can choose. And for the coming decades what the world needs is the building, not the inventory.
-
-### The constraint binds what can be conceived
 
 Options are not considered and rejected. They stop being proposed. Where a premise is known to be fixed rather than variable, no business plan is written on that premise, nothing reaches an investment committee, and nothing is conceived in the first place. Let a constraint persist long enough and people take the inside of it for the whole world. The range of ventures we currently feel to be realistic, and our common sense about the scale of investment, were both built on the assumption that the three terms sit where they now sit. What this equation binds is not only what can be built. It binds what can be conceived.
 

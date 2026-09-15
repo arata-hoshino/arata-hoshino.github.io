@@ -29,7 +29,7 @@ This is the purest modern version of the paradox Jevons saw in coal (Chapter 2).
 
 ## 5.3 Anatomy of the demand explosion
 
-The more the efficiency of energy conversion in the physical world improves and the further cost falls, the more the business models that have been held down come into flower, the more energy demand expands without limit, the more uses multiply, and the more energy production rises again in a virtuous circle. 
+The more the efficiency of energy conversion in the physical world improves and the further cost falls, the more the business models that have been held down come into flower, the more energy demand expands without limit, the more uses multiply, and the more energy production rises again in a virtuous circle.
 
 <p class="equation">E↑ → P_E↓ → application demand D↑ → investment↑ → E↑</p>
 What gets unlocked can be drawn concretely from the cost structure.
@@ -98,7 +98,7 @@ Two implications follow from this. Prices in the transition rise rather than fal
 
 ## 5.7 The valley of demand
 
-### Supply grows at once; demand grows only at the speed of population
+Supply grows at once; demand grows only at the speed of population.
 
 As section 2.7 derived, in a world where supply is automated the scarce thing is not productive capacity but demand. And population, which is what demand is made of, is the slowest-moving variable in an economy. Several decades pass before demand catches up with supply.
 
