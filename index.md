@@ -130,7 +130,7 @@ Japan-Korea-Taiwan as consolidating into technological chokepoints.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">IX</span>
     <span class="toc-title"><a href="/essays/on-investment/">On Investment</a></span>
-    <p class="toc-summary">What is required sits unevenly across three regions, and whoever integrates them settles the siting. From that, five answers to what to invest in and one to how. The loop that joins one term to another belongs, for now, to no one. And five predictions, each with the condition under which it would be shown wrong.</p>
+    <p class="toc-summary">What is required sits unevenly across three regions, and whoever integrates them settles the siting. From that, ten answers to what to invest in, set out term by term. The loop that joins one term to another belongs, for now, to no one. And five predictions, each with the condition under which it would be shown wrong.</p>
   </li>
 </ol>
 

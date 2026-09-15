@@ -64,8 +64,6 @@ A way of laying things out is not asked whether it is right or wrong. It is aske
 
 ## On a hypothesis that cannot be proved
 
-Finally, here is what this thesis ultimately claims.
-
 Consider a society in which energy is supplied at a level where price need not be counted, in which every process is automated, and in which institutions are correctly designed on top of that. The structural constraint that has bound the conception of business models and of large-scale investment comes off. The wealth that is created is distributed to everyone as a stake held from birth, and by the age of eighteen a person is a capitalist without ever having worked. At that point what an individual does with their time changes. Neither productivity nor contribution to GDP is the governing aim; making someone else happy is, and one can pour everything into the creation and exchange of value that serves it. That becomes possible because the exchange of value is itself tracked in data.
 
 And the macro problems we now fear come from that same constraint, so they begin to resolve when it comes off. The collapse of population is only one of them. Increasing population is not the objective. It is that people stopped having children under a larger structural constraint, so when the constraint comes off, births return. Humanity goes farther, production and transport move off the planet, and the world of bits, refined to its limit, becomes nearly indistinguishable from magic.

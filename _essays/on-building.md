@@ -9,8 +9,6 @@ summary: "A civilization's competitiveness is the product of institutions, the e
 
 ## 1.1 Everything is a conversion of energy
 
-I start from the bottom.
-
 Everything in this world is a conversion of energy. Cars, calculators, computers, aircraft, VR headsets, and the computing systems that drive them. All of it rests on heat turned into electricity, on electricity turned into hydrogen, or on fossil fuels, which are plant carbon formed by photosynthesis and buried. Buckminster Fuller, in *Operating Manual for Spaceship Earth* (1969), treated fossil fuels as a store loaded aboard the ship and warned against a civilization that keeps funding its daily voyage out of that savings account. Sunlight, and the wind that arises from the heat differentials sunlight creates, are the mains supply, generated continuously outside the ship. What I want from Fuller is not the warning but a second implication of the metaphor: that the whole activity of a civilization sits on the ship's energy balance sheet.<sup class="noteref"><a href="#note-1">1</a></sup>
 
 Nor is this only about appliances. The desk in front of you, the chair, everything, is accumulated energy input. The sum of what went into felling, milling, transporting, drying, and assembling is fixed there now in the shape of a desk. Industrial ecology calls this embodied energy, the total energy invested across a good's entire supply chain. Where a human made it by hand, the muscle and the running of the brain were energy all the same. An adult uses about 2,000 kilocalories a day, which averaged out is a heat engine of roughly 100 watts, and the brain is a computer drawing about 20 watts.<sup class="noteref"><a href="#note-2">2</a></sup> Twenty watts is one phone charger. Whether or not there is a computer inside, energy conversion is energy conversion.
@@ -106,8 +104,6 @@ But what the capacity to build settles is not only what gets built. What can be 
 A note here on how to read this thesis. Stagnation, rising prices, the failure of distribution, and falling births have each been argued as separate problems. This thesis reads them as multiple symptoms produced by one constraint. The prescription is therefore one in total: fill whichever of the three terms is missing. Symptom-by-symptom measures did not fail because they were badly designed. They failed because we were firing at symptoms in the belief that they were causes.
 
 Births, for which a thread was laid in the previous section, are the slowest-moving of those symptoms. That is why they bite last and are hardest to take back. This thesis gives population a large place not because raising it is the objective, but because whether the constraint has come off shows up there last of all.
-
-From here I follow, in order, where these three terms jam and what happens when the jam is cleared: the process by which conversion was throttled, the path by which its cost descends to the household, the explosion of demand after the jam clears, the redesign of institutions, the inversion in what human time is spent on, and where the three terms actually mesh.
 
 <div class="apparatus" markdown="1">
 

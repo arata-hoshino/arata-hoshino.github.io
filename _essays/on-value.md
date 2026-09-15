@@ -90,7 +90,25 @@ It is more accurate to read these not as the first step in money becoming data b
 
 The claim of this thesis is therefore limited to the following. Price retires not only because scarcity disappears. It retires also because use value becomes observable and the reason for keeping a proxy is gone. The first is a problem of energy, and a problem of decades. The second is a problem of measurement and of trust, and it is probably the harder of the two.
 
-## 7.9 Keynes's fifteen hours and Aristotle's shuttle
+## 7.9 The firm stops being necessary
+
+A firm is a boundary drawn where searching for people, contracting with them and monitoring them costs less inside than it does through the market. Its size is set by the ratio of internal coordination cost to external transaction cost.
+
+Searching, matching, contracting and monitoring are all problems of prediction. In the language of Chapter 2, the further C_pred falls, the thinner the reason to draw the boundary at all. The firm as a unit is a product of the era in which the convergence cost of prediction was high.
+
+The boundary dissolves, though, only where the resources to be integrated are information. C_config stays bound to physics, so reactors, fabs and grids keep the shape of a firm. What dissolves is the bits side.
+
+What is left there is not employment but assembly and dispersal. A vision is set, individuals holding the skills it needs gather, they build for a few months, and they disperse. The unit is not an organization but a co-creation raised for the occasion.
+
+So who supplies the money? The employment contract was doing two jobs at once: allocating income, and carrying a person's life through the period before there is any revenue. The distribution argued in Chapter 6 takes over the first. The second is already paid in advance by the stake held from birth. A stake is not a substitute for employment; it is the advance on founding. Nobody funds the individual. The individual arrives holding it.
+
+The physical means are supplied in kind by whoever holds them: gigawatts, computing resources, and somewhere to run the experiment. And the things whose time to completion is longer than the life of any co-creation, reactors and grids among them, are supplied by balance sheets of a different order. The term for large capital does not disappear. It concentrates.
+
+What remains is how a contribution is recorded. Equity, as a residual claim, cannot form around a group that dissolves in four months. The claim attaches not to the organization but to the use value of the thing made. If the fact that a beneficiary felt a benefit can itself be recorded, so can who gave how much of it. Investing becomes the purchase of a claim on use value that has not yet arrived, rather than the purchase of a share in a company. Which means this form arrives only after measurement has become cheap enough. Without measurement the co-creation still works, but the distribution does not.
+
+And what absorbs the loss when it fails is the stake as well. If a few months of co-creation produce nothing, what carried those months was each person's stake, and that is what shrinks. Making every citizen an investor means that a society becomes one venture portfolio. Most individual attempts fail. It holds together only where the portfolio is large enough and diversified enough. That is the sense in which designing distribution is at the same time designing an investment.
+
+## 7.10 Keynes's fifteen hours and Aristotle's shuttle
 
 So what does a human being released from tasks and from price actually do? A prophecy ninety years old and a thought experiment two thousand three hundred years old have already answered.
 
@@ -98,7 +116,7 @@ In his 1930 essay "Economic Possibilities for our Grandchildren," Keynes predict
 
 Aristotle wrote in Book I of the *Politics*<sup class="noteref"><a href="#note-12">12</a></sup> that if the shuttle wove the cloth by itself and the plectrum played the lyre by itself, the master craftsman would have no need of subordinates and the master no need of slaves. Release from labor by automation had already been formalized, two thousand three hundred years ago, as a thought experiment about slavery. And here is the decisive observation. The ancient citizen who owned slaves did not think in terms of having his occupation replaced by a slave. He was simply released from labor, and he poured the time into the activity of the polis, into learning and the arts, and into festival. The Greek word for leisure, scholē, is the root of the word school. Free time was not unemployment to them. It was the main body of human activity. That we moderns can speak of automation only as having our jobs taken from us is nothing more than the result of growing up inside a task-based system of distribution. If distribution is guaranteed by another route (Chapter 6), the right name for automation is what the ancients knew it to be: release.
 
-## 7.10 The inefficient side opens
+## 7.11 The inefficient side opens
 
 The value creation of a civilization has two axes: the direction that raises productivity, and a direction with nothing whatever to do with it, which produces culture and value out of waste. Festival, art, hospitality, play, expenditure. It is the side of expenditure Bataille placed at the center of general economy in *The Accursed Share*, and the side of action Arendt distinguished from labor and work in *The Human Condition*.<sup class="noteref"><a href="#note-13">13</a></sup> Until now more than half of human time has been bound to the productivity direction, and value creation in the inefficient direction has been allowed only the five or so remaining hours of the day. A world in which the productivity direction has been automated all the way through is a world in which, for the first time, more than half of human time is released into value creation in the inefficient direction.
 
