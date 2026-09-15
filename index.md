@@ -34,15 +34,14 @@ and population collapse are not the cause. They are the symptoms the constraint 
 The argument begins with an interpretation of the past industrial revolutions and a diagnosis of
 the present.
 
-One. The industrial revolutions are re-read on two axes: the efficiency of placing matter and the
-efficiency of prediction.
+1. The industrial revolutions are re-read on two axes: the efficiency of placing matter and the
+   efficiency of prediction.
 
-Two. The supply constraint is argued to be suppressing, at the macro layer, our capacity to
-conceive large new investment.
+2. The supply constraint is argued to be suppressing, at the macro layer, our capacity to conceive
+   large new investment.
 
-Three. The supply constraint is argued to be suppressing population as a second Malthusian trap,
-with the rising prices of exactly those goods automation never reached striking households
-directly.
+3. The supply constraint is argued to be suppressing population as a second Malthusian trap, with
+   the rising prices of exactly those goods automation never reached striking households directly.
 
 From there the thesis sets out how the accelerating arrival of effective energy abundance and of
 automation restores that capacity to conceive and expands demand. In place of allocating income by

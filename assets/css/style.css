@@ -554,6 +554,11 @@ main {
   margin: 1.8em 0;
   padding: 0;
   list-style: none;
+}
+
+/* Each note is a list of one, so resetting the counter on every list set
+   every note at one. The notes count on from each other instead. */
+.prose ol:not(.note) {
   counter-reset: item;
 }
 
@@ -725,6 +730,9 @@ main {
 .prose .apparatus {
   color: var(--muted);
   font-size: 0.85em;
+  /* the counter the notes share, held here so each of them can count on
+     from the last rather than start again at one */
+  counter-reset: item;
 }
 
 /* Inside the apparatus everything is set at one colour, the heads with it:
