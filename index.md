@@ -46,7 +46,7 @@ From there the thesis sets out how the accelerating arrival of effective energy 
 automation restores that capacity to conceive and expands demand. In place of allocating income by
 contribution to tasks, it proposes a model of distributed ownership built on capital accounts at
 birth. And as a departure from GDP, it proposes a model of value creation and measurement centered
-on use value, applying the principles of service-dominant logic.
+on use-value, applying the principles of service-dominant logic.
 
 Finally it examines, region by region, the subcategories bearing on effective energy abundance,
 automation and institutions, and forecasts the composition of the world at the level of clusters.
@@ -115,7 +115,7 @@ Japan-Korea-Taiwan as consolidating into technological chokepoints.
   <li class="toc-item">
     <span class="toc-number" aria-hidden="true">VII</span>
     <span class="toc-title"><a href="/essays/on-value/">On Value</a></span>
-    <p class="toc-summary">Price is only a proxy for use value. When use value becomes measurable, currency becomes data. The release of the inefficient side, and the second gate on births.</p>
+    <p class="toc-summary">The line around economic activity was never there. Price does two jobs, rationing scarcity and measuring value, and it is losing both: the first to energy, the second to measurement. Money gives way first in units of energy rather than in data, and the more the machines work, the larger what people turn out to be creating.</p>
   </li>
 </ol>
 
