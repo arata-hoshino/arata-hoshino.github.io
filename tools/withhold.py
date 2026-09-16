@@ -36,7 +36,11 @@ def lead(body):
     out, n = [], 0
     for block in (b for b in seg.split('\n\n') if b.strip()):
         # plates are left out: one of them is worth a screen of prose, and
-        # the page would no longer be the same length as its neighbours
+        # the page would no longer be the same length as its neighbours.
+        # An epigraph is not a plate and stays where it was written.
+        if 'class="epigraph"' in block:
+            out.append(block)
+            continue
         if block.lstrip().startswith(('<figure', '<div')):
             continue
         if block.lstrip().startswith('#'):
