@@ -19,7 +19,7 @@ Agglomeration has not come apart, even as the cost of communication approaches z
 
 The clusters this thesis takes up are nine. The San Francisco Bay Area, Texas, BosWash, the UAE, Northeast Asia (Japan-Korea-Taiwan), Loxbridge, the Yangtze Delta, the Pearl River Delta (GBA), and Bengaluru-Hyderabad. Drawn at their most generous, these nine come to about a quarter of world GDP.<sup class="noteref"><a href="#note-4">4</a></sup>
 
-And seen in this unit, the argument about the social contract changes shape too. Taxation, elections and distribution all look as though they close at the border. But the places where value is made are far finer than the border, and the range over which talent and capital move is far coarser than it.
+And seen in this unit, the argument about the social contract changes shape too.
 
 
 <div class="apparatus" markdown="1">

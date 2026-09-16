@@ -1165,6 +1165,10 @@ main {
 
 .prose.is-gated {
   position: relative;
+  /* a fixed height, not a fixed number of words: the fade then begins at
+     the same point on every chapter, whatever its opening looks like */
+  max-height: 22rem;
+  overflow: hidden;
 }
 
 .prose.is-gated::after {
@@ -1173,7 +1177,7 @@ main {
   left: 0;
   right: 0;
   bottom: 0;
-  height: clamp(9rem, 22vw, 14rem);
+  height: 10rem;
   background: linear-gradient(to bottom,
               rgba(255, 255, 255, 0), var(--paper) 88%);
   pointer-events: none;
