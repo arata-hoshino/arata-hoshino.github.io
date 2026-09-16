@@ -38,13 +38,7 @@
         <a href="{{ essay.url | relative_url }}" style="--i: {{ forloop.index }}"
            class="nav-link{% if page.url == essay.url %} is-current{% endif %}">{% if essay.roman %}{{ essay.roman }}. {% endif %}{{ essay.title }}</a>
       {% endfor %}
-      {% comment %}
-        The whole thesis as one file. No target: it opens in the browser's
-        own viewer, in the tab the reader is already in.
-      {% endcomment %}
-      <a href="{{ '/assets/the-far-side-of-the-constraint.pdf' | relative_url }}"
-         style="--i: {{ essays.size | plus: 1 }}" class="nav-link">Full PDF</a>
-      <a href="{{ '/about/' | relative_url }}" style="--i: {{ essays.size | plus: 2 }}"
+      <a href="{{ '/about/' | relative_url }}" style="--i: {{ essays.size | plus: 1 }}"
          class="nav-link{% if page.url == '/about/' %} is-current{% endif %}">About the Author</a>
     </nav>
   </div>
