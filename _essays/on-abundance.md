@@ -57,7 +57,7 @@ If demand grows without limit, the question moves to supply. What supplies it, i
 What sets the cost curve is Wright's law: unit cost falls by a constant rate for every doubling of cumulative production. Solar panel prices fell 20 to 25 percent with every doubling of cumulative capacity, and module prices dropped roughly 90 percent in the 2010s alone. Way and colleagues at Oxford, having tested learning-curve forecasts against more than fifty technologies, concluded that a rapid energy transition comes out roughly 12 trillion dollars cheaper, net, than a slow one.<sup class="noteref"><a href="#note-6">6</a></sup> Cost reduction is not a function of will but of volume.
 
 <figure class="figure">
-  <img src="/assets/figures/fig5-3_solar_learning.png" alt="Figure 5-3. Wright's law in solar modules (1975–2024, log-log). This is a measured series, not a fitted curve; the learning rate is estimated from this set of points .">
+  <img src="/assets/figures/fig5-3_solar_learning.png" alt="Figure 5-3. Wright's law in solar modules (1975-2024, log-log). This is a measured series, not a fitted curve; the learning rate is estimated from this set of points .">
 </figure>
 
 So nuclear and SMRs turn on how many copies of one design get built. As Chapter 3 showed, the cost escalation of reactors is a product of institutions rather than of physical law, and France and Korea, repeating a standard design, held their costs stable. What SMRs aim at is the conversion of a reactor from a civil engineering project built on site into a product manufactured in series in a factory, putting nuclear on Wright's law for the first time in its history.
@@ -130,7 +130,7 @@ On the most optimistic scenario, the half-century from 2035 to roughly 2085 is t
 
 In a world short of demand, the strong position belongs not to the side that can make but to the side that can buy. And through the half-century of the valley of demand, the only places where population is still rising are East, West, Central and North Africa, the Levant, Pakistan, and parts of Central Asia and Central America, which are the lowest-income places in the world today. But demand is population multiplied by purchasing power per head, and what that part of the world holds now is future demand, not present demand. So for the side holding plant it cannot sell, building up the other side's ability to buy is not charity but the work of turning its own plant from a liability back into an asset.
 
-If energy and labor genuinely become abundant and the wealth created is properly distributed, the household constraint loosens, fertility reverses and population returns. Distribution is a question of demand, of risk-taking and of the fiscal base before it is a question of fairness. It is a necessary condition and not a sufficient one, but without designing distribution the valley of demand cannot be crossed.
+If energy and labor genuinely become abundant and wealth is properly distributed, the household constraint loosens, fertility reverses and population returns. Distribution is a question of demand, of risk-taking and of the fiscal base before it is a question of fairness, and without designing it the valley of demand cannot be crossed.
 
 Where does the wealth the cascade releases fall, if it is left to itself?
 

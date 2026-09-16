@@ -20,7 +20,7 @@ The problem is not the quantity of energy as such. It is what the effective pric
 First, energy use per person stopped rising. Primary energy consumption per capita in the United States climbed almost without interruption from the founding of the republic, topped out at the end of the 1970s, and has run flat to slightly downward for the half-century since.<sup class="noteref"><a href="#note-1">1</a></sup> The slope of a curve a century and a half long broke in that one decade. Some part of this is explained by efficiency gains, but set it against Jevons's law, that efficiency gains have throughout history always raised total consumption, and it reads not as the fruit of efficiency but as the halt of expansion.
 
 <figure class="figure">
-  <img src="/assets/figures/fig3-1_us_percapita_break.png" alt="Figure 3-1. Primary energy consumption per capita in the United States (1950–2024). This single chart shows the break point at the end of the 1970s .">
+  <img src="/assets/figures/fig3-1_us_percapita_break.png" alt="Figure 3-1. Primary energy consumption per capita in the United States (1950-2024). This single chart shows the break point at the end of the 1970s .">
 </figure>
 
 Second, productivity decelerated. In Robert Gordon's monumental aggregation, total factor productivity in the United States grew at roughly 1.9 percent a year from 1920 to 1970, and after 1970 fell to about a third of that rate, the IT phase of the late 1990s excepted, with no recovery since.<sup class="noteref"><a href="#note-2">2</a></sup> And in the model with which Ayres and Warr asked how much of growth the useful work extracted from energy can explain, the point at which the unexplained remainder reappears is 1975.<sup class="noteref"><a href="#note-3">3</a></sup> Two independent measurements point at the same decade.
@@ -47,7 +47,7 @@ Germany is the implemented case. The price of solar panels did indeed collapse. 
   <img src="/assets/figures/fig3-2_vre_value_system_cost.png" alt="Figure 3-2. The market value of wind falls as penetration rises. Observed values from the German market, overlaid with the two points the medium-term model gives .">
 </figure>
 <figure class="figure">
-  <img src="/assets/figures/fig3-3_germany_negative_prices.png" alt="Figure 3-3. The hours when electricity is worth less than nothing: negative-price hours in Germany (2015–2025). One mark is one hour, one row is fifty hours. From 126 hours in 2015 to 573 in 2025, the area itself grows .">
+  <img src="/assets/figures/fig3-3_germany_negative_prices.png" alt="Figure 3-3. The hours when electricity is worth less than nothing: negative-price hours in Germany (2015-2025). One mark is one hour, one row is fifty hours. From 126 hours in 2015 to 573 in 2025, the area itself grows .">
 </figure>
 
 The conclusion is not that renewables should be excluded. It is that renewables should be laid on top of firm generation, nuclear and fossil, as an auxiliary, and that the sound way to place them is as the optimal complementary source for a given geography. A society that handed the baseload of its civilization to a source that swings against human need distributed the cost of doing so, in the form of the electricity bill, to households in the end.

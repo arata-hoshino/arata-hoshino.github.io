@@ -49,7 +49,7 @@ So the wall came closer. The doubled figure is slightly above Japan's entire ele
 The movement of capital speaks more plainly than forecasts. On 25 August 2025 the Palisades plant in Michigan became the first reactor in American history to return from the decommissioning process to operating status.<sup class="noteref"><a href="#note-8">8</a></sup> What this thesis depends on is a single point: the structural change by which computing demand made investment in energy supply politically unavoidable. A reactor pulled back out of the decommissioning queue shows that this has already happened.
 
 <figure class="figure">
-  <img src="/assets/figures/fig2-1_computing_price.png" alt="Figure 2-1. Two centuries of the price of computation (log scale, 1850–2020). The collapse in price-performance from hand-cranked calculation to the present .">
+  <img src="/assets/figures/fig2-1_computing_price.png" alt="Figure 2-1. Two centuries of the price of computation (log scale, 1850-2020). The collapse in price-performance from hand-cranked calculation to the present .">
 </figure>
 <figure class="figure">
   <img src="/assets/figures/fig2-2_datacenter_demand.png" alt="Figure 2-2. Jevons measured: load rose, tasks got cheaper. On the left, the two points the IEA states explicitly, joined at a constant growth rate. On the right, a band rather than a series .">
@@ -64,7 +64,7 @@ The word used was "return," but only one side had stopped. The pressure toward e
 What speaks to this most plainly is a completed experiment with two centuries of data behind it: British agriculture. On Wrigley's account, roughly three quarters of the labor force was in agriculture under the Tudors. By the early eighteenth century it was about half, and by 1800 under two fifths. Today agriculture is under 1 percent of the British labor force. And with that under 1 percent Britain produces the equivalent of roughly 60 percent of the food it consumes.<sup class="noteref"><a href="#note-10">10</a></sup> On the same island, under a fortieth of the hands now grows more.
 
 <figure class="figure">
-  <img src="/assets/figures/fig2-3_uk_agriculture.png" alt="Figure 2-3. Agriculture as a share of the British labor force (1381–2024). The industrial revolution did not end. It changed sectors .">
+  <img src="/assets/figures/fig2-3_uk_agriculture.png" alt="Figure 2-3. Agriculture as a share of the British labor force (1381-2024). The industrial revolution did not end. It changed sectors .">
 </figure>
 
 What matters is that nowhere in that process is there an end of the revolution. From enclosure through crop rotation, seed improvement, mechanization, Haber-Bosch fertilizer, the tractor, the combine, and now precision agriculture and automated glasshouses, one and the same pressure, to produce with less effort and at lower cost, worked without interruption for two centuries. The habit of numbering industrial revolutions first, second, third, and fourth is a set of graduations laid retrospectively over that continuum. The graduations change; the direction of that pressure has not changed once.
