@@ -9,6 +9,7 @@ redirect_from:
   - /essays/on-ownership/
 ---
 
+
 If what you have read so far has looked like a work of optimism, this chapter should correct that. This thesis is optimistic about supply and pessimistic about distribution. To put it precisely, the prediction here is that the redistribution of wealth will fail once, somewhere in the 2030s. And the first half of that prediction, the leftward turn in politics, has already begun.
 
 ## 6.1 The invention of the task
@@ -23,152 +24,19 @@ The problem is not the displacement of tasks but distribution. The automation of
   <img src="/assets/figures/fig6-1_labour_share.png" alt="Figure 6-1. The fall in the labor share (United States, 1975 to 2023). The American series is shown. The same downward trend is observed across most countries and industries .">
 </figure>
 
-## 6.2 The link between task and income is already breaking
+Reach out to Arata Hoshino for more details: [arata.h.hoshino@gmail.com](mailto:arata.h.hoshino@gmail.com)
 
-This is not a prophecy about the 2030s but an observation of the 2020s.
-
-Brynjolfsson and colleagues at Stanford have dug a decisive fact out of American payroll data.<sup class="noteref"><a href="#note-3">3</a></sup> In the occupations AI reaches most, employment of young workers aged 22 to 25 fell, relative to other age groups, while employment of experienced workers held steady. The fall came through a halt in hiring rather than through layoffs, and it is concentrated in occupations where AI substitutes for people rather than augmenting them. That gap stands at 19 percent as of June 2026. Anthropic's economic index points the same way.<sup class="noteref"><a href="#note-4">4</a></sup> It is breaking at the entrance, at the young end. As Chapter 4 showed, youth unemployment and the collapse of births are already chained together in China; in the advanced economies, AI is starting the same chain at the young end.
-
-There is evidence pointing the other way. Anthropic's economic index reports that in conversational use, uses that augment people (52 percent) slightly outnumber uses that replace them (45 percent).<sup class="noteref"><a href="#note-4">4</a></sup> Use itself is skewed toward high-income countries and high-end knowledge work, and the speed gains are largest on tasks at the level of a university education. At the same time, where firms call the model from their own programs, coding that began as a collaboration is reported to be moving toward more fully automated procedures.
-
-So the present answer to the question of whether AI destroys high-skill work first or amplifies it first is: both. Which is exactly why the question has to be posed differently. Not how many people AI has made redundant. Whether the entry-level jobs survive, who owns the output, and whether the fruit of productivity accrues to wages or to capital. This thesis takes the third of those, and what settles it is who holds the capital, not the employment statistics.
-
-## 6.3 The democratic-socialist wave, and its failure
-
-Politics always reacts. The reading has not changed for some time: through the 2030s, a democratic-socialist mood will rise in the major advanced economies. While this chapter was being written, the first half of the prediction began to come true. In November 2025, candidates standing as democratic socialists won the mayoralties of New York and Seattle. Gallup's survey that year put favorable views of capitalism down to 54 percent.<sup class="noteref"><a href="#note-5">5</a></sup> In an era when the young are beginning to be shut out at the entrance, this current is not a coincidence. It is the first political sign of the crisis of distribution.
-
-But the remedies this wave puts forward will fail. And the mechanism of failure is not the old point about high tax rates blunting the will to work but capital flight.
-
-Tax financial income heavily and the agents that generate the wealth leave. Capital moves, and so do the people who hold it. Capital does not vanish at that moment; it moves to a country with better terms. This, exactly, is why institutions, the tax code, the business environment and the depth of the cluster are decisive. When you design distribution, what you are dealing with is not a citizenry but capital that can be redeployed across borders.
-
-### The graveyard of the wealth tax
-
-Around 1990, twelve OECD countries levied a tax on net wealth. Three remain: Norway, Spain and Switzerland. France's wealth solidarity tax (ISF), at the end of a long outflow of capital, was cut back in 2018 to the property wealth tax (IFI), which reaches real estate only. Norway in 2022 created a new band for net wealth above 20 million kroner with a top rate of 1.1 percent, and in the two years that followed, departures of the wealthy jumped. Røkke, the country's best-known entrepreneur, left for Lugano.<sup class="noteref"><a href="#note-6">6</a></sup> What remains is one fact. Where capital and people can move, taxing wealth country by country has not historically been sustained.
-
-The strongest answer to this weakness is not a higher rate but international coordination. The report Gabriel Zucman submitted to the G20 in 2024 proposed a coordinated standard imposing on the world's billionaires a minimum effective tax rate equal to 2 percent of holdings, and in the Rio declaration of the same year the G20 stated its intention to cooperate in securing the effective taxation of the ultra-wealthy.<sup class="noteref"><a href="#note-7">7</a></sup> If what defeated single-country taxation was mobility, then building a common floor that covers the destinations as well is a coherent response. But internationalizing the floor still leaves the questions unanswered. Who values the assets? Which country enforces? How long can it be held politically? The wealth tax has not risen from the graveyard but reappeared in another form, as an institutional experiment that crosses borders.
-
-### The limits of cash transfers
-
-On universal basic income (UBI) we now have the best experimental data there is. The unconditional cash study run by OpenResearch, funded by Sam Altman, gave a thousand people a thousand dollars a month for three years. The results: hours worked down 1.3 a week, the employment rate down about 2 percent, no measurable improvement in health indicators. The Finnish experiment likewise raised subjective wellbeing while its employment effect was close to zero.<sup class="noteref"><a href="#note-8">8</a></sup> Cash buys autonomy and immediate peace of mind. On its own it changes neither the trajectory of a life nor a person's health. A check does not move the structure. Distribution policy arrives at the same conclusion this thesis reached about family policy in Chapter 4.
-
-None of this is an argument against the safety net. A country where several percent of the population is strung out on fentanyl is not something to call acceptable. What I reject is the view that the remedy is socialist policy. It was I who wrote, in an earlier jointly written memo, that we should move from capitalist arrangements to a socialist UBI and eventually to holding the means of production in common. Six months later, what was wrong turns out to have been the method.
-
-## 6.4 Make every citizen an investor
-
-This thesis puts forward an update to capitalism: a design that takes the death of task-based allocation as given and moves the ground of distribution from tasks to the ownership of capital. As the labor share falls structurally, the only way for households to survive is to move over to the capital side. Make every citizen an investor.
-
-The institutional seedlings are already in the ground. Under a law enacted in the United States in July 2025, the federal government pays 1,000 dollars into an account for every child born between 2025 and 2028, invested in a low-cost fund tracking a broad index of American equities, and the accounts went live on 4 July 2026. Whatever its ideological parentage, every American newborn is now an index investor from the moment of birth. Connecticut's Baby Bonds are a state version of the same design.<sup class="noteref"><a href="#note-10">10</a></sup> And the natural experiments have reported. On the Alaska Permanent Fund Dividend, the oil-revenue dividend paid to every resident of the state, Jones and Marinescu found the negative effect on aggregate employment to be zero, with only a slight rise in part-time work of 1.8 points. The dividend did not make people idle. Norway's Government Pension Fund Global is collective capital of roughly 380,000 dollars per citizen, a full-scale precedent for a sovereign fund in which every citizen holds a stake.<sup class="noteref"><a href="#note-11">11</a></sup>
-
-Placed in its historical lineage, what this proposal actually is becomes clearer. Through the Homestead Act the United States moved 270 million acres, about 10 percent of the national territory, into private hands through 1.6 million patents, and made a middle class. Postwar Japan, through land reform, moved 1.74 million hectares to 4.75 million tenant farmers and cut the tenanted share of farmland from 45.9 percent to 9.9 percent, laying the foundation of its postwar middle class.<sup class="noteref"><a href="#note-12">12</a></sup> Every broad middle class in history was made by turning citizens into owners. The nineteenth century distributed land. The twentieth distributed home ownership and pensions. What the twenty-first has to distribute is a stake in automated capital. The Homestead Act took land as its object only because land was then the root of production. If the root of production moves to energy, robotics and computation, what has to be distributed moves with it.
-
-As a lineage of institutions it is not a new species either. The institutions humanity has generated for exchange sort into three: reciprocity, meaning mutual giving, redistribution, and market exchange.<sup class="noteref"><a href="#note-13">13</a></sup> A developed economy is not any one of them but a hybrid of all three. Herbert Simon put it that the United States is not a market economy but a market-organization economy; more precisely still, a market-organization-government economy. Pensions, health insurance, income support, everything the national accounts call a transfer payment is redistribution and not market exchange. Distributing a stake to citizens is therefore not an exception to a market economy. It is an update to one of the three, at the level of what gets distributed.
-
-A sufficiently developed capitalism becomes a money tree that distributes wealth to every citizen. Productivity expands autonomously under AI, so the only question left is who holds the stake in the fruit.
-
-<figure class="figure">
-  <img src="/assets/figures/fig6-2_wealth_tax.png" alt="Figure 6-2. The graveyard of the wealth tax: how long each country's net wealth tax survived. One bar is one country's tax on individual net wealth. The black bars are the ones still in force. Twelve countries in 1990, three now .">
-</figure>
-<figure class="figure">
-  <img src="/assets/figures/fig6-3_citizen_capital.png" alt="Figure 6-3. The lineage of citizen capital: the Homestead Act, Japanese land reform, the Alaska PFD, Norway's GPFG, accounts opened at birth in the United States. The nineteenth century distributed land. The twenty-first will distribute a stake in automated capital .">
-</figure>
-
-## 6.5 The cost of becoming a capitalist is falling
-
-The same technology that cuts the number of workers also lowers the minimum scale at which a business can be owned. Owning a business used to mean hiring people, paying them, and taking responsibility for their lives. That fixed cost set the minimum scale at which a firm is viable, its minimum efficient scale, and narrowed the number of people who could start one. AI and robotics lower the minimum efficient scale itself, because the volume of output one person can direct goes up. The number of business owners can therefore rise.
-
-This does not happen automatically. Between the fall in minimum efficient scale and people actually owning businesses sits another condition: access to capital. Compute and robots both demand an initial investment. This is exactly where the universal stake of the preceding section does its work. Distributing a stake is not only a measure for supporting consumption. It is also the distribution, to every citizen, of the initial capital required to become an owner of a business.
-
-What emerges is a new form: the capitalist combined with the machine. An individual produces, on their own judgment and on automated capital they alone direct, output at a scale that used to require a firm. If the influencer is the modern digital peddler, what lies further along that lineage is a business owner far more capital-intensive and with far fewer employees. And between such people and the platform companies a strange relationship arises, neither employment nor trade. They rent compute, run their own capital on top of it, and return part of the proceeds to the lender.
-
-From above, stakes are distributed; from below, the threshold for owning a business falls. Of the four head-counts counted in section 5.7 of Chapter 5, it is this movement from below that acts on the risk-taker term. Left alone, though, a new form of the distribution problem arises between those who lend compute and those who borrow it. If the threshold falls without any design for dispersing ownership, what multiplies is not capitalists but business owners without capital, which is to say tenant farmers.
-
-## 6.6 The AI commonwealth
-
-This economic form can be regarded as a kind of communist structure, because AI functions as a commonwealth, a shared asset, that goes on improving productivity almost automatically. If energy prices fall to the limit and labor productivity rises, inflation falls toward zero and output per head is maximized. At the point where the growth rate of GDP per capita asymptotes to what is effectively infinity, control over the supply of goods and services rests with whoever engineered the energy supply and the AI robotics. This is precisely why the universal stake of section 6.4 has to be institutionalized before that point.
-
-In the final phase, when AI supplies goods and services according to preferences, does a human being need monetary income in order to experience their value? The answer is no. It is scarcity, the finiteness of resources, that creates the need to allocate resources efficiently, and price is the mechanism that rations a scarce resource among competing uses. If the supply of AI services is genuinely unlimited and energy can be assumed to be unconstrained, the notion of price itself disappears.
-
-But the logic of the AI commonwealth is entirely unlike the historical communism of the Soviet Union. The functions of planning and improvement are embedded in the AI system rather than in a party or a bureaucracy. Once energy has stopped being a binding constraint, this system can be almost indifferent to the question of redistribution in the traditional sense. If the constraint is removed completely, the commonwealth can raise the level of value available to every human being, and the reason to fight over who gets more fades. While an energy constraint remains, the system keeps a partial interest in how the surplus is allocated, and has to set priorities for energy and resources among people, places and tasks. Soviet communism was built on harsh material scarcity, party control and central planning by humans; the AI commonwealth model is built on abundant energy and automated improvement in productivity.
-
-The question that remains is who, or what, generates the energy that runs the AI. The ultimate answer is a human-led expansion of fusion energy. There is a problem of order here. AI may in time improve itself and maintain the energy infrastructure on its own, but humans have first to expand capacity far enough for that autonomy to emerge at all. And so long as humans direct AI and go on drawing benefit from it, control of energy allocation remains the instrument by which AI is overseen.
-
-## 6.7 The four head-counts come back
-
-Distribution is the only means of restoring three of the four head-counts at once. Of those four, labor supply, demand, risk-takers and taxpayers, automation can route around only labor supply; the other three are population itself. It is this asymmetry that keeps the valley of demand a valley in a phase when supply alone grows exponentially.
-
-The design of distribution argued in this chapter is a device for raising the floor of that valley of demand. If disposable income recovers, the equation of Chapter 4 runs backwards. The expected cost per child, C_child, falls from the denominator side through energy and automation, while income from the ownership of capital lifts the numerator. The mechanism of the household Malthus is symmetric: it loosens in the same order in which it tightened. If the birth rate rises, population comes back. And if population comes back, demand comes back, the pool of people who take risks comes back, and the tax base comes back.
-
-Here is the reason this thesis is not pessimistic about the death of task-based distribution. Losing income from tasks and the economy shrinking are not the same thing. The first is a question of where income comes from; the second is a question of head-counts. If the source of income can be rerouted onto the ownership of capital, the head-counts recover. If the rerouting fails, the head-counts disappear first.
-
-And there is a temporal asymmetry in that order. Institutions of distribution can be made by legislation, so once the decision is taken they move within a few years. Population does not. A child born now is a consumer from the first day, but does not reach risk-taking or the tax rolls for another two decades. The design of distribution therefore has to be started twenty years before its effect appears. To institutionalize it in the 2030s is to buy the demand, the challengers and the tax revenue of the 2050s now.
-
-As Chapter 5 showed, the design of distribution is a necessary condition. It is not a sufficient one. Distribution restores three of the head-counts, but the restoration runs on human time. Institutions can solve the problem of income. They cannot solve the problem of time. Which is why there is a need to hurry.
-
-Section 6.6 described a world in which value reaches people without monetary income. So what is value?
 
 <div class="apparatus" markdown="1">
 
 <hr class="rule-major">
 
 ## Notes and Sources
+
 1. The labor share and Figure 6-1. Loukas Karabarbounis & Brent Neiman, "The Global Decline of the Labor Share," *Quarterly Journal of Economics* 129(1), 2014, 61–103. About half of the decline is explained by the substitution of capital for labor driven by the falling relative price of investment goods. The American series in Figure 6-1 is Penn World Table 10.01 (FRED series LABSHPUSA156NRUG).
 {: #note-1 .note}
 
 2. The task-based model. Daron Acemoglu & Pascual Restrepo, "Automation and New Tasks: How Technology Displaces and Reinstates Labor," *Journal of Economic Perspectives* 33(2), 2019, 3–30. The same authors, "Tasks, Automation, and the Rise in U.S. Wage Inequality," *Econometrica* 90(5), 2022, 1973–2016.
 {: #note-2 .note}
-
-3. The break between task and income. Erik Brynjolfsson, Bharat Chandar & Ruyu Chen, "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence," Stanford Digital Economy Lab, 2025 (revised 2026). The authors themselves qualify this as correlation rather than causation, and the numbers move as the data is updated. The 13 percent of the August 2025 version is 16 percent on the November version and 19 percent on the June 2026 tracking.
-{: #note-3 .note}
-
-4. Augmentation and replacement. Anthropic, *Anthropic Economic Index* (November 2025 data, published 2026). Use is skewed toward high-income countries and high-end knowledge work, and in enterprise API use a tendency is reported for coding that began as collaboration to move toward more fully automated workflows. In conversational use, 52 percent augmentation and 45 percent automation.
-{: #note-4 .note}
-
-5. The leftward turn in politics. On 4 November 2025, Zohran Mamdani won the New York mayoral election and Katie Wilson the Seattle mayoral election (final count of the New York City Board of Elections, certified 2 December 2025; Seattle was 50.2 percent to 49.5 percent, certified 25 November). On opinion, Jeffrey M. Jones, "Image of Capitalism Slips to 54% in U.S.," Gallup, 8 September 2025 (among all adults, 54 percent favorable to capitalism and 39 percent to socialism).
-{: #note-5 .note}
-
-6. The wealth tax and Figure 6-2. OECD, *The Role and Design of Net Wealth Taxes in the OECD*, Tax Policy Studies No. 26, 2018. Sarah Perret, "Why were most wealth taxes abandoned and is this time different?" *Fiscal Studies* 42(3–4), 2021, 539–563 (twelve OECD countries in 1990, three in 2020). Norway's 1.1 percent is the top marginal rate applying to the band above 20 million kroner of net wealth created in 2022, not the rate of the wealth tax as a whole (the band below is 0.95 percent, and 1.0 percent from 2023). Departures among those with net wealth above 100 million kroner rose from an annual average of 8.5 over 2014 to 2021 to 55 in 2022 and 50 in 2023, roughly a sixfold increase. A doubling is closer to the rate of increase in the 10 to 50 million kroner band, at 75 percent. Røkke's departure is from his open letter of 12 September 2022. The net effect on revenue is contested, and wealth tax receipts themselves rose over the same period.
-{: #note-6 .note}
-
-7. International coordination. Gabriel Zucman, *A Blueprint for a Coordinated Minimum Effective Taxation Standard for Ultra-High-Net-Worth Individuals*, G20 Report, 25 June 2024. It remains at the stage of a proposal and a diplomatic agreement and has not been realized as an institution.
-{: #note-7 .note}
-
-8. Cash transfers. Eva Vivalt et al., "The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States," NBER working paper (OpenResearch), 2024. On Finland, Olli Kangas, Signe Jauhiainen, Miska Simanainen & Minna Ylikännö (eds.), *Evaluation of the Finnish Basic Income Experiment*, Ministry of Social Affairs and Health report 2020:15. Recipients worked on average six more days over twelve months (78 days against 72), with no difference in the first year. Life satisfaction, mental strain, self-assessed cognitive functioning, and trust in others and in institutions all improved.
-{: #note-8 .note}
-
-9. The estimate on the downgrading side. Daron Acemoglu, "The Simple Macroeconomics of AI," NBER WP 32487, 2024 (peer-reviewed version *Economic Policy* 40(121), 2025, 13–58).
-{: #note-9 .note}
-
-10. Accounts opened at birth. One Big Beautiful Bill Act (Public Law 119-21) §70204, Internal Revenue Code §530A and §6434. Enacted 4 July 2025. The Treasury contributes 1,000 dollars for each child who is a United States citizen born between 1 January 2025 and 31 December 2028, with additional contributions of up to 5,000 dollars a year permitted (employer contributions up to 2,500 dollars a year). Investment is restricted to funds tracking a broad index of American equities such as the S&P 500, and annual fees and expenses must not exceed 0.1 percent. Contributions to the accounts became possible a year after enactment, on 4 July 2026. Connecticut's Baby Bonds is a scheme under which the state contributes 3,200 dollars for each child born on Medicaid on or after 1 July 2023, usable between the ages of 18 and 30 for buying a home in the state, starting a business, higher education, or retirement saving.
-{: #note-10 .note}
-
-11. The dividend and the national stake. Damon Jones & Ioana Marinescu, "The Labor Market Impacts of Universal and Permanent Cash Transfers: Evidence from the Alaska Permanent Fund," *American Economic Journal: Economic Policy* 14(2), 2022, 315–340. NBIM, *Annual report 2025* (21.286 trillion Norwegian kroner at the end of 2025, roughly 2.1 trillion dollars at 10.1 kroner to the dollar, about 380,000 dollars per citizen).
-{: #note-11 .note}
-
-12. The lineage of citizen capital and Figure 6-3. On the Homestead Act, the United States National Archives and the National Park Service (more than 1.6 million applications processed by 1934, moving more than 270 million acres, 10 percent of the national territory, into private hands). The 1.6 million is a count of applications processed, not of the households that obtained land. Japan's land reform is from the Ministry of Agriculture, Forestry and Fisheries report to ICARRD (1.74 million hectares, 4.75 million tenant farmers). The fall in the tenanted share from 45.9 percent to 9.9 percent is given by Chiang, Fan & Hsu, IZA DP No. 18095, 2025, citing Kitamura (2022). On the economic assessment of the reform, Ronald P. Dore, *Land Reform in Japan*, Oxford University Press, 1959.
-{: #note-12 .note}
-
-13. The three institutions of exchange. Karl Polanyi, "The economy as instituted process," in Polanyi, Arensberg & Pearson (eds.), *Trade and Market in the Early Empires*, Free Press, 1957, pp.243-269. Herbert Simon, *The Sciences of the Artificial*, MIT Press, 1996 (the market-organization economy). The three-way sorting, and the placement of transfer payments within it, follow Lusch & Vargo, *Service-Dominant Logic*, 2014, chapter 5.
-{: #note-13 .note}
-
-<hr class="rule-major">
-
-## Objections and Limits
-### If AI does not deliver explosive growth (6.3)
-
-Daron Acemoglu's cautious estimate puts AI's contribution to total factor productivity over the coming decade at 0.66 percent at most, and under 0.53 percent on a more careful reckoning, with a contribution to GDP of about 1 percent.<sup class="noteref"><a href="#note-9">9</a></sup> This is the strongest academic downgrade of the abundance argument of this thesis.
-
-But the estimate does not weaken the distributive argument of this thesis. The reverse. The same paper simultaneously predicts a widening gap between capital income and labor income. If the pie does not expand quickly while the share going to capital rises, the relative position of people who earn their income from tasks gets worse rather than better. The distributive argument of this thesis therefore does not presuppose explosive growth driven by AI. The necessary condition is not unlimited plenty but whether ownership can be widened faster than the returns to the means of production concentrate in a few hands. The more the cascade of Chapter 5 is delayed, the more urgent the design of Chapter 6 becomes.
-
-### The break between task and income is still only a correlation (6.2)
-
-The Stanford work on the relative fall in youth employment is qualified by the authors themselves as correlation rather than causation.<sup class="noteref"><a href="#note-3">3</a></sup> The numbers move as the data is updated. Over the same period there is also the observation that use of AI itself leans slightly toward augmenting people.<sup class="noteref"><a href="#note-4">4</a></sup> This thesis treats the two as compatible because it has moved the question from "how many people has AI made redundant" to "do the entry-level jobs survive, who owns the output, and does the fruit of productivity accrue to wages or to capital." Employment statistics cannot falsify this claim. What would falsify it is the fifth row of the falsification table in Chapter 9, the case in which the relative fall levels off.
-
-### The defeat of the wealth tax does not entail the dispersal of ownership (6.3 to 6.4)
-
-The fact that taxing wealth country by country has not historically been sustained is not a proof that taxing wealth is wrong. It is no more than the fact that it was hard to sustain under the condition of mobility. Zucman's proposal for international coordination is an attempt to change precisely that condition.<sup class="noteref"><a href="#note-7">7</a></sup> This thesis presses for the dispersal of ownership not because taxation fails, but because taxation and the dispersal of ownership solve different problems. Taxation settles how much is distributed; ownership settles who it reaches. Even if the first succeeds, the problem of who it reaches remains so long as the way in through tasks stays shut.
-
-### How to read the results of the cash-transfer experiments (6.3)
-
-The OpenResearch and Finnish experiments are both about transfers of limited duration.<sup class="noteref"><a href="#note-8">8</a></sup> A transfer known to end in three years and capital income premised on lasting a lifetime do not mean the same thing to the behavior of the recipient. The conclusion of this thesis, that a check does not move the structure, therefore reaches one step beyond what the experiments showed. That step is, for now, an extrapolation by logic and not a demonstration.
 
 </div>

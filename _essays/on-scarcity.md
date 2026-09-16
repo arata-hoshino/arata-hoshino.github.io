@@ -7,6 +7,7 @@ part: "Part Two. The Constraint We Chose"
 summary: "For thirty years capital and talent flowed from the physical to the virtual. The system cost of renewables, self-binding under information asymmetry, and why the science of the 1910s is still unbuilt."
 ---
 
+
 ## 3.1 The 1970s as a fault line
 
 The slowing of growth across the advanced economies over this past half-century is not the middle-income trap that stalls developing countries but something better called an advanced-country trap. The factors are various, but a considerable part of the slowdown comes from energy supply that stopped growing.
@@ -33,64 +34,15 @@ What happened in the 1970s was a choice. Led by the United States, much of the W
 
 Seen from the theory of resources this should not be surprising. Resources are not, they become, as Zimmermann put it.<sup class="noteref"><a href="#note-6">6</a></sup> Coal, uranium and wind were not resources until human beings held the knowledge and the skill to draw on them for support. Scarcity, then, is not a property of matter but a function of the knowledge and skill of whoever draws on the potential resource. The same point arrives from the side of efficiency. Raise a truck fleet from 4.3 to 6.2 miles per gallon and the stockpile of diesel on hand has effectively grown by more than a third. Physics sets a ceiling; it does not set the scarcity.
 
-## 3.2 A supply that swings against us
+Reach out to Arata Hoshino for more details: [arata.h.hoshino@gmail.com](mailto:arata.h.hoshino@gmail.com)
 
-The structural difficulty with renewables, in one line, is that they swing in the opposite direction to human need. In the second half of that transitional age, this was the main exit the advanced countries chose.
-
-There are four difficulties. First, the output cannot be commanded. Solar generates only in daylight, and wind rises and falls with the weather. A system that must match supply and demand instantaneously and continuously takes in a large volume of generation nobody can give an instruction to. That is a structural contradiction. Second, it requires backup at all times. The higher the share, the more fast-responding plant has to be held on standby, ready to be brought up at any moment. That means owning the fleet twice over, which makes for a high-cost system running at low utilization. Third, surplus and shortage occur at the same time. In clear, windy conditions generators are ordered to curtail output, and prices go negative, meaning the generator pays to have its electricity taken; under cloud, in still air, at night, there is a large deficit. Past a certain share it destabilizes the grid as a whole. Fourth, its energy density is low. Output per unit of area is small, so it demands vast land and long transmission networks. It scales badly against exponential demand, in land and in grid alike.
-
-None of this is anti-renewables rhetoric. It is established knowledge in energy economics. Lion Hirth's classic study showed that the market value of wind, meaning its ratio to the average power price, falls from about 110 percent near zero penetration to between 50 and 80 percent at a system share of 30 percent.<sup class="noteref"><a href="#note-7">7</a></sup> The more it generates, the more everybody else is generating in the same hours, so it destroys the value of the very electricity it produces. The systematic estimates by the OECD Nuclear Energy Agency quantified how, as the share of variable renewables rises to 50 and then 75 percent, the system-level costs lying outside generation cost, meaning backup, grid reinforcement and balancing, pile up along a steepening gradient.<sup class="noteref"><a href="#note-8">8</a></sup> That the IEA extended its generation-cost metric from LCOE, the levelized cost of electricity, to VALCOE, the value-adjusted version of it, is a confession from the institutional side that comparisons ignoring this decline in value had been leading policy astray.
-
-Germany is the implemented case. The price of solar panels did indeed collapse. Electricity as a system did not get cheaper. The renewables surcharge under the EEG peaked at 6.88 cents per kilowatt-hour in 2017 and pushed household electricity prices to the highest level in the world.<sup class="noteref"><a href="#note-9">9</a></sup> The number of hours in which German wholesale power prices were negative was 457 in 2024 and 573 in 2025, a record for the second year running. The time during which generators pay money to have their electricity taken off their hands passed three weeks a year. The gap in large industrial power prices, roughly 0.113 euros per kilowatt-hour in the EU against roughly 0.076 in the United States, is the bottom line of this structure.<sup class="noteref"><a href="#note-10">10</a></sup>
-
-<figure class="figure">
-  <img src="/assets/figures/fig3-2_vre_value_system_cost.png" alt="Figure 3-2. The market value of wind falls as penetration rises. Observed values from the German market, overlaid with the two points the medium-term model gives .">
-</figure>
-<figure class="figure">
-  <img src="/assets/figures/fig3-3_germany_negative_prices.png" alt="Figure 3-3. The hours when electricity is worth less than nothing: negative-price hours in Germany (2015-2025). One mark is one hour, one row is fifty hours. From 126 hours in 2015 to 573 in 2025, the area itself grows .">
-</figure>
-
-The conclusion is not that renewables should be excluded. It is that renewables should be laid on top of firm generation, nuclear and fossil, as an auxiliary, and that the sound way to place them is as the optimal complementary source for a given geography. A society that handed the baseload of its civilization to a source that swings against human need distributed the cost of doing so, in the form of the electricity bill, to households in the end.
-
-## 3.3 Tying one's own hands
-
-There is a strange asymmetry of information here. Citizens, in asserting sustainability, impose an energy constraint on themselves, and do not notice that they pay for it in the electricity bill and the living costs it pushes up.
-
-To be exact. The goal of sustainability is legitimate in itself. The problem is that the accounting between the goal and the means is not disclosed to the citizen. To choose a generation mix is to choose an electricity price curve. To choose an electricity price curve is to choose, as one bundle, the prices of housing, food and services. And to choose those prices is, in the end, to choose the number of children a household can have. If the whole of that chain were printed on the ballot paper, it would be a democratic choice. If it is not printed there, it is a society tying its own hands under an asymmetry of information. The society chose it itself, and the price system distributed it to every citizen. All that was missing was the awareness of having chosen.
-
-## 3.4 The swelling of the virtual, the stalling of the physical
-
-Alongside energy there is a second constraint: a skew in the allocation of capital and of talent. The development of information technology over the past thirty years can be called the second stage of the externalization of the brain described in Chapter 2. The internet, the smartphone, cloud computing, social platforms as an industry. These built an enormous economy in virtual space. But virtual space is a layer of computation constructed on top of physical infrastructure and energy. Servers, communication networks, devices, semiconductor fabs, logistics hubs. Every one of them demands vast investment in plant and vast quantities of electricity.
-
-The virtual world alone swelled exponentially, while the physical world, meaning cities, transport, energy infrastructure and housing, stalled at the level of decades ago. This asymmetry was the inevitable consequence of the law of competition set out in Chapter 2. Under an energy constraint, capital flows in whichever direction eats less energy. But if the asymmetry persists, the expansion of the virtual world will itself in time be capped by the lag in physical infrastructure and energy supply. The electricity problem of AI in the 2020s is in fact the first surfacing of that cap. A virtual world that swelled for thirty years while leaving the physical world behind has begun, for the sake of its own next step, to demand the reconstruction of the side it left behind.
-
-## 3.5 Why the science of the 1910s is still not built
-
-Scientific discoveries at the level of the 1910s have still not been put to practical use. Fusion is the leading case. In 1920 Arthur Eddington proposed that the energy source of the stars might be the fusion of hydrogen.<sup class="noteref"><a href="#note-12">12</a></sup> Physics knew the principle a century ago. Research on controlled fusion began in the 1950s, and ITER has become an international undertaking running for more than half a century. What has obstructed implementation is not knowledge.
-
-There are two ways to read this stagnation. The first reading is that ideas themselves are running dry. On the well-known empirical work of Bloom and colleagues, research productivity in the United States halves roughly every thirteen years, and the research input required to sustain Moore's law has swollen to eighteen times its 1971 level.<sup class="noteref"><a href="#note-13">13</a></sup> The same result takes ever more minds.
-
-The second reading is this thesis's own. Ideas did not run dry; implementation was put on rations, of energy and of capital. The science of the 1910s, fusion and the full exploitation of fission alongside it, demands enormous energy density and enormous up-front investment. Across the half-century in which hesitation about expanding energy coincided with the thinning of capital flowing into the physical world, as described in the previous section, the sciences that were most capital-intensive and most energy-centered were the first to stop being funded for implementation. The decline in research productivity that Bloom and colleagues document is not inconsistent with this reading either. In an era when the fruit that was cheap to pick hung disproportionately on the virtual side, the fruit on the physical side was not hard to pick but unpicked. Which of the two readings is correct is being put to the experiment right now. If the speed of implementation recovers in the 2020s, the decade in which computing demand began to force energy investment, then what had run dry was not ideas but capital.
-
-There is groundwork in management thought for separating invention from implementation. Lusch and Vargo write that invention is not what carries a society to prosperity. An invention that never connects to a body of people who use it stays a mere object, unrealized and often a waste of the resources that went into it. Gutenberg, Newcomen, Edison and Ford were, more than inventors of devices, the people who pushed their own solution up into an institution.<sup class="noteref"><a href="#note-14">14</a></sup> Invention is a problem of engineering; implementation is a problem of institutions and design. The physics of a hundred years ago had only the first.
-
-<figure class="figure">
-  <img src="/assets/figures/fig3-4_research_productivity.png" alt="Figure 3-4. The decline in research productivity (United States: semiconductors, pharmaceuticals, agriculture). Each line is drawn at the average annual rate of decline the paper reports for that sector .">
-</figure>
-
-## 3.6 Three observational indicators, and eight billion robots
-
-If the stagnation of the advanced countries is to be decomposed, the three indicators to watch are automation, energy cost, and the speed at which research and development gets implemented. Countries in which all three improve together rise; countries in which all three deteriorate together sink.
-
-The total quantity of energy is going to fall short. Treat the eight billion humans alive now as robots with computing capacity. On that count alone, the total of drive energy, meaning food, and computing energy, meaning the brain, is already enormous. Now suppose we newly create advanced robots equivalent to another eight billion units: automated plant, humanoids, data centers. Very nearly the same quantity of energy again, or more, will be required on top. In a world where energy generation grows only by something like a factor of 1.2 while the requirement doubles, what happens? Energy prices rise, the whole price system is pushed up, and household disposable income falls. And so our population fell. Demand, moreover, does not stop at eight billion units. There is no limit to it. We will automate more, move more, compute more.
-
-A world in which supply does not expand while a new class of energy consumer, the machine, begins to take its seat beside the human. What happens to the human household there?
 
 <div class="apparatus" markdown="1">
 
 <hr class="rule-major">
 
 ## Notes and Sources
+
 1. American energy consumption per capita, and Figure 3-1. U.S. Energy Information Administration, *Monthly Energy Review*, Table 1.7 (Primary Energy Consumption per Capita).
 {: #note-1 .note}
 
@@ -108,48 +60,5 @@ A world in which supply does not expand while a new class of energy consumer, th
 
 6. Resources are not, they become. Erich W. Zimmermann, *World Resources and Industries*, Harper & Row, 1951, p.15. The quotation and the fuel-economy example follow Lusch & Vargo, *Service-Dominant Logic*, 2014, chapter 6, which sets out resource scarcity as a function of the knowledge and skill of the actor drawing on the potential resource.
 {: #note-6 .note}
-
-7. The market value of wind, and Figure 3-2. Lion Hirth, "The market value of variable renewables: The effect of solar wind power variability on their relative price," *Energy Economics* 38, 2013, 218–236. The statement that the value of wind falls from 110 percent of the average power price to between 50 and 80 percent as penetration rises from zero to 30 percent is from the paper's abstract; the observed German values (1.02 at 2.0 percent penetration, 0.89 at 8.0 percent) are from Table 3. The first is a model calculation and the second is realized day-ahead market outcome. They are different kinds of evidence.
-{: #note-7 .note}
-
-8. System-level costs. OECD Nuclear Energy Agency, *The Costs of Decarbonisation: System Costs with High Shares of Nuclear and Renewables*, OECD Publishing, 2019.
-{: #note-8 .note}
-
-9. The EEG surcharge. The EEG surcharge series published by the four transmission system operators (50Hertz, Amprion, TenneT, TransnetBW). The maximum was 6.88 cents per kilowatt-hour in 2017, followed by 6.756 in 2020 and 6.50 in 2021, and it was abolished on 1 July 2022. Energy-intensive industry received a reduction under an exemption, so not every consumer was paying this level.
-{: #note-9 .note}
-
-10. The international gap in industrial power prices. On Eurostat `nrg_pc_205` (excluding taxes that are refundable, such as value added tax), the EU27 band above 150,000 megawatt-hours a year was 0.1113 euros per kilowatt-hour in 2025; the United States figure is the industrial-sector average of 8.62 cents per kilowatt-hour in EIA's *Electric Power Annual* (2025), converted at the annual average rate to roughly 0.076 euros per kilowatt-hour. For the mid-sized band of 500 to 2,000 megawatt-hours the figure is 0.187 euros and the ratio is about 2.5 times, but since the American industrial-sector average is a weighted average dominated by large consumers, matching bands means comparing large consumers with large consumers.
-{: #note-10 .note}
-
-11. Negative-price hours and congestion-management costs, and Figure 3-3. The counts of negative-price hours are the Federal Network Agency's published SMARD values (457 hours in 2024, 573 in 2025). Congestion-management costs, in the same agency's annual publication, were 3.335 billion euros in 2023, 2.954 billion in 2024 (final), and 3.071 billion in 2025 (provisional). The 2.776 billion euros originally published for 2024 was a provisional figure, and the final figure was revised upward to about 3 billion. 2025 is higher than the year before: the cost is not coming down. These are recovered as transmission network charges, but in some years federal subsidy has partly offset those charges, so it cannot be said outright that the whole amount was passed through to consumers.
-{: #note-11 .note}
-
-12. Eddington. A. S. Eddington, "The Internal Constitution of the Stars," *Nature* 106(2653), 1920, 14–20 (the presidential address to Section A of the British Association for the Advancement of Science, Cardiff, 24 August 1920). Eddington himself entered the reservation that it did not much matter whether the proposal touched on the true source of the heat, so this is a proposal rather than a proof. He rests it on the results of Aston's mass spectrometry.
-{: #note-12 .note}
-
-13. Are ideas getting harder to find, and Figure 3-4. Nicholas Bloom, Charles I. Jones, John Van Reenen & Michael Webb, "Are Ideas Getting Harder to Find?" *American Economic Review* 110(4), 2020, 1104–1144. Research productivity declines at 5.3 percent a year, for a half-life of about thirteen years. On Moore's law, the "eighteen times" is not a head count but effective research effort, deflated by high-skill wages.
-{: #note-13 .note}
-
-14. Invention and implementation. Lusch & Vargo, *Service-Dominant Logic*, 2014, chapter 10, "Innovating versus inventing."
-{: #note-14 .note}
-
-<hr class="rule-major">
-
-## Objections and Limits
-### Degrowth as the opposing school (3.1)
-
-The diagnosis in this chapter and those after it stands on the premise that the expansion of energy is desirable. There is a school that opposes that premise head-on: degrowth. This thesis does not take that position, but it does not ignore it either.
-
-Van den Bergh criticized both growth maximalism and degrowth, and proposed a policy framework neutral with respect to growth, which he called a-growth (Jeroen C. J. M. van den Bergh, "Environment versus growth — A criticism of 'degrowth' and a plea for 'a-growth'," *Ecological Economics* 70(5), 2011, 881–890). The argument is that the criterion of judgment should be placed on the social and environmental objectives one wants to achieve, not on the growth rate itself.
-
-The claim of this thesis answers that criticism in one particular form. What this thesis defends is not the growth rate but the breadth of the options a household can choose from. What increases when the effective price of energy falls is not, in the first instance, the quantity consumed. It is the number of options that can be made to work. Having a child, owning a home, starting a business. What degrowth criticizes and what this thesis is trying to restore are not the same object.
-
-### The relation between the three variables and the equation of Chapter 1 (3.6)
-
-The three variables raised in 3.6, automation, energy cost, and the speed at which research and development gets implemented, are a different cut from the product of three terms in section 1.2 of Chapter 1. The former are observational indicators for diagnosis; the latter is a definition of the capacity to build. Automation corresponds to L and energy cost to E, but the speed of implementation corresponds directly to none of the three terms. This mismatch has not been resolved. The speed of implementation is best read as a secondary quantity that appears as a composite of institutions, capital and energy, but it has not yet been put into a form in which that can be written down.
-
-### On the arithmetic of the eight billion robots (3.6)
-
-The calculation at the end of 3.6 is an order-of-magnitude sketch meant to show the scale of energy demand, not an estimate. The energy equivalent to the metabolism of one human being and the energy consumed by one piece of automated plant are not, in the first place, things that can be compared on the same scale. What the calculation asserts is one thing only: that the number of consumers being added bites at the scale of the population. It does not depend on the precision of the multiple.
 
 </div>
