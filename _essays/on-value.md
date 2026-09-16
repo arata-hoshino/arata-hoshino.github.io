@@ -45,7 +45,7 @@ To take each person's own assessment as the input and assemble from it the exper
 
 Smith's line was disputed from the moment it was drawn, long before SDL. It survived because only tangible goods, the ones that passed through a market and carried a price, could be counted.
 
-Jean-Baptiste Say held that production is the creation of utility rather than a change in the form of matter.<sup class="noteref"><a href="#note-6">6</a></sup> John Stuart Mill went further. No human being can produce one particle of matter, so what labor produces is not objects but utilities. Why then, Mill asked, should all labor that produces utility not be accounted productive<sup class="noteref"><a href="#note-6">6</a></sup>? The one who went furthest was Frédéric Bastiat.
+Jean-Baptiste Say held that production is the creation of utility rather than a change in the form of matter. John Stuart Mill went further. No human being can produce one particle of matter, so what labor produces is not objects but utilities. Why then, Mill asked, should all labor that produces utility not be accounted productive<sup class="noteref"><a href="#note-6">6</a></sup>? The one who went furthest was Frédéric Bastiat.
 
 > The great economic law is this: services are exchanged for services. It is trivial, very commonplace; it is nonetheless the beginning, the middle, and the end of economic science. Once this axiom is clearly understood, what becomes of such subtle distinctions as use-value and exchange-value, material products and immaterial products, productive classes and unproductive classes?<sup class="noteref"><a href="#note-6">6</a></sup>
 
@@ -106,9 +106,9 @@ What appears on the information side instead is co-creation raised for the occas
 
 What automation takes away is not the work but the compulsion. Grow up inside an arrangement where income is set by the quantity of tasks you get through, and automation can only be spoken of as having one's work taken away. If distribution is guaranteed by a stake in capital rather than by tasks, what automation hands over is not leisure but the state of being able to choose: what to make, for whom, and how far to take it. Step down from nine to five, and from being made to work for a wage, and what a human being does is not rest but the creation of value for someone.
 
-And automation does not reduce what people do. There are two centuries of precedent for that. In 1930 Keynes predicted that within a hundred years a fifteen-hour week would be enough.<sup class="noteref"><a href="#note-18">18</a></sup> The prophecy about wealth came true and the one about hours did not. Redesign distribution and it still does not come to fifteen hours. Lusch and Vargo set out how much of innovation has consisted of moving acts people used to perform for themselves onto appliances: knowing when to change gear moved to the automatic transmission, knowing how a word is spelled moved to the spelling checker, judging how much water a load needs moved to a sensor in the washing machine.<sup class="noteref"><a href="#note-17">17</a></sup> Each time something moved, what people do did not shrink. The further AI and physical AI run construction on their own, the more work accumulates around them deciding what to build, who to build it for, and whether what got built was of any use. What changes is not the quantity of activity but whether the activity is compelled, and whether it appears in the ledger.
+And automation does not reduce what people do. There are two centuries of precedent for that. In 1930 Keynes predicted that within a hundred years a fifteen-hour week would be enough.<sup class="noteref"><a href="#note-17">17</a></sup> The prophecy about wealth came true and the one about hours did not. Redesign distribution and it still does not come to fifteen hours. Lusch and Vargo set out how much of innovation has consisted of moving acts people used to perform for themselves onto appliances: knowing when to change gear moved to the automatic transmission, knowing how a word is spelled moved to the spelling checker, judging how much water a load needs moved to a sensor in the washing machine.<sup class="noteref"><a href="#note-18">18</a></sup> Each time something moved, what people do did not shrink. The further AI and physical AI run construction on their own, the more work accumulates around them deciding what to build, who to build it for, and whether what got built was of any use. What changes is not the quantity of activity but whether the activity is compelled, and whether it appears in the ledger.
 
-People then move on mission and on curiosity. Each holds a question of their own, as a founder does, and pushes it to the scale of an undertaking. SDL's authors propose the same inversion in their final chapter: entrepreneurial activity is the basic form of value creation, and management inside an established market is the special case.<sup class="noteref"><a href="#note-17">17</a></sup>
+People then move on mission and on curiosity. Each holds a question of their own, as a founder does, and pushes it to the scale of an undertaking. SDL's authors propose the same inversion in their final chapter: entrepreneurial activity is the basic form of value creation, and management inside an established market is the special case.<sup class="noteref"><a href="#note-18">18</a></sup>
 
 The ratio of section 7.4, monetized value against unmonetized, turns over here. The side that was counted shrinks against the whole, and the side that was never counted gets counted for the first time, as something the person made. What arrives is not idleness but diligence, standing for the first time outside compulsion.
 
@@ -165,11 +165,12 @@ The ratio of section 7.4, monetized value against unmonetized, turns over here. 
 16. Unconscious data democracy. Yusuke Narita, *22-seiki no minshushugi: senkyo wa arugorizumu ni nari, seijika wa neko ni naru* (Democracy for the 22nd Century: elections become algorithms and politicians become cats), SB Shinsho, 2022.
 {: #note-16 .note}
 
-17. Innovation as the transfer of self-service acts, and the order of entrepreneurial activity and management. Lusch & Vargo, *Service-Dominant Logic*, 2014, chapter 6 (Exhibit 6.2 lists the automatic transmission, presence-sensing lighting, rain-sensing wipers, spelling correction and water-level sensors among others) and chapter 10, "Entrepreneurship versus management."
+17. Fifteen hours a week. John Maynard Keynes, "Economic Possibilities for our Grandchildren," 1930 (collected in *Essays in Persuasion*, 1931).
 {: #note-17 .note}
 
-18. Fifteen hours a week. John Maynard Keynes, "Economic Possibilities for our Grandchildren," 1930 (collected in *Essays in Persuasion*, 1931).
+18. Innovation as the transfer of self-service acts, and the order of entrepreneurial activity and management. Lusch & Vargo, *Service-Dominant Logic*, 2014, chapter 6 (Exhibit 6.2 lists the automatic transmission, presence-sensing lighting, rain-sensing wipers, spelling correction and water-level sensors among others) and chapter 10, "Entrepreneurship versus management."
 {: #note-18 .note}
+
 
 <hr class="rule-major">
 

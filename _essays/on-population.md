@@ -115,7 +115,7 @@ The degrowth cast of mind has to be broken all the same: the idea of accepting a
 
 Elon Musk's dream of becoming a species living on more than one planet is not a mission but a result that follows once the constraint comes off. Abolish the energy constraint on Spaceship Earth and our civilization turns necessarily toward expansion, with expansion in the direction of space following as part of it.
 
-Falling fertility is not a cultural phenomenon but a price phenomenon. Only a collapse in the cost of energy and robotics, therefore, can reverse the demographics. That is the end of the diagnosis. Three chapters have traced how the constraint descends to the household and from the household to population. What comes next is what happens when that constraint comes off.
+Falling fertility is not a cultural phenomenon but a price phenomenon. Only a collapse in the cost of energy and robotics, therefore, can reverse the demographics. That is the end of the diagnosis. What comes next is what happens when that constraint comes off.
 
 <div class="apparatus" markdown="1">
 
