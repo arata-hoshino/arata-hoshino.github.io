@@ -4,9 +4,12 @@ Hold a chapter back at its first section.
 
     python3 tools/withhold.py _essays/on-building.md ...
 
-What stays is everything down to the second numbered section, with the
-notes that the retained text actually cites, and one line saying where to
-write for the rest. Everything after that comes off the page.
+What stays is everything down to the second numbered section, and the
+notes that the retained text actually cites. Everything after that comes
+off the page: it is not hidden, it is not served at all.
+
+The page is marked gated in its front matter, and the layout fades the
+foot of what remains and sets the invitation to write under it.
 
 Run it after tools/import_chapter.py: the importer writes the whole
 chapter, and this takes it back down again.
@@ -15,9 +18,6 @@ chapter, and this takes it back down again.
 import io
 import re
 import sys
-
-LINE = ('Reach out to Arata Hoshino for more details: '
-        '[arata.h.hoshino@gmail.com](mailto:arata.h.hoshino@gmail.com)')
 
 NOTE = re.compile(r'^(\d+)\. .*?(?:\n\{: #note-\1 \.note\})', re.M | re.S)
 
@@ -44,8 +44,10 @@ def withhold(path):
                     '<hr class="rule-major">\n\n## Notes and Sources\n\n'
                     + '\n\n'.join(notes) + '\n\n</div>\n')
 
+    if 'gated:' not in head:
+        head = head.rstrip('\n') + '\ngated: true\n'
     io.open(path, 'w', encoding='utf-8').write(
-        '---\n' + head + '---\n\n' + first + '\n\n' + LINE + '\n' + kept)
+        '---\n' + head + '---\n\n' + first + '\n' + kept)
     print('%-28s first section kept, %s' % (
         path, 'notes 1-%d' % max(cited) if cited else 'no notes'))
 

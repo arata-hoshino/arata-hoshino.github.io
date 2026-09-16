@@ -5,6 +5,7 @@ roman: "III"
 order: 4
 part: "Part Two. The Constraint We Chose"
 summary: "For thirty years capital and talent flowed from the physical to the virtual. The system cost of renewables, self-binding under information asymmetry, and why the science of the 1910s is still unbuilt."
+gated: true
 ---
 
 
@@ -33,8 +34,6 @@ Third, nuclear power was frozen. On the IAEA's record, all 41 reactors ordered i
 What happened in the 1970s was a choice. Led by the United States, much of the West stopped the expansion of energy. Partly as a legitimate response to accidents and to the environment, partly as an adaptation to a price cartel, and partly as the West's own doubt about whether to expand further. Whatever the reason, the consequence is the same. And the problem is not the stepping down. It is that nothing was prepared to fill the space stepped down from. For the half-century since, the advanced countries have rebuilt their economies, their institutions and their values on the premise that energy does not grow. The scarcity this chapter is about is that rebuilding. It was a scarcity chosen, not a scarcity given.
 
 Seen from the theory of resources this should not be surprising. Resources are not, they become, as Zimmermann put it.<sup class="noteref"><a href="#note-6">6</a></sup> Coal, uranium and wind were not resources until human beings held the knowledge and the skill to draw on them for support. Scarcity, then, is not a property of matter but a function of the knowledge and skill of whoever draws on the potential resource. The same point arrives from the side of efficiency. Raise a truck fleet from 4.3 to 6.2 miles per gallon and the stockpile of diesel on hand has effectively grown by more than a third. Physics sets a ceiling; it does not set the scarcity.
-
-Reach out to Arata Hoshino for more details: [arata.h.hoshino@gmail.com](mailto:arata.h.hoshino@gmail.com)
 
 
 <div class="apparatus" markdown="1">

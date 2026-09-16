@@ -19,9 +19,16 @@ layout: default
   {% endcomment %}
   {% assign parts = content | split: '<div class="apparatus"' %}
 
-  <div class="prose">
+  <div class="prose{% if page.gated %} is-gated{% endif %}">
     {{ parts[0] }}
   </div>
+
+  {% if page.gated %}
+    <div class="gate">
+      <p>Reach out to Arata Hoshino for more details:
+        <a href="mailto:arata.h.hoshino@gmail.com">arata.h.hoshino@gmail.com</a></p>
+    </div>
+  {% endif %}
 
   {% assign prev = nil %}
   {% assign next = nil %}

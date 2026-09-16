@@ -5,6 +5,7 @@ roman: "VIII"
 order: 9
 part: "Part Four. Where to Stand"
 summary: "The body of the world economy is not the nation but the cluster, and most clusters sit along the rim of the Indo-Pacific. Migration is substantially urbanization across a border. The terms the equation decomposes into, two techno-blocs and a third candidate, and the regions scored against them. The question left is which goes further: the side that divides the terms among itself, or the side that holds all of them within one country."
+gated: true
 ---
 
 
@@ -19,8 +20,6 @@ Agglomeration has not come apart, even as the cost of communication approaches z
 The clusters this thesis takes up are nine. The San Francisco Bay Area, Texas, BosWash, the UAE, Northeast Asia (Japan-Korea-Taiwan), Loxbridge, the Yangtze Delta, the Pearl River Delta (GBA), and Bengaluru-Hyderabad. Drawn at their most generous, these nine come to about a quarter of world GDP.<sup class="noteref"><a href="#note-4">4</a></sup>
 
 And seen in this unit, the argument about the social contract changes shape too. Taxation, elections and distribution all look as though they close at the border. But the places where value is made are far finer than the border, and the range over which talent and capital move is far coarser than it.
-
-Reach out to Arata Hoshino for more details: [arata.h.hoshino@gmail.com](mailto:arata.h.hoshino@gmail.com)
 
 
 <div class="apparatus" markdown="1">

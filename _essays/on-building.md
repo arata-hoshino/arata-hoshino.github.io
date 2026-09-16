@@ -5,6 +5,7 @@ roman: "I"
 order: 2
 part: "Part One. The Physics of Civilization"
 summary: "A civilization's competitiveness is the product of institutions, the effective abundance of energy, and labor input. What it settles is not wealth but what can be built. Britain in the 1840s, the UAE today."
+gated: true
 ---
 
 
@@ -27,8 +28,6 @@ Energy means a way of getting work done without spending human hands. Buying tha
 <figure class="figure">
   <img src="/assets/figures/fig1-1_energy_per_capita.png" alt="Figure 1-1. Energy moved per person: how many human bodies. One division is 100 watts of continuous output, one person. From roughly 300 watts for hunter-gatherers to 8,767 watts for the United States, almost all of the twelve-thousand-year difference has arisen since 1800. Values before 1800 are estimates to the nearest order of magnitude .">
 </figure>
-
-Reach out to Arata Hoshino for more details: [arata.h.hoshino@gmail.com](mailto:arata.h.hoshino@gmail.com)
 
 
 <div class="apparatus" markdown="1">

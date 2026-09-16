@@ -5,6 +5,7 @@ roman: "V"
 order: 6
 part: "Part Three. Designing the Release"
 summary: "What follows the lifting of a constraint is not a discount but an explosion of demand. Three centuries of light, the timeline for fusion, and why what sets the pace is grid connection rather than generation."
+gated: true
 ---
 
 
@@ -15,5 +16,3 @@ On a week away, with only 2GB of roaming data, we hold back as far as we can. Wh
 On energy, our civilization is that traveler with 2GB.
 
 So what happens when the cost of energy structurally collapses is not a discount on existing demand but an explosion of demand. One fall in price unlocks the next use, and that unlocks the one after it. This thesis calls that chain the cascade. Three centuries of evidence stand behind the claim.
-
-Reach out to Arata Hoshino for more details: [arata.h.hoshino@gmail.com](mailto:arata.h.hoshino@gmail.com)

@@ -7,6 +7,7 @@ part: "Part Three. Designing the Release"
 summary: "Allocating income by contribution to tasks breaks in the 2030s. Capital flight as the mechanism of failure, and an update to capitalism that makes every citizen an investor."
 redirect_from:
   - /essays/on-ownership/
+gated: true
 ---
 
 
@@ -23,8 +24,6 @@ The problem is not the displacement of tasks but distribution. The automation of
 <figure class="figure">
   <img src="/assets/figures/fig6-1_labour_share.png" alt="Figure 6-1. The fall in the labor share (United States, 1975 to 2023). The American series is shown. The same downward trend is observed across most countries and industries .">
 </figure>
-
-Reach out to Arata Hoshino for more details: [arata.h.hoshino@gmail.com](mailto:arata.h.hoshino@gmail.com)
 
 
 <div class="apparatus" markdown="1">
