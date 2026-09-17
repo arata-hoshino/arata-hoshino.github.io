@@ -1197,6 +1197,11 @@ main {
   color: var(--navy);
 }
 
+/* the stroke between the two ways in is not part of either */
+.gate-rule {
+  color: var(--rule);
+}
+
 /* ------------------------------------------------------------ pager */
 
 /* No rule above it: the pager stands on white, between the body and the
