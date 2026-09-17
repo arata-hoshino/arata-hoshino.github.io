@@ -11,48 +11,52 @@ description: "A thesis on the one structural constraint behind stagnation, falli
 
 ## Abstract
 
-This thesis is written for sovereign wealth funds, venture capital, other investors, and founders
-building in deep tech. It is a hypothesis that analyzes, conceives and designs outside the present
-constraint rather than inside it, and it is meant to serve, as a hypothesis, as a compass for
-investment.
-
-Suppose a future society in which energy is abundant, in which artificial intelligence and
-physical AI autonomously raise the productivity of every process, and in which institutions
-function. The constraint that has bound our capacity to conceive large-scale investment comes off.
-People are allotted capital before they ever work, and can devote themselves to the creation of
-value in its proper sense rather than to productivity. In that world the macro problems we now
-fear, population collapse among them, dissolve as a by-product of two constraints being lifted,
-energy and labor input, together with the distribution of wealth. They do not wait on symptomatic
-treatment.
+This thesis is written for institutional investors, sovereign funds, venture and infrastructure
+investors, deep tech founders, and those who design energy, industrial and population policy. It
+is a hypothesis that analyzes, conceives and designs on the far side of the present constraint
+rather than inside it, and it is meant to be used, still as a hypothesis, as a compass for
+investment and strategy.
 
 The argument of this thesis is that contemporary civilization faces one structural constraint, a
 stalled capacity to build, defined by three deficits: (i) the absence of effective energy
-abundance, (ii) a lag in automation, and (iii) the absence of institutions. Economic stagnation
-and population collapse are not the cause. They are the symptoms the constraint produced.
+abundance, (ii) a shortfall in labor input from the lag in automation, and (iii) the absence of
+institutions that call in capital and talent. Economic stagnation and population collapse are not
+the cause. They are the symptoms the constraint produced.
 
-The argument begins with an interpretation of the past industrial revolutions and a diagnosis of
-the present.
+The argument runs from the past industrial revolutions, through the diagnosis of the present, to
+the design of distribution and of value.
 
 1. The industrial revolutions are re-read on two axes: the efficiency of placing matter and the
    efficiency of prediction.
 
-2. The supply constraint is argued to be suppressing, at the macro layer, our capacity to conceive
+2. The supply constraint is argued to be suppressing, at the macro layer, the capacity to conceive
    large new investment.
 
-3. The supply constraint is argued to be suppressing population as a second Malthusian trap, with
-   the rising prices of exactly those goods automation never reached striking households directly.
+3. The same supply constraint is argued to strike households through the rising prices of exactly
+   those goods automation never reached, and so to suppress population as a second Malthusian
+   trap.
 
-From there the thesis sets out how the accelerating arrival of effective energy abundance and of
-automation restores that capacity to conceive and expands demand. In place of allocating income by
-contribution to tasks, it proposes distributed ownership built on capital accounts at birth. And
-as a departure from GDP, applying the principles of service-dominant logic, it moves the center of
-value to use-value and sets out the conditions under which that could be measured.
+4. In place of allocating income on contribution to tasks, a move to distributed ownership built
+   on capital accounts at birth is proposed.
 
-Finally it examines, region by region, the subcategories bearing on effective energy abundance,
-automation and institutions, and forecasts the composition of the world at the level of clusters.
-It identifies Texas and the UAE as the candidates for long and sustained success, the San
-Francisco Bay Area, the Yangtze Delta and the Pearl River Delta as likely to keep growing, and
-Japan-Korea-Taiwan as consolidating into technological chokepoints.
+5. In place of GDP, and on the foundation of service-dominant logic, the center of value is moved
+   to use-value, and the conditions under which it could be measured are set out.
+
+On the far side of the constraint, when energy can be used in abundance and automation arrives at
+an accelerating pace under the right institutions, the capacity to conceive returns. People are
+allotted capital before they ever work, and can devote themselves to the creation of value in its
+proper sense rather than to productivity. The macro problems we now fear, population collapse
+among them, dissolve as a by-product of the supply constraint being lifted and of a new mechanism
+of distribution, without waiting on symptomatic treatment, and demand and supply enter a spiral in
+which each lifts the other.
+
+Finally the world's nine clusters are analyzed on the five terms the three variables decompose
+into, and the futures of the American techno-bloc, which runs on a division of labor, and the
+Chinese techno-bloc, which runs on vertical integration, are forecast. The case is made for
+deepening the division of labor between the United States, the UAE and Northeast Asia, and for an
+ecosystem that integrates the actors of the three across their regions. What to invest in is set
+out term by term, and each of the eleven predictions carries what would have to happen for it to
+be shown wrong.
 
 ## Table of Contents
 {: .toc-heading}
