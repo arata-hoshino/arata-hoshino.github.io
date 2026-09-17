@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "The Far Side of the Constraint"
-heading: "The Far Side of the Constraint"
+title: "Far Side of the Constraint"
+heading: "Far Side of the Constraint"
 subtitle: "A Civilizational Thesis on Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
 authors:
   - name: "Arata Hoshino"
