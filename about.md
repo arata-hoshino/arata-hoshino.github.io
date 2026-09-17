@@ -13,8 +13,8 @@ I did BEng Mechanical and Energy Engineering at Waseda University; MSc Media Des
 University, with research work in service design and venture design; CEMS MIM
 (MSc International Management) at HEC Paris and the National University of Singapore. After
 that, I worked in VC and strategy consulting in San Francisco and Singapore. From 2024 to 2026, I
-advised UAE ministries on economic strategy at a policy advisory firm spun out of the OECD and
-Harvard.
+advised UAE ministries on economic strategy at Whiteshield, a public policy and AI economics
+advisory firm originating from the Harvard and OECD communities.
 
 You can reach me by [email](mailto:arata.h.hoshino@gmail.com). A summary is on
 [LinkedIn](https://www.linkedin.com/in/arata-hoshino/){:target="_blank" rel="noopener"}, the

@@ -5,7 +5,7 @@ heading: "Far Side of the Constraint"
 subtitle: "A Civilizational Thesis on Energy Abundance, Physical Automation,<br>and the Distribution of Ownership"
 authors:
   - name: "Arata Hoshino"
-    role: "UNITED ARAB EMIRATES, Aug 2026"
+    role: "UNITED ARAB EMIRATES, Sep 2026"
 description: "A thesis on the one structural constraint behind stagnation, falling births, and artificial intelligence running into a wall of electricity — and on the civilization that lies on the far side of it."
 ---
 
@@ -44,9 +44,9 @@ the present.
 
 From there the thesis sets out how the accelerating arrival of effective energy abundance and of
 automation restores that capacity to conceive and expands demand. In place of allocating income by
-contribution to tasks, it proposes a model of distributed ownership built on capital accounts at
-birth. And as a departure from GDP, it proposes a model of value creation and measurement centered
-on use-value, applying the principles of service-dominant logic.
+contribution to tasks, it proposes distributed ownership built on capital accounts at birth. And
+as a departure from GDP, applying the principles of service-dominant logic, it moves the center of
+value to use-value and sets out the conditions under which that could be measured.
 
 Finally it examines, region by region, the subcategories bearing on effective energy abundance,
 automation and institutions, and forecasts the composition of the world at the level of clusters.
@@ -143,5 +143,5 @@ Japan-Korea-Taiwan as consolidating into technological chokepoints.
   Constraint: A Civilizational Thesis on Energy Abundance, Physical Automation, and the
   Distribution of Ownership</cite> (2026). This thesis is also not a rigorous proof of the kind an
   academic paper offers, and its figures, sources and plans are, unless otherwise stated, as of
-  August 2026.
+  September 2026.
 </div>
