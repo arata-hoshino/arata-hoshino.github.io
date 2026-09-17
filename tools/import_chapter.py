@@ -170,6 +170,8 @@ def figures(body):
                 alt = 'Figure %s. %s%s' % (
                     f['n'], f['title'], '. ' + caption if caption else '')
                 alt = re.sub(r'\[\d+\]', '', alt)
+                # the reference stood before the stop; closing the gap it left
+                alt = re.sub(r'\s+([.,;:])', r'\1', alt)
                 alt = re.sub(r'\*\*?|\s+', lambda m: ' ' if m.group(0).isspace() else '', alt).strip()
                 html.append('<figure class="figure">')
                 html.append('  <img src="/%s" alt="%s">' % (plot, alt.replace('"', '&quot;')))
@@ -263,7 +265,10 @@ def convert(path):
     stem = os.path.basename(path)
     key = next((k for k in CHAPTERS if stem.startswith(k)), None)
     if key is None:
-        raise SystemExit('no chapter matches %s' % stem)
+        # the draft carries front matter and an About page too; they are
+        # not chapters, and the rest of the run should not stop for them
+        sys.stderr.write('skipped %s: not a chapter\n' % stem)
+        return
     slug = CHAPTERS[key]
 
     text = repair(io.open(path, encoding='utf-8').read())
