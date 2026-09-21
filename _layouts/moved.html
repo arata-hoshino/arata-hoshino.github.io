@@ -1,0 +1,23 @@
+<!doctype html>
+{% comment %}
+  The only page the site now serves, at every address: the thesis has
+  moved, and this says where. No running head and no menu, since nothing
+  here is left to navigate to.
+{% endcomment %}
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="robots" content="noindex">
+    <meta name="description" content="{{ page.description | escape }}">
+    <title>{{ page.title }}</title>
+    <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+  </head>
+  <body>
+    <main class="moved">
+      {{ content }}
+    </main>
+  </body>
+</html>

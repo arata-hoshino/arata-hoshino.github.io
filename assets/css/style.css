@@ -1296,3 +1296,28 @@ main {
   .runhead { border-color: #000; }
   a { color: #000; }
 }
+
+/* ---------------------------------------------------------------------------
+   Moved: the one page left, at every address. A single line in the middle
+   of the screen, in the body face, pointing to where the work now lives.
+--------------------------------------------------------------------------- */
+
+.moved {
+  min-height: 100vh;
+  min-height: 100svh;
+  display: grid;
+  place-items: center;
+  padding: 0 var(--gutter);
+  text-align: center;
+}
+
+.moved p {
+  margin: 0;
+  max-width: var(--measure);
+  color: var(--body);
+  font-size: 1.12em;
+}
+
+.moved a {
+  color: var(--navy);
+}

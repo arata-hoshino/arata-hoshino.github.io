@@ -20,9 +20,13 @@ kramdown:
   footnote_backlink: "↩"
   syntax_highlighter: rouge
 
+# the thesis has moved to aratahoshino.com: nothing below is served, and
+# every address falls through to 404.html, which says where it went. The
+# sources stay, so turning output back on and taking the entries out of
+# exclude brings the site back as it was.
 collections:
   essays:
-    output: true
+    output: false
     permalink: /essays/:name/
 
 defaults:
@@ -33,6 +37,12 @@ defaults:
       layout: essay
 
 exclude:
+  - index.md
+  - about.md
+  - assets/figures
+  - assets/the-far-side-of-the-constraint.pdf
+  - assets/js
+  - assets/fonts/README.md
   - README.md
   - tools
   - drafts
